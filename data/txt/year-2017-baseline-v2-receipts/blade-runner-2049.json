@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt1856101",
+    "imdb_id": "tt1856101",
+    "revision": "db302b1a9a3749405ab2010a380ff932d468e2e4",
+    "wikidata_id": "Q21500755",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blade_Runner_2049"
+  },
+  "coverage_sha256": "73d176ce6a038c907bc98f6b74a9ec192034e161ef94ba87e922be2f03d7bf1b",
+  "generated_at": "2026-09-08T19:08:05.572827+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/blade-runner-2049.cache/cache.20180331.tar.xz",
+      "sha256": "3f7469dbeea2775ef1dc9836b1000630e3384f4bbb37b8485862f2c39d702c54",
+      "size": 804594548
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-coverage-evidence/blade-runner-2049.md",
+      "sha256": "a17398d4dfc88d02ae3674761390611be25a41647db5885fbb05ce77b3aa6ca9",
+      "size": 830
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-cache-stream-receipts/blade-runner-2049.json",
+      "sha256": "180f1a8b9415b692a3dd9907404e85df2dc815556e6838df28979407b435d8c2",
+      "size": 2790
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-product-receipts/blade-runner-2049.json",
+      "sha256": "1487dab0f84129d84004cc907937c7c412b747cdfbe6a18b92f0febee7fd4331",
+      "size": 369
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+      "sha256": "65ed919417a03f37ed44f3ba34a85cb198608306c221e5a323602ce2253e5fa4",
+      "size": 20522
+    }
+  },
+  "media_object": "blade-runner-2049",
+  "published_files": {
+    "data/csv/bytes/blade-runner-2049-cumulative-detail.2017-btiha-itemized-by-bytes.csv": "f8e42ef0e623f28a859e1d1b48668164e5d0c88aa11c26bdac9777112daf670a",
+    "docs/itemized/blade-runner-2049-sample-cache-audit.md": "a7924ea754a2c478c65cf2172508426e0e3bb1ed486744855ead594635827104",
+    "docs/itemized/figures/blade-runner-2049-carto-4k.webp": "e7da7ca5609033e929339c1380eab8aecddae3b1519eb3b4d93fbd3312225924",
+    "docs/itemized/figures/blade-runner-2049-carto.png": "a337e3112d82b3519b3b9735b27d88f8adf85246271023622cdbf248b53e351c",
+    "docs/itemized/figures/blade-runner-2049-cumulative-detail-btiha-itemized-by-bytes.svg": "060bd94315a0c1f5a9c7e95e4b00931295aaf648ac3584e37e6ab6ce592d3629",
+    "docs/itemized/figures/blade-runner-2049-data-ge-1080p-4k.webp": "ca9eb023878774d7c5ed63cc56a7a2ba5b914a1ff3bea3700be5e2eaae6a7af8",
+    "docs/itemized/figures/blade-runner-2049-data-ge-1080p.webp": "3beead1ac01eeef035c1e8e17bb5ee6bec97d848e0257de9fc66a850bb4a02c1",
+    "docs/itemized/figures/blade-runner-2049-data-lt-1080p-4k.webp": "9325e9bb52262222eaec28095a4c5bac6bebe2b4dd8de68c619f1526d9437995",
+    "docs/itemized/figures/blade-runner-2049-data-lt-1080p.webp": "4e64d6b68215d41de97ac1f137e0fa2b977211ed52327b562df5b3aadf9273f7",
+    "docs/itemized/figures/blade-runner-2049-downloads-by-day-day.svg": "35f3016a07fd583ce7e23b6ebf4c661f222e3f14f2256ec723c638828664aa75",
+    "docs/itemized/figures/blade-runner-2049-downloads-by-week-blade-runner-2049-week.svg": "2bdf4723a09bef1715261ff1e50989dd57ef35117d4331d6c43a70a2d9a5e97e",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": true,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "553615ad90ee0184fc726ca69c4bfc5ba764f9d8",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/tmp/a60-campaign-digits4-all/a60-carto-geo.exe",
+      "sha256": "c026a8d0149037127064978005e2d27e3bc9852899d4c0cd2a752843ea627cf6",
+      "size": 37142680
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017-blade-closure/blade-runner-2049/tmp/blade-runner-2049-cumulative-btiha.geojson",
+        "sha256": "9e4d80cbe6c80e99813b57d8fd8b86dff07632f0600eaf81d066a7ca2abf88af",
+        "size": 105756891
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017-blade-closure/blade-runner-2049/tmp/blade-runner-2049-cumulative-btiha-media-objects.json",
+        "sha256": "319836b55247f8641d701740ac46fb129d369051f9a86b4b4b64718eb1d4fe7e",
+        "size": 189345
+      }
+    },
+    "izzi": {
+      "dirty": true,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "blade-runner-2049",
+    "meta_collection_renderer": {
+      "path": "/tmp/a60-campaign-digits4-all/a60-meta-collection.exe",
+      "sha256": "c8123c331bb382b004482f68c6d9d9a10011f7e2b0b16b642fbaad46bcf6c1ab",
+      "size": 8759488
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          87.0,
+          66.0,
+          51.0,
+          48.0,
+          46.0,
+          43.0,
+          37.0,
+          31.0,
+          31.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Manila",
+          "Ashburn",
+          "Mumbai",
+          "Moscow",
+          "S\u00e3o Paulo",
+          "Riyadh",
+          "Seoul",
+          "Saint Petersburg",
+          "Kuala Lumpur"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          54.0,
+          50.0,
+          48.0,
+          43.0,
+          34.0,
+          31.0,
+          27.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Saint Petersburg",
+          "Mumbai",
+          "S\u00e3o Paulo",
+          "Ashburn",
+          "Manila",
+          "London",
+          "Paris",
+          "Krasnodar",
+          "Nizhniy Novgorod"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 23,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 15,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 14,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "553615ad90ee0184fc726ca69c4bfc5ba764f9d8",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "a106b9528c6f444032ab6551adbc582767d33c9e",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "db302b1a9a3749405ab2010a380ff932d468e2e4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2017"
+}

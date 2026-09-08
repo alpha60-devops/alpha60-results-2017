@@ -13,14 +13,14 @@
       "udownloaders_anomaly_ip_only": 0,
       "udownloaders_anomaly_null_country": 0,
       "udownloaders_anomaly_null_island": 0,
-      "udownloaders_tor_exit_nodes_used": 88,
-      "udownloaders_tor_exit_nodes_used_percentage": "3.64",
+      "udownloaders_tor_exit_nodes_used": 0,
+      "udownloaders_tor_exit_nodes_used_percentage": "0.00",
       "udownloaders_total": 8193457,
       "uuploaders_anomaly_ip_only": 0,
       "uuploaders_anomaly_null_country": 0,
       "uuploaders_anomaly_null_island": 0,
-      "uuploaders_tor_exit_nodes_used": 36,
-      "uuploaders_tor_exit_nodes_used_percentage": "1.49",
+      "uuploaders_tor_exit_nodes_used": 0,
+      "uuploaders_tor_exit_nodes_used_percentage": "0.00",
       "uuploaders_total": 2336428
     },
     {

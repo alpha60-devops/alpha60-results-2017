@@ -15,8 +15,8 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `blade-runner-2049` |
 | imdb_id | [tt1856101](https://www.imdb.com/title/tt1856101/) |
 | wikipedia_url | [Blade Runner 2049](https://en.wikipedia.org/wiki/Blade_Runner_2049) |
-| Sample dates | 2017-12-22-to-2018-03-31 |
-| Sample days | 100 |
+| Sample dates | 2017-12-29-to-2018-03-31 |
+| Sample days | 93 |
 | BTIH count | 47 |
 | Unique BTIH count | 47 |
 | Downloaders total | 8,193,457 |
@@ -82,4 +82,12 @@ description: "Cache coverage and visualization audit for one media object."
 
 [![Blade Runner 2049 cumulative map](figures/blade-runner-2049-carto.png)](figures/blade-runner-2049-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+[![Cumulative >= 1080p](figures/blade-runner-2049-data-ge-1080p.webp)](figures/blade-runner-2049-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
+
+**Cumulative < 1080p**
+
+[![Cumulative < 1080p](figures/blade-runner-2049-data-lt-1080p.webp)](figures/blade-runner-2049-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
