@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt2707408",
+    "imdb_id": "tt2707408",
+    "revision": "db302b1a9a3749405ab2010a380ff932d468e2e4",
+    "wikidata_id": "Q20642206",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Narcos"
+  },
+  "coverage_sha256": "112fd37ad6405736c23da8ccf9636263034f5c04d337133efa8d949581dd5fb8",
+  "generated_at": "2026-09-08T14:56:31.888936+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/narcos-03.cache/cache.20171001.tar.xz",
+      "sha256": "d8044dbcf0a613d2c9a830eb647e59a48487857d30514190145a382eab606ed6",
+      "size": 622836080
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-coverage-evidence/narcos-03.md",
+      "sha256": "b93ea46f9ff9e7ab4bd46d9fae17fb4b5a935e1ef5f75af8b1d61ff9d1c7e7ca",
+      "size": 698
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-cache-stream-receipts/narcos-03.json",
+      "sha256": "909faf706c461724711d069901de075aa84f1825d3a1f09940dd878d16fe8c06",
+      "size": 2171
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-product-receipts/narcos-03.json",
+      "sha256": "93124c4bdb720ab299245228d94ac6737f89251b2873b638ddd6cff79c81af14",
+      "size": 360
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+      "sha256": "83fd72e66099f2a8340ee33cfb3982dc624d645c375a2ef34bedcd02dd681520",
+      "size": 12199
+    }
+  },
+  "media_object": "narcos-03",
+  "published_files": {
+    "data/csv/bytes/narcos-03-cumulative-detail.2017-btiha-itemized-by-bytes.csv": "c5f48d93b184772242aff80a3406bebbbd0250bcdde13cf36806e8d9626b93d8",
+    "docs/itemized/figures/narcos-03-carto-4k.webp": "3ddf15ee73968eaee916d4d176a790f50810f27de9c93aec78cf9c9acaaf240e",
+    "docs/itemized/figures/narcos-03-carto.png": "4daa2a6729e265ca6cd691a0b0473968f4222448f855f40c587573270559abf7",
+    "docs/itemized/figures/narcos-03-cumulative-detail-btiha-itemized-by-bytes.svg": "14d5810cb071b2f9e5f79b85c132811fd5af2ee5fe4c2a2abf2e0ccee234e4ea",
+    "docs/itemized/figures/narcos-03-data-ge-1080p-4k.webp": "b6849159c7c2570e419cb4e315e2532def1603a36b88301e79d552acc5577efc",
+    "docs/itemized/figures/narcos-03-data-ge-1080p.webp": "8cbbf43b21850521990e104d3afbece7d555d9742cd31cccf3ded756132aa7fc",
+    "docs/itemized/figures/narcos-03-data-lt-1080p-4k.webp": "b0832ad5234ec7191b47223835efc1c5e58465e50bd15f9412bd2666ffbcdebf",
+    "docs/itemized/figures/narcos-03-data-lt-1080p.webp": "5b11ba79bcf18d6783454bc9825c93b28c89e4d1e0beffd552f318dc7554d59b",
+    "docs/itemized/figures/narcos-03-downloads-by-day-day.svg": "bbdb8534736442ac1a99d4cc21a42fa81e4724c33e912fb3bff3265baf6ad233",
+    "docs/itemized/figures/narcos-03-downloads-by-week-narcos-03-week.svg": "3ada5b6fa1d31d35d8f05446e56fab0547b1c8185e781ac9473b5cad26ef489b",
+    "docs/itemized/narcos-03-sample-cache-audit.md": "6862599d672567e8923a9c9da15077072b2ca36d104cf5cfd8cea0b6da910d2e",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "ccbc893e89ce6e35ec6099ef67e8adbb98d362ad",
+      "untracked": true
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "e9557435d4436b955e35ce9d77d77bbef2c8da903222fb2c6f42877078ae0776",
+      "size": 37133552
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/narcos-03/tmp/narcos-03-cumulative-btiha.geojson",
+        "sha256": "258fa69c49aec7486c14555918929750d33c531179d4a83a0da9d71cea60316d",
+        "size": 80728828
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/narcos-03/tmp/narcos-03-cumulative-btiha-media-objects.json",
+        "sha256": "ea8f3906c0613f458befdb38d03b126d6e151145c244173502374eb96f0158df",
+        "size": 494924
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "narcos-03",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "c8123c331bb382b004482f68c6d9d9a10011f7e2b0b16b642fbaad46bcf6c1ab",
+      "size": 8759488
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          61.0,
+          58.0,
+          47.0,
+          43.0,
+          31.0,
+          28.0,
+          27.0,
+          27.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "S\u00e3o Paulo",
+          "Shanghai",
+          "London",
+          "Lelystad",
+          "Shenzhen",
+          "Jerusalem",
+          "Riyadh",
+          "Amsterdam",
+          "Rio de Janeiro",
+          "Warsaw"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          66.0,
+          32.0,
+          28.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Mumbai",
+          "London",
+          "Delhi",
+          "Shanghai",
+          "Riyadh",
+          "Zagreb",
+          "Warsaw",
+          "Lisbon",
+          "Bengaluru",
+          "Cape Town"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 28,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 20,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 5,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "553615ad90ee0184fc726ca69c4bfc5ba764f9d8",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "a106b9528c6f444032ab6551adbc582767d33c9e",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "db302b1a9a3749405ab2010a380ff932d468e2e4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2017"
+}
