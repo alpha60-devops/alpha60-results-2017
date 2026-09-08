@@ -1,6 +1,5 @@
   - [blade-runner-2049](docs/itemized/blade-runner-2049-sample-cache-audit.md)
   - [el-chapo-02](docs/itemized/el-chapo-02-sample-cache-audit.md)
-  - [fire-and-fury](docs/itemized/fire-and-fury-sample-cache-audit.md)
   - [game-of-thrones-706](docs/itemized/game-of-thrones-706-sample-cache-audit.md)
   - [game-of-thrones-707](docs/itemized/game-of-thrones-707-sample-cache-audit.md)
   - [narcos-03](docs/itemized/narcos-03-sample-cache-audit.md)

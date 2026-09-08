@@ -4,16 +4,16 @@
   "counts": {
     "approved_filename_date_mismatches": 0,
     "approved_observed_endpoint_mismatches": 0,
-    "checkpoint_records_reused": 11,
-    "day_member_streams_validated": 13,
-    "eligible_archives": 13,
+    "checkpoint_records_reused": 12,
+    "day_member_streams_validated": 12,
+    "eligible_archives": 12,
     "post_release_archive_records": 0,
-    "records": 13,
-    "sample_end_matches": 13,
-    "selected_archive_bytes": 9434040796,
-    "selected_archive_hashes": 13,
-    "sparse_sample_records": 7,
-    "unique_records": 13
+    "records": 12,
+    "sample_end_matches": 12,
+    "selected_archive_bytes": 9385402284,
+    "selected_archive_hashes": 12,
+    "sparse_sample_records": 6,
+    "unique_records": 12
   },
   "identity_source": {
     "kind": "canonical-swarm-metadata",
@@ -21,7 +21,7 @@
   },
   "inventory": {
     "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-0-media-objects.txt",
-    "sha256": "497559f248e0b6af2d19d9b4c3d438b53ebb36cec092ada2662bc8742cc31095"
+    "sha256": "44d7866e750ccf4f9bfc69c2eeb0717dda427505f28636eabbd01a8ea3d5c7c7"
   },
   "overrides": {
     "count": 0
@@ -32,8 +32,8 @@
       "records": 5
     },
     "ord": {
-      "archive_bytes": 4677327944,
-      "records": 8
+      "archive_bytes": 4628689432,
+      "records": 7
     }
   },
   "records": [
@@ -181,101 +181,6 @@
           }
         ],
         "expected_filename_date": "20171223"
-      }
-    },
-    {
-      "archive": {
-        "filename": "cache.20180331.tar.xz",
-        "filename_date": "20180331",
-        "path": "/mnt/gold/src/alpha60-samples-cache.gold/fire-and-fury.cache/cache.20180331.tar.xz",
-        "sha256": "acf9d8119df9bd2c9529b4413eba0c84954a446b15c328b17b0395dca4b5db2b",
-        "size": 48638512
-      },
-      "collection_key": "fire-and-fury",
-      "day_cache_validation": {
-        "authorization": {
-          "archive_mutated": false,
-          "member_contents_opened": false,
-          "raw_samples_opened": false,
-          "scope": "read-only archive member-name stream"
-        },
-        "observed": {
-          "approved_observed_day_end": null,
-          "archive_filename_matches_observed_end": true,
-          "available_day_products": 79,
-          "cache_members": 1175,
-          "first_observed_day_index": 18,
-          "missing_indices": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            23,
-            24,
-            25,
-            26
-          ],
-          "post_release_day_products": 0,
-          "sample_end": "2018-03-31",
-          "sample_span_days": 100,
-          "sample_start": "2018-01-08",
-          "torrent_indices": 16
-        },
-        "required_collection_key": "fire-and-fury",
-        "required_day_products": 79,
-        "required_sample_days": 100,
-        "required_sample_end": "2018-03-31",
-        "required_sample_start": "2017-12-22",
-        "required_sparse_intervals": [
-          {
-            "days": 17,
-            "first_index": 1,
-            "last_index": 17
-          },
-          {
-            "days": 4,
-            "first_index": 23,
-            "last_index": 26
-          }
-        ],
-        "status": "pass-read-only-member-stream"
-      },
-      "owner": "ord",
-      "release": {
-        "collection_id": "",
-        "collection_name": "Fire and Fury",
-        "metadata_version": null,
-        "sample_days": 100,
-        "sample_end": "2018-03-31",
-        "sample_start": "2017-12-22",
-        "sha256": "bbc87f27dee5954c2b8f2968c7f4331b908ccee50ada9e19acbb7450d4182773",
-        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/fire-and-fury.json",
-        "source_kind": "canonical-swarm-metadata"
-      },
-      "selection": {
-        "approved_observed_day_end": null,
-        "approved_override": null,
-        "date_matches_sample_end": true,
-        "eligible_candidates": [
-          {
-            "filename": "cache.20180331.tar.xz",
-            "size": 48638512
-          }
-        ],
-        "expected_filename_date": "20180331"
       }
     },
     {

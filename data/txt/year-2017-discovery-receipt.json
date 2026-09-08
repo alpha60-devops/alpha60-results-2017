@@ -1,15 +1,14 @@
 {
   "counts": {
     "cache_directories": 594,
-    "inventory_records": 14,
+    "inventory_records": 13,
     "nonterminal_records": 0,
-    "target_year_records": 14,
+    "target_year_records": 13,
     "unresolved_records": 0
   },
   "inventory": [
     "blade-runner-2049",
     "el-chapo-02",
-    "fire-and-fury",
     "game-of-thrones-706",
     "game-of-thrones-707",
     "narcos-03",

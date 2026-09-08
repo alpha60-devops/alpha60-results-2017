@@ -5,20 +5,20 @@
       "records": 5,
       "rsync_manifest": "eureka.rsync-files",
       "worker_map": "eureka.worker-map.json",
-      "worker_map_sha256": "b07720f456cfc4002eb1488251654c353ffb14e353b5018b1f3509ded621db02"
+      "worker_map_sha256": "83fd72e66099f2a8340ee33cfb3982dc624d645c375a2ef34bedcd02dd681520"
     },
     "ord": {
-      "archive_bytes": 4677327944,
-      "records": 8,
+      "archive_bytes": 4628689432,
+      "records": 7,
       "rsync_manifest": "ord.rsync-files",
       "worker_map": "ord.worker-map.json",
-      "worker_map_sha256": "4f70ccbcde68e20e506a668312597c500ef786d8aeb11acf642b5d495fc790da"
+      "worker_map_sha256": "18115a39b29cce24600ed4a1f582c9be44934b8ec4771ccab022bbddf56da398"
     }
   },
   "schema": "alpha60-year-day-worker-preparation/1",
   "source_map": {
     "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-cache-archive-map.json",
-    "sha256": "e166418722dcac78121302e3d977c2557b272223bfa7c4ab512e4bc72cf592b1"
+    "sha256": "8cba4a4f191e236da36b4f92f1614f83ecdd051af4dc952b0c30fc4c91a8d0e9"
   },
   "status": "pass",
   "year": "2017"

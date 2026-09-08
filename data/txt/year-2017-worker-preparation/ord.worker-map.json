@@ -154,102 +154,6 @@
       "archive": {
         "filename": "cache.20180331.tar.xz",
         "filename_date": "20180331",
-        "path": "/mnt/gold/src/alpha60-samples-cache.gold/fire-and-fury.cache/cache.20180331.tar.xz",
-        "sha256": "acf9d8119df9bd2c9529b4413eba0c84954a446b15c328b17b0395dca4b5db2b",
-        "size": 48638512
-      },
-      "collection_key": "fire-and-fury",
-      "day_cache_validation": {
-        "authorization": {
-          "archive_mutated": false,
-          "member_contents_opened": false,
-          "raw_samples_opened": false,
-          "scope": "read-only archive member-name stream"
-        },
-        "observed": {
-          "approved_observed_day_end": null,
-          "archive_filename_matches_observed_end": true,
-          "available_day_products": 79,
-          "cache_members": 1175,
-          "first_observed_day_index": 18,
-          "missing_indices": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            23,
-            24,
-            25,
-            26
-          ],
-          "post_release_day_products": 0,
-          "sample_end": "2018-03-31",
-          "sample_span_days": 100,
-          "sample_start": "2018-01-08",
-          "torrent_indices": 16
-        },
-        "required_collection_key": "fire-and-fury",
-        "required_day_products": 79,
-        "required_sample_days": 100,
-        "required_sample_end": "2018-03-31",
-        "required_sample_start": "2017-12-22",
-        "required_sparse_intervals": [
-          {
-            "days": 17,
-            "first_index": 1,
-            "last_index": 17
-          },
-          {
-            "days": 4,
-            "first_index": 23,
-            "last_index": 26
-          }
-        ],
-        "status": "pass-read-only-member-stream"
-      },
-      "owner": "ord",
-      "release": {
-        "collection_id": "",
-        "collection_name": "Fire and Fury",
-        "metadata_version": null,
-        "sample_days": 100,
-        "sample_end": "2018-03-31",
-        "sample_start": "2017-12-22",
-        "sha256": "bbc87f27dee5954c2b8f2968c7f4331b908ccee50ada9e19acbb7450d4182773",
-        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/fire-and-fury.json",
-        "source_kind": "canonical-swarm-metadata"
-      },
-      "selection": {
-        "approved_observed_day_end": null,
-        "approved_override": null,
-        "date_matches_sample_end": true,
-        "eligible_candidates": [
-          {
-            "filename": "cache.20180331.tar.xz",
-            "size": 48638512
-          }
-        ],
-        "expected_filename_date": "20180331"
-      },
-      "worker_archive_relative_path": "fire-and-fury.cache/cache.20180331.tar.xz"
-    },
-    {
-      "archive": {
-        "filename": "cache.20180331.tar.xz",
-        "filename_date": "20180331",
         "path": "/mnt/gold/src/alpha60-samples-cache.gold/screeners.cache/cache.20180331.tar.xz",
         "sha256": "d1d53e5959d3e15e625e499088115b6c5643481bb6409f899085896e2d0ceaad",
         "size": 1496732992
@@ -717,7 +621,7 @@
     }
   ],
   "schema": "alpha60-year-day-worker-map/1",
-  "source_map_sha256": "e166418722dcac78121302e3d977c2557b272223bfa7c4ab512e4bc72cf592b1",
+  "source_map_sha256": "8cba4a4f191e236da36b4f92f1614f83ecdd051af4dc952b0c30fc4c91a8d0e9",
   "status": "pass",
   "year": "2017"
 }

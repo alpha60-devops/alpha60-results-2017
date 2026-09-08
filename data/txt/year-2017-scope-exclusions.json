@@ -1,7 +1,12 @@
 {
   "cohort_policy": "canonical sample_year_start equals the target year, exact canonical cache directory and member key, and terminal discovery disposition",
-  "excluded_collection_keys": ["stormy"],
+  "excluded_collection_keys": ["fire-and-fury", "stormy"],
   "exclusions": [
+    {
+      "collection_key": "fire-and-fury",
+      "disposition": "exclude",
+      "reason": "The Fire-specific stream begins on 2018-01-08 and is not part of the 2017 sample set."
+    },
     {
       "collection_key": "stormy",
       "disposition": "exclude",
