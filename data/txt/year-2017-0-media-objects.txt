@@ -8,7 +8,6 @@ screeners
 sense8-02.1
 star-trek-discovery-101
 star-wars-last-jedi
-stormy
 stormy-daniels-2017
 stranger-things-02
 walking-dead-807

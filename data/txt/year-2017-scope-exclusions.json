@@ -1,0 +1,14 @@
+{
+  "cohort_policy": "canonical sample_year_start equals the target year, exact canonical cache directory and member key, and terminal discovery disposition",
+  "excluded_collection_keys": ["stormy"],
+  "exclusions": [
+    {
+      "collection_key": "stormy",
+      "disposition": "exclude",
+      "reason": "The existing stormy cache is the unrelated 2024 archive; the 2017 campaign uses the canonical stormy-daniels-2017 selector stream."
+    }
+  ],
+  "schema": "alpha60-year-media-object-campaign-scope/1",
+  "status": "pass",
+  "year": "2017"
+}
