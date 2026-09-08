@@ -1,0 +1,596 @@
+{
+  "counts": {
+    "archive_records": 12,
+    "baseline_v2_pages": 12,
+    "day_complete": 9,
+    "day_product_pairs": 407,
+    "excluded_records": 2,
+    "index_links": 13,
+    "inventory": 12,
+    "worker_failed": 0,
+    "worker_passed": 12
+  },
+  "day_records": [
+    {
+      "collection_key": "blade-runner-2049",
+      "issue": "day-product contract disagrees with archive map: {'first_date': {'expected': '2017-12-22', 'actual': '2017-12-29'}}",
+      "status": "fail"
+    },
+    {
+      "baseline_sha256": "8281d14f21a416d76d63555fb1510130ab9a63a722e76c9f2f078998d1a5b017",
+      "collection_key": "el-chapo-02",
+      "coverage_sha256": "8bc2f22af2bc7f6332e3deb67c91340671fd38404d227088c1d3285889302e0a",
+      "day_products": 8,
+      "product_sha256": "142fc4729992d07897950df7e87764f67f383096f6c4b02214b0cde1a14665a2",
+      "status": "pass",
+      "stream_sha256": "a7906e8d542c4ee28bf73799bc234b95a57e84c29f29090ad7f60b5d72d19476"
+    },
+    {
+      "baseline_sha256": "3fb0f4e87b4a9ceb60b1b35ba6f81efd10b96d08b0873a57c45241e8a2fbf48d",
+      "collection_key": "game-of-thrones-706",
+      "coverage_sha256": "b0b97291bc181fed792419f33b8dceb34b5649e21f126793330dff93293969cb",
+      "day_products": 35,
+      "product_sha256": "3436db432f8d6ddd97a031103256e34eb318cfd8893e0b42a14304b7a1dd8fc5",
+      "status": "pass",
+      "stream_sha256": "f0a2e39e07a7884920b1eead052ebcfec6adf4446c0e78b4bf76b550324ce93f"
+    },
+    {
+      "baseline_sha256": "d19b25f6fbd6b8f82917e69ce3ff2bd4252c8e53bb336879c8222557e37006d1",
+      "collection_key": "game-of-thrones-707",
+      "coverage_sha256": "3c804a5afa37a857053361b9233d5a7522c0442f754a332f7af07de69d191dfd",
+      "day_products": 95,
+      "product_sha256": "adeb4b8a52d74eae25d2443960693396a3d7c0e81cf3a6f3046747f73a001ab1",
+      "status": "pass",
+      "stream_sha256": "8b1bbbe2103c30e4570cca07fdab2d09021dcb13450421c3ac17933e661fbf5a"
+    },
+    {
+      "baseline_sha256": "1b69674f33df49ab267440e71c3009d3885cee790bf3c72db2f5191aabf8847c",
+      "collection_key": "narcos-03",
+      "coverage_sha256": "b93ea46f9ff9e7ab4bd46d9fae17fb4b5a935e1ef5f75af8b1d61ff9d1c7e7ca",
+      "day_products": 28,
+      "product_sha256": "93124c4bdb720ab299245228d94ac6737f89251b2873b638ddd6cff79c81af14",
+      "status": "pass",
+      "stream_sha256": "909faf706c461724711d069901de075aa84f1825d3a1f09940dd878d16fe8c06"
+    },
+    {
+      "baseline_sha256": "62df8cada2b4d09ca91b842910953c427ee1b80cf0b9978827e79c8c7c9eed79",
+      "collection_key": "screeners",
+      "coverage_sha256": "bd5c7946974bad2737152dda5df4b482d12582c662e15651733f46c291a5fea8",
+      "day_products": 96,
+      "product_sha256": "a69241efe6ace5e9dc2759b89840fd9103c386fc2930f696333374ca1b797cb7",
+      "status": "pass",
+      "stream_sha256": "e1b1222b1399cfe8e9576817713083831d7392dab6662acd225ff293f7c3a3a3"
+    },
+    {
+      "baseline_sha256": "1e33494818d0e3d6d51d103ccb13d339571b94ade993a275a27e2910358902a2",
+      "collection_key": "sense8-02.1",
+      "coverage_sha256": "3fd1109331c477836e9077323879bf0dbb7c54f0abba007b35fca5c2978e1e04",
+      "day_products": 37,
+      "product_sha256": "3a9285630a04061f8c64e697a20031ffafc2e97501d7219149d629e88acc1cda",
+      "status": "pass",
+      "stream_sha256": "f118b37523e19905a31bb9686eb50be133ff1e0d66dd7e5a5e6b59118ba7664a"
+    },
+    {
+      "baseline_sha256": "5fd503e6664f5862a9f256a4f24a4a8c823e85f9da453f3a1015eb732cf666fa",
+      "collection_key": "star-trek-discovery-101",
+      "coverage_sha256": "259d6de8f204d9edf7b4045d439886cf76e25d74cc6e129083d058c8880bdb86",
+      "day_products": 27,
+      "product_sha256": "699512be1211a18ebaeaa1c49052ce39733b883b6371841377c38f0308f3c23b",
+      "status": "pass",
+      "stream_sha256": "2227aa8e94456df15b890409942531fc4a954e8734625feab19f89ad8ef7f38f"
+    },
+    {
+      "collection_key": "star-wars-last-jedi",
+      "issue": "day-product contract disagrees with archive map: {'first_date': {'expected': '2017-12-22', 'actual': '2017-12-29'}}",
+      "status": "fail"
+    },
+    {
+      "collection_key": "stormy-daniels-2017",
+      "issue": "day-product contract disagrees with archive map: {'first_date': {'expected': '2017-12-22', 'actual': '2018-01-20'}}",
+      "status": "fail"
+    },
+    {
+      "baseline_sha256": "5413be4971bcd1cbd6274f75c954825baa5919a14616d26165011a74ade589f0",
+      "collection_key": "stranger-things-02",
+      "coverage_sha256": "1f8e07685f8ef39a354491281aeb870e3601c2d2eff93f6e58778989d93e6ea2",
+      "day_products": 66,
+      "product_sha256": "7006d3476c1a4a368024cfb6c02d886abed54a0ec1c0f37ec7a48d11484378a9",
+      "status": "pass",
+      "stream_sha256": "c0a9f2865fbc850d07142ee0582e027ae7dd3f7c922d8df724d78a89a1a1cca7"
+    },
+    {
+      "baseline_sha256": "8854876352ff26c22e56a3e6a1c6fb8430574b8f91fd42cfe32bfb085ebd6379",
+      "collection_key": "walking-dead-807",
+      "coverage_sha256": "fecce1f4dcbb098d86dde4b12769b1f9d876c990e0539fca6237938a88a539e7",
+      "day_products": 15,
+      "product_sha256": "1295d18552254ef357edb9951edf5a5f6e670e964d2c2e27925dbffce6289340",
+      "status": "pass",
+      "stream_sha256": "728de6fc44eb263aa3a69508a5127ef0a0ea6c453219b26de3143691ef20bc3a"
+    }
+  ],
+  "excluded_outputs": {
+    "fire-and-fury": [],
+    "stormy": [
+      "docs/itemized/stormy-daniels-2017-sample-cache-audit.md",
+      "docs/itemized/figures/stormy-daniels-2017-carto-4k.webp",
+      "docs/itemized/figures/stormy-daniels-2017-data-lt-1080p-4k.webp",
+      "docs/itemized/figures/stormy-daniels-2017-data-lt-1080p.webp",
+      "docs/itemized/figures/stormy-daniels-2017-carto.png",
+      "docs/itemized/figures/stormy-daniels-2017-data-ge-1080p.webp",
+      "docs/itemized/figures/stormy-daniels-2017-data-ge-1080p-4k.webp",
+      "docs/itemized/figures/stormy-daniels-2017-cumulative-detail-btiha-itemized-by-bytes.svg",
+      "docs/itemized/figures/stormy-daniels-2017-downloads-by-week-stormy-daniels-2017-week.svg",
+      "docs/itemized/figures/stormy-daniels-2017-downloads-by-day-day.svg",
+      "data/geojson.week/stormy-daniels-2017-week-00002.geojson.gz",
+      "data/geojson.week/stormy-daniels-2017-week-00001.geojson.gz",
+      "data/geojson.week/stormy-daniels-2017-week-00008.geojson.gz",
+      "data/geojson.week/stormy-daniels-2017-week-00003.geojson.gz",
+      "data/geojson.week/stormy-daniels-2017-week-00009.geojson.gz",
+      "data/geojson.week/stormy-daniels-2017-week-00007.geojson.gz",
+      "data/geojson.week/stormy-daniels-2017-week-00010.geojson.gz",
+      "data/geojson.week/stormy-daniels-2017-week-00005.geojson.gz",
+      "data/geojson.week/stormy-daniels-2017-week-00011.geojson.gz",
+      "data/geojson.week/stormy-daniels-2017-week-00006.geojson.gz",
+      "data/geojson.week/stormy-daniels-2017-week-00004.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00044.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00090.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00068.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00069.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00043.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00094.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00071.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00041.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00067.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00045.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00057.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00046.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00036.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00076.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00060.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00064.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00099.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00055.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00030.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00087.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00038.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00080.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00031.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00058.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00074.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00072.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00062.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00054.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00082.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00079.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00065.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00091.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00095.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00047.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00032.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00063.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00066.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00052.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00048.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00040.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00084.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00056.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00075.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00039.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00061.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00070.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00089.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00098.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00035.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00096.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00050.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00086.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00051.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00033.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00093.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00100.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00078.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00083.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00088.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00097.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00053.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00085.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00042.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00049.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00059.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00092.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00034.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00081.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00077.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00037.geojson.gz",
+      "data/geojson.day/stormy-daniels-2017-day-00073.geojson.gz",
+      "data/json/stormy-daniels-2017-week.json",
+      "data/json/stormy-daniels-2017-swarm-day-00073-2018-03-04.json",
+      "data/json/stormy-daniels-2017-swarm-day-00075-2018-03-06.json",
+      "data/json/stormy-daniels-2017-swarm-day-00032-2018-01-22.json",
+      "data/json/stormy-daniels-2017-cumulative.json",
+      "data/json/stormy-daniels-2017-swarm-day-00089-2018-03-20.json",
+      "data/json/stormy-daniels-2017-swarm-day-00064-2018-02-23.json",
+      "data/json/stormy-daniels-2017-swarm-day-00085-2018-03-16.json",
+      "data/json/stormy-daniels-2017-swarm-day-00065-2018-02-24.json",
+      "data/json/stormy-daniels-2017-swarm-day-00038-2018-01-28.json",
+      "data/json/stormy-daniels-2017-swarm-day-00043-2018-02-02.json",
+      "data/json/stormy-daniels-2017-swarm-day-00092-2018-03-23.json",
+      "data/json/stormy-daniels-2017-swarm-day-00062-2018-02-21.json",
+      "data/json/stormy-daniels-2017-swarm-day-00095-2018-03-26.json",
+      "data/json/stormy-daniels-2017-swarm-day-00081-2018-03-12.json",
+      "data/json/stormy-daniels-2017-swarm-day-00066-2018-02-25.json",
+      "data/json/stormy-daniels-2017-swarm-day-00040-2018-01-30.json",
+      "data/json/stormy-daniels-2017-swarm-day-00058-2018-02-17.json",
+      "data/json/stormy-daniels-2017-swarm-day-00047-2018-02-06.json",
+      "data/json/stormy-daniels-2017-swarm-day-00100-2018-03-31.json",
+      "data/json/stormy-daniels-2017-swarm-day-00041-2018-01-31.json",
+      "data/json/stormy-daniels-2017-cumulative-ip-swarm.json",
+      "data/json/stormy-daniels-2017-swarm-day-00033-2018-01-23.json",
+      "data/json/stormy-daniels-2017-swarm-day-00079-2018-03-10.json",
+      "data/json/stormy-daniels-2017-swarm-day-00042-2018-02-01.json",
+      "data/json/stormy-daniels-2017-swarm-day-00039-2018-01-29.json",
+      "data/json/stormy-daniels-2017-swarm-day-00034-2018-01-24.json",
+      "data/json/stormy-daniels-2017-swarm-day-00036-2018-01-26.json",
+      "data/json/stormy-daniels-2017-swarm-day-00082-2018-03-13.json",
+      "data/json/stormy-daniels-2017-swarm-day-00045-2018-02-04.json",
+      "data/json/stormy-daniels-2017-swarm-day-00046-2018-02-05.json",
+      "data/json/stormy-daniels-2017-swarm-day-00087-2018-03-18.json",
+      "data/json/stormy-daniels-2017-swarm-day-00097-2018-03-28.json",
+      "data/json/stormy-daniels-2017-swarm-day-00070-2018-03-01.json",
+      "data/json/stormy-daniels-2017-swarm-day-00076-2018-03-07.json",
+      "data/json/stormy-daniels-2017-swarm-day-00074-2018-03-05.json",
+      "data/json/stormy-daniels-2017-swarm-day-00077-2018-03-08.json",
+      "data/json/stormy-daniels-2017-swarm-day-00049-2018-02-08.json",
+      "data/json/stormy-daniels-2017-swarm-day-00057-2018-02-16.json",
+      "data/json/stormy-daniels-2017-swarm-day-00093-2018-03-24.json",
+      "data/json/stormy-daniels-2017-swarm-day-00099-2018-03-30.json",
+      "data/json/stormy-daniels-2017-swarm-day-00030-2018-01-20.json",
+      "data/json/stormy-daniels-2017-swarm-day-00053-2018-02-12.json",
+      "data/json/stormy-daniels-2017-swarm-day-00078-2018-03-09.json",
+      "data/json/stormy-daniels-2017-swarm-day-00083-2018-03-14.json",
+      "data/json/stormy-daniels-2017-swarm-day-00048-2018-02-07.json",
+      "data/json/stormy-daniels-2017-swarm-day-00084-2018-03-15.json",
+      "data/json/stormy-daniels-2017-swarm-day-00056-2018-02-15.json",
+      "data/json/stormy-daniels-2017-swarm-day-00071-2018-03-02.json",
+      "data/json/stormy-daniels-2017-swarm-day-00069-2018-02-28.json",
+      "data/json/stormy-daniels-2017-swarm-day-00054-2018-02-13.json",
+      "data/json/stormy-daniels-2017-swarm-day-00031-2018-01-21.json",
+      "data/json/stormy-daniels-2017-swarm-day-00061-2018-02-20.json",
+      "data/json/stormy-daniels-2017-swarm-day-00072-2018-03-03.json",
+      "data/json/stormy-daniels-2017-swarm-day-00044-2018-02-03.json",
+      "data/json/stormy-daniels-2017-swarm-day-00091-2018-03-22.json",
+      "data/json/stormy-daniels-2017-swarm-day-00067-2018-02-26.json",
+      "data/json/stormy-daniels-2017-cumulative-btiha-media-objects.json",
+      "data/json/stormy-daniels-2017-swarm-day-00063-2018-02-22.json",
+      "data/json/stormy-daniels-2017-swarm-day-00060-2018-02-19.json",
+      "data/json/stormy-daniels-2017-swarm-day-00088-2018-03-19.json",
+      "data/json/stormy-daniels-2017-swarm-day-00037-2018-01-27.json",
+      "data/json/stormy-daniels-2017-swarm-day-00068-2018-02-27.json",
+      "data/json/stormy-daniels-2017-swarm-day-00090-2018-03-21.json",
+      "data/json/stormy-daniels-2017-swarm-day-00086-2018-03-17.json",
+      "data/json/stormy-daniels-2017-swarm-day-00096-2018-03-27.json",
+      "data/json/stormy-daniels-2017-swarm-day-00052-2018-02-11.json",
+      "data/json/stormy-daniels-2017-swarm-day-00051-2018-02-10.json",
+      "data/json/stormy-daniels-2017-swarm-day-00080-2018-03-11.json",
+      "data/json/stormy-daniels-2017-swarm-day-00050-2018-02-09.json",
+      "data/json/stormy-daniels-2017-swarm-day-00055-2018-02-14.json",
+      "data/json/stormy-daniels-2017-swarm-day-00094-2018-03-25.json",
+      "data/json/stormy-daniels-2017-swarm-day-00035-2018-01-25.json",
+      "data/json/stormy-daniels-2017-swarm-day-00098-2018-03-29.json",
+      "data/json/stormy-daniels-2017-swarm-day-00059-2018-02-18.json",
+      "data/geojson.cumulative/stormy-daniels-2017-cumulative-aggregate.geojson.gz",
+      "data/geojson.cumulative/stormy-daniels-2017-cumulative-btiha.geojson.gz",
+      "data/csv/bytes/stormy-daniels-2017-cumulative-detail.2017-btiha-itemized-by-bytes.csv",
+      "data/txt/year-2017-day-cache-stream-receipts/stormy-daniels-2017.json",
+      "data/txt/year-2017-coverage-evidence/stormy-daniels-2017.md",
+      "data/txt/year-2017-baseline-v2-receipts/stormy-daniels-2017.json",
+      "data/txt/year-2017-day-product-receipts/stormy-daniels-2017.json"
+    ]
+  },
+  "gates": {
+    "exclusions": false,
+    "index": false,
+    "inventory_map": true,
+    "metadata": true,
+    "products": false,
+    "repositories": true,
+    "site": true,
+    "workers": true
+  },
+  "generated_at": "2026-09-08T19:09:29.975636+00:00",
+  "index": {
+    "links": 13,
+    "missing_targets": [
+      "docs/itemized/stormy-sample-cache-audit.md"
+    ],
+    "path": "/home/bkoz/src/alpha60-results-2017/_includes/year-2017-0-media-objects.txt"
+  },
+  "inputs": {
+    "archive_map": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-cache-archive-map.json",
+      "sha256": "98ba8330ebe94fe309bf06d748c7d1a04c16e4879c167fa87e007ab6488326da",
+      "size": 32422
+    },
+    "config": {
+      "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/year-2017-v1.json",
+      "sha256": "35031ccbfe9a19aa51df05b6b4e990563c768082f5ac66c5e41fd71bf1f1d6ad",
+      "size": 2366
+    },
+    "inventory": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-0-media-objects.txt",
+      "sha256": "44d7866e750ccf4f9bfc69c2eeb0717dda427505f28636eabbd01a8ea3d5c7c7",
+      "size": 202
+    },
+    "metadata_audit": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/metadata-audit.json",
+      "sha256": "4e1897f1d88ff69ba736fd69936204ceb7d42fc653f4550da2794c9a914e6d23",
+      "size": 1914
+    },
+    "scope_exclusions": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-scope-exclusions.json",
+      "sha256": "8a4aac11783bd23e6a594a0773ba99c1615423e5b4ea2b5ca84ec8daa5baf3e1",
+      "size": 755
+    },
+    "site_audit": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/site-audit.json",
+      "sha256": "c4c31f8e9a95074d7cda42fefb5a953d7df42ce7445fe7297bba574cd6dba68e",
+      "size": 1480
+    },
+    "worker_receipts": [
+      {
+        "counts": {
+          "errors": 5,
+          "passed": 2,
+          "records": 7
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/worker-original-01.json",
+          "sha256": "ee6c966632fde5cef9c16557ee062dead0dae39cddeb562a33993d41f1a5e2d3",
+          "size": 7465
+        },
+        "kind": "original",
+        "owner": "ord",
+        "status": "error"
+      },
+      {
+        "counts": {
+          "errors": 3,
+          "passed": 2,
+          "records": 5
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/worker-original-02.json",
+          "sha256": "0e69a6eb3f7cd38dc060abbef73bc03ad49fd5b0b1b6827441f209d8de8c62af",
+          "size": 5262
+        },
+        "kind": "original",
+        "owner": "eureka",
+        "status": "error"
+      },
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 1,
+          "records": 1
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/worker-repair-01.json",
+          "sha256": "6ff2c9e21f5e22f707b7953eb5ff325bcde09dcb3c165ffc3f0557c440298bb8",
+          "size": 1295
+        },
+        "kind": "repair",
+        "owner": "ord",
+        "status": "pass"
+      },
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 1,
+          "records": 1
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/worker-repair-02.json",
+          "sha256": "613f3247965facb2ea03bfa96fc4d278ae40fcfff7560e8a4aa0e935b5e943be",
+          "size": 1299
+        },
+        "kind": "repair",
+        "owner": "ord",
+        "status": "pass"
+      },
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 1,
+          "records": 1
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/worker-repair-03.json",
+          "sha256": "14b742ece0143f2deef8ebb4ca2b6ed3afd73728e2738a27d52208ef4adc4ac7",
+          "size": 1286
+        },
+        "kind": "repair",
+        "owner": "ord",
+        "status": "pass"
+      },
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 1,
+          "records": 1
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/worker-repair-04.json",
+          "sha256": "f1ff3e3b04939eff7e8e931ad8888adfe165334836fea9f6a6bac62de2f44045",
+          "size": 1298
+        },
+        "kind": "repair",
+        "owner": "ord",
+        "status": "pass"
+      },
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 1,
+          "records": 1
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/worker-repair-05.json",
+          "sha256": "21326f82d9a22e0a9e5de46d064cfd49b8812bc682edc5ced16366fb77e48e02",
+          "size": 1277
+        },
+        "kind": "repair",
+        "owner": "ord",
+        "status": "pass"
+      },
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 3,
+          "records": 3
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/worker-repair-06.json",
+          "sha256": "eb5d59feff5a0c7ded5c3d1ff0f33cfa75df24a0866be9026e407f5da9fe1871",
+          "size": 2306
+        },
+        "kind": "repair",
+        "owner": "eureka",
+        "status": "pass"
+      }
+    ]
+  },
+  "issues": [
+    "product audit failed for blade-runner-2049: day-product contract disagrees with archive map: {'first_date': {'expected': '2017-12-22', 'actual': '2017-12-29'}}",
+    "product audit failed for star-wars-last-jedi: day-product contract disagrees with archive map: {'first_date': {'expected': '2017-12-22', 'actual': '2017-12-29'}}",
+    "product audit failed for stormy-daniels-2017: day-product contract disagrees with archive map: {'first_date': {'expected': '2017-12-22', 'actual': '2018-01-20'}}",
+    "index include does not exactly link the inventory",
+    "excluded keys have published outputs"
+  ],
+  "metadata_repository": {
+    "path": "/home/bkoz/src/alpha60-swarm-metadata",
+    "revision": "db302b1a9a3749405ab2010a380ff932d468e2e4",
+    "tracked_clean": true,
+    "untracked_files": [],
+    "worktree_clean": true
+  },
+  "results_repository": {
+    "path": "/home/bkoz/src/alpha60-results-2017",
+    "revision": "eed8a01d1219e301d638c20db1eea093a07611cd",
+    "tracked_clean": true,
+    "untracked_files": [],
+    "worktree_clean": true
+  },
+  "schema": "alpha60-year-baseline-v2-campaign-audit/1",
+  "status": "fail",
+  "terminal_records": [
+    {
+      "collection_key": "blade-runner-2049",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass",
+      "results_revision": "0dac52ccb65dd11bf203e6cb932681a9d54b90e3"
+    },
+    {
+      "collection_key": "el-chapo-02",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass",
+      "results_revision": "1b207b563a6854526f3cd363fb3e5df14d5dff08"
+    },
+    {
+      "collection_key": "game-of-thrones-706",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "275e72018d12f25126ce52c462ca5b9f8c202eca"
+    },
+    {
+      "collection_key": "game-of-thrones-707",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass",
+      "results_revision": "aa197b4d95423df813d621d7b562652e62cd6a91"
+    },
+    {
+      "collection_key": "narcos-03",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "a4ece6a25ce7bee0fda0a8dfaf9a504c637d3e07"
+    },
+    {
+      "collection_key": "screeners",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "82ecdcb4c4d7d34bc5c1f915122bfa1db74031b2"
+    },
+    {
+      "collection_key": "sense8-02.1",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "ba18ff4d75d87d7231c33e691ce6cb1b779dcf5b"
+    },
+    {
+      "collection_key": "star-trek-discovery-101",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass",
+      "results_revision": "2c1e3d1c4519569ebcc3292b1c14c0753be28326"
+    },
+    {
+      "collection_key": "star-wars-last-jedi",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass",
+      "results_revision": "3aa405463c1af35d154c0a9e0b8e9d9ae669d224"
+    },
+    {
+      "collection_key": "stormy-daniels-2017",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass",
+      "results_revision": "803bd450748320c16fc6e2ebead4b940246d744e"
+    },
+    {
+      "collection_key": "stranger-things-02",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass",
+      "results_revision": "4afb4c8a91a1161a5801a3bc5a0d5e51af892c19"
+    },
+    {
+      "collection_key": "walking-dead-807",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass",
+      "results_revision": "af2d3af5b955699ea54567743ff8cf16b76b35c7"
+    }
+  ],
+  "year": "2017"
+}
