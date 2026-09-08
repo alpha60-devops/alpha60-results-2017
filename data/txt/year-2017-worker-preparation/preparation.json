@@ -1,24 +1,24 @@
 {
   "owners": {
     "eureka": {
-      "archive_bytes": 4173983240,
-      "records": 6,
+      "archive_bytes": 4756712852,
+      "records": 5,
       "rsync_manifest": "eureka.rsync-files",
       "worker_map": "eureka.worker-map.json",
-      "worker_map_sha256": "177b15f8e4f3161983112c43c401529b891a55dd27981ff96ab0784b49847857"
+      "worker_map_sha256": "b07720f456cfc4002eb1488251654c353ffb14e353b5018b1f3509ded621db02"
     },
     "ord": {
-      "archive_bytes": 4184698920,
-      "records": 7,
+      "archive_bytes": 4677327944,
+      "records": 8,
       "rsync_manifest": "ord.rsync-files",
       "worker_map": "ord.worker-map.json",
-      "worker_map_sha256": "bcb8ea32fa187cea47427cc5c8be815285a4ffb94fd7b01903dff7104ad5b9cb"
+      "worker_map_sha256": "4f70ccbcde68e20e506a668312597c500ef786d8aeb11acf642b5d495fc790da"
     }
   },
   "schema": "alpha60-year-day-worker-preparation/1",
   "source_map": {
     "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-cache-archive-map.json",
-    "sha256": "b68696bc369b9b410f5bfda3849d850f9cd6937061b4c5df4cc28be26e8f6569"
+    "sha256": "e166418722dcac78121302e3d977c2557b272223bfa7c4ab512e4bc72cf592b1"
   },
   "status": "pass",
   "year": "2017"

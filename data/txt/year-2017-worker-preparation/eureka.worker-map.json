@@ -4,193 +4,11 @@
   "records": [
     {
       "archive": {
-        "filename": "cache.20180331.tar.xz",
-        "filename_date": "20180331",
-        "path": "/mnt/gold/src/alpha60-samples-cache.gold/blade-runner-2049.cache/cache.20180331.tar.xz",
-        "sha256": "3f7469dbeea2775ef1dc9836b1000630e3384f4bbb37b8485862f2c39d702c54",
-        "size": 804594548
-      },
-      "collection_key": "blade-runner-2049",
-      "day_cache_validation": {
-        "authorization": {
-          "archive_mutated": false,
-          "member_contents_opened": false,
-          "raw_samples_opened": false,
-          "scope": "read-only archive member-name stream"
-        },
-        "observed": {
-          "approved_observed_day_end": null,
-          "archive_filename_matches_observed_end": true,
-          "available_day_products": 89,
-          "cache_members": 3690,
-          "first_observed_day_index": 8,
-          "missing_indices": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            23,
-            24,
-            25,
-            26
-          ],
-          "post_release_day_products": 0,
-          "sample_end": "2018-03-31",
-          "sample_span_days": 100,
-          "sample_start": "2017-12-29",
-          "torrent_indices": 47
-        },
-        "required_collection_key": "blade-runner-2049",
-        "required_day_products": 89,
-        "required_sample_days": 100,
-        "required_sample_end": "2018-03-31",
-        "required_sample_start": "2017-12-22",
-        "required_sparse_intervals": [
-          {
-            "days": 7,
-            "first_index": 1,
-            "last_index": 7
-          },
-          {
-            "days": 4,
-            "first_index": 23,
-            "last_index": 26
-          }
-        ],
-        "status": "pass-read-only-member-stream"
-      },
-      "owner": "eureka",
-      "release": {
-        "collection_id": "",
-        "collection_name": "Blade Runner 2049",
-        "metadata_version": null,
-        "sample_days": 100,
-        "sample_end": "2018-03-31",
-        "sample_start": "2017-12-22",
-        "sha256": "abfba1c5dd6607ed1420e6e7d53dacc1dade7a37f78d402b75d9f09728826846",
-        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/blade-runner-2049.json",
-        "source_kind": "canonical-swarm-metadata"
-      },
-      "selection": {
-        "approved_observed_day_end": null,
-        "approved_override": null,
-        "date_matches_sample_end": true,
-        "eligible_candidates": [
-          {
-            "filename": "cache.20180331.tar.xz",
-            "size": 804594548
-          }
-        ],
-        "expected_filename_date": "20180331"
-      },
-      "worker_archive_relative_path": "blade-runner-2049.cache/cache.20180331.tar.xz"
-    },
-    {
-      "archive": {
-        "filename": "cache.20180331.tar.xz",
-        "filename_date": "20180331",
-        "path": "/mnt/gold/src/alpha60-samples-cache.gold/fire-and-fury.cache/cache.20180331.tar.xz",
-        "sha256": "acf9d8119df9bd2c9529b4413eba0c84954a446b15c328b17b0395dca4b5db2b",
-        "size": 48638512
-      },
-      "collection_key": "fire-and-fury",
-      "day_cache_validation": {
-        "authorization": {
-          "archive_mutated": false,
-          "member_contents_opened": false,
-          "raw_samples_opened": false,
-          "scope": "read-only archive member-name stream"
-        },
-        "observed": {
-          "approved_observed_day_end": null,
-          "archive_filename_matches_observed_end": true,
-          "available_day_products": 79,
-          "cache_members": 1175,
-          "first_observed_day_index": 18,
-          "missing_indices": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            23,
-            24,
-            25,
-            26
-          ],
-          "post_release_day_products": 0,
-          "sample_end": "2018-03-31",
-          "sample_span_days": 100,
-          "sample_start": "2018-01-08",
-          "torrent_indices": 16
-        },
-        "required_collection_key": "fire-and-fury",
-        "required_day_products": 79,
-        "required_sample_days": 100,
-        "required_sample_end": "2018-03-31",
-        "required_sample_start": "2017-12-22",
-        "required_sparse_intervals": [
-          {
-            "days": 17,
-            "first_index": 1,
-            "last_index": 17
-          },
-          {
-            "days": 4,
-            "first_index": 23,
-            "last_index": 26
-          }
-        ],
-        "status": "pass-read-only-member-stream"
-      },
-      "owner": "eureka",
-      "release": {
-        "collection_id": "",
-        "collection_name": "Fire and Fury",
-        "metadata_version": null,
-        "sample_days": 100,
-        "sample_end": "2018-03-31",
-        "sample_start": "2017-12-22",
-        "sha256": "bbc87f27dee5954c2b8f2968c7f4331b908ccee50ada9e19acbb7450d4182773",
-        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/fire-and-fury.json",
-        "source_kind": "canonical-swarm-metadata"
-      },
-      "selection": {
-        "approved_observed_day_end": null,
-        "approved_override": null,
-        "date_matches_sample_end": true,
-        "eligible_candidates": [
-          {
-            "filename": "cache.20180331.tar.xz",
-            "size": 48638512
-          }
-        ],
-        "expected_filename_date": "20180331"
-      },
-      "worker_archive_relative_path": "fire-and-fury.cache/cache.20180331.tar.xz"
-    },
-    {
-      "archive": {
         "filename": "cache.20170924.tar.xz",
         "filename_date": "20170924",
         "path": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-706.cache/cache.20170924.tar.xz",
-        "sha256": "ed9d37d2c3413af343d87de89c31bd779a00bce3e52d7a5c421fe59ba5740f11",
-        "size": 561764644
+        "sha256": "dc8f489e64097b1643b814bf7a78a8ffa8798926c83beb2b7c3eccfe4b826e1d",
+        "size": 1298902516
       },
       "collection_key": "game-of-thrones-706",
       "day_cache_validation": {
@@ -205,6 +23,7 @@
           "archive_filename_matches_observed_end": true,
           "available_day_products": 35,
           "cache_members": 4405,
+          "first_observed_day_index": 1,
           "missing_indices": [],
           "post_release_day_products": 0,
           "sample_end": "2017-09-24",
@@ -239,7 +58,7 @@
         "eligible_candidates": [
           {
             "filename": "cache.20170924.tar.xz",
-            "size": 561764644
+            "size": 1298902516
           }
         ],
         "expected_filename_date": "20170924"
@@ -314,8 +133,8 @@
         "filename": "cache.20171001.tar.xz",
         "filename_date": "20171001",
         "path": "/mnt/gold/src/alpha60-samples-cache.gold/narcos-03.cache/cache.20171001.tar.xz",
-        "sha256": "d04689d9be36cf0012e5a63f04e5f0894dd4630243c214a19d5f5e1d1f6f653c",
-        "size": 284615316
+        "sha256": "d8044dbcf0a613d2c9a830eb647e59a48487857d30514190145a382eab606ed6",
+        "size": 622836080
       },
       "collection_key": "narcos-03",
       "day_cache_validation": {
@@ -330,6 +149,7 @@
           "archive_filename_matches_observed_end": true,
           "available_day_products": 28,
           "cache_members": 5605,
+          "first_observed_day_index": 1,
           "missing_indices": [
             20,
             21,
@@ -374,12 +194,75 @@
         "eligible_candidates": [
           {
             "filename": "cache.20171001.tar.xz",
-            "size": 284615316
+            "size": 622836080
           }
         ],
         "expected_filename_date": "20171001"
       },
       "worker_archive_relative_path": "narcos-03.cache/cache.20171001.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20171021.tar.xz",
+        "filename_date": "20171021",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-101.cache/cache.20171021.tar.xz",
+        "sha256": "ea14b7c65803115f63b890a7086e98e0dbde95cc29c9862c9b7fdd1961345fb0",
+        "size": 360604036
+      },
+      "collection_key": "star-trek-discovery-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 27,
+          "cache_members": 3972,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-10-21",
+          "sample_span_days": 27,
+          "sample_start": "2017-09-25",
+          "torrent_indices": 150
+        },
+        "required_collection_key": "star-trek-discovery-101",
+        "required_day_products": 27,
+        "required_sample_days": 27,
+        "required_sample_end": "2017-10-21",
+        "required_sample_start": "2017-09-25",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "101",
+        "collection_name": "Star Trek Discovery",
+        "metadata_version": "2025-11-22",
+        "sample_days": 27,
+        "sample_end": "2017-10-21",
+        "sample_start": "2017-09-25",
+        "sha256": "1c33dfec09d05e01dbfa3069eddbcef8f8396f42bfe5c1817d2a89093bd79be1",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/star-trek-discovery-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20171021.tar.xz",
+            "size": 360604036
+          }
+        ],
+        "expected_filename_date": "20171021"
+      },
+      "worker_archive_relative_path": "star-trek-discovery-101.cache/cache.20171021.tar.xz"
     },
     {
       "archive": {
@@ -446,7 +329,7 @@
     }
   ],
   "schema": "alpha60-year-day-worker-map/1",
-  "source_map_sha256": "b68696bc369b9b410f5bfda3849d850f9cd6937061b4c5df4cc28be26e8f6569",
+  "source_map_sha256": "e166418722dcac78121302e3d977c2557b272223bfa7c4ab512e4bc72cf592b1",
   "status": "pass",
   "year": "2017"
 }
