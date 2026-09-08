@@ -1,0 +1,604 @@
+{
+  "cache_root": "/mnt/gold/src/alpha60-samples-cache.gold",
+  "owner": "ord",
+  "records": [
+    {
+      "archive": {
+        "filename": "cache.20171223.tar.xz",
+        "filename_date": "20171223",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/el-chapo-02.cache/cache.20171223.tar.xz",
+        "sha256": "9ace8b36e36fa2ed7785352576bb149e2536707cdecdbb51b466ce215e99d7a2",
+        "size": 74961920
+      },
+      "collection_key": "el-chapo-02",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 8,
+          "cache_members": 1924,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-12-23",
+          "sample_span_days": 8,
+          "sample_start": "2017-12-16",
+          "torrent_indices": 246
+        },
+        "required_collection_key": "el-chapo-02",
+        "required_day_products": 8,
+        "required_sample_days": 8,
+        "required_sample_end": "2017-12-23",
+        "required_sample_start": "2017-12-16",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "El Chapo",
+        "metadata_version": "2025-11-22",
+        "sample_days": 8,
+        "sample_end": "2017-12-23",
+        "sample_start": "2017-12-16",
+        "sha256": "edd6c2c04e731497985e3dd633d7ddc899c037f782f43ea51b49ac78aa22c28c",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/el-chapo-02.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20171223.tar.xz",
+            "size": 74961920
+          }
+        ],
+        "expected_filename_date": "20171223"
+      },
+      "worker_archive_relative_path": "el-chapo-02.cache/cache.20171223.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20180331.tar.xz",
+        "filename_date": "20180331",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/screeners.cache/cache.20180331.tar.xz",
+        "sha256": "d1d53e5959d3e15e625e499088115b6c5643481bb6409f899085896e2d0ceaad",
+        "size": 1496732992
+      },
+      "collection_key": "screeners",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 96,
+          "cache_members": 9909,
+          "first_observed_day_index": 1,
+          "missing_indices": [
+            23,
+            24,
+            25,
+            26
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2018-03-31",
+          "sample_span_days": 100,
+          "sample_start": "2017-12-22",
+          "torrent_indices": 147
+        },
+        "required_collection_key": "screeners",
+        "required_day_products": 96,
+        "required_sample_days": 100,
+        "required_sample_end": "2018-03-31",
+        "required_sample_start": "2017-12-22",
+        "required_sparse_intervals": [
+          {
+            "days": 4,
+            "first_index": 23,
+            "last_index": 26
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Screeners 2017-2018",
+        "metadata_version": null,
+        "sample_days": 100,
+        "sample_end": "2018-03-31",
+        "sample_start": "2017-12-22",
+        "sha256": "a414a7de1aed7b20883d7733a387232640ba3a64bc0531bb45150a1e09d0ee6b",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/screeners.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180331.tar.xz",
+            "size": 1496732992
+          }
+        ],
+        "expected_filename_date": "20180331"
+      },
+      "worker_archive_relative_path": "screeners.cache/cache.20180331.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20170827.tar.xz",
+        "filename_date": "20170827",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/sense8-02.1.cache/cache.20170827.tar.xz",
+        "sha256": "618ebf3f12134a30480e3808798164855842d894773db85d50e9002ae8b9f2f8",
+        "size": 118529372
+      },
+      "collection_key": "sense8-02.1",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 37,
+          "cache_members": 4280,
+          "missing_indices": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2017-08-27",
+          "sample_span_days": 115,
+          "sample_start": "2017-05-05",
+          "torrent_indices": 118
+        },
+        "required_collection_key": "sense8-02.1",
+        "required_day_products": 37,
+        "required_sample_days": 115,
+        "required_sample_end": "2017-08-27",
+        "required_sample_start": "2017-05-05",
+        "required_sparse_intervals": [
+          {
+            "days": 78,
+            "first_index": 35,
+            "last_index": 112
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Sense8",
+        "metadata_version": "2025-11-22",
+        "sample_days": 115,
+        "sample_end": "2017-08-27",
+        "sample_start": "2017-05-05",
+        "sha256": "20acd5afd3eb87971394dbbcdfe69ef389dab36bb457d2d98f5ac8ff211e7569",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/sense8-02.1.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170827.tar.xz",
+            "size": 118529372
+          }
+        ],
+        "expected_filename_date": "20170827"
+      },
+      "worker_archive_relative_path": "sense8-02.1.cache/cache.20170827.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20171021.tar.xz",
+        "filename_date": "20171021",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-101.cache/cache.20171021.tar.xz",
+        "sha256": "ea14b7c65803115f63b890a7086e98e0dbde95cc29c9862c9b7fdd1961345fb0",
+        "size": 360604036
+      },
+      "collection_key": "star-trek-discovery-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 27,
+          "cache_members": 3972,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-10-21",
+          "sample_span_days": 27,
+          "sample_start": "2017-09-25",
+          "torrent_indices": 150
+        },
+        "required_collection_key": "star-trek-discovery-101",
+        "required_day_products": 27,
+        "required_sample_days": 27,
+        "required_sample_end": "2017-10-21",
+        "required_sample_start": "2017-09-25",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "101",
+        "collection_name": "Star Trek Discovery",
+        "metadata_version": "2025-11-22",
+        "sample_days": 27,
+        "sample_end": "2017-10-21",
+        "sample_start": "2017-09-25",
+        "sha256": "1c33dfec09d05e01dbfa3069eddbcef8f8396f42bfe5c1817d2a89093bd79be1",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/star-trek-discovery-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20171021.tar.xz",
+            "size": 360604036
+          }
+        ],
+        "expected_filename_date": "20171021"
+      },
+      "worker_archive_relative_path": "star-trek-discovery-101.cache/cache.20171021.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20180331.tar.xz",
+        "filename_date": "20180331",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-wars-last-jedi.cache/cache.20180331.tar.xz",
+        "sha256": "1b03d588390a02f0f1db356d0ad867d65af9b19e5919614591ee300bb1ab775d",
+        "size": 568316392
+      },
+      "collection_key": "star-wars-last-jedi",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 89,
+          "cache_members": 2637,
+          "first_observed_day_index": 8,
+          "missing_indices": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            23,
+            24,
+            25,
+            26
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2018-03-31",
+          "sample_span_days": 100,
+          "sample_start": "2017-12-29",
+          "torrent_indices": 82
+        },
+        "required_collection_key": "star-wars-last-jedi",
+        "required_day_products": 89,
+        "required_sample_days": 100,
+        "required_sample_end": "2018-03-31",
+        "required_sample_start": "2017-12-22",
+        "required_sparse_intervals": [
+          {
+            "days": 7,
+            "first_index": 1,
+            "last_index": 7
+          },
+          {
+            "days": 4,
+            "first_index": 23,
+            "last_index": 26
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Star Wars The Last Jedi",
+        "metadata_version": null,
+        "sample_days": 100,
+        "sample_end": "2018-03-31",
+        "sample_start": "2017-12-22",
+        "sha256": "3a15ccc3bb635d4a0abdd08a5bf8e91aa824c7942a68db09b3a0cbb4403de820",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/star-wars-last-jedi.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180331.tar.xz",
+            "size": 568316392
+          }
+        ],
+        "expected_filename_date": "20180331"
+      },
+      "worker_archive_relative_path": "star-wars-last-jedi.cache/cache.20180331.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20180331.tar.xz",
+        "filename_date": "20180331",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/stormy-daniels-2017.cache/cache.20180331.tar.xz",
+        "sha256": "550f2632febd91fa42f13b5c0cc24fe16692013a984bfca2856766a119b4a6f2",
+        "size": 22682284
+      },
+      "collection_key": "stormy-daniels-2017",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 71,
+          "cache_members": 1890,
+          "first_observed_day_index": 30,
+          "missing_indices": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2018-03-31",
+          "sample_span_days": 100,
+          "sample_start": "2018-01-20",
+          "torrent_indices": 50
+        },
+        "required_collection_key": "stormy-daniels-2017",
+        "required_day_products": 71,
+        "required_sample_days": 100,
+        "required_sample_end": "2018-03-31",
+        "required_sample_start": "2017-12-22",
+        "required_sparse_intervals": [
+          {
+            "days": 29,
+            "first_index": 1,
+            "last_index": 29
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Stormy Daniels",
+        "metadata_version": null,
+        "sample_days": 100,
+        "sample_end": "2018-03-31",
+        "sample_start": "2017-12-22",
+        "sha256": "364148449c8ff266b6e404fb77523a7af7f632510cbf740b8dcf7219539492b8",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/stormy-daniels-2017.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180331.tar.xz",
+            "size": 22682284
+          }
+        ],
+        "expected_filename_date": "20180331"
+      },
+      "worker_archive_relative_path": "stormy-daniels-2017.cache/cache.20180331.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20171231.tar.xz",
+        "filename_date": "20171231",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/stranger-things-02.cache/cache.20171231.tar.xz",
+        "sha256": "f3d50f54f313ec6fc5360e0b785a35582fb817335f6bf3017bb4599c9038132d",
+        "size": 1542871924
+      },
+      "collection_key": "stranger-things-02",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 66,
+          "cache_members": 17962,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-12-31",
+          "sample_span_days": 66,
+          "sample_start": "2017-10-27",
+          "torrent_indices": 274
+        },
+        "required_collection_key": "stranger-things-02",
+        "required_day_products": 66,
+        "required_sample_days": 66,
+        "required_sample_end": "2017-12-31",
+        "required_sample_start": "2017-10-27",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Stranger Things",
+        "metadata_version": "2025-11-22",
+        "sample_days": 66,
+        "sample_end": "2017-12-31",
+        "sample_start": "2017-10-27",
+        "sha256": "e0bbc135cd13a89f0f1b544c2e7aec1f06dcb602a778e421c408aa667d469da6",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/stranger-things-02.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20171231.tar.xz",
+            "size": 1542871924
+          }
+        ],
+        "expected_filename_date": "20171231"
+      },
+      "worker_archive_relative_path": "stranger-things-02.cache/cache.20171231.tar.xz"
+    }
+  ],
+  "schema": "alpha60-year-day-worker-map/1",
+  "source_map_sha256": "b68696bc369b9b410f5bfda3849d850f9cd6937061b4c5df4cc28be26e8f6569",
+  "status": "pass",
+  "year": "2017"
+}
