@@ -713,6 +713,13 @@
         "required_sample_days": 100,
         "required_sample_end": "2018-03-31",
         "required_sample_start": "2017-12-22",
+        "allow_leading_sparse": true,
+        "leading_sparse_exception": {
+          "status": "approved",
+          "first_available_index": 8,
+          "missing_indices": [1, 2, 3, 4, 5, 6, 7],
+          "reason": "Preserve the original 2017 sample contract and global Day numbering; the immutable archive begins at Day 8."
+        },
         "required_sparse_intervals": [
           {
             "days": 7,
