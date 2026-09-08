@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "",
+    "imdb_id": "",
+    "revision": "db302b1a9a3749405ab2010a380ff932d468e2e4",
+    "wikidata_id": "",
+    "wikipedia_url": ""
+  },
+  "coverage_sha256": "214d3d94af168c5638a662eb4a5492b2a8b8e80c8a5d458376a635e283be6c05",
+  "generated_at": "2026-09-08T17:08:16.809985+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/stormy-daniels-2017.cache/cache.20180331.tar.xz",
+      "sha256": "550f2632febd91fa42f13b5c0cc24fe16692013a984bfca2856766a119b4a6f2",
+      "size": 22682284
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-coverage-evidence/stormy-daniels-2017.md",
+      "sha256": "4a4349fcf8ba1942fbd12339199b2d6164b80cdcc8f65f85342043b48984515a",
+      "size": 832
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-cache-stream-receipts/stormy-daniels-2017.json",
+      "sha256": "9c05e7eed9486fcdc545bd0613cee75a78f226ddde6e50b3b875c645d6077760",
+      "size": 2619
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-product-receipts/stormy-daniels-2017.json",
+      "sha256": "aaa60a22302c7d70e28d53dcceb8e209f331d7b2a952240836ddc4526fcf4a26",
+      "size": 373
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+      "sha256": "22553deb3eb467d9f9b4c99feedaca61045f606298370bb1bba382b77ebc23f8",
+      "size": 20183
+    }
+  },
+  "media_object": "stormy-daniels-2017",
+  "published_files": {
+    "data/csv/bytes/stormy-daniels-2017-cumulative-detail.2017-btiha-itemized-by-bytes.csv": "919c454f8934c8c902d0cff3218315611f248026a5c66579c64c08776460412b",
+    "docs/itemized/figures/stormy-daniels-2017-carto-4k.webp": "fd5a6b3c9994abe6e4804712edc2218c69f66efaf08811034e5ee243a986fdff",
+    "docs/itemized/figures/stormy-daniels-2017-carto.png": "2385eff7edeeecc34328e536c929edc60ac8c26d2e180e4c3f1e37655204a13c",
+    "docs/itemized/figures/stormy-daniels-2017-cumulative-detail-btiha-itemized-by-bytes.svg": "954e9ed892e4eec6b90686ac837e6142c4458981f754da76dda5d17996c3eec9",
+    "docs/itemized/figures/stormy-daniels-2017-data-ge-1080p-4k.webp": "e7d63f5d3faa0a004f35a76acc15d0638cabc9e317cf71f0a218d4196a262a47",
+    "docs/itemized/figures/stormy-daniels-2017-data-ge-1080p.webp": "0ac9c0972fa5ddb771fc036b78abe77ed500e26b22b52aa19f727af4d1013687",
+    "docs/itemized/figures/stormy-daniels-2017-data-lt-1080p-4k.webp": "54a72097c63663cb6ae69b141464175c88f6f4bff8ce475e4118c4f21a1a50c8",
+    "docs/itemized/figures/stormy-daniels-2017-data-lt-1080p.webp": "fbf19293b81dc9c7a6421e165a6ac59c680766f3e472fcdf15197f3cd68c3709",
+    "docs/itemized/figures/stormy-daniels-2017-downloads-by-day-day.svg": "1df51d94bb4c10a41d050a6face45e36424a6be430776854c13d6d6fcccea5a2",
+    "docs/itemized/figures/stormy-daniels-2017-downloads-by-week-stormy-daniels-2017-week.svg": "46743ebfbfb7000a0cb069ea292f816dac186ab4c17b414fe062efcbadb65340",
+    "docs/itemized/stormy-daniels-2017-sample-cache-audit.md": "ffc6dcdabd8207485f5f84d077bf4135450ca4eacf37ae90dce56ccdc80c0374",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": true,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "553615ad90ee0184fc726ca69c4bfc5ba764f9d8",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c026a8d0149037127064978005e2d27e3bc9852899d4c0cd2a752843ea627cf6",
+      "size": 37142680
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/stormy-daniels-2017/tmp/stormy-daniels-2017-cumulative-btiha.geojson",
+        "sha256": "11fba3e9fd08f99d2386ba518e7c62b9c88ab81343c43714a187d746c5f4cdb8",
+        "size": 15281110
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/stormy-daniels-2017/tmp/stormy-daniels-2017-cumulative-btiha-media-objects.json",
+        "sha256": "50fa5af915fc2588d06a66de5041cc69b7bbdb0ff1cdd732de6c484c1ce095df",
+        "size": 369521
+      }
+    },
+    "izzi": {
+      "dirty": true,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "stormy-daniels-2017",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "c8123c331bb382b004482f68c6d9d9a10011f7e2b0b16b642fbaad46bcf6c1ab",
+      "size": 8759488
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          67.0,
+          65.0,
+          63.0,
+          62.0,
+          54.0,
+          43.0,
+          42.0,
+          38.0,
+          38.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Columbus",
+          "Lipetsk",
+          "London",
+          "New York City",
+          "Tokyo",
+          "Lelystad",
+          "Breda",
+          "Ashburn",
+          "Seattle"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          77.0,
+          75.0,
+          70.0,
+          55.0,
+          54.0,
+          49.0,
+          43.0,
+          41.0,
+          34.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "London",
+          "Mumbai",
+          "New York City",
+          "Columbus",
+          "Ashburn",
+          "Breda",
+          "Shanghai",
+          "Lelystad",
+          "Seattle"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 7,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 11,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "553615ad90ee0184fc726ca69c4bfc5ba764f9d8",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "a106b9528c6f444032ab6551adbc582767d33c9e",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "db302b1a9a3749405ab2010a380ff932d468e2e4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2017"
+}
