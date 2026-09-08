@@ -1,0 +1,34 @@
+{
+  "files": [
+    ".gitattributes",
+    ".github/workflows/jekyll-gh-pages.yml",
+    "COPYRIGHT",
+    "LICENSE",
+    "_config.yml",
+    "_includes/year-2017-0-media-objects.txt",
+    "_layouts/default.html",
+    "data/README.md",
+    "data/txt/year-2017-0-media-objects.txt",
+    "index.md",
+    "resources/a60-logo-block-gray.simple.svg",
+    "resources/a60-logo-outline-inverse.svg",
+    "resources/facts_and_figures.json",
+    "resources/fonts/noto-sans-v42-latin-700.woff2",
+    "resources/fonts/noto-sans-v42-latin-italic.woff2",
+    "resources/fonts/noto-sans-v42-latin-regular.woff2",
+    "resources/izzi-graph-hover-txt-polyline-red.js",
+    "resources/izzi-map-leaflet-geojson-v7.3.js",
+    "resources/izzi-table-sort-wcag-22.css",
+    "resources/izzi-table-sort-wcag-22.js",
+    "resources/izzi-table-wcag-22.css"
+  ],
+  "inventory": {
+    "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-0-media-objects.txt",
+    "records": 14,
+    "sha256": "93790aaf31bbe3cf4faf8ae2b249f71f83859022bb221daa24e8862518ff7a8c"
+  },
+  "schema": "alpha60-year-results-scaffold/1",
+  "status": "pass",
+  "template": "/home/bkoz/src/alpha60-results-2023",
+  "year": "2017"
+}
