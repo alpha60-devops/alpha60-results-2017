@@ -1,0 +1,39 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/star-wars-last-jedi-rerun-archive-verification.json",
+    "sha256": "0f37422f31d674a56e0dcfe21177b2f591de5d756d27410b492e4105c687f028",
+    "size": 1292
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 1,
+    "records": 1
+  },
+  "executor": "ord",
+  "finished_at": "2026-09-08T17:20:56.520255+00:00",
+  "owner": "ord",
+  "records": [
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/star-wars-last-jedi.cache/cache.20180331.tar.xz",
+      "collection_key": "star-wars-last-jedi",
+      "executor": "ord",
+      "finished_at": "2026-09-08T17:20:56.519860+00:00",
+      "owner": "ord",
+      "results_revision": "3aa405463c1af35d154c0a9e0b8e9d9ae669d224",
+      "started_at": "2026-09-08T17:15:19.206124+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-08T17:15:19.205290+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+    "sha256": "65ed919417a03f37ed44f3ba34a85cb198608306c221e5a323602ce2253e5fa4",
+    "size": 20522
+  },
+  "year": "2017"
+}

@@ -1,0 +1,101 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/archive-verification.json",
+    "sha256": "174b74591066cc7dd43497ae814c3cce0b9507313daf13290a8c0ca9cd77c2a5",
+    "size": 4852
+  },
+  "counts": {
+    "errors": 5,
+    "passed": 2,
+    "records": 7
+  },
+  "executor": "ord",
+  "finished_at": "2026-09-08T14:58:15.763924+00:00",
+  "owner": "ord",
+  "records": [
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/blade-runner-2049.cache/cache.20180331.tar.xz",
+      "collection_key": "blade-runner-2049",
+      "error": "Command '['/usr/bin/python3', '/home/bkoz/src/alpha60/scripts/generate-cache-aggregates.py', 'blade-runner-2049', '--cache-archive', '/home/bkoz/src/alpha60-samples-cache/year-2017-archives/blade-runner-2049.cache/cache.20180331.tar.xz', '--output-dir', '/home/bkoz/src/alpha60-xperiments/year-2017/blade-runner-2049/tmp', '--data-dir', '/home/bkoz/src/alpha60-data', '--metadata-dir', '/home/bkoz/src/alpha60-swarm-metadata/metadata', '--binaries-dir', '/home/bkoz/src/alpha60/build/campaign', '--released-day-input', '--expected-day-count', '89', '--expected-day-span', '100', '--day-index-width', '5', '--required-sample-start', '2017-12-22', '--required-sample-end', '2018-03-31', '--workers', '32', '--skip-build', '--resume']' returned non-zero exit status 1.",
+      "executor": "ord",
+      "finished_at": "2026-09-08T14:36:28.123776+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-08T14:36:24.262014+00:00",
+      "status": "error"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/el-chapo-02.cache/cache.20171223.tar.xz",
+      "collection_key": "el-chapo-02",
+      "error": "Command '['/usr/bin/python3', '/home/bkoz/src/alpha60/scripts/generate-cache-aggregates.py', 'el-chapo-02', '--cache-archive', '/home/bkoz/src/alpha60-samples-cache/year-2017-archives/el-chapo-02.cache/cache.20171223.tar.xz', '--output-dir', '/home/bkoz/src/alpha60-xperiments/year-2017/el-chapo-02/tmp', '--data-dir', '/home/bkoz/src/alpha60-data', '--metadata-dir', '/home/bkoz/src/alpha60-swarm-metadata/metadata', '--binaries-dir', '/home/bkoz/src/alpha60/build/campaign', '--released-day-input', '--expected-day-count', '8', '--expected-day-span', '8', '--day-index-width', '4', '--required-sample-start', '2017-12-16', '--required-sample-end', '2017-12-23', '--workers', '32', '--skip-build', '--resume']' returned non-zero exit status 1.",
+      "executor": "ord",
+      "finished_at": "2026-09-08T14:36:52.072567+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-08T14:36:28.124131+00:00",
+      "status": "error"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/screeners.cache/cache.20180331.tar.xz",
+      "collection_key": "screeners",
+      "executor": "ord",
+      "finished_at": "2026-09-08T14:37:21.599276+00:00",
+      "owner": "ord",
+      "results_revision": "82ecdcb4c4d7d34bc5c1f915122bfa1db74031b2",
+      "started_at": "2026-09-08T14:36:52.073166+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/sense8-02.1.cache/cache.20170827.tar.xz",
+      "collection_key": "sense8-02.1",
+      "executor": "ord",
+      "finished_at": "2026-09-08T14:39:03.390112+00:00",
+      "owner": "ord",
+      "results_revision": "ba18ff4d75d87d7231c33e691ce6cb1b779dcf5b",
+      "started_at": "2026-09-08T14:37:21.599972+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/star-wars-last-jedi.cache/cache.20180331.tar.xz",
+      "collection_key": "star-wars-last-jedi",
+      "error": "Command '['/usr/bin/python3', '/home/bkoz/src/alpha60/scripts/generate-cache-aggregates.py', 'star-wars-last-jedi', '--cache-archive', '/home/bkoz/src/alpha60-samples-cache/year-2017-archives/star-wars-last-jedi.cache/cache.20180331.tar.xz', '--output-dir', '/home/bkoz/src/alpha60-xperiments/year-2017/star-wars-last-jedi/tmp', '--data-dir', '/home/bkoz/src/alpha60-data', '--metadata-dir', '/home/bkoz/src/alpha60-swarm-metadata/metadata', '--binaries-dir', '/home/bkoz/src/alpha60/build/campaign', '--released-day-input', '--expected-day-count', '89', '--expected-day-span', '100', '--day-index-width', '5', '--required-sample-start', '2017-12-22', '--required-sample-end', '2018-03-31', '--workers', '32', '--skip-build', '--resume']' returned non-zero exit status 1.",
+      "executor": "ord",
+      "finished_at": "2026-09-08T14:39:06.520621+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-08T14:39:03.390869+00:00",
+      "status": "error"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/stormy-daniels-2017.cache/cache.20180331.tar.xz",
+      "collection_key": "stormy-daniels-2017",
+      "error": "Command '['/usr/bin/python3', '/home/bkoz/src/alpha60/scripts/generate-cache-aggregates.py', 'stormy-daniels-2017', '--cache-archive', '/home/bkoz/src/alpha60-samples-cache/year-2017-archives/stormy-daniels-2017.cache/cache.20180331.tar.xz', '--output-dir', '/home/bkoz/src/alpha60-xperiments/year-2017/stormy-daniels-2017/tmp', '--data-dir', '/home/bkoz/src/alpha60-data', '--metadata-dir', '/home/bkoz/src/alpha60-swarm-metadata/metadata', '--binaries-dir', '/home/bkoz/src/alpha60/build/campaign', '--released-day-input', '--expected-day-count', '71', '--expected-day-span', '100', '--day-index-width', '5', '--required-sample-start', '2017-12-22', '--required-sample-end', '2018-03-31', '--workers', '32', '--skip-build', '--resume']' returned non-zero exit status 1.",
+      "executor": "ord",
+      "finished_at": "2026-09-08T14:39:07.835428+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-08T14:39:06.521450+00:00",
+      "status": "error"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/stranger-things-02.cache/cache.20171231.tar.xz",
+      "collection_key": "stranger-things-02",
+      "error": "Command '['/usr/bin/python3', '/home/bkoz/src/alpha60/scripts/generate-cache-aggregates.py', 'stranger-things-02', '--cache-archive', '/home/bkoz/src/alpha60-samples-cache/year-2017-archives/stranger-things-02.cache/cache.20171231.tar.xz', '--output-dir', '/home/bkoz/src/alpha60-xperiments/year-2017/stranger-things-02/tmp', '--data-dir', '/home/bkoz/src/alpha60-data', '--metadata-dir', '/home/bkoz/src/alpha60-swarm-metadata/metadata', '--binaries-dir', '/home/bkoz/src/alpha60/build/campaign', '--released-day-input', '--expected-day-count', '66', '--expected-day-span', '66', '--day-index-width', '4', '--required-sample-start', '2017-10-27', '--required-sample-end', '2017-12-31', '--workers', '32', '--skip-build', '--resume']' returned non-zero exit status 1.",
+      "executor": "ord",
+      "finished_at": "2026-09-08T14:58:15.763253+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-08T14:39:07.836120+00:00",
+      "status": "error"
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-08T14:36:24.261334+00:00",
+  "status": "error",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+    "sha256": "18115a39b29cce24600ed4a1f582c9be44934b8ec4771ccab022bbddf56da398",
+    "size": 19457
+  },
+  "year": "2017"
+}
