@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt6692188",
+    "imdb_id": "tt6692188",
+    "revision": "db302b1a9a3749405ab2010a380ff932d468e2e4",
+    "wikidata_id": "Q29636642",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/El_Chapo_(TV_series)"
+  },
+  "coverage_sha256": "191237b8ebae919b4b9c1a27a369ef99040c35ea05bfd64df7f93e3bfbd31609",
+  "generated_at": "2026-09-08T17:56:55.790420+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/el-chapo-02.cache/cache.20171223.tar.xz",
+      "sha256": "9ace8b36e36fa2ed7785352576bb149e2536707cdecdbb51b466ce215e99d7a2",
+      "size": 74961920
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-coverage-evidence/el-chapo-02.md",
+      "sha256": "8bc2f22af2bc7f6332e3deb67c91340671fd38404d227088c1d3285889302e0a",
+      "size": 543
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-cache-stream-receipts/el-chapo-02.json",
+      "sha256": "a7906e8d542c4ee28bf73799bc234b95a57e84c29f29090ad7f60b5d72d19476",
+      "size": 2034
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-product-receipts/el-chapo-02.json",
+      "sha256": "142fc4729992d07897950df7e87764f67f383096f6c4b02214b0cde1a14665a2",
+      "size": 361
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+      "sha256": "65ed919417a03f37ed44f3ba34a85cb198608306c221e5a323602ce2253e5fa4",
+      "size": 20522
+    }
+  },
+  "media_object": "el-chapo-02",
+  "published_files": {
+    "data/csv/bytes/el-chapo-02-cumulative-detail.2017-btiha-itemized-by-bytes.csv": "19a190f757ee7e2681d01ad5109d1938971938c554a6d896feb190630a399bd6",
+    "docs/itemized/el-chapo-02-sample-cache-audit.md": "92dab7d3536cf2e4d58e925e743cd91e18073a35e337b0a12c301dd6d40d4341",
+    "docs/itemized/figures/el-chapo-02-carto-4k.webp": "36b2cd97e72d2a5ace28274eae8b47ca27d2463edef04126ac16fddc365dde12",
+    "docs/itemized/figures/el-chapo-02-carto.png": "d9a591673fb6655c10f5741a9dc2119ed43e20c0192652eafa65df2f6dd0beb0",
+    "docs/itemized/figures/el-chapo-02-cumulative-detail-btiha-itemized-by-bytes.svg": "fdb2b645d2e31612bb07bd077d59d4f787ed1f8d9babe436bbbc0c06243e9f50",
+    "docs/itemized/figures/el-chapo-02-data-ge-1080p-4k.webp": "5c8479a08ceef6c07f3aef9bd824f9cbfcf18ed028467bbc4d6defb6d893dfee",
+    "docs/itemized/figures/el-chapo-02-data-ge-1080p.webp": "fe962eab182554511e5a1500f407488920700a13f9b431dbba7ce9d97e441a4b",
+    "docs/itemized/figures/el-chapo-02-data-lt-1080p-4k.webp": "46474d255798127d27a3767d49e862c0b1ab4af4beb75905410652c9dd3550ae",
+    "docs/itemized/figures/el-chapo-02-data-lt-1080p.webp": "d2dc1f533f1334b1d8776a60e5faf5452cec034e6aafdd9ff1b8506373593a79",
+    "docs/itemized/figures/el-chapo-02-downloads-by-day-day.svg": "63a40f4dbf37c79fbef71b26278f46133d3e759c9ebd1f84928078f15495e50a",
+    "docs/itemized/figures/el-chapo-02-downloads-by-week-el-chapo-02-week.svg": "c43f5acb4a69d3b82a640f7b237199fdd6eccf80f4ac9de385ea3ca3bed8950b",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": true,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "553615ad90ee0184fc726ca69c4bfc5ba764f9d8",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/tmp/a60-campaign-digits4-all/a60-carto-geo.exe",
+      "sha256": "c026a8d0149037127064978005e2d27e3bc9852899d4c0cd2a752843ea627cf6",
+      "size": 37142680
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017-digits4-repair-ord3/el-chapo-02/tmp/el-chapo-02-cumulative-btiha.geojson",
+        "sha256": "202b3708b2930c38899868a73258f68b1e586e9333effb696da2d4509755e9c9",
+        "size": 17912044
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017-digits4-repair-ord3/el-chapo-02/tmp/el-chapo-02-cumulative-btiha-media-objects.json",
+        "sha256": "6ee4ef29db3adb01044fc3d5812488f03a043521934e0fffc7b07cf0342679d0",
+        "size": 482046
+      }
+    },
+    "izzi": {
+      "dirty": true,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "el-chapo-02",
+    "meta_collection_renderer": {
+      "path": "/tmp/a60-campaign-digits4-all/a60-meta-collection.exe",
+      "sha256": "c8123c331bb382b004482f68c6d9d9a10011f7e2b0b16b642fbaad46bcf6c1ab",
+      "size": 8759488
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          42.0,
+          33.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Columbus",
+          "New York City",
+          "Seoul",
+          "Breda",
+          "Seattle",
+          "Dublin",
+          "Frankfurt am Main",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          49.0,
+          46.0,
+          35.0,
+          32.0,
+          31.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "New York City",
+          "Seoul",
+          "Seattle",
+          "Tokyo",
+          "Breda",
+          "Independence",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 8,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 18,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 2,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "553615ad90ee0184fc726ca69c4bfc5ba764f9d8",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "a106b9528c6f444032ab6551adbc582767d33c9e",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "db302b1a9a3749405ab2010a380ff932d468e2e4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2017"
+}

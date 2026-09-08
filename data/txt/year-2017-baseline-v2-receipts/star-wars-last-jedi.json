@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt2527336",
+    "imdb_id": "tt2527336",
+    "revision": "db302b1a9a3749405ab2010a380ff932d468e2e4",
+    "wikidata_id": "Q18486021",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi"
+  },
+  "coverage_sha256": "214d3d94af168c5638a662eb4a5492b2a8b8e80c8a5d458376a635e283be6c05",
+  "generated_at": "2026-09-08T17:20:56.500747+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/star-wars-last-jedi.cache/cache.20180331.tar.xz",
+      "sha256": "1b03d588390a02f0f1db356d0ad867d65af9b19e5919614591ee300bb1ab775d",
+      "size": 568316392
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-coverage-evidence/star-wars-last-jedi.md",
+      "sha256": "38f44347298fcc2968a26086884048b4322e6c959a6fc5b611c885c120689dfb",
+      "size": 832
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-cache-stream-receipts/star-wars-last-jedi.json",
+      "sha256": "cfc2bd371e249e5c37c15980a3993e65cd3b32fea627614047ba48cfbba5a8a9",
+      "size": 2792
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-product-receipts/star-wars-last-jedi.json",
+      "sha256": "7c8375ac9411ef55e965a9a3d06d919a064764da34e86fa853e3d8eca4fd8dd1",
+      "size": 371
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+      "sha256": "65ed919417a03f37ed44f3ba34a85cb198608306c221e5a323602ce2253e5fa4",
+      "size": 20522
+    }
+  },
+  "media_object": "star-wars-last-jedi",
+  "published_files": {
+    "data/csv/bytes/star-wars-last-jedi-cumulative-detail.2017-btiha-itemized-by-bytes.csv": "4e0edbda0f59ae70e7c50b1404d5645a8daed871bf7c0ba03c635371284c49a0",
+    "docs/itemized/figures/star-wars-last-jedi-carto-4k.webp": "6288353de2eb2b87b163c9cbfc5533b8e8c94ab5b3a99f972b3661fa75c38a30",
+    "docs/itemized/figures/star-wars-last-jedi-carto.png": "f5649ff7c87bc0ffd1d602b3fd6e167dd0e7c9a4608e132a3a78cfdd40a3c72b",
+    "docs/itemized/figures/star-wars-last-jedi-cumulative-detail-btiha-itemized-by-bytes.svg": "8e90033c93264cad3115e5bb9eafada933f31a90e12bf0eeb73da898c4442031",
+    "docs/itemized/figures/star-wars-last-jedi-data-ge-1080p-4k.webp": "19aa9aace43110f9641e13dce487c36e7ff1e36cf91b13b259648e75809dc78a",
+    "docs/itemized/figures/star-wars-last-jedi-data-ge-1080p.webp": "a1365f02087bb3199b447ba18589013f4dd3a4ac4649c441d4ea1c497c021086",
+    "docs/itemized/figures/star-wars-last-jedi-data-lt-1080p-4k.webp": "642c64a53449f1c5b399cd5097e2748d58b1e6c926fe16d3862a2754f18dd406",
+    "docs/itemized/figures/star-wars-last-jedi-data-lt-1080p.webp": "0b65e17b5d4a71ff0bc8597d7503d8f85fd8a7ff60ecf148208be2e358d63ad9",
+    "docs/itemized/figures/star-wars-last-jedi-downloads-by-day-day.svg": "e248acd55a845897a21151dfbed2f69c398d15040b3c6e3cfb105bb54820c041",
+    "docs/itemized/figures/star-wars-last-jedi-downloads-by-week-star-wars-last-jedi-week.svg": "349c275ced93547fbc7fadf84a14fdb1dcd91da139b85333a60581d42a888113",
+    "docs/itemized/star-wars-last-jedi-sample-cache-audit.md": "28a94464da171fde8517a6ce5708c9df7cb2bcee8a565acbef41f29143a27b82",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": true,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "553615ad90ee0184fc726ca69c4bfc5ba764f9d8",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c026a8d0149037127064978005e2d27e3bc9852899d4c0cd2a752843ea627cf6",
+      "size": 37142680
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/star-wars-last-jedi/tmp/star-wars-last-jedi-cumulative-btiha.geojson",
+        "sha256": "aa95f3e6977da1924f42968d9b32b9964808cde61f703b2a0068ca0bd6b5be53",
+        "size": 104904361
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/star-wars-last-jedi/tmp/star-wars-last-jedi-cumulative-btiha-media-objects.json",
+        "sha256": "ec43564e02180b296fc9f62ac80a24b84754064e795bcaf144c811dd480dfee7",
+        "size": 229868
+      }
+    },
+    "izzi": {
+      "dirty": true,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "star-wars-last-jedi",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "c8123c331bb382b004482f68c6d9d9a10011f7e2b0b16b642fbaad46bcf6c1ab",
+      "size": 8759488
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          37.0,
+          31.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "S\u00e3o Paulo",
+          "Moscow",
+          "New York City",
+          "Mumbai",
+          "Sydney",
+          "Saint Petersburg",
+          "Amsterdam",
+          "Ashburn",
+          "Warsaw"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          39.0,
+          33.0,
+          32.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Mumbai",
+          "New York City",
+          "Ashburn",
+          "Moscow",
+          "S\u00e3o Paulo",
+          "Manila",
+          "Sydney",
+          "Dublin",
+          "Delhi"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 23,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 25,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 14,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "553615ad90ee0184fc726ca69c4bfc5ba764f9d8",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "a106b9528c6f444032ab6551adbc582767d33c9e",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "db302b1a9a3749405ab2010a380ff932d468e2e4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2017"
+}
