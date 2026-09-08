@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "",
+    "imdb_id": "",
+    "revision": "db302b1a9a3749405ab2010a380ff932d468e2e4",
+    "wikidata_id": "",
+    "wikipedia_url": ""
+  },
+  "coverage_sha256": "214d3d94af168c5638a662eb4a5492b2a8b8e80c8a5d458376a635e283be6c05",
+  "generated_at": "2026-09-08T14:37:12.519798+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/screeners.cache/cache.20180331.tar.xz",
+      "sha256": "d1d53e5959d3e15e625e499088115b6c5643481bb6409f899085896e2d0ceaad",
+      "size": 1496732992
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-coverage-evidence/screeners.md",
+      "sha256": "bd5c7946974bad2737152dda5df4b482d12582c662e15651733f46c291a5fea8",
+      "size": 822
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-cache-stream-receipts/screeners.json",
+      "sha256": "e1b1222b1399cfe8e9576817713083831d7392dab6662acd225ff293f7c3a3a3",
+      "size": 2763
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-product-receipts/screeners.json",
+      "sha256": "a69241efe6ace5e9dc2759b89840fd9103c386fc2930f696333374ca1b797cb7",
+      "size": 361
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+      "sha256": "18115a39b29cce24600ed4a1f582c9be44934b8ec4771ccab022bbddf56da398",
+      "size": 19457
+    }
+  },
+  "media_object": "screeners",
+  "published_files": {
+    "data/csv/bytes/screeners-cumulative-detail.2017-btiha-itemized-by-bytes.csv": "8cba6d06e5548cb909f261b1f5a0c1a50e0007ec273f1075bada44d868183fd3",
+    "docs/itemized/figures/screeners-carto-4k.webp": "a347b0f75c56a02a67ec5b3ea837c1aad5b2c63768e55c15ffb7525c9e0cc315",
+    "docs/itemized/figures/screeners-carto.png": "42d8b0728fc0a02801824010c70ee59e8be0cb55bbfb1b873bf1db000c2b587c",
+    "docs/itemized/figures/screeners-cumulative-detail-btiha-itemized-by-bytes.svg": "d1439d7706257e17859d3ddedef6288012a261da02f25cce0e4e44629f3e1723",
+    "docs/itemized/figures/screeners-data-ge-1080p-4k.webp": "8eb808e953105bfeffea25104da7fb299107184ff918e51d1f8e279fcff3e8a4",
+    "docs/itemized/figures/screeners-data-ge-1080p.webp": "19eae01971808dda3cc93bd51806f028cfee607f6090af1c4738bc3c911586ad",
+    "docs/itemized/figures/screeners-data-lt-1080p-4k.webp": "b6d54ec2629117a3db1df6a903e4604f14d037b6fb70d970ad87c91a0f4c29d6",
+    "docs/itemized/figures/screeners-data-lt-1080p.webp": "9345fe98ff4bd5ed5415bc217202f1cee5fabb370798394616d97a6f65d5f419",
+    "docs/itemized/figures/screeners-downloads-by-day-day.svg": "1cdb4b313f408adfcbe5050c9c37f21bb61ffa4a0580f3534d51bbc021e10b21",
+    "docs/itemized/figures/screeners-downloads-by-week-eoy-screeners-2017-2018-week.svg": "280b66be9ce8468eb32cb3afba0c957fb7d579f48eb16a76c43babf7933f9418",
+    "docs/itemized/screeners-sample-cache-audit.md": "b125ff304614b6c1e7dec2f5d4fb172b9959f613cd128f33980c01175c4e8e5a",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": true,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "863951c54e8f76055c4fb688e4720a34866d98be",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c026a8d0149037127064978005e2d27e3bc9852899d4c0cd2a752843ea627cf6",
+      "size": 37142680
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/screeners/tmp/screeners-cumulative-btiha.geojson",
+        "sha256": "501be03a457413fb760955ded08c1ec8d303d9f31565c25c82ceaf938eae42e2",
+        "size": 232320139
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/screeners/tmp/screeners-cumulative-btiha-media-objects.json",
+        "sha256": "5d1dd7af2cbd34f46ec097f241fba9b57830bf399366cac9427ca521a9357b46",
+        "size": 176149
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "screeners",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "c8123c331bb382b004482f68c6d9d9a10011f7e2b0b16b642fbaad46bcf6c1ab",
+      "size": 8759488
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          83.0,
+          73.0,
+          49.0,
+          47.0,
+          41.0,
+          34.0,
+          32.0,
+          29.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Chennai",
+          "Moscow",
+          "Ashburn",
+          "Saint Petersburg",
+          "Stockholm",
+          "Mumbai",
+          "London",
+          "S\u00e3o Paulo",
+          "Bengaluru",
+          "Warsaw"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          80.0,
+          64.0,
+          38.0,
+          34.0,
+          31.0,
+          30.0,
+          29.0,
+          28.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "S\u00e3o Paulo",
+          "Mumbai",
+          "Ashburn",
+          "Rio de Janeiro",
+          "Sydney",
+          "Manila",
+          "Moscow",
+          "New York City",
+          "Melbourne"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 29,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "553615ad90ee0184fc726ca69c4bfc5ba764f9d8",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "a106b9528c6f444032ab6551adbc582767d33c9e",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "db302b1a9a3749405ab2010a380ff932d468e2e4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2017"
+}
