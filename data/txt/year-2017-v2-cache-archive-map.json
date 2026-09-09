@@ -74,7 +74,8 @@
         "required_sample_end": "2017-03-12",
         "required_sample_start": "2017-03-07",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -138,7 +139,8 @@
         "required_sample_end": "2017-06-22",
         "required_sample_start": "2017-05-31",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -225,7 +227,8 @@
             "last_index": 26
           }
         ],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": true
       },
       "owner": "ord",
       "release": {
@@ -289,7 +292,8 @@
         "required_sample_end": "2017-12-23",
         "required_sample_start": "2017-12-16",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -361,7 +365,8 @@
             "last_index": 3
           }
         ],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -425,7 +430,8 @@
         "required_sample_end": "2017-02-23",
         "required_sample_start": "2017-02-08",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -489,7 +495,8 @@
         "required_sample_end": "2017-02-19",
         "required_sample_start": "2017-02-16",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -553,7 +560,8 @@
         "required_sample_end": "2017-04-19",
         "required_sample_start": "2017-03-29",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -617,7 +625,8 @@
         "required_sample_end": "2017-05-11",
         "required_sample_start": "2017-04-19",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -681,7 +690,8 @@
         "required_sample_end": "2017-03-12",
         "required_sample_start": "2017-03-07",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -745,7 +755,8 @@
         "required_sample_end": "2017-03-28",
         "required_sample_start": "2017-03-12",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -809,7 +820,8 @@
         "required_sample_end": "2017-05-10",
         "required_sample_start": "2017-04-24",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -899,7 +911,8 @@
             "last_index": 46
           }
         ],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -979,7 +992,8 @@
             "last_index": 31
           }
         ],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -1070,7 +1084,8 @@
             "last_index": 33
           }
         ],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -1134,7 +1149,8 @@
         "required_sample_end": "2017-09-03",
         "required_sample_start": "2017-08-13",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -1198,7 +1214,8 @@
         "required_sample_end": "2017-09-24",
         "required_sample_start": "2017-08-21",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -1262,7 +1279,8 @@
         "required_sample_end": "2017-11-30",
         "required_sample_start": "2017-08-28",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -1326,7 +1344,8 @@
         "required_sample_end": "2017-03-12",
         "required_sample_start": "2017-02-20",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -1390,7 +1409,8 @@
         "required_sample_end": "2017-03-26",
         "required_sample_start": "2017-03-12",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -1454,7 +1474,8 @@
         "required_sample_end": "2017-04-08",
         "required_sample_start": "2017-04-02",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -1526,7 +1547,8 @@
             "last_index": 15
           }
         ],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -1590,7 +1612,8 @@
         "required_sample_end": "2017-05-17",
         "required_sample_start": "2017-04-26",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -1654,7 +1677,8 @@
         "required_sample_end": "2017-05-30",
         "required_sample_start": "2017-05-10",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -1799,7 +1823,8 @@
             "last_index": 87
           }
         ],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -1863,7 +1888,8 @@
         "required_sample_end": "2017-06-03",
         "required_sample_start": "2017-05-13",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -1927,7 +1953,8 @@
         "required_sample_end": "2017-04-23",
         "required_sample_start": "2017-04-03",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -2001,7 +2028,8 @@
             "last_index": 22
           }
         ],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -2076,7 +2104,8 @@
             "last_index": 26
           }
         ],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -2225,7 +2254,8 @@
             "last_index": 112
           }
         ],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -2289,7 +2319,8 @@
         "required_sample_end": "2017-10-21",
         "required_sample_start": "2017-09-25",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -2353,7 +2384,8 @@
         "required_sample_end": "2017-10-27",
         "required_sample_start": "2017-10-09",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -2421,7 +2453,8 @@
         "required_sample_end": "2017-12-11",
         "required_sample_start": "2017-11-13",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -2508,7 +2541,8 @@
             "last_index": 26
           }
         ],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": true
       },
       "owner": "eureka",
       "release": {
@@ -2608,7 +2642,8 @@
             "last_index": 29
           }
         ],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": true
       },
       "owner": "ord",
       "release": {
@@ -2672,7 +2707,8 @@
         "required_sample_end": "2017-12-31",
         "required_sample_start": "2017-10-27",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -2736,7 +2772,8 @@
         "required_sample_end": "2017-07-30",
         "required_sample_start": "2017-07-16",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -2800,7 +2837,8 @@
         "required_sample_end": "2017-09-18",
         "required_sample_start": "2017-09-03",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -2864,7 +2902,8 @@
         "required_sample_end": "2017-03-12",
         "required_sample_start": "2017-02-12",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -2928,7 +2967,8 @@
         "required_sample_end": "2017-03-06",
         "required_sample_start": "2017-02-19",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -2992,7 +3032,8 @@
         "required_sample_end": "2017-03-26",
         "required_sample_start": "2017-03-12",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -3056,7 +3097,8 @@
         "required_sample_end": "2017-04-23",
         "required_sample_start": "2017-04-02",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "ord",
       "release": {
@@ -3120,7 +3162,8 @@
         "required_sample_end": "2017-11-07",
         "required_sample_start": "2017-10-23",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
@@ -3184,7 +3227,8 @@
         "required_sample_end": "2017-12-18",
         "required_sample_start": "2017-12-04",
         "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
+        "status": "pass-read-only-member-stream",
+        "allow_leading_sparse": false
       },
       "owner": "eureka",
       "release": {
