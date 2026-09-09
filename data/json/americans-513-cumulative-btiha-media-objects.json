@@ -1,0 +1,1111 @@
+{
+    "collection_name": "The Americans",
+    "collection_id": "513",
+    "collection_key": "americans-513",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "The.Americans.2013.S05E12.HDTV.x264-SVA[ettv]",
+            "size_total": 0.252308441,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.25230828,
+                    "path": "The.Americans.2013.S05E12.HDTV.x264-SVA[ettv]/The.Americans.2013.S05E12.HDTV.x264-SVA[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.61e-7,
+                    "path": "The.Americans.2013.S05E12.HDTV.x264-SVA[ettv]/To keep us going please read.txt"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "The.Americans.2013.S05E13.720p.HDTV.x264-FLEET[eztv]",
+            "size_total": 1.52507494,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.52507494,
+                    "path": "The.Americans.2013.S05E13.720p.HDTV.x264-FLEET[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "The.Americans.2013.S05E13.720p.HDTV.x264-FLEET[rartv]-[rarbg.to]",
+            "size_total": 1.525075666,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Americans.2013.S05E13.720p.HDTV.x264-FLEET[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.52507494,
+                    "path": "The.Americans.2013.S05E13.720p.HDTV.x264-FLEET[rarbg]/The.Americans.2013.S05E13.720p.HDTV.x264-FLEET.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.96e-7,
+                    "path": "The.Americans.2013.S05E13.720p.HDTV.x264-FLEET[rarbg]/the.americans.2013.s05e13.720p.hdtv.x264-fleet.nfo"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS [IPT]",
+            "size_total": 0.332473462,
+            "files_total": 25,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000010864,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.002461264,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.015,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.rar"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000001334,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS/the.americans.2013.s05e13.hdtv.x264-killers.sfv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[ettv]",
+            "size_total": 0.332458688,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.332458527,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[ettv]/The.Americans.2013.S05E13.HDTV.x264-KILLERS[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.61e-7,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[ettv]/To keep us going please read.txt"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[eztv]",
+            "size_total": 0.332458527,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.332458527,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+            "size_total": 0.332469421,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.332458527,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[rarbg]/The.Americans.2013.S05E13.HDTV.x264-KILLERS.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000010864,
+                    "path": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[rarbg]/the.americans.2013.s05e13.hdtv.x264-killers.nfo"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "The.Americans.2013.S05E13.PROPER.480p.x264-mSD [IPT]",
+            "size_total": 0.220066529,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00017321,
+                    "path": "The.Americans.2013.S05E13.PROPER.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000354701,
+                    "path": "The.Americans.2013.S05E13.PROPER.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000174598,
+                    "path": "The.Americans.2013.S05E13.PROPER.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000154962,
+                    "path": "The.Americans.2013.S05E13.PROPER.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.219207854,
+                    "path": "The.Americans.2013.S05E13.PROPER.480p.x264-mSD/The.Americans.2013.S05E13.PROPER.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001204,
+                    "path": "The.Americans.2013.S05E13.PROPER.480p.x264-mSD/The.Americans.2013.S05E13.PROPER.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "The.Americans.2013.S05E13.PROPER.720p.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+            "size_total": 1.570660686,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Americans.2013.S05E13.PROPER.720p.HDTV.x264-KILLERS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.57064971,
+                    "path": "The.Americans.2013.S05E13.PROPER.720p.HDTV.x264-KILLERS[rarbg]/The.Americans.2013.S05E13.PROPER.720p.HDTV.x264-KILLERS.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000010946,
+                    "path": "The.Americans.2013.S05E13.PROPER.720p.HDTV.x264-KILLERS[rarbg]/the.americans.2013.s05e13.proper.720p.hdtv.x264-killers.nfo"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "The.Americans.2013.S05E13.PROPER.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.19044642,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000195686,
+                    "path": "The.Americans.2013.S05E13.PROPER.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000407117,
+                    "path": "The.Americans.2013.S05E13.PROPER.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000196971,
+                    "path": "The.Americans.2013.S05E13.PROPER.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000171891,
+                    "path": "The.Americans.2013.S05E13.PROPER.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.189473454,
+                    "path": "The.Americans.2013.S05E13.PROPER.AAC.MP4-Mobile/The.Americans.2013.S05E13.PROPER.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001301,
+                    "path": "The.Americans.2013.S05E13.PROPER.AAC.MP4-Mobile/The.Americans.2013.S05E13.PROPER.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "The.Americans.2013.S05E13.PROPER.XviD-AFG [IPT]",
+            "size_total": 0.389565132,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000147818,
+                    "path": "The.Americans.2013.S05E13.PROPER.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000404338,
+                    "path": "The.Americans.2013.S05E13.PROPER.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000213064,
+                    "path": "The.Americans.2013.S05E13.PROPER.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000162948,
+                    "path": "The.Americans.2013.S05E13.PROPER.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.388635784,
+                    "path": "The.Americans.2013.S05E13.PROPER.XviD-AFG/The.Americans.2013.S05E13.PROPER.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000118,
+                    "path": "The.Americans.2013.S05E13.PROPER.XviD-AFG/The.Americans.2013.S05E13.PROPER.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "The.Americans.2013.S05E13.The.Soviet.Division.1080p.AMZN.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 5.985173176,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Americans.2013.S05E13.The.Soviet.Division.1080p.AMZN.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 5.985173146,
+                    "path": "The.Americans.2013.S05E13.The.Soviet.Division.1080p.AMZN.WEBRip.DD5.1.x264-NTb[rarbg]/The.Americans.2013.S05E13.The.Soviet.Division.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "The.Americans.2013.S05E13.The.Soviet.Division.720p.AMZN.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 2.924979512,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Americans.2013.S05E13.The.Soviet.Division.720p.AMZN.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.924979482,
+                    "path": "The.Americans.2013.S05E13.The.Soviet.Division.720p.AMZN.WEBRip.DD5.1.x264-NTb[rarbg]/The.Americans.2013.S05E13.The.Soviet.Division.720p.AMZN.WEBRip.DD5.1.x264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "The.Americans.S05E13.1080p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "size_total": 2.349572639,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Americans.S05E13.1080p.WEB-DL.DD5.1.H264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3.1e-8,
+                    "path": "The.Americans.S05E13.1080p.WEB-DL.DD5.1.H264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000054728,
+                    "path": "The.Americans.S05E13.1080p.WEB-DL.DD5.1.H264-RARBG/The.Americans.S05E13.1080p.WEB-DL.DD5.1.H264-RARBG-SDH.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 2.348450355,
+                    "path": "The.Americans.S05E13.1080p.WEB-DL.DD5.1.H264-RARBG/The.Americans.S05E13.1080p.WEB-DL.DD5.1.H264-RARBG.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000004353,
+                    "path": "The.Americans.S05E13.1080p.WEB-DL.DD5.1.H264-RARBG/The.Americans.S05E13.1080p.WEB-DL.DD5.1.H264-RARBG.nfo"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000046408,
+                    "path": "The.Americans.S05E13.1080p.WEB-DL.DD5.1.H264-RARBG/The.Americans.S05E13.1080p.WEB-DL.DD5.1.H264-RARBG.srt"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "The.Americans.S05E13.720p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "size_total": 1.877902795,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Americans.S05E13.720p.WEB-DL.DD5.1.H264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3.1e-8,
+                    "path": "The.Americans.S05E13.720p.WEB-DL.DD5.1.H264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000054728,
+                    "path": "The.Americans.S05E13.720p.WEB-DL.DD5.1.H264-RARBG/The.Americans.S05E13.720p.WEB-DL.DD5.1.H264-RARBG-SDH.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 1.876780514,
+                    "path": "The.Americans.S05E13.720p.WEB-DL.DD5.1.H264-RARBG/The.Americans.S05E13.720p.WEB-DL.DD5.1.H264-RARBG.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00000435,
+                    "path": "The.Americans.S05E13.720p.WEB-DL.DD5.1.H264-RARBG/The.Americans.S05E13.720p.WEB-DL.DD5.1.H264-RARBG.nfo"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000046408,
+                    "path": "The.Americans.S05E13.720p.WEB-DL.DD5.1.H264-RARBG/The.Americans.S05E13.720p.WEB-DL.DD5.1.H264-RARBG.srt"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "The.Americans.S05E13.iNTERNAL.480p.x264-mSD [IPT]",
+            "size_total": 0.205016816,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000147631,
+                    "path": "The.Americans.S05E13.iNTERNAL.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000307113,
+                    "path": "The.Americans.S05E13.iNTERNAL.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000151037,
+                    "path": "The.Americans.S05E13.iNTERNAL.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000166044,
+                    "path": "The.Americans.S05E13.iNTERNAL.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.204243792,
+                    "path": "The.Americans.S05E13.iNTERNAL.480p.x264-mSD/The.Americans.S05E13.iNTERNAL.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001199,
+                    "path": "The.Americans.S05E13.iNTERNAL.480p.x264-mSD/The.Americans.S05E13.iNTERNAL.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE [IPT]",
+            "size_total": 1.095010966,
+            "files_total": 24,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.2e-8,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.045009398,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.rar"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000001496,
+                    "path": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE/the.americans.s05e13.internal.720p.web.x264-bamboozle.sfv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "The.Americans.S05E13.iNTERNAL.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.181450232,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000164879,
+                    "path": "The.Americans.S05E13.iNTERNAL.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000339104,
+                    "path": "The.Americans.S05E13.iNTERNAL.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000164479,
+                    "path": "The.Americans.S05E13.iNTERNAL.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000187936,
+                    "path": "The.Americans.S05E13.iNTERNAL.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.180592539,
+                    "path": "The.Americans.S05E13.iNTERNAL.AAC.MP4-Mobile/The.Americans.S05E13.iNTERNAL.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001295,
+                    "path": "The.Americans.S05E13.iNTERNAL.AAC.MP4-Mobile/The.Americans.S05E13.iNTERNAL.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "The.Americans.S05E13.iNTERNAL.XviD-AFG [IPT]",
+            "size_total": 0.412969595,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000158317,
+                    "path": "The.Americans.S05E13.iNTERNAL.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000316342,
+                    "path": "The.Americans.S05E13.iNTERNAL.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000182477,
+                    "path": "The.Americans.S05E13.iNTERNAL.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000159788,
+                    "path": "The.Americans.S05E13.iNTERNAL.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.4121515,
+                    "path": "The.Americans.S05E13.iNTERNAL.XviD-AFG/The.Americans.S05E13.iNTERNAL.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001171,
+                    "path": "The.Americans.S05E13.iNTERNAL.XviD-AFG/The.Americans.S05E13.iNTERNAL.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "The.Americans.S05E13.WEB-DL.x264-RARBG-[rarbg.to]",
+            "size_total": 0.30383741,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Americans.S05E13.WEB-DL.x264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "The.Americans.S05E13.WEB-DL.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00004368,
+                    "path": "The.Americans.S05E13.WEB-DL.x264-RARBG/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000051604,
+                    "path": "The.Americans.S05E13.WEB-DL.x264-RARBG/Subs/3_Eng.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.302721184,
+                    "path": "The.Americans.S05E13.WEB-DL.x264-RARBG/The.Americans.S05E13.WEB-DL.x264-RARBG.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000004148,
+                    "path": "The.Americans.S05E13.WEB-DL.x264-RARBG/The.Americans.S05E13.WEB-DL.x264-RARBG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "The.Americans.S05E13.WEBRip.x264-RARBG-[rarbg.to]",
+            "size_total": 0.513941026,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Americans.S05E13.WEBRip.x264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "The.Americans.S05E13.WEBRip.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00004672,
+                    "path": "The.Americans.S05E13.WEBRip.x264-RARBG/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.512873344,
+                    "path": "The.Americans.S05E13.WEBRip.x264-RARBG/The.Americans.S05E13.WEBRip.x264-RARBG.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000004168,
+                    "path": "The.Americans.S05E13.WEBRip.x264-RARBG/The.Americans.S05E13.WEBRip.x264-RARBG.nfo"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 5,
+            "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[ettv]",
+            "btih": "568d4a3ee87e7fdd5d216def0a2a1b0bdb5e47aa",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.332458688,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33917,
+            "uuploaders": 20699
+        },
+        {
+            "id": 6,
+            "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[eztv]",
+            "btih": "640c77ecc5e3e5fd1bb7df3d45264165b9bb1a2f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.332458527,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 32084,
+            "uuploaders": 22133
+        },
+        {
+            "id": 1,
+            "name": "The.Americans.2013.S05E12.HDTV.x264-SVA[ettv]",
+            "btih": "6c0330a1ca150bd1fd7fe8d434d234b82cad22ff",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.252308441,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 31610,
+            "uuploaders": 20743
+        },
+        {
+            "id": 3,
+            "name": "The.Americans.2013.S05E13.720p.HDTV.x264-FLEET[rartv]-[rarbg.to]",
+            "btih": "5981ef621a5321a3b4c315217b37357a5937e92b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.525075666,
+            "creation": "2017-05-31T03:08:10.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 18993,
+            "uuploaders": 9284
+        },
+        {
+            "id": 7,
+            "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+            "btih": "c9c65e83e316b4eef4c37ae0dc23a9d3ae95c088",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.332469421,
+            "creation": "2017-05-31T03:51:20.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17817,
+            "uuploaders": 8030
+        },
+        {
+            "id": 9,
+            "name": "The.Americans.2013.S05E13.PROPER.720p.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+            "btih": "e0716284d549cb3064d36c99817669ae65277ba6",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.570660686,
+            "creation": "2017-05-31T03:47:06.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15271,
+            "uuploaders": 7381
+        },
+        {
+            "id": 14,
+            "name": "The.Americans.S05E13.1080p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "btih": "82b126fa8c04c5489d1d9847ae65798bc6584399",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.349572639,
+            "creation": "2017-05-31T07:58:55.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10692,
+            "uuploaders": 4097
+        },
+        {
+            "id": 20,
+            "name": "The.Americans.S05E13.WEB-DL.x264-RARBG-[rarbg.to]",
+            "btih": "3c8ea8cc71fec1359e0a686a3947f3a14bb61850",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.30383741,
+            "creation": "2017-05-31T08:18:33.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6978,
+            "uuploaders": 2687
+        },
+        {
+            "id": 15,
+            "name": "The.Americans.S05E13.720p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "btih": "fda3791b8b00538c070a4eac7f98cac56bad0adb",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.877902795,
+            "creation": "2017-05-31T07:58:41.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3594,
+            "uuploaders": 1483
+        },
+        {
+            "id": 21,
+            "name": "The.Americans.S05E13.WEBRip.x264-RARBG-[rarbg.to]",
+            "btih": "037b190533a628621e3c0066d8643014d7a9edcc",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.513941026,
+            "creation": "2017-05-31T18:25:35.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3470,
+            "uuploaders": 1405
+        },
+        {
+            "id": 2,
+            "name": "The.Americans.2013.S05E13.720p.HDTV.x264-FLEET[eztv]",
+            "btih": "20eb9f91a602c272b9d59d4f354cd6e0b8570b5b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.52507494,
+            "creation": "2017-05-31T04:17:23.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3103,
+            "uuploaders": 1746
+        },
+        {
+            "id": 12,
+            "name": "The.Americans.2013.S05E13.The.Soviet.Division.1080p.AMZN.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "272d26a75a7c4e303308ff0b475b807e286c85d1",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.985173176,
+            "creation": "2017-06-01T02:49:17.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3056,
+            "uuploaders": 1380
+        },
+        {
+            "id": 13,
+            "name": "The.Americans.2013.S05E13.The.Soviet.Division.720p.AMZN.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "4a496be329384e4c4b2347e5cf50f94ff0d57ba5",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.924979512,
+            "creation": "2017-05-31T18:07:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1342,
+            "uuploaders": 631
+        },
+        {
+            "id": 8,
+            "name": "The.Americans.2013.S05E13.PROPER.480p.x264-mSD [IPT]",
+            "btih": "207ac6e1c0efa29e43eec39124facf5b513ef400",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.220066529,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 689,
+            "uuploaders": 221
+        },
+        {
+            "id": 19,
+            "name": "The.Americans.S05E13.iNTERNAL.XviD-AFG [IPT]",
+            "btih": "63c9a241a7efee328ef1940b17245239e16f65c5",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.412969595,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 657,
+            "uuploaders": 308
+        },
+        {
+            "id": 11,
+            "name": "The.Americans.2013.S05E13.PROPER.XviD-AFG [IPT]",
+            "btih": "573825fabadca4ca940ea7175cf054364e5c3f0e",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.389565132,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 533,
+            "uuploaders": 256
+        },
+        {
+            "id": 4,
+            "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS [IPT]",
+            "btih": "906d7dab5a00d45d3f155c3f0a99a3d56eb5d504",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.332473462,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 505,
+            "uuploaders": 251
+        },
+        {
+            "id": 17,
+            "name": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE [IPT]",
+            "btih": "d8ba78f63a9608875c2bbd3f7396728501bcad2a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.095010966,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 432,
+            "uuploaders": 150
+        },
+        {
+            "id": 16,
+            "name": "The.Americans.S05E13.iNTERNAL.480p.x264-mSD [IPT]",
+            "btih": "86058cf64cd7f295139ebb5ff5db56b93475e6ec",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.205016816,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 264,
+            "uuploaders": 90
+        },
+        {
+            "id": 10,
+            "name": "The.Americans.2013.S05E13.PROPER.AAC.MP4-Mobile [IPT]",
+            "btih": "8f6bcf74afd4fc2f41cc4344d98d2a2e68825912",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.19044642,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 192,
+            "uuploaders": 83
+        },
+        {
+            "id": 18,
+            "name": "The.Americans.S05E13.iNTERNAL.AAC.MP4-Mobile [IPT]",
+            "btih": "c990182cf0861f3f96d315869a6aa50c05e8a2ad",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.181450232,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 85,
+            "uuploaders": 37
+        }
+    ]
+}

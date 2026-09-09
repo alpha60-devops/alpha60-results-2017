@@ -1,0 +1,1621 @@
+{
+    "collection_name": "The Americans",
+    "collection_id": "513",
+    "collection_key": "americans-513",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "sample_duration": "2017-05-31-to-2017-06-22",
+    "sample_days": 23,
+    "sample_year_start": 2017,
+    "sample_year_end": 2017,
+    "sample_day_year_start": 151,
+    "sample_day_year_end": 173,
+    "collection_week": [
+        {
+    "number": "week-00001",
+    "btiha_size": 21,
+    "udownloaders_total": 112838,
+    "uuploaders_total": 61661
+},
+        {
+    "number": "week-00002",
+    "btiha_size": 21,
+    "udownloaders_total": 153872,
+    "uuploaders_total": 84730
+},
+        {
+    "number": "week-00003",
+    "btiha_size": 21,
+    "udownloaders_total": 181159,
+    "uuploaders_total": 100715
+},
+        {
+    "number": "week-00004",
+    "btiha_size": 21,
+    "udownloaders_total": 185284,
+    "uuploaders_total": 103095
+}
+    ],
+    "collection_week_by_btiha": [
+        [
+    {
+        "id": 6,
+        "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[eztv]",
+        "btih": "640c77ecc5e3e5fd1bb7df3d45264165b9bb1a2f",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332458527,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 18481,
+        "uuploaders": 13036
+    },
+    {
+        "id": 1,
+        "name": "The.Americans.2013.S05E12.HDTV.x264-SVA[ettv]",
+        "btih": "6c0330a1ca150bd1fd7fe8d434d234b82cad22ff",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.252308441,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 16680,
+        "uuploaders": 10800
+    },
+    {
+        "id": 5,
+        "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[ettv]",
+        "btih": "568d4a3ee87e7fdd5d216def0a2a1b0bdb5e47aa",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332458688,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 16475,
+        "uuploaders": 9744
+    },
+    {
+        "id": 3,
+        "name": "The.Americans.2013.S05E13.720p.HDTV.x264-FLEET[rartv]-[rarbg.to]",
+        "btih": "5981ef621a5321a3b4c315217b37357a5937e92b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.525075666,
+        "creation": "2017-05-31T03:08:10.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 14590,
+        "uuploaders": 7395
+    },
+    {
+        "id": 7,
+        "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+        "btih": "c9c65e83e316b4eef4c37ae0dc23a9d3ae95c088",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332469421,
+        "creation": "2017-05-31T03:51:20.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13012,
+        "uuploaders": 6134
+    },
+    {
+        "id": 9,
+        "name": "The.Americans.2013.S05E13.PROPER.720p.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+        "btih": "e0716284d549cb3064d36c99817669ae65277ba6",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.570660686,
+        "creation": "2017-05-31T03:47:06.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 11382,
+        "uuploaders": 5676
+    },
+    {
+        "id": 14,
+        "name": "The.Americans.S05E13.1080p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+        "btih": "82b126fa8c04c5489d1d9847ae65798bc6584399",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.349572639,
+        "creation": "2017-05-31T07:58:55.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7354,
+        "uuploaders": 2673
+    },
+    {
+        "id": 20,
+        "name": "The.Americans.S05E13.WEB-DL.x264-RARBG-[rarbg.to]",
+        "btih": "3c8ea8cc71fec1359e0a686a3947f3a14bb61850",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.30383741,
+        "creation": "2017-05-31T08:18:33.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4681,
+        "uuploaders": 1669
+    },
+    {
+        "id": 15,
+        "name": "The.Americans.S05E13.720p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+        "btih": "fda3791b8b00538c070a4eac7f98cac56bad0adb",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.877902795,
+        "creation": "2017-05-31T07:58:41.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2222,
+        "uuploaders": 833
+    },
+    {
+        "id": 2,
+        "name": "The.Americans.2013.S05E13.720p.HDTV.x264-FLEET[eztv]",
+        "btih": "20eb9f91a602c272b9d59d4f354cd6e0b8570b5b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.52507494,
+        "creation": "2017-05-31T04:17:23.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1800,
+        "uuploaders": 990
+    },
+    {
+        "id": 21,
+        "name": "The.Americans.S05E13.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "037b190533a628621e3c0066d8643014d7a9edcc",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.513941026,
+        "creation": "2017-05-31T18:25:35.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1757,
+        "uuploaders": 672
+    },
+    {
+        "id": 12,
+        "name": "The.Americans.2013.S05E13.The.Soviet.Division.1080p.AMZN.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+        "btih": "272d26a75a7c4e303308ff0b475b807e286c85d1",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.985173176,
+        "creation": "2017-06-01T02:49:17.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1714,
+        "uuploaders": 764
+    },
+    {
+        "id": 13,
+        "name": "The.Americans.2013.S05E13.The.Soviet.Division.720p.AMZN.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+        "btih": "4a496be329384e4c4b2347e5cf50f94ff0d57ba5",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.924979512,
+        "creation": "2017-05-31T18:07:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 626,
+        "uuploaders": 273
+    },
+    {
+        "id": 8,
+        "name": "The.Americans.2013.S05E13.PROPER.480p.x264-mSD [IPT]",
+        "btih": "207ac6e1c0efa29e43eec39124facf5b513ef400",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.220066529,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 412,
+        "uuploaders": 154
+    },
+    {
+        "id": 19,
+        "name": "The.Americans.S05E13.iNTERNAL.XviD-AFG [IPT]",
+        "btih": "63c9a241a7efee328ef1940b17245239e16f65c5",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.412969595,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 403,
+        "uuploaders": 211
+    },
+    {
+        "id": 4,
+        "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS [IPT]",
+        "btih": "906d7dab5a00d45d3f155c3f0a99a3d56eb5d504",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332473462,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 340,
+        "uuploaders": 194
+    },
+    {
+        "id": 17,
+        "name": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE [IPT]",
+        "btih": "d8ba78f63a9608875c2bbd3f7396728501bcad2a",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.095010966,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 300,
+        "uuploaders": 132
+    },
+    {
+        "id": 11,
+        "name": "The.Americans.2013.S05E13.PROPER.XviD-AFG [IPT]",
+        "btih": "573825fabadca4ca940ea7175cf054364e5c3f0e",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.389565132,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 271,
+        "uuploaders": 167
+    },
+    {
+        "id": 16,
+        "name": "The.Americans.S05E13.iNTERNAL.480p.x264-mSD [IPT]",
+        "btih": "86058cf64cd7f295139ebb5ff5db56b93475e6ec",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.205016816,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 173,
+        "uuploaders": 69
+    },
+    {
+        "id": 10,
+        "name": "The.Americans.2013.S05E13.PROPER.AAC.MP4-Mobile [IPT]",
+        "btih": "8f6bcf74afd4fc2f41cc4344d98d2a2e68825912",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.19044642,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 102,
+        "uuploaders": 47
+    },
+    {
+        "id": 18,
+        "name": "The.Americans.S05E13.iNTERNAL.AAC.MP4-Mobile [IPT]",
+        "btih": "c990182cf0861f3f96d315869a6aa50c05e8a2ad",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.181450232,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 63,
+        "uuploaders": 28
+    }
+],
+        [
+    {
+        "id": 5,
+        "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[ettv]",
+        "btih": "568d4a3ee87e7fdd5d216def0a2a1b0bdb5e47aa",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332458688,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 26672,
+        "uuploaders": 15948
+    },
+    {
+        "id": 6,
+        "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[eztv]",
+        "btih": "640c77ecc5e3e5fd1bb7df3d45264165b9bb1a2f",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332458527,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 26408,
+        "uuploaders": 18202
+    },
+    {
+        "id": 1,
+        "name": "The.Americans.2013.S05E12.HDTV.x264-SVA[ettv]",
+        "btih": "6c0330a1ca150bd1fd7fe8d434d234b82cad22ff",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.252308441,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 24740,
+        "uuploaders": 16066
+    },
+    {
+        "id": 3,
+        "name": "The.Americans.2013.S05E13.720p.HDTV.x264-FLEET[rartv]-[rarbg.to]",
+        "btih": "5981ef621a5321a3b4c315217b37357a5937e92b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.525075666,
+        "creation": "2017-05-31T03:08:10.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 17043,
+        "uuploaders": 8429
+    },
+    {
+        "id": 7,
+        "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+        "btih": "c9c65e83e316b4eef4c37ae0dc23a9d3ae95c088",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332469421,
+        "creation": "2017-05-31T03:51:20.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15647,
+        "uuploaders": 7190
+    },
+    {
+        "id": 9,
+        "name": "The.Americans.2013.S05E13.PROPER.720p.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+        "btih": "e0716284d549cb3064d36c99817669ae65277ba6",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.570660686,
+        "creation": "2017-05-31T03:47:06.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13675,
+        "uuploaders": 6710
+    },
+    {
+        "id": 14,
+        "name": "The.Americans.S05E13.1080p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+        "btih": "82b126fa8c04c5489d1d9847ae65798bc6584399",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.349572639,
+        "creation": "2017-05-31T07:58:55.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 9281,
+        "uuploaders": 3515
+    },
+    {
+        "id": 20,
+        "name": "The.Americans.S05E13.WEB-DL.x264-RARBG-[rarbg.to]",
+        "btih": "3c8ea8cc71fec1359e0a686a3947f3a14bb61850",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.30383741,
+        "creation": "2017-05-31T08:18:33.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6058,
+        "uuploaders": 2240
+    },
+    {
+        "id": 15,
+        "name": "The.Americans.S05E13.720p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+        "btih": "fda3791b8b00538c070a4eac7f98cac56bad0adb",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.877902795,
+        "creation": "2017-05-31T07:58:41.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2962,
+        "uuploaders": 1184
+    },
+    {
+        "id": 21,
+        "name": "The.Americans.S05E13.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "037b190533a628621e3c0066d8643014d7a9edcc",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.513941026,
+        "creation": "2017-05-31T18:25:35.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2651,
+        "uuploaders": 1051
+    },
+    {
+        "id": 12,
+        "name": "The.Americans.2013.S05E13.The.Soviet.Division.1080p.AMZN.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+        "btih": "272d26a75a7c4e303308ff0b475b807e286c85d1",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.985173176,
+        "creation": "2017-06-01T02:49:17.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2501,
+        "uuploaders": 1102
+    },
+    {
+        "id": 2,
+        "name": "The.Americans.2013.S05E13.720p.HDTV.x264-FLEET[eztv]",
+        "btih": "20eb9f91a602c272b9d59d4f354cd6e0b8570b5b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.52507494,
+        "creation": "2017-05-31T04:17:23.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2481,
+        "uuploaders": 1409
+    },
+    {
+        "id": 13,
+        "name": "The.Americans.2013.S05E13.The.Soviet.Division.720p.AMZN.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+        "btih": "4a496be329384e4c4b2347e5cf50f94ff0d57ba5",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.924979512,
+        "creation": "2017-05-31T18:07:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1014,
+        "uuploaders": 472
+    },
+    {
+        "id": 8,
+        "name": "The.Americans.2013.S05E13.PROPER.480p.x264-mSD [IPT]",
+        "btih": "207ac6e1c0efa29e43eec39124facf5b513ef400",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.220066529,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 564,
+        "uuploaders": 194
+    },
+    {
+        "id": 19,
+        "name": "The.Americans.S05E13.iNTERNAL.XviD-AFG [IPT]",
+        "btih": "63c9a241a7efee328ef1940b17245239e16f65c5",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.412969595,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 527,
+        "uuploaders": 267
+    },
+    {
+        "id": 4,
+        "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS [IPT]",
+        "btih": "906d7dab5a00d45d3f155c3f0a99a3d56eb5d504",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332473462,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 428,
+        "uuploaders": 232
+    },
+    {
+        "id": 11,
+        "name": "The.Americans.2013.S05E13.PROPER.XviD-AFG [IPT]",
+        "btih": "573825fabadca4ca940ea7175cf054364e5c3f0e",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.389565132,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 399,
+        "uuploaders": 203
+    },
+    {
+        "id": 17,
+        "name": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE [IPT]",
+        "btih": "d8ba78f63a9608875c2bbd3f7396728501bcad2a",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.095010966,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 373,
+        "uuploaders": 140
+    },
+    {
+        "id": 16,
+        "name": "The.Americans.S05E13.iNTERNAL.480p.x264-mSD [IPT]",
+        "btih": "86058cf64cd7f295139ebb5ff5db56b93475e6ec",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.205016816,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 223,
+        "uuploaders": 82
+    },
+    {
+        "id": 10,
+        "name": "The.Americans.2013.S05E13.PROPER.AAC.MP4-Mobile [IPT]",
+        "btih": "8f6bcf74afd4fc2f41cc4344d98d2a2e68825912",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.19044642,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 150,
+        "uuploaders": 62
+    },
+    {
+        "id": 18,
+        "name": "The.Americans.S05E13.iNTERNAL.AAC.MP4-Mobile [IPT]",
+        "btih": "c990182cf0861f3f96d315869a6aa50c05e8a2ad",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.181450232,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 75,
+        "uuploaders": 32
+    }
+],
+        [
+    {
+        "id": 5,
+        "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[ettv]",
+        "btih": "568d4a3ee87e7fdd5d216def0a2a1b0bdb5e47aa",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332458688,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 33007,
+        "uuploaders": 20096
+    },
+    {
+        "id": 6,
+        "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[eztv]",
+        "btih": "640c77ecc5e3e5fd1bb7df3d45264165b9bb1a2f",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332458527,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 31361,
+        "uuploaders": 21654
+    },
+    {
+        "id": 1,
+        "name": "The.Americans.2013.S05E12.HDTV.x264-SVA[ettv]",
+        "btih": "6c0330a1ca150bd1fd7fe8d434d234b82cad22ff",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.252308441,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 30734,
+        "uuploaders": 20154
+    },
+    {
+        "id": 3,
+        "name": "The.Americans.2013.S05E13.720p.HDTV.x264-FLEET[rartv]-[rarbg.to]",
+        "btih": "5981ef621a5321a3b4c315217b37357a5937e92b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.525075666,
+        "creation": "2017-05-31T03:08:10.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 18762,
+        "uuploaders": 9179
+    },
+    {
+        "id": 7,
+        "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+        "btih": "c9c65e83e316b4eef4c37ae0dc23a9d3ae95c088",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332469421,
+        "creation": "2017-05-31T03:51:20.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 17508,
+        "uuploaders": 7909
+    },
+    {
+        "id": 9,
+        "name": "The.Americans.2013.S05E13.PROPER.720p.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+        "btih": "e0716284d549cb3064d36c99817669ae65277ba6",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.570660686,
+        "creation": "2017-05-31T03:47:06.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15037,
+        "uuploaders": 7293
+    },
+    {
+        "id": 14,
+        "name": "The.Americans.S05E13.1080p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+        "btih": "82b126fa8c04c5489d1d9847ae65798bc6584399",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.349572639,
+        "creation": "2017-05-31T07:58:55.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10508,
+        "uuploaders": 4008
+    },
+    {
+        "id": 20,
+        "name": "The.Americans.S05E13.WEB-DL.x264-RARBG-[rarbg.to]",
+        "btih": "3c8ea8cc71fec1359e0a686a3947f3a14bb61850",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.30383741,
+        "creation": "2017-05-31T08:18:33.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6849,
+        "uuploaders": 2626
+    },
+    {
+        "id": 15,
+        "name": "The.Americans.S05E13.720p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+        "btih": "fda3791b8b00538c070a4eac7f98cac56bad0adb",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.877902795,
+        "creation": "2017-05-31T07:58:41.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3531,
+        "uuploaders": 1444
+    },
+    {
+        "id": 21,
+        "name": "The.Americans.S05E13.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "037b190533a628621e3c0066d8643014d7a9edcc",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.513941026,
+        "creation": "2017-05-31T18:25:35.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3363,
+        "uuploaders": 1351
+    },
+    {
+        "id": 2,
+        "name": "The.Americans.2013.S05E13.720p.HDTV.x264-FLEET[eztv]",
+        "btih": "20eb9f91a602c272b9d59d4f354cd6e0b8570b5b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.52507494,
+        "creation": "2017-05-31T04:17:23.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3019,
+        "uuploaders": 1696
+    },
+    {
+        "id": 12,
+        "name": "The.Americans.2013.S05E13.The.Soviet.Division.1080p.AMZN.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+        "btih": "272d26a75a7c4e303308ff0b475b807e286c85d1",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.985173176,
+        "creation": "2017-06-01T02:49:17.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2957,
+        "uuploaders": 1329
+    },
+    {
+        "id": 13,
+        "name": "The.Americans.2013.S05E13.The.Soviet.Division.720p.AMZN.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+        "btih": "4a496be329384e4c4b2347e5cf50f94ff0d57ba5",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.924979512,
+        "creation": "2017-05-31T18:07:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1290,
+        "uuploaders": 609
+    },
+    {
+        "id": 8,
+        "name": "The.Americans.2013.S05E13.PROPER.480p.x264-mSD [IPT]",
+        "btih": "207ac6e1c0efa29e43eec39124facf5b513ef400",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.220066529,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 666,
+        "uuploaders": 218
+    },
+    {
+        "id": 19,
+        "name": "The.Americans.S05E13.iNTERNAL.XviD-AFG [IPT]",
+        "btih": "63c9a241a7efee328ef1940b17245239e16f65c5",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.412969595,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 633,
+        "uuploaders": 304
+    },
+    {
+        "id": 11,
+        "name": "The.Americans.2013.S05E13.PROPER.XviD-AFG [IPT]",
+        "btih": "573825fabadca4ca940ea7175cf054364e5c3f0e",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.389565132,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 508,
+        "uuploaders": 247
+    },
+    {
+        "id": 4,
+        "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS [IPT]",
+        "btih": "906d7dab5a00d45d3f155c3f0a99a3d56eb5d504",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332473462,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 494,
+        "uuploaders": 248
+    },
+    {
+        "id": 17,
+        "name": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE [IPT]",
+        "btih": "d8ba78f63a9608875c2bbd3f7396728501bcad2a",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.095010966,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 414,
+        "uuploaders": 149
+    },
+    {
+        "id": 16,
+        "name": "The.Americans.S05E13.iNTERNAL.480p.x264-mSD [IPT]",
+        "btih": "86058cf64cd7f295139ebb5ff5db56b93475e6ec",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.205016816,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 260,
+        "uuploaders": 89
+    },
+    {
+        "id": 10,
+        "name": "The.Americans.2013.S05E13.PROPER.AAC.MP4-Mobile [IPT]",
+        "btih": "8f6bcf74afd4fc2f41cc4344d98d2a2e68825912",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.19044642,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 177,
+        "uuploaders": 76
+    },
+    {
+        "id": 18,
+        "name": "The.Americans.S05E13.iNTERNAL.AAC.MP4-Mobile [IPT]",
+        "btih": "c990182cf0861f3f96d315869a6aa50c05e8a2ad",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.181450232,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 81,
+        "uuploaders": 36
+    }
+],
+        [
+    {
+        "id": 5,
+        "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[ettv]",
+        "btih": "568d4a3ee87e7fdd5d216def0a2a1b0bdb5e47aa",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332458688,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 33917,
+        "uuploaders": 20699
+    },
+    {
+        "id": 6,
+        "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[eztv]",
+        "btih": "640c77ecc5e3e5fd1bb7df3d45264165b9bb1a2f",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332458527,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 32084,
+        "uuploaders": 22133
+    },
+    {
+        "id": 1,
+        "name": "The.Americans.2013.S05E12.HDTV.x264-SVA[ettv]",
+        "btih": "6c0330a1ca150bd1fd7fe8d434d234b82cad22ff",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.252308441,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 31610,
+        "uuploaders": 20743
+    },
+    {
+        "id": 3,
+        "name": "The.Americans.2013.S05E13.720p.HDTV.x264-FLEET[rartv]-[rarbg.to]",
+        "btih": "5981ef621a5321a3b4c315217b37357a5937e92b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.525075666,
+        "creation": "2017-05-31T03:08:10.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 18993,
+        "uuploaders": 9284
+    },
+    {
+        "id": 7,
+        "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+        "btih": "c9c65e83e316b4eef4c37ae0dc23a9d3ae95c088",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332469421,
+        "creation": "2017-05-31T03:51:20.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 17817,
+        "uuploaders": 8030
+    },
+    {
+        "id": 9,
+        "name": "The.Americans.2013.S05E13.PROPER.720p.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+        "btih": "e0716284d549cb3064d36c99817669ae65277ba6",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.570660686,
+        "creation": "2017-05-31T03:47:06.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15271,
+        "uuploaders": 7381
+    },
+    {
+        "id": 14,
+        "name": "The.Americans.S05E13.1080p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+        "btih": "82b126fa8c04c5489d1d9847ae65798bc6584399",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.349572639,
+        "creation": "2017-05-31T07:58:55.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10692,
+        "uuploaders": 4097
+    },
+    {
+        "id": 20,
+        "name": "The.Americans.S05E13.WEB-DL.x264-RARBG-[rarbg.to]",
+        "btih": "3c8ea8cc71fec1359e0a686a3947f3a14bb61850",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.30383741,
+        "creation": "2017-05-31T08:18:33.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6978,
+        "uuploaders": 2687
+    },
+    {
+        "id": 15,
+        "name": "The.Americans.S05E13.720p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+        "btih": "fda3791b8b00538c070a4eac7f98cac56bad0adb",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.877902795,
+        "creation": "2017-05-31T07:58:41.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3594,
+        "uuploaders": 1483
+    },
+    {
+        "id": 21,
+        "name": "The.Americans.S05E13.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "037b190533a628621e3c0066d8643014d7a9edcc",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.513941026,
+        "creation": "2017-05-31T18:25:35.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3470,
+        "uuploaders": 1405
+    },
+    {
+        "id": 2,
+        "name": "The.Americans.2013.S05E13.720p.HDTV.x264-FLEET[eztv]",
+        "btih": "20eb9f91a602c272b9d59d4f354cd6e0b8570b5b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.52507494,
+        "creation": "2017-05-31T04:17:23.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3103,
+        "uuploaders": 1746
+    },
+    {
+        "id": 12,
+        "name": "The.Americans.2013.S05E13.The.Soviet.Division.1080p.AMZN.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+        "btih": "272d26a75a7c4e303308ff0b475b807e286c85d1",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.985173176,
+        "creation": "2017-06-01T02:49:17.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3056,
+        "uuploaders": 1380
+    },
+    {
+        "id": 13,
+        "name": "The.Americans.2013.S05E13.The.Soviet.Division.720p.AMZN.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+        "btih": "4a496be329384e4c4b2347e5cf50f94ff0d57ba5",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.924979512,
+        "creation": "2017-05-31T18:07:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1342,
+        "uuploaders": 631
+    },
+    {
+        "id": 8,
+        "name": "The.Americans.2013.S05E13.PROPER.480p.x264-mSD [IPT]",
+        "btih": "207ac6e1c0efa29e43eec39124facf5b513ef400",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.220066529,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 689,
+        "uuploaders": 221
+    },
+    {
+        "id": 19,
+        "name": "The.Americans.S05E13.iNTERNAL.XviD-AFG [IPT]",
+        "btih": "63c9a241a7efee328ef1940b17245239e16f65c5",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.412969595,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 657,
+        "uuploaders": 308
+    },
+    {
+        "id": 11,
+        "name": "The.Americans.2013.S05E13.PROPER.XviD-AFG [IPT]",
+        "btih": "573825fabadca4ca940ea7175cf054364e5c3f0e",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.389565132,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 533,
+        "uuploaders": 256
+    },
+    {
+        "id": 4,
+        "name": "The.Americans.2013.S05E13.HDTV.x264-KILLERS [IPT]",
+        "btih": "906d7dab5a00d45d3f155c3f0a99a3d56eb5d504",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332473462,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 505,
+        "uuploaders": 251
+    },
+    {
+        "id": 17,
+        "name": "The.Americans.S05E13.iNTERNAL.720p.WEB.h264-BAMBOOZLE [IPT]",
+        "btih": "d8ba78f63a9608875c2bbd3f7396728501bcad2a",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.095010966,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 432,
+        "uuploaders": 150
+    },
+    {
+        "id": 16,
+        "name": "The.Americans.S05E13.iNTERNAL.480p.x264-mSD [IPT]",
+        "btih": "86058cf64cd7f295139ebb5ff5db56b93475e6ec",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.205016816,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 264,
+        "uuploaders": 90
+    },
+    {
+        "id": 10,
+        "name": "The.Americans.2013.S05E13.PROPER.AAC.MP4-Mobile [IPT]",
+        "btih": "8f6bcf74afd4fc2f41cc4344d98d2a2e68825912",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.19044642,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 192,
+        "uuploaders": 83
+    },
+    {
+        "id": 18,
+        "name": "The.Americans.S05E13.iNTERNAL.AAC.MP4-Mobile [IPT]",
+        "btih": "c990182cf0861f3f96d315869a6aa50c05e8a2ad",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.181450232,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 85,
+        "uuploaders": 37
+    }
+]
+    ],
+    "collection_week_by_country": [
+        [
+    {
+        "number": "BRA_week_1",
+        "btiha_size": 16,
+        "udownloaders_total": 4640,
+        "uuploaders_total": 2659
+    },
+    {
+        "number": "CAN_week_1",
+        "btiha_size": 21,
+        "udownloaders_total": 5668,
+        "uuploaders_total": 3364
+    },
+    {
+        "number": "CHN_week_1",
+        "btiha_size": 13,
+        "udownloaders_total": 1914,
+        "uuploaders_total": 712
+    },
+    {
+        "number": "DEU_week_1",
+        "btiha_size": 20,
+        "udownloaders_total": 1785,
+        "uuploaders_total": 892
+    },
+    {
+        "number": "ESP_week_1",
+        "btiha_size": 15,
+        "udownloaders_total": 3845,
+        "uuploaders_total": 2174
+    },
+    {
+        "number": "FRA_week_1",
+        "btiha_size": 21,
+        "udownloaders_total": 2487,
+        "uuploaders_total": 1612
+    },
+    {
+        "number": "HKG_week_1",
+        "btiha_size": 16,
+        "udownloaders_total": 616,
+        "uuploaders_total": 344
+    },
+    {
+        "number": "JPN_week_1",
+        "btiha_size": 16,
+        "udownloaders_total": 558,
+        "uuploaders_total": 249
+    },
+    {
+        "number": "KOR_week_1",
+        "btiha_size": 15,
+        "udownloaders_total": 1481,
+        "uuploaders_total": 582
+    },
+    {
+        "number": "MEX_week_1",
+        "btiha_size": 14,
+        "udownloaders_total": 732,
+        "uuploaders_total": 439
+    },
+    {
+        "number": "NLD_week_1",
+        "btiha_size": 21,
+        "udownloaders_total": 8749,
+        "uuploaders_total": 3375
+    },
+    {
+        "number": "RUS_week_1",
+        "btiha_size": 15,
+        "udownloaders_total": 757,
+        "uuploaders_total": 365
+    },
+    {
+        "number": "SWE_week_1",
+        "btiha_size": 19,
+        "udownloaders_total": 2824,
+        "uuploaders_total": 1422
+    },
+    {
+        "number": "TUR_week_1",
+        "btiha_size": 15,
+        "udownloaders_total": 661,
+        "uuploaders_total": 408
+    },
+    {
+        "number": "UKR_week_1",
+        "btiha_size": 13,
+        "udownloaders_total": 124,
+        "uuploaders_total": 57
+    },
+    {
+        "number": "USA_week_1",
+        "btiha_size": 21,
+        "udownloaders_total": 16807,
+        "uuploaders_total": 8095
+    }
+],
+        [
+    {
+        "number": "BRA_week_2",
+        "btiha_size": 17,
+        "udownloaders_total": 7195,
+        "uuploaders_total": 4194
+    },
+    {
+        "number": "CAN_week_2",
+        "btiha_size": 21,
+        "udownloaders_total": 7163,
+        "uuploaders_total": 4290
+    },
+    {
+        "number": "CHN_week_2",
+        "btiha_size": 13,
+        "udownloaders_total": 2819,
+        "uuploaders_total": 1028
+    },
+    {
+        "number": "DEU_week_2",
+        "btiha_size": 20,
+        "udownloaders_total": 2530,
+        "uuploaders_total": 1370
+    },
+    {
+        "number": "ESP_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 5096,
+        "uuploaders_total": 2864
+    },
+    {
+        "number": "FRA_week_2",
+        "btiha_size": 21,
+        "udownloaders_total": 3278,
+        "uuploaders_total": 2081
+    },
+    {
+        "number": "HKG_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 831,
+        "uuploaders_total": 467
+    },
+    {
+        "number": "JPN_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 793,
+        "uuploaders_total": 355
+    },
+    {
+        "number": "KOR_week_2",
+        "btiha_size": 15,
+        "udownloaders_total": 2015,
+        "uuploaders_total": 791
+    },
+    {
+        "number": "MEX_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 1013,
+        "uuploaders_total": 626
+    },
+    {
+        "number": "NLD_week_2",
+        "btiha_size": 21,
+        "udownloaders_total": 10498,
+        "uuploaders_total": 4363
+    },
+    {
+        "number": "RUS_week_2",
+        "btiha_size": 15,
+        "udownloaders_total": 1081,
+        "uuploaders_total": 464
+    },
+    {
+        "number": "SWE_week_2",
+        "btiha_size": 19,
+        "udownloaders_total": 3816,
+        "uuploaders_total": 1816
+    },
+    {
+        "number": "TUR_week_2",
+        "btiha_size": 15,
+        "udownloaders_total": 911,
+        "uuploaders_total": 581
+    },
+    {
+        "number": "UKR_week_2",
+        "btiha_size": 13,
+        "udownloaders_total": 175,
+        "uuploaders_total": 76
+    },
+    {
+        "number": "USA_week_2",
+        "btiha_size": 21,
+        "udownloaders_total": 22158,
+        "uuploaders_total": 10763
+    }
+],
+        [
+    {
+        "number": "BRA_week_3",
+        "btiha_size": 17,
+        "udownloaders_total": 8924,
+        "uuploaders_total": 5336
+    },
+    {
+        "number": "CAN_week_3",
+        "btiha_size": 21,
+        "udownloaders_total": 8125,
+        "uuploaders_total": 4870
+    },
+    {
+        "number": "CHN_week_3",
+        "btiha_size": 13,
+        "udownloaders_total": 3502,
+        "uuploaders_total": 1227
+    },
+    {
+        "number": "DEU_week_3",
+        "btiha_size": 20,
+        "udownloaders_total": 3086,
+        "uuploaders_total": 1782
+    },
+    {
+        "number": "ESP_week_3",
+        "btiha_size": 16,
+        "udownloaders_total": 5990,
+        "uuploaders_total": 3352
+    },
+    {
+        "number": "FRA_week_3",
+        "btiha_size": 21,
+        "udownloaders_total": 3749,
+        "uuploaders_total": 2369
+    },
+    {
+        "number": "HKG_week_3",
+        "btiha_size": 16,
+        "udownloaders_total": 1058,
+        "uuploaders_total": 574
+    },
+    {
+        "number": "JPN_week_3",
+        "btiha_size": 17,
+        "udownloaders_total": 989,
+        "uuploaders_total": 435
+    },
+    {
+        "number": "KOR_week_3",
+        "btiha_size": 15,
+        "udownloaders_total": 2352,
+        "uuploaders_total": 1046
+    },
+    {
+        "number": "MEX_week_3",
+        "btiha_size": 16,
+        "udownloaders_total": 1192,
+        "uuploaders_total": 765
+    },
+    {
+        "number": "NLD_week_3",
+        "btiha_size": 21,
+        "udownloaders_total": 11455,
+        "uuploaders_total": 4861
+    },
+    {
+        "number": "RUS_week_3",
+        "btiha_size": 15,
+        "udownloaders_total": 1339,
+        "uuploaders_total": 545
+    },
+    {
+        "number": "SWE_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 4263,
+        "uuploaders_total": 2059
+    },
+    {
+        "number": "TUR_week_3",
+        "btiha_size": 15,
+        "udownloaders_total": 1062,
+        "uuploaders_total": 691
+    },
+    {
+        "number": "UKR_week_3",
+        "btiha_size": 13,
+        "udownloaders_total": 204,
+        "uuploaders_total": 82
+    },
+    {
+        "number": "USA_week_3",
+        "btiha_size": 21,
+        "udownloaders_total": 25295,
+        "uuploaders_total": 12363
+    }
+],
+        [
+    {
+        "number": "BRA_week_4",
+        "btiha_size": 17,
+        "udownloaders_total": 9140,
+        "uuploaders_total": 5474
+    },
+    {
+        "number": "CAN_week_4",
+        "btiha_size": 21,
+        "udownloaders_total": 8229,
+        "uuploaders_total": 4937
+    },
+    {
+        "number": "CHN_week_4",
+        "btiha_size": 13,
+        "udownloaders_total": 3642,
+        "uuploaders_total": 1271
+    },
+    {
+        "number": "DEU_week_4",
+        "btiha_size": 20,
+        "udownloaders_total": 3192,
+        "uuploaders_total": 1860
+    },
+    {
+        "number": "ESP_week_4",
+        "btiha_size": 16,
+        "udownloaders_total": 6099,
+        "uuploaders_total": 3411
+    },
+    {
+        "number": "FRA_week_4",
+        "btiha_size": 21,
+        "udownloaders_total": 3829,
+        "uuploaders_total": 2417
+    },
+    {
+        "number": "HKG_week_4",
+        "btiha_size": 16,
+        "udownloaders_total": 1082,
+        "uuploaders_total": 585
+    },
+    {
+        "number": "JPN_week_4",
+        "btiha_size": 17,
+        "udownloaders_total": 1012,
+        "uuploaders_total": 446
+    },
+    {
+        "number": "KOR_week_4",
+        "btiha_size": 15,
+        "udownloaders_total": 2403,
+        "uuploaders_total": 1081
+    },
+    {
+        "number": "MEX_week_4",
+        "btiha_size": 16,
+        "udownloaders_total": 1219,
+        "uuploaders_total": 789
+    },
+    {
+        "number": "NLD_week_4",
+        "btiha_size": 21,
+        "udownloaders_total": 11574,
+        "uuploaders_total": 4926
+    },
+    {
+        "number": "RUS_week_4",
+        "btiha_size": 15,
+        "udownloaders_total": 1375,
+        "uuploaders_total": 559
+    },
+    {
+        "number": "SWE_week_4",
+        "btiha_size": 19,
+        "udownloaders_total": 4354,
+        "uuploaders_total": 2096
+    },
+    {
+        "number": "TUR_week_4",
+        "btiha_size": 15,
+        "udownloaders_total": 1086,
+        "uuploaders_total": 712
+    },
+    {
+        "number": "UKR_week_4",
+        "btiha_size": 13,
+        "udownloaders_total": 214,
+        "uuploaders_total": 88
+    },
+    {
+        "number": "USA_week_4",
+        "btiha_size": 21,
+        "udownloaders_total": 25778,
+        "uuploaders_total": 12600
+    }
+]
+    ]
+}
