@@ -1,0 +1,39 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/stormy-rerun-archive-verification.json",
+    "sha256": "9b1bd01ff9b1f909433228aa41bf4b7e24d39c1e08efc6b793196f9a0baaef1b",
+    "size": 1290
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 1,
+    "records": 1
+  },
+  "executor": "ord",
+  "finished_at": "2026-09-08T17:08:16.848059+00:00",
+  "owner": "ord",
+  "records": [
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/stormy-daniels-2017.cache/cache.20180331.tar.xz",
+      "collection_key": "stormy-daniels-2017",
+      "executor": "ord",
+      "finished_at": "2026-09-08T17:08:16.847333+00:00",
+      "owner": "ord",
+      "results_revision": "803bd450748320c16fc6e2ebead4b940246d744e",
+      "started_at": "2026-09-08T17:07:36.919787+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-08T17:07:36.919141+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+    "sha256": "22553deb3eb467d9f9b4c99feedaca61045f606298370bb1bba382b77ebc23f8",
+    "size": 20183
+  },
+  "year": "2017"
+}

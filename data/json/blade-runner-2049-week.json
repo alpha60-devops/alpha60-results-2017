@@ -6,85 +6,85 @@
   "collection_week": [
     {
       "btiha_size": 20,
-      "number": "week-00002",
+      "number": "week-00001",
       "udownloaders_total": 1034188,
       "uuploaders_total": 255909
     },
     {
       "btiha_size": 22,
-      "number": "week-00003",
+      "number": "week-00002",
       "udownloaders_total": 1614047,
       "uuploaders_total": 422232
     },
     {
       "btiha_size": 22,
-      "number": "week-00004",
+      "number": "week-00003",
       "udownloaders_total": 1837311,
       "uuploaders_total": 475642
     },
     {
       "btiha_size": 47,
-      "number": "week-00005",
+      "number": "week-00004",
       "udownloaders_total": 2999819,
       "uuploaders_total": 745956
     },
     {
       "btiha_size": 47,
-      "number": "week-00006",
+      "number": "week-00005",
       "udownloaders_total": 3717107,
       "uuploaders_total": 914691
     },
     {
       "btiha_size": 47,
-      "number": "week-00007",
+      "number": "week-00006",
       "udownloaders_total": 4362963,
       "uuploaders_total": 1089972
     },
     {
       "btiha_size": 47,
-      "number": "week-00008",
+      "number": "week-00007",
       "udownloaders_total": 5097750,
       "uuploaders_total": 1301623
     },
     {
       "btiha_size": 47,
-      "number": "week-00009",
+      "number": "week-00008",
       "udownloaders_total": 5739156,
       "uuploaders_total": 1493664
     },
     {
       "btiha_size": 47,
-      "number": "week-00010",
+      "number": "week-00009",
       "udownloaders_total": 6314473,
       "uuploaders_total": 1680596
     },
     {
       "btiha_size": 47,
-      "number": "week-00011",
+      "number": "week-00010",
       "udownloaders_total": 6844025,
       "uuploaders_total": 1859887
     },
     {
       "btiha_size": 47,
-      "number": "week-00012",
+      "number": "week-00011",
       "udownloaders_total": 7303450,
       "uuploaders_total": 2017241
     },
     {
       "btiha_size": 47,
-      "number": "week-00013",
+      "number": "week-00012",
       "udownloaders_total": 7713081,
       "uuploaders_total": 2165385
     },
     {
       "btiha_size": 47,
-      "number": "week-00014",
+      "number": "week-00013",
       "udownloaders_total": 8088496,
       "uuploaders_total": 2299479
     },
     {
       "btiha_size": 47,
-      "number": "week-00015",
+      "number": "week-00014",
       "udownloaders_total": 8193457,
       "uuploaders_total": 2336428
     }
@@ -8257,97 +8257,97 @@
     [
       {
         "btiha_size": 20,
-        "number": "BRA_week_2",
+        "number": "BRA_week_1",
         "udownloaders_total": 111580,
         "uuploaders_total": 30642
       },
       {
         "btiha_size": 20,
-        "number": "CAN_week_2",
+        "number": "CAN_week_1",
         "udownloaders_total": 32700,
         "uuploaders_total": 9051
       },
       {
         "btiha_size": 20,
-        "number": "CHN_week_2",
+        "number": "CHN_week_1",
         "udownloaders_total": 8507,
         "uuploaders_total": 2054
       },
       {
         "btiha_size": 20,
-        "number": "DEU_week_2",
+        "number": "DEU_week_1",
         "udownloaders_total": 6954,
         "uuploaders_total": 1619
       },
       {
         "btiha_size": 20,
-        "number": "ESP_week_2",
+        "number": "ESP_week_1",
         "udownloaders_total": 13435,
         "uuploaders_total": 3417
       },
       {
         "btiha_size": 20,
-        "number": "FRA_week_2",
+        "number": "FRA_week_1",
         "udownloaders_total": 13604,
         "uuploaders_total": 2901
       },
       {
         "btiha_size": 20,
-        "number": "HKG_week_2",
+        "number": "HKG_week_1",
         "udownloaders_total": 3835,
         "uuploaders_total": 842
       },
       {
         "btiha_size": 20,
-        "number": "JPN_week_2",
+        "number": "JPN_week_1",
         "udownloaders_total": 3308,
         "uuploaders_total": 816
       },
       {
         "btiha_size": 19,
-        "number": "KOR_week_2",
+        "number": "KOR_week_1",
         "udownloaders_total": 65557,
         "uuploaders_total": 13611
       },
       {
         "btiha_size": 19,
-        "number": "MEX_week_2",
+        "number": "MEX_week_1",
         "udownloaders_total": 11028,
         "uuploaders_total": 2699
       },
       {
         "btiha_size": 20,
-        "number": "NLD_week_2",
+        "number": "NLD_week_1",
         "udownloaders_total": 31941,
         "uuploaders_total": 6963
       },
       {
         "btiha_size": 20,
-        "number": "RUS_week_2",
+        "number": "RUS_week_1",
         "udownloaders_total": 3232,
         "uuploaders_total": 686
       },
       {
         "btiha_size": 20,
-        "number": "SWE_week_2",
+        "number": "SWE_week_1",
         "udownloaders_total": 15695,
         "uuploaders_total": 3452
       },
       {
         "btiha_size": 20,
-        "number": "TUR_week_2",
+        "number": "TUR_week_1",
         "udownloaders_total": 8291,
         "uuploaders_total": 2386
       },
       {
         "btiha_size": 19,
-        "number": "UKR_week_2",
+        "number": "UKR_week_1",
         "udownloaders_total": 925,
         "uuploaders_total": 200
       },
       {
         "btiha_size": 20,
-        "number": "USA_week_2",
+        "number": "USA_week_1",
         "udownloaders_total": 133584,
         "uuploaders_total": 31731
       }
@@ -8355,97 +8355,97 @@
     [
       {
         "btiha_size": 22,
-        "number": "BRA_week_3",
+        "number": "BRA_week_2",
         "udownloaders_total": 185325,
         "uuploaders_total": 54237
       },
       {
         "btiha_size": 22,
-        "number": "CAN_week_3",
+        "number": "CAN_week_2",
         "udownloaders_total": 50502,
         "uuploaders_total": 14858
       },
       {
         "btiha_size": 22,
-        "number": "CHN_week_3",
+        "number": "CHN_week_2",
         "udownloaders_total": 13727,
         "uuploaders_total": 3507
       },
       {
         "btiha_size": 22,
-        "number": "DEU_week_3",
+        "number": "DEU_week_2",
         "udownloaders_total": 10964,
         "uuploaders_total": 2864
       },
       {
         "btiha_size": 22,
-        "number": "ESP_week_3",
+        "number": "ESP_week_2",
         "udownloaders_total": 21097,
         "uuploaders_total": 5621
       },
       {
         "btiha_size": 22,
-        "number": "FRA_week_3",
+        "number": "FRA_week_2",
         "udownloaders_total": 20105,
         "uuploaders_total": 4746
       },
       {
         "btiha_size": 22,
-        "number": "HKG_week_3",
+        "number": "HKG_week_2",
         "udownloaders_total": 6058,
         "uuploaders_total": 1417
       },
       {
         "btiha_size": 22,
-        "number": "JPN_week_3",
+        "number": "JPN_week_2",
         "udownloaders_total": 5428,
         "uuploaders_total": 1389
       },
       {
         "btiha_size": 22,
-        "number": "KOR_week_3",
+        "number": "KOR_week_2",
         "udownloaders_total": 71825,
         "uuploaders_total": 16631
       },
       {
         "btiha_size": 21,
-        "number": "MEX_week_3",
+        "number": "MEX_week_2",
         "udownloaders_total": 18907,
         "uuploaders_total": 4726
       },
       {
         "btiha_size": 22,
-        "number": "NLD_week_3",
+        "number": "NLD_week_2",
         "udownloaders_total": 46591,
         "uuploaders_total": 11600
       },
       {
         "btiha_size": 22,
-        "number": "RUS_week_3",
+        "number": "RUS_week_2",
         "udownloaders_total": 4763,
         "uuploaders_total": 1079
       },
       {
         "btiha_size": 22,
-        "number": "SWE_week_3",
+        "number": "SWE_week_2",
         "udownloaders_total": 25285,
         "uuploaders_total": 6000
       },
       {
         "btiha_size": 22,
-        "number": "TUR_week_3",
+        "number": "TUR_week_2",
         "udownloaders_total": 12405,
         "uuploaders_total": 3623
       },
       {
         "btiha_size": 21,
-        "number": "UKR_week_3",
+        "number": "UKR_week_2",
         "udownloaders_total": 1384,
         "uuploaders_total": 318
       },
       {
         "btiha_size": 22,
-        "number": "USA_week_3",
+        "number": "USA_week_2",
         "udownloaders_total": 209388,
         "uuploaders_total": 54628
       }
@@ -8453,97 +8453,97 @@
     [
       {
         "btiha_size": 22,
-        "number": "BRA_week_4",
+        "number": "BRA_week_3",
         "udownloaders_total": 209139,
         "uuploaders_total": 61615
       },
       {
         "btiha_size": 22,
-        "number": "CAN_week_4",
+        "number": "CAN_week_3",
         "udownloaders_total": 56858,
         "uuploaders_total": 16615
       },
       {
         "btiha_size": 22,
-        "number": "CHN_week_4",
+        "number": "CHN_week_3",
         "udownloaders_total": 19555,
         "uuploaders_total": 4252
       },
       {
         "btiha_size": 22,
-        "number": "DEU_week_4",
+        "number": "DEU_week_3",
         "udownloaders_total": 13831,
         "uuploaders_total": 3427
       },
       {
         "btiha_size": 22,
-        "number": "ESP_week_4",
+        "number": "ESP_week_3",
         "udownloaders_total": 23565,
         "uuploaders_total": 6248
       },
       {
         "btiha_size": 22,
-        "number": "FRA_week_4",
+        "number": "FRA_week_3",
         "udownloaders_total": 22611,
         "uuploaders_total": 5216
       },
       {
         "btiha_size": 22,
-        "number": "HKG_week_4",
+        "number": "HKG_week_3",
         "udownloaders_total": 6940,
         "uuploaders_total": 1593
       },
       {
         "btiha_size": 22,
-        "number": "JPN_week_4",
+        "number": "JPN_week_3",
         "udownloaders_total": 8408,
         "uuploaders_total": 1697
       },
       {
         "btiha_size": 22,
-        "number": "KOR_week_4",
+        "number": "KOR_week_3",
         "udownloaders_total": 74657,
         "uuploaders_total": 17557
       },
       {
         "btiha_size": 22,
-        "number": "MEX_week_4",
+        "number": "MEX_week_3",
         "udownloaders_total": 21102,
         "uuploaders_total": 5259
       },
       {
         "btiha_size": 22,
-        "number": "NLD_week_4",
+        "number": "NLD_week_3",
         "udownloaders_total": 50528,
         "uuploaders_total": 12795
       },
       {
         "btiha_size": 22,
-        "number": "RUS_week_4",
+        "number": "RUS_week_3",
         "udownloaders_total": 5927,
         "uuploaders_total": 1224
       },
       {
         "btiha_size": 22,
-        "number": "SWE_week_4",
+        "number": "SWE_week_3",
         "udownloaders_total": 27880,
         "uuploaders_total": 6590
       },
       {
         "btiha_size": 22,
-        "number": "TUR_week_4",
+        "number": "TUR_week_3",
         "udownloaders_total": 13848,
         "uuploaders_total": 4033
       },
       {
         "btiha_size": 22,
-        "number": "UKR_week_4",
+        "number": "UKR_week_3",
         "udownloaders_total": 1636,
         "uuploaders_total": 362
       },
       {
         "btiha_size": 22,
-        "number": "USA_week_4",
+        "number": "USA_week_3",
         "udownloaders_total": 251773,
         "uuploaders_total": 62953
       }
@@ -8551,97 +8551,97 @@
     [
       {
         "btiha_size": 47,
-        "number": "BRA_week_5",
+        "number": "BRA_week_4",
         "udownloaders_total": 273856,
         "uuploaders_total": 78588
       },
       {
         "btiha_size": 47,
-        "number": "CAN_week_5",
+        "number": "CAN_week_4",
         "udownloaders_total": 82457,
         "uuploaders_total": 23278
       },
       {
         "btiha_size": 47,
-        "number": "CHN_week_5",
+        "number": "CHN_week_4",
         "udownloaders_total": 45817,
         "uuploaders_total": 6884
       },
       {
         "btiha_size": 47,
-        "number": "DEU_week_5",
+        "number": "DEU_week_4",
         "udownloaders_total": 26936,
         "uuploaders_total": 5538
       },
       {
         "btiha_size": 47,
-        "number": "ESP_week_5",
+        "number": "ESP_week_4",
         "udownloaders_total": 34114,
         "uuploaders_total": 8533
       },
       {
         "btiha_size": 47,
-        "number": "FRA_week_5",
+        "number": "FRA_week_4",
         "udownloaders_total": 58978,
         "uuploaders_total": 16165
       },
       {
         "btiha_size": 47,
-        "number": "HKG_week_5",
+        "number": "HKG_week_4",
         "udownloaders_total": 10497,
         "uuploaders_total": 2259
       },
       {
         "btiha_size": 47,
-        "number": "JPN_week_5",
+        "number": "JPN_week_4",
         "udownloaders_total": 21680,
         "uuploaders_total": 2625
       },
       {
         "btiha_size": 47,
-        "number": "KOR_week_5",
+        "number": "KOR_week_4",
         "udownloaders_total": 85744,
         "uuploaders_total": 19487
       },
       {
         "btiha_size": 47,
-        "number": "MEX_week_5",
+        "number": "MEX_week_4",
         "udownloaders_total": 29512,
         "uuploaders_total": 6892
       },
       {
         "btiha_size": 47,
-        "number": "NLD_week_5",
+        "number": "NLD_week_4",
         "udownloaders_total": 67729,
         "uuploaders_total": 16483
       },
       {
         "btiha_size": 47,
-        "number": "RUS_week_5",
+        "number": "RUS_week_4",
         "udownloaders_total": 185052,
         "uuploaders_total": 68634
       },
       {
         "btiha_size": 47,
-        "number": "SWE_week_5",
+        "number": "SWE_week_4",
         "udownloaders_total": 37967,
         "uuploaders_total": 8361
       },
       {
         "btiha_size": 47,
-        "number": "TUR_week_5",
+        "number": "TUR_week_4",
         "udownloaders_total": 20550,
         "uuploaders_total": 5759
       },
       {
         "btiha_size": 47,
-        "number": "UKR_week_5",
+        "number": "UKR_week_4",
         "udownloaders_total": 25105,
         "uuploaders_total": 8787
       },
       {
         "btiha_size": 47,
-        "number": "USA_week_5",
+        "number": "USA_week_4",
         "udownloaders_total": 412946,
         "uuploaders_total": 87274
       }
@@ -8649,97 +8649,97 @@
     [
       {
         "btiha_size": 47,
-        "number": "BRA_week_6",
+        "number": "BRA_week_5",
         "udownloaders_total": 319075,
         "uuploaders_total": 88327
       },
       {
         "btiha_size": 47,
-        "number": "CAN_week_6",
+        "number": "CAN_week_5",
         "udownloaders_total": 95335,
         "uuploaders_total": 26596
       },
       {
         "btiha_size": 47,
-        "number": "CHN_week_6",
+        "number": "CHN_week_5",
         "udownloaders_total": 51207,
         "uuploaders_total": 8065
       },
       {
         "btiha_size": 47,
-        "number": "DEU_week_6",
+        "number": "DEU_week_5",
         "udownloaders_total": 31303,
         "uuploaders_total": 6898
       },
       {
         "btiha_size": 47,
-        "number": "ESP_week_6",
+        "number": "ESP_week_5",
         "udownloaders_total": 39890,
         "uuploaders_total": 9791
       },
       {
         "btiha_size": 47,
-        "number": "FRA_week_6",
+        "number": "FRA_week_5",
         "udownloaders_total": 80561,
         "uuploaders_total": 21868
       },
       {
         "btiha_size": 47,
-        "number": "HKG_week_6",
+        "number": "HKG_week_5",
         "udownloaders_total": 12287,
         "uuploaders_total": 2649
       },
       {
         "btiha_size": 47,
-        "number": "JPN_week_6",
+        "number": "JPN_week_5",
         "udownloaders_total": 23047,
         "uuploaders_total": 2883
       },
       {
         "btiha_size": 47,
-        "number": "KOR_week_6",
+        "number": "KOR_week_5",
         "udownloaders_total": 87777,
         "uuploaders_total": 20149
       },
       {
         "btiha_size": 47,
-        "number": "MEX_week_6",
+        "number": "MEX_week_5",
         "udownloaders_total": 35297,
         "uuploaders_total": 7864
       },
       {
         "btiha_size": 47,
-        "number": "NLD_week_6",
+        "number": "NLD_week_5",
         "udownloaders_total": 75502,
         "uuploaders_total": 18247
       },
       {
         "btiha_size": 47,
-        "number": "RUS_week_6",
+        "number": "RUS_week_5",
         "udownloaders_total": 347789,
         "uuploaders_total": 120880
       },
       {
         "btiha_size": 47,
-        "number": "SWE_week_6",
+        "number": "SWE_week_5",
         "udownloaders_total": 42957,
         "uuploaders_total": 9378
       },
       {
         "btiha_size": 47,
-        "number": "TUR_week_6",
+        "number": "TUR_week_5",
         "udownloaders_total": 25152,
         "uuploaders_total": 6775
       },
       {
         "btiha_size": 47,
-        "number": "UKR_week_6",
+        "number": "UKR_week_5",
         "udownloaders_total": 42997,
         "uuploaders_total": 14346
       },
       {
         "btiha_size": 47,
-        "number": "USA_week_6",
+        "number": "USA_week_5",
         "udownloaders_total": 468115,
         "uuploaders_total": 99418
       }
@@ -8747,97 +8747,97 @@
     [
       {
         "btiha_size": 47,
-        "number": "BRA_week_7",
+        "number": "BRA_week_6",
         "udownloaders_total": 357274,
         "uuploaders_total": 97876
       },
       {
         "btiha_size": 47,
-        "number": "CAN_week_7",
+        "number": "CAN_week_6",
         "udownloaders_total": 104882,
         "uuploaders_total": 29464
       },
       {
         "btiha_size": 47,
-        "number": "CHN_week_7",
+        "number": "CHN_week_6",
         "udownloaders_total": 55986,
         "uuploaders_total": 9365
       },
       {
         "btiha_size": 47,
-        "number": "DEU_week_7",
+        "number": "DEU_week_6",
         "udownloaders_total": 35284,
         "uuploaders_total": 8274
       },
       {
         "btiha_size": 47,
-        "number": "ESP_week_7",
+        "number": "ESP_week_6",
         "udownloaders_total": 45011,
         "uuploaders_total": 11125
       },
       {
         "btiha_size": 47,
-        "number": "FRA_week_7",
+        "number": "FRA_week_6",
         "udownloaders_total": 97131,
         "uuploaders_total": 27245
       },
       {
         "btiha_size": 47,
-        "number": "HKG_week_7",
+        "number": "HKG_week_6",
         "udownloaders_total": 13891,
         "uuploaders_total": 3034
       },
       {
         "btiha_size": 47,
-        "number": "JPN_week_7",
+        "number": "JPN_week_6",
         "udownloaders_total": 24195,
         "uuploaders_total": 3128
       },
       {
         "btiha_size": 47,
-        "number": "KOR_week_7",
+        "number": "KOR_week_6",
         "udownloaders_total": 89431,
         "uuploaders_total": 20742
       },
       {
         "btiha_size": 47,
-        "number": "MEX_week_7",
+        "number": "MEX_week_6",
         "udownloaders_total": 40822,
         "uuploaders_total": 8902
       },
       {
         "btiha_size": 47,
-        "number": "NLD_week_7",
+        "number": "NLD_week_6",
         "udownloaders_total": 81995,
         "uuploaders_total": 20110
       },
       {
         "btiha_size": 47,
-        "number": "RUS_week_7",
+        "number": "RUS_week_6",
         "udownloaders_total": 491411,
         "uuploaders_total": 173018
       },
       {
         "btiha_size": 47,
-        "number": "SWE_week_7",
+        "number": "SWE_week_6",
         "udownloaders_total": 47843,
         "uuploaders_total": 10412
       },
       {
         "btiha_size": 47,
-        "number": "TUR_week_7",
+        "number": "TUR_week_6",
         "udownloaders_total": 28854,
         "uuploaders_total": 7819
       },
       {
         "btiha_size": 47,
-        "number": "UKR_week_7",
+        "number": "UKR_week_6",
         "udownloaders_total": 58016,
         "uuploaders_total": 19692
       },
       {
         "btiha_size": 47,
-        "number": "USA_week_7",
+        "number": "USA_week_6",
         "udownloaders_total": 513300,
         "uuploaders_total": 111054
       }
@@ -8845,97 +8845,97 @@
     [
       {
         "btiha_size": 47,
-        "number": "BRA_week_8",
+        "number": "BRA_week_7",
         "udownloaders_total": 402074,
         "uuploaders_total": 109807
       },
       {
         "btiha_size": 47,
-        "number": "CAN_week_8",
+        "number": "CAN_week_7",
         "udownloaders_total": 116556,
         "uuploaders_total": 32961
       },
       {
         "btiha_size": 47,
-        "number": "CHN_week_8",
+        "number": "CHN_week_7",
         "udownloaders_total": 60970,
         "uuploaders_total": 10731
       },
       {
         "btiha_size": 47,
-        "number": "DEU_week_8",
+        "number": "DEU_week_7",
         "udownloaders_total": 39750,
         "uuploaders_total": 9958
       },
       {
         "btiha_size": 47,
-        "number": "ESP_week_8",
+        "number": "ESP_week_7",
         "udownloaders_total": 50875,
         "uuploaders_total": 12748
       },
       {
         "btiha_size": 47,
-        "number": "FRA_week_8",
+        "number": "FRA_week_7",
         "udownloaders_total": 114823,
         "uuploaders_total": 33745
       },
       {
         "btiha_size": 47,
-        "number": "HKG_week_8",
+        "number": "HKG_week_7",
         "udownloaders_total": 15684,
         "uuploaders_total": 3462
       },
       {
         "btiha_size": 47,
-        "number": "JPN_week_8",
+        "number": "JPN_week_7",
         "udownloaders_total": 25543,
         "uuploaders_total": 3414
       },
       {
         "btiha_size": 47,
-        "number": "KOR_week_8",
+        "number": "KOR_week_7",
         "udownloaders_total": 90895,
         "uuploaders_total": 21365
       },
       {
         "btiha_size": 47,
-        "number": "MEX_week_8",
+        "number": "MEX_week_7",
         "udownloaders_total": 47045,
         "uuploaders_total": 10112
       },
       {
         "btiha_size": 47,
-        "number": "NLD_week_8",
+        "number": "NLD_week_7",
         "udownloaders_total": 89709,
         "uuploaders_total": 22460
       },
       {
         "btiha_size": 47,
-        "number": "RUS_week_8",
+        "number": "RUS_week_7",
         "udownloaders_total": 637303,
         "uuploaders_total": 230306
       },
       {
         "btiha_size": 47,
-        "number": "SWE_week_8",
+        "number": "SWE_week_7",
         "udownloaders_total": 53263,
         "uuploaders_total": 11639
       },
       {
         "btiha_size": 47,
-        "number": "TUR_week_8",
+        "number": "TUR_week_7",
         "udownloaders_total": 33473,
         "uuploaders_total": 9251
       },
       {
         "btiha_size": 47,
-        "number": "UKR_week_8",
+        "number": "UKR_week_7",
         "udownloaders_total": 72682,
         "uuploaders_total": 25268
       },
       {
         "btiha_size": 47,
-        "number": "USA_week_8",
+        "number": "USA_week_7",
         "udownloaders_total": 564754,
         "uuploaders_total": 125508
       }
@@ -8943,97 +8943,97 @@
     [
       {
         "btiha_size": 47,
-        "number": "BRA_week_9",
+        "number": "BRA_week_8",
         "udownloaders_total": 441196,
         "uuploaders_total": 120943
       },
       {
         "btiha_size": 47,
-        "number": "CAN_week_9",
+        "number": "CAN_week_8",
         "udownloaders_total": 126408,
         "uuploaders_total": 36054
       },
       {
         "btiha_size": 47,
-        "number": "CHN_week_9",
+        "number": "CHN_week_8",
         "udownloaders_total": 65347,
         "uuploaders_total": 11975
       },
       {
         "btiha_size": 47,
-        "number": "DEU_week_9",
+        "number": "DEU_week_8",
         "udownloaders_total": 43702,
         "uuploaders_total": 11545
       },
       {
         "btiha_size": 47,
-        "number": "ESP_week_9",
+        "number": "ESP_week_8",
         "udownloaders_total": 56053,
         "uuploaders_total": 14268
       },
       {
         "btiha_size": 47,
-        "number": "FRA_week_9",
+        "number": "FRA_week_8",
         "udownloaders_total": 130905,
         "uuploaders_total": 39765
       },
       {
         "btiha_size": 47,
-        "number": "HKG_week_9",
+        "number": "HKG_week_8",
         "udownloaders_total": 17647,
         "uuploaders_total": 3962
       },
       {
         "btiha_size": 47,
-        "number": "JPN_week_9",
+        "number": "JPN_week_8",
         "udownloaders_total": 26645,
         "uuploaders_total": 3717
       },
       {
         "btiha_size": 47,
-        "number": "KOR_week_9",
+        "number": "KOR_week_8",
         "udownloaders_total": 92064,
         "uuploaders_total": 21921
       },
       {
         "btiha_size": 47,
-        "number": "MEX_week_9",
+        "number": "MEX_week_8",
         "udownloaders_total": 52044,
         "uuploaders_total": 11253
       },
       {
         "btiha_size": 47,
-        "number": "NLD_week_9",
+        "number": "NLD_week_8",
         "udownloaders_total": 96541,
         "uuploaders_total": 24682
       },
       {
         "btiha_size": 47,
-        "number": "RUS_week_9",
+        "number": "RUS_week_8",
         "udownloaders_total": 766427,
         "uuploaders_total": 280153
       },
       {
         "btiha_size": 47,
-        "number": "SWE_week_9",
+        "number": "SWE_week_8",
         "udownloaders_total": 57822,
         "uuploaders_total": 12720
       },
       {
         "btiha_size": 47,
-        "number": "TUR_week_9",
+        "number": "TUR_week_8",
         "udownloaders_total": 37105,
         "uuploaders_total": 10368
       },
       {
         "btiha_size": 47,
-        "number": "UKR_week_9",
+        "number": "UKR_week_8",
         "udownloaders_total": 84751,
         "uuploaders_total": 29710
       },
       {
         "btiha_size": 47,
-        "number": "USA_week_9",
+        "number": "USA_week_8",
         "udownloaders_total": 609702,
         "uuploaders_total": 138982
       }
@@ -9041,97 +9041,97 @@
     [
       {
         "btiha_size": 47,
-        "number": "BRA_week_10",
+        "number": "BRA_week_9",
         "udownloaders_total": 476260,
         "uuploaders_total": 132103
       },
       {
         "btiha_size": 47,
-        "number": "CAN_week_10",
+        "number": "CAN_week_9",
         "udownloaders_total": 134076,
         "uuploaders_total": 38704
       },
       {
         "btiha_size": 47,
-        "number": "CHN_week_10",
+        "number": "CHN_week_9",
         "udownloaders_total": 69623,
         "uuploaders_total": 13374
       },
       {
         "btiha_size": 47,
-        "number": "DEU_week_10",
+        "number": "DEU_week_9",
         "udownloaders_total": 47309,
         "uuploaders_total": 13029
       },
       {
         "btiha_size": 47,
-        "number": "ESP_week_10",
+        "number": "ESP_week_9",
         "udownloaders_total": 60845,
         "uuploaders_total": 15795
       },
       {
         "btiha_size": 47,
-        "number": "FRA_week_10",
+        "number": "FRA_week_9",
         "udownloaders_total": 145925,
         "uuploaders_total": 45936
       },
       {
         "btiha_size": 47,
-        "number": "HKG_week_10",
+        "number": "HKG_week_9",
         "udownloaders_total": 19193,
         "uuploaders_total": 4420
       },
       {
         "btiha_size": 47,
-        "number": "JPN_week_10",
+        "number": "JPN_week_9",
         "udownloaders_total": 27643,
         "uuploaders_total": 3974
       },
       {
         "btiha_size": 47,
-        "number": "KOR_week_10",
+        "number": "KOR_week_9",
         "udownloaders_total": 93031,
         "uuploaders_total": 22532
       },
       {
         "btiha_size": 47,
-        "number": "MEX_week_10",
+        "number": "MEX_week_9",
         "udownloaders_total": 56409,
         "uuploaders_total": 12371
       },
       {
         "btiha_size": 47,
-        "number": "NLD_week_10",
+        "number": "NLD_week_9",
         "udownloaders_total": 102196,
         "uuploaders_total": 26755
       },
       {
         "btiha_size": 47,
-        "number": "RUS_week_10",
+        "number": "RUS_week_9",
         "udownloaders_total": 887820,
         "uuploaders_total": 329797
       },
       {
         "btiha_size": 47,
-        "number": "SWE_week_10",
+        "number": "SWE_week_9",
         "udownloaders_total": 61788,
         "uuploaders_total": 13786
       },
       {
         "btiha_size": 47,
-        "number": "TUR_week_10",
+        "number": "TUR_week_9",
         "udownloaders_total": 40439,
         "uuploaders_total": 11532
       },
       {
         "btiha_size": 47,
-        "number": "UKR_week_10",
+        "number": "UKR_week_9",
         "udownloaders_total": 96958,
         "uuploaders_total": 34318
       },
       {
         "btiha_size": 47,
-        "number": "USA_week_10",
+        "number": "USA_week_9",
         "udownloaders_total": 647654,
         "uuploaders_total": 151757
       }
@@ -9139,97 +9139,97 @@
     [
       {
         "btiha_size": 47,
-        "number": "BRA_week_11",
+        "number": "BRA_week_10",
         "udownloaders_total": 510671,
         "uuploaders_total": 143630
       },
       {
         "btiha_size": 47,
-        "number": "CAN_week_11",
+        "number": "CAN_week_10",
         "udownloaders_total": 142454,
         "uuploaders_total": 41535
       },
       {
         "btiha_size": 47,
-        "number": "CHN_week_11",
+        "number": "CHN_week_10",
         "udownloaders_total": 73894,
         "uuploaders_total": 14882
       },
       {
         "btiha_size": 47,
-        "number": "DEU_week_11",
+        "number": "DEU_week_10",
         "udownloaders_total": 50594,
         "uuploaders_total": 14517
       },
       {
         "btiha_size": 47,
-        "number": "ESP_week_11",
+        "number": "ESP_week_10",
         "udownloaders_total": 65107,
         "uuploaders_total": 17259
       },
       {
         "btiha_size": 47,
-        "number": "FRA_week_11",
+        "number": "FRA_week_10",
         "udownloaders_total": 157814,
         "uuploaders_total": 50864
       },
       {
         "btiha_size": 47,
-        "number": "HKG_week_11",
+        "number": "HKG_week_10",
         "udownloaders_total": 20704,
         "uuploaders_total": 4900
       },
       {
         "btiha_size": 47,
-        "number": "JPN_week_11",
+        "number": "JPN_week_10",
         "udownloaders_total": 28617,
         "uuploaders_total": 4245
       },
       {
         "btiha_size": 47,
-        "number": "KOR_week_11",
+        "number": "KOR_week_10",
         "udownloaders_total": 94080,
         "uuploaders_total": 23235
       },
       {
         "btiha_size": 47,
-        "number": "MEX_week_11",
+        "number": "MEX_week_10",
         "udownloaders_total": 60395,
         "uuploaders_total": 13588
       },
       {
         "btiha_size": 47,
-        "number": "NLD_week_11",
+        "number": "NLD_week_10",
         "udownloaders_total": 107130,
         "uuploaders_total": 28679
       },
       {
         "btiha_size": 47,
-        "number": "RUS_week_11",
+        "number": "RUS_week_10",
         "udownloaders_total": 1003067,
         "uuploaders_total": 377336
       },
       {
         "btiha_size": 47,
-        "number": "SWE_week_11",
+        "number": "SWE_week_10",
         "udownloaders_total": 65447,
         "uuploaders_total": 14707
       },
       {
         "btiha_size": 47,
-        "number": "TUR_week_11",
+        "number": "TUR_week_10",
         "udownloaders_total": 43327,
         "uuploaders_total": 12578
       },
       {
         "btiha_size": 47,
-        "number": "UKR_week_11",
+        "number": "UKR_week_10",
         "udownloaders_total": 108767,
         "uuploaders_total": 38773
       },
       {
         "btiha_size": 47,
-        "number": "USA_week_11",
+        "number": "USA_week_10",
         "udownloaders_total": 683737,
         "uuploaders_total": 164759
       }
@@ -9237,97 +9237,97 @@
     [
       {
         "btiha_size": 47,
-        "number": "BRA_week_12",
+        "number": "BRA_week_11",
         "udownloaders_total": 540762,
         "uuploaders_total": 153975
       },
       {
         "btiha_size": 47,
-        "number": "CAN_week_12",
+        "number": "CAN_week_11",
         "udownloaders_total": 149556,
         "uuploaders_total": 44021
       },
       {
         "btiha_size": 47,
-        "number": "CHN_week_12",
+        "number": "CHN_week_11",
         "udownloaders_total": 77843,
         "uuploaders_total": 16128
       },
       {
         "btiha_size": 47,
-        "number": "DEU_week_12",
+        "number": "DEU_week_11",
         "udownloaders_total": 53435,
         "uuploaders_total": 15916
       },
       {
         "btiha_size": 47,
-        "number": "ESP_week_12",
+        "number": "ESP_week_11",
         "udownloaders_total": 68795,
         "uuploaders_total": 18470
       },
       {
         "btiha_size": 47,
-        "number": "FRA_week_12",
+        "number": "FRA_week_11",
         "udownloaders_total": 167391,
         "uuploaders_total": 54676
       },
       {
         "btiha_size": 47,
-        "number": "HKG_week_12",
+        "number": "HKG_week_11",
         "udownloaders_total": 21992,
         "uuploaders_total": 5275
       },
       {
         "btiha_size": 47,
-        "number": "JPN_week_12",
+        "number": "JPN_week_11",
         "udownloaders_total": 29483,
         "uuploaders_total": 4509
       },
       {
         "btiha_size": 47,
-        "number": "KOR_week_12",
+        "number": "KOR_week_11",
         "udownloaders_total": 95091,
         "uuploaders_total": 23765
       },
       {
         "btiha_size": 47,
-        "number": "MEX_week_12",
+        "number": "MEX_week_11",
         "udownloaders_total": 63826,
         "uuploaders_total": 14693
       },
       {
         "btiha_size": 47,
-        "number": "NLD_week_12",
+        "number": "NLD_week_11",
         "udownloaders_total": 110864,
         "uuploaders_total": 30223
       },
       {
         "btiha_size": 47,
-        "number": "RUS_week_12",
+        "number": "RUS_week_11",
         "udownloaders_total": 1106449,
         "uuploaders_total": 420708
       },
       {
         "btiha_size": 47,
-        "number": "SWE_week_12",
+        "number": "SWE_week_11",
         "udownloaders_total": 68276,
         "uuploaders_total": 15603
       },
       {
         "btiha_size": 47,
-        "number": "TUR_week_12",
+        "number": "TUR_week_11",
         "udownloaders_total": 45687,
         "uuploaders_total": 13421
       },
       {
         "btiha_size": 47,
-        "number": "UKR_week_12",
+        "number": "UKR_week_11",
         "udownloaders_total": 118958,
         "uuploaders_total": 42624
       },
       {
         "btiha_size": 47,
-        "number": "USA_week_12",
+        "number": "USA_week_11",
         "udownloaders_total": 712585,
         "uuploaders_total": 175445
       }
@@ -9335,97 +9335,97 @@
     [
       {
         "btiha_size": 47,
-        "number": "BRA_week_13",
+        "number": "BRA_week_12",
         "udownloaders_total": 566744,
         "uuploaders_total": 164009
       },
       {
         "btiha_size": 47,
-        "number": "CAN_week_13",
+        "number": "CAN_week_12",
         "udownloaders_total": 155256,
         "uuploaders_total": 46142
       },
       {
         "btiha_size": 47,
-        "number": "CHN_week_13",
+        "number": "CHN_week_12",
         "udownloaders_total": 81478,
         "uuploaders_total": 17247
       },
       {
         "btiha_size": 47,
-        "number": "DEU_week_13",
+        "number": "DEU_week_12",
         "udownloaders_total": 56293,
         "uuploaders_total": 17360
       },
       {
         "btiha_size": 47,
-        "number": "ESP_week_13",
+        "number": "ESP_week_12",
         "udownloaders_total": 72221,
         "uuploaders_total": 19671
       },
       {
         "btiha_size": 47,
-        "number": "FRA_week_13",
+        "number": "FRA_week_12",
         "udownloaders_total": 176589,
         "uuploaders_total": 58503
       },
       {
         "btiha_size": 47,
-        "number": "HKG_week_13",
+        "number": "HKG_week_12",
         "udownloaders_total": 23017,
         "uuploaders_total": 5594
       },
       {
         "btiha_size": 47,
-        "number": "JPN_week_13",
+        "number": "JPN_week_12",
         "udownloaders_total": 30278,
         "uuploaders_total": 4734
       },
       {
         "btiha_size": 47,
-        "number": "KOR_week_13",
+        "number": "KOR_week_12",
         "udownloaders_total": 95981,
         "uuploaders_total": 24266
       },
       {
         "btiha_size": 47,
-        "number": "MEX_week_13",
+        "number": "MEX_week_12",
         "udownloaders_total": 66819,
         "uuploaders_total": 15717
       },
       {
         "btiha_size": 47,
-        "number": "NLD_week_13",
+        "number": "NLD_week_12",
         "udownloaders_total": 114179,
         "uuploaders_total": 31664
       },
       {
         "btiha_size": 47,
-        "number": "RUS_week_13",
+        "number": "RUS_week_12",
         "udownloaders_total": 1196745,
         "uuploaders_total": 459712
       },
       {
         "btiha_size": 47,
-        "number": "SWE_week_13",
+        "number": "SWE_week_12",
         "udownloaders_total": 70949,
         "uuploaders_total": 16481
       },
       {
         "btiha_size": 47,
-        "number": "TUR_week_13",
+        "number": "TUR_week_12",
         "udownloaders_total": 47787,
         "uuploaders_total": 14221
       },
       {
         "btiha_size": 47,
-        "number": "UKR_week_13",
+        "number": "UKR_week_12",
         "udownloaders_total": 128048,
         "uuploaders_total": 46137
       },
       {
         "btiha_size": 47,
-        "number": "USA_week_13",
+        "number": "USA_week_12",
         "udownloaders_total": 739732,
         "uuploaders_total": 186886
       }
@@ -9433,97 +9433,97 @@
     [
       {
         "btiha_size": 47,
-        "number": "BRA_week_14",
+        "number": "BRA_week_13",
         "udownloaders_total": 589989,
         "uuploaders_total": 173057
       },
       {
         "btiha_size": 47,
-        "number": "CAN_week_14",
+        "number": "CAN_week_13",
         "udownloaders_total": 160408,
         "uuploaders_total": 47991
       },
       {
         "btiha_size": 47,
-        "number": "CHN_week_14",
+        "number": "CHN_week_13",
         "udownloaders_total": 84651,
         "uuploaders_total": 18120
       },
       {
         "btiha_size": 47,
-        "number": "DEU_week_14",
+        "number": "DEU_week_13",
         "udownloaders_total": 58827,
         "uuploaders_total": 18719
       },
       {
         "btiha_size": 47,
-        "number": "ESP_week_14",
+        "number": "ESP_week_13",
         "udownloaders_total": 75584,
         "uuploaders_total": 20781
       },
       {
         "btiha_size": 47,
-        "number": "FRA_week_14",
+        "number": "FRA_week_13",
         "udownloaders_total": 184581,
         "uuploaders_total": 61700
       },
       {
         "btiha_size": 47,
-        "number": "HKG_week_14",
+        "number": "HKG_week_13",
         "udownloaders_total": 23961,
         "uuploaders_total": 5867
       },
       {
         "btiha_size": 47,
-        "number": "JPN_week_14",
+        "number": "JPN_week_13",
         "udownloaders_total": 30928,
         "uuploaders_total": 4910
       },
       {
         "btiha_size": 47,
-        "number": "KOR_week_14",
+        "number": "KOR_week_13",
         "udownloaders_total": 96570,
         "uuploaders_total": 24568
       },
       {
         "btiha_size": 47,
-        "number": "MEX_week_14",
+        "number": "MEX_week_13",
         "udownloaders_total": 69808,
         "uuploaders_total": 16660
       },
       {
         "btiha_size": 47,
-        "number": "NLD_week_14",
+        "number": "NLD_week_13",
         "udownloaders_total": 117196,
         "uuploaders_total": 32856
       },
       {
         "btiha_size": 47,
-        "number": "RUS_week_14",
+        "number": "RUS_week_13",
         "udownloaders_total": 1279981,
         "uuploaders_total": 496197
       },
       {
         "btiha_size": 47,
-        "number": "SWE_week_14",
+        "number": "SWE_week_13",
         "udownloaders_total": 73751,
         "uuploaders_total": 17286
       },
       {
         "btiha_size": 47,
-        "number": "TUR_week_14",
+        "number": "TUR_week_13",
         "udownloaders_total": 49760,
         "uuploaders_total": 14939
       },
       {
         "btiha_size": 47,
-        "number": "UKR_week_14",
+        "number": "UKR_week_13",
         "udownloaders_total": 135937,
         "uuploaders_total": 49072
       },
       {
         "btiha_size": 47,
-        "number": "USA_week_14",
+        "number": "USA_week_13",
         "udownloaders_total": 768042,
         "uuploaders_total": 197925
       }
@@ -9531,97 +9531,97 @@
     [
       {
         "btiha_size": 47,
-        "number": "BRA_week_15",
+        "number": "BRA_week_14",
         "udownloaders_total": 597206,
         "uuploaders_total": 175728
       },
       {
         "btiha_size": 47,
-        "number": "CAN_week_15",
+        "number": "CAN_week_14",
         "udownloaders_total": 162223,
         "uuploaders_total": 48580
       },
       {
         "btiha_size": 47,
-        "number": "CHN_week_15",
+        "number": "CHN_week_14",
         "udownloaders_total": 85417,
         "uuploaders_total": 18301
       },
       {
         "btiha_size": 47,
-        "number": "DEU_week_15",
+        "number": "DEU_week_14",
         "udownloaders_total": 59560,
         "uuploaders_total": 19073
       },
       {
         "btiha_size": 47,
-        "number": "ESP_week_15",
+        "number": "ESP_week_14",
         "udownloaders_total": 76361,
         "uuploaders_total": 21011
       },
       {
         "btiha_size": 47,
-        "number": "FRA_week_15",
+        "number": "FRA_week_14",
         "udownloaders_total": 186873,
         "uuploaders_total": 62589
       },
       {
         "btiha_size": 47,
-        "number": "HKG_week_15",
+        "number": "HKG_week_14",
         "udownloaders_total": 24322,
         "uuploaders_total": 5975
       },
       {
         "btiha_size": 47,
-        "number": "JPN_week_15",
+        "number": "JPN_week_14",
         "udownloaders_total": 31117,
         "uuploaders_total": 4964
       },
       {
         "btiha_size": 47,
-        "number": "KOR_week_15",
+        "number": "KOR_week_14",
         "udownloaders_total": 96727,
         "uuploaders_total": 24642
       },
       {
         "btiha_size": 47,
-        "number": "MEX_week_15",
+        "number": "MEX_week_14",
         "udownloaders_total": 70606,
         "uuploaders_total": 16938
       },
       {
         "btiha_size": 47,
-        "number": "NLD_week_15",
+        "number": "NLD_week_14",
         "udownloaders_total": 118065,
         "uuploaders_total": 33171
       },
       {
         "btiha_size": 47,
-        "number": "RUS_week_15",
+        "number": "RUS_week_14",
         "udownloaders_total": 1303489,
         "uuploaders_total": 506314
       },
       {
         "btiha_size": 47,
-        "number": "SWE_week_15",
+        "number": "SWE_week_14",
         "udownloaders_total": 74543,
         "uuploaders_total": 17525
       },
       {
         "btiha_size": 47,
-        "number": "TUR_week_15",
+        "number": "TUR_week_14",
         "udownloaders_total": 50299,
         "uuploaders_total": 15149
       },
       {
         "btiha_size": 47,
-        "number": "UKR_week_15",
+        "number": "UKR_week_14",
         "udownloaders_total": 138079,
         "uuploaders_total": 49840
       },
       {
         "btiha_size": 47,
-        "number": "USA_week_15",
+        "number": "USA_week_14",
         "udownloaders_total": 775157,
         "uuploaders_total": 200931
       }
@@ -9631,9 +9631,9 @@
   "data_version": "2026-08-05",
   "ip_geolocation_version": "6:1777968300",
   "sample_day_year_end": 90,
-  "sample_day_year_start": 356,
-  "sample_days": 100,
-  "sample_duration": "2017-12-22-to-2018-03-31",
+  "sample_day_year_start": 363,
+  "sample_days": 93,
+  "sample_duration": "2017-12-29-to-2018-03-31",
   "sample_year_end": 2018,
   "sample_year_start": 2017
 }

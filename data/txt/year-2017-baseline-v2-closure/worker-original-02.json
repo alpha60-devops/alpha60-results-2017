@@ -1,0 +1,81 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/archive-verification.json",
+    "sha256": "f49e50c9789c99bb6aa44c68261074d9c457d3d7c9c5d332044d8ae55d0d9f88",
+    "size": 3693
+  },
+  "counts": {
+    "errors": 3,
+    "passed": 2,
+    "records": 5
+  },
+  "executor": "eureka",
+  "finished_at": "2026-09-08T15:01:22.496669+00:00",
+  "owner": "eureka",
+  "records": [
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/game-of-thrones-706.cache/cache.20170924.tar.xz",
+      "collection_key": "game-of-thrones-706",
+      "executor": "eureka",
+      "finished_at": "2026-09-08T14:36:43.593363+00:00",
+      "owner": "eureka",
+      "results_revision": "275e72018d12f25126ce52c462ca5b9f8c202eca",
+      "started_at": "2026-09-08T14:36:24.247507+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/game-of-thrones-707.cache/cache.20171130.tar.xz",
+      "collection_key": "game-of-thrones-707",
+      "error": "Command '['/usr/bin/python3', '/home/bkoz/src/alpha60/scripts/generate-cache-aggregates.py', 'game-of-thrones-707', '--cache-archive', '/home/bkoz/src/alpha60-samples-cache/year-2017-archives/game-of-thrones-707.cache/cache.20171130.tar.xz', '--output-dir', '/home/bkoz/src/alpha60-xperiments/year-2017/game-of-thrones-707/tmp', '--data-dir', '/home/bkoz/src/alpha60-data', '--metadata-dir', '/home/bkoz/src/alpha60-swarm-metadata/metadata', '--binaries-dir', '/home/bkoz/src/alpha60/build/campaign', '--released-day-input', '--expected-day-count', '95', '--expected-day-span', '95', '--day-index-width', '4', '--required-sample-start', '2017-08-28', '--required-sample-end', '2017-11-30', '--workers', '32', '--skip-build', '--resume']' returned non-zero exit status 1.",
+      "executor": "eureka",
+      "finished_at": "2026-09-08T14:56:03.367975+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-08T14:36:43.594055+00:00",
+      "status": "error"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/narcos-03.cache/cache.20171001.tar.xz",
+      "collection_key": "narcos-03",
+      "executor": "eureka",
+      "finished_at": "2026-09-08T14:56:37.618656+00:00",
+      "owner": "eureka",
+      "results_revision": "a4ece6a25ce7bee0fda0a8dfaf9a504c637d3e07",
+      "started_at": "2026-09-08T14:56:03.368789+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/star-trek-discovery-101.cache/cache.20171021.tar.xz",
+      "collection_key": "star-trek-discovery-101",
+      "error": "Command '['/usr/bin/python3', '/home/bkoz/src/alpha60/scripts/generate-cache-aggregates.py', 'star-trek-discovery-101', '--cache-archive', '/home/bkoz/src/alpha60-samples-cache/year-2017-archives/star-trek-discovery-101.cache/cache.20171021.tar.xz', '--output-dir', '/home/bkoz/src/alpha60-xperiments/year-2017/star-trek-discovery-101/tmp', '--data-dir', '/home/bkoz/src/alpha60-data', '--metadata-dir', '/home/bkoz/src/alpha60-swarm-metadata/metadata', '--binaries-dir', '/home/bkoz/src/alpha60/build/campaign', '--released-day-input', '--expected-day-count', '27', '--expected-day-span', '27', '--day-index-width', '4', '--required-sample-start', '2017-09-25', '--required-sample-end', '2017-10-21', '--workers', '32', '--skip-build', '--resume']' returned non-zero exit status 1.",
+      "executor": "eureka",
+      "finished_at": "2026-09-08T14:58:57.063499+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-08T14:56:37.619082+00:00",
+      "status": "error"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/walking-dead-807.cache/cache.20171218.tar.xz",
+      "collection_key": "walking-dead-807",
+      "error": "Command '['/usr/bin/python3', '/home/bkoz/src/alpha60/scripts/generate-cache-aggregates.py', 'walking-dead-807', '--cache-archive', '/home/bkoz/src/alpha60-samples-cache/year-2017-archives/walking-dead-807.cache/cache.20171218.tar.xz', '--output-dir', '/home/bkoz/src/alpha60-xperiments/year-2017/walking-dead-807/tmp', '--data-dir', '/home/bkoz/src/alpha60-data', '--metadata-dir', '/home/bkoz/src/alpha60-swarm-metadata/metadata', '--binaries-dir', '/home/bkoz/src/alpha60/build/campaign', '--released-day-input', '--expected-day-count', '15', '--expected-day-span', '15', '--day-index-width', '4', '--required-sample-start', '2017-12-04', '--required-sample-end', '2017-12-18', '--workers', '32', '--skip-build', '--resume']' returned non-zero exit status 1.",
+      "executor": "eureka",
+      "finished_at": "2026-09-08T15:01:22.495760+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-08T14:58:57.064162+00:00",
+      "status": "error"
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-08T14:36:24.246918+00:00",
+  "status": "error",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+    "sha256": "83fd72e66099f2a8340ee33cfb3982dc624d645c375a2ef34bedcd02dd681520",
+    "size": 12199
+  },
+  "year": "2017"
+}

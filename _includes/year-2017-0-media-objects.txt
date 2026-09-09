@@ -1,44 +1,44 @@
-americans-501
-americans-513
-blade-runner-2049
-el-chapo-02
-expanse-201
-expanse-203
-expanse-204
-expanse-210
-expanse-213
-feud-101
-feud-102
-feud-108
-game-of-thrones-701
-game-of-thrones-702
-game-of-thrones-703
-game-of-thrones-705
-game-of-thrones-706
-game-of-thrones-707
-good-fight-101
-good-fight-105
-good-fight-108
-good-fight-110
-handmaids-tale-101
-handmaids-tale-105
-house-of-cards-05
-i-love-dick
-into-the-badlands-203
-narcos-03
-screeners
-sense8-02.1
-star-trek-discovery-101
-star-trek-discovery-104
-star-trek-discovery-109
-star-wars-last-jedi
-stormy-daniels-2017
-stranger-things-02
-twin-peaks-310
-twin-peaks-317
-walking-dead-709
-walking-dead-710
-walking-dead-713
-walking-dead-716
-walking-dead-801
-walking-dead-807
+  - [americans-501](docs/itemized/americans-501-sample-cache-audit.md)
+  - [americans-513](docs/itemized/americans-513-sample-cache-audit.md)
+  - [blade-runner-2049](docs/itemized/blade-runner-2049-sample-cache-audit.md)
+  - [el-chapo-02](docs/itemized/el-chapo-02-sample-cache-audit.md)
+  - [expanse-201](docs/itemized/expanse-201-sample-cache-audit.md)
+  - [expanse-203](docs/itemized/expanse-203-sample-cache-audit.md)
+  - [expanse-204](docs/itemized/expanse-204-sample-cache-audit.md)
+  - [expanse-210](docs/itemized/expanse-210-sample-cache-audit.md)
+  - [expanse-213](docs/itemized/expanse-213-sample-cache-audit.md)
+  - [feud-101](docs/itemized/feud-101-sample-cache-audit.md)
+  - [feud-102](docs/itemized/feud-102-sample-cache-audit.md)
+  - [feud-108](docs/itemized/feud-108-sample-cache-audit.md)
+  - [game-of-thrones-701](docs/itemized/game-of-thrones-701-sample-cache-audit.md)
+  - [game-of-thrones-702](docs/itemized/game-of-thrones-702-sample-cache-audit.md)
+  - [game-of-thrones-703](docs/itemized/game-of-thrones-703-sample-cache-audit.md)
+  - [game-of-thrones-705](docs/itemized/game-of-thrones-705-sample-cache-audit.md)
+  - [game-of-thrones-706](docs/itemized/game-of-thrones-706-sample-cache-audit.md)
+  - [game-of-thrones-707](docs/itemized/game-of-thrones-707-sample-cache-audit.md)
+  - [good-fight-101](docs/itemized/good-fight-101-sample-cache-audit.md)
+  - [good-fight-105](docs/itemized/good-fight-105-sample-cache-audit.md)
+  - [good-fight-108](docs/itemized/good-fight-108-sample-cache-audit.md)
+  - [good-fight-110](docs/itemized/good-fight-110-sample-cache-audit.md)
+  - [handmaids-tale-101](docs/itemized/handmaids-tale-101-sample-cache-audit.md)
+  - [handmaids-tale-105](docs/itemized/handmaids-tale-105-sample-cache-audit.md)
+  - [house-of-cards-05](docs/itemized/house-of-cards-05-sample-cache-audit.md)
+  - [i-love-dick](docs/itemized/i-love-dick-sample-cache-audit.md)
+  - [into-the-badlands-203](docs/itemized/into-the-badlands-203-sample-cache-audit.md)
+  - [narcos-03](docs/itemized/narcos-03-sample-cache-audit.md)
+  - [screeners](docs/itemized/screeners-sample-cache-audit.md)
+  - [sense8-02.1](docs/itemized/sense8-02.1-sample-cache-audit.md)
+  - [star-trek-discovery-101](docs/itemized/star-trek-discovery-101-sample-cache-audit.md)
+  - [star-trek-discovery-104](docs/itemized/star-trek-discovery-104-sample-cache-audit.md)
+  - [star-trek-discovery-109](docs/itemized/star-trek-discovery-109-sample-cache-audit.md)
+  - [star-wars-last-jedi](docs/itemized/star-wars-last-jedi-sample-cache-audit.md)
+  - [stormy-daniels-2017](docs/itemized/stormy-daniels-2017-sample-cache-audit.md)
+  - [stranger-things-02](docs/itemized/stranger-things-02-sample-cache-audit.md)
+  - [twin-peaks-310](docs/itemized/twin-peaks-310-sample-cache-audit.md)
+  - [twin-peaks-317](docs/itemized/twin-peaks-317-sample-cache-audit.md)
+  - [walking-dead-709](docs/itemized/walking-dead-709-sample-cache-audit.md)
+  - [walking-dead-710](docs/itemized/walking-dead-710-sample-cache-audit.md)
+  - [walking-dead-713](docs/itemized/walking-dead-713-sample-cache-audit.md)
+  - [walking-dead-716](docs/itemized/walking-dead-716-sample-cache-audit.md)
+  - [walking-dead-801](docs/itemized/walking-dead-801-sample-cache-audit.md)
+  - [walking-dead-807](docs/itemized/walking-dead-807-sample-cache-audit.md)

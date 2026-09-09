@@ -1,0 +1,88 @@
+{
+  "schema": "alpha60-year-media-object-metadata-readiness/1",
+  "year": "2017",
+  "inventory": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-0-media-objects.txt",
+  "metadata_directory": "/home/bkoz/src/alpha60-swarm-metadata/metadata",
+  "approved_empty_collection_ids": [
+    "blade-runner-2049",
+    "screeners",
+    "star-wars-last-jedi",
+    "stormy-daniels-2017"
+  ],
+  "approved_not_applicable_identity_ids": [
+    "screeners",
+    "stormy-daniels-2017"
+  ],
+  "status": "pass",
+  "counts": {
+    "inventory_entries": 12,
+    "unique_keys": 12,
+    "ready_records": 12,
+    "error_records": 0,
+    "errors": 0
+  },
+  "inventory_issues": [],
+  "duplicate_keys": [],
+  "records": [
+    {
+      "collection_key": "blade-runner-2049",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "el-chapo-02",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "game-of-thrones-706",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "game-of-thrones-707",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "narcos-03",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "screeners",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "sense8-02.1",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "star-trek-discovery-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "star-wars-last-jedi",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "stormy-daniels-2017",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "stranger-things-02",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-807",
+      "status": "ready",
+      "issues": []
+    }
+  ]
+}

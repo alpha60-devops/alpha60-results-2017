@@ -1,0 +1,425 @@
+{
+  "counts": {
+    "archive_records": 12,
+    "baseline_v2_pages": 12,
+    "day_complete": 12,
+    "day_product_pairs": 656,
+    "excluded_records": 2,
+    "index_links": 12,
+    "inventory": 12,
+    "worker_failed": 0,
+    "worker_passed": 12
+  },
+  "day_records": [
+    {
+      "baseline_sha256": "23c8f3b649ab37e55f926ce210ce11416b745ccbed718297db31591d00470651",
+      "collection_key": "blade-runner-2049",
+      "coverage_sha256": "a17398d4dfc88d02ae3674761390611be25a41647db5885fbb05ce77b3aa6ca9",
+      "day_products": 89,
+      "product_sha256": "1487dab0f84129d84004cc907937c7c412b747cdfbe6a18b92f0febee7fd4331",
+      "status": "pass",
+      "stream_sha256": "180f1a8b9415b692a3dd9907404e85df2dc815556e6838df28979407b435d8c2"
+    },
+    {
+      "baseline_sha256": "8281d14f21a416d76d63555fb1510130ab9a63a722e76c9f2f078998d1a5b017",
+      "collection_key": "el-chapo-02",
+      "coverage_sha256": "8bc2f22af2bc7f6332e3deb67c91340671fd38404d227088c1d3285889302e0a",
+      "day_products": 8,
+      "product_sha256": "142fc4729992d07897950df7e87764f67f383096f6c4b02214b0cde1a14665a2",
+      "status": "pass",
+      "stream_sha256": "a7906e8d542c4ee28bf73799bc234b95a57e84c29f29090ad7f60b5d72d19476"
+    },
+    {
+      "baseline_sha256": "3fb0f4e87b4a9ceb60b1b35ba6f81efd10b96d08b0873a57c45241e8a2fbf48d",
+      "collection_key": "game-of-thrones-706",
+      "coverage_sha256": "b0b97291bc181fed792419f33b8dceb34b5649e21f126793330dff93293969cb",
+      "day_products": 35,
+      "product_sha256": "3436db432f8d6ddd97a031103256e34eb318cfd8893e0b42a14304b7a1dd8fc5",
+      "status": "pass",
+      "stream_sha256": "f0a2e39e07a7884920b1eead052ebcfec6adf4446c0e78b4bf76b550324ce93f"
+    },
+    {
+      "baseline_sha256": "d19b25f6fbd6b8f82917e69ce3ff2bd4252c8e53bb336879c8222557e37006d1",
+      "collection_key": "game-of-thrones-707",
+      "coverage_sha256": "3c804a5afa37a857053361b9233d5a7522c0442f754a332f7af07de69d191dfd",
+      "day_products": 95,
+      "product_sha256": "adeb4b8a52d74eae25d2443960693396a3d7c0e81cf3a6f3046747f73a001ab1",
+      "status": "pass",
+      "stream_sha256": "8b1bbbe2103c30e4570cca07fdab2d09021dcb13450421c3ac17933e661fbf5a"
+    },
+    {
+      "baseline_sha256": "1b69674f33df49ab267440e71c3009d3885cee790bf3c72db2f5191aabf8847c",
+      "collection_key": "narcos-03",
+      "coverage_sha256": "b93ea46f9ff9e7ab4bd46d9fae17fb4b5a935e1ef5f75af8b1d61ff9d1c7e7ca",
+      "day_products": 28,
+      "product_sha256": "93124c4bdb720ab299245228d94ac6737f89251b2873b638ddd6cff79c81af14",
+      "status": "pass",
+      "stream_sha256": "909faf706c461724711d069901de075aa84f1825d3a1f09940dd878d16fe8c06"
+    },
+    {
+      "baseline_sha256": "62df8cada2b4d09ca91b842910953c427ee1b80cf0b9978827e79c8c7c9eed79",
+      "collection_key": "screeners",
+      "coverage_sha256": "bd5c7946974bad2737152dda5df4b482d12582c662e15651733f46c291a5fea8",
+      "day_products": 96,
+      "product_sha256": "a69241efe6ace5e9dc2759b89840fd9103c386fc2930f696333374ca1b797cb7",
+      "status": "pass",
+      "stream_sha256": "e1b1222b1399cfe8e9576817713083831d7392dab6662acd225ff293f7c3a3a3"
+    },
+    {
+      "baseline_sha256": "1e33494818d0e3d6d51d103ccb13d339571b94ade993a275a27e2910358902a2",
+      "collection_key": "sense8-02.1",
+      "coverage_sha256": "3fd1109331c477836e9077323879bf0dbb7c54f0abba007b35fca5c2978e1e04",
+      "day_products": 37,
+      "product_sha256": "3a9285630a04061f8c64e697a20031ffafc2e97501d7219149d629e88acc1cda",
+      "status": "pass",
+      "stream_sha256": "f118b37523e19905a31bb9686eb50be133ff1e0d66dd7e5a5e6b59118ba7664a"
+    },
+    {
+      "baseline_sha256": "5fd503e6664f5862a9f256a4f24a4a8c823e85f9da453f3a1015eb732cf666fa",
+      "collection_key": "star-trek-discovery-101",
+      "coverage_sha256": "259d6de8f204d9edf7b4045d439886cf76e25d74cc6e129083d058c8880bdb86",
+      "day_products": 27,
+      "product_sha256": "699512be1211a18ebaeaa1c49052ce39733b883b6371841377c38f0308f3c23b",
+      "status": "pass",
+      "stream_sha256": "2227aa8e94456df15b890409942531fc4a954e8734625feab19f89ad8ef7f38f"
+    },
+    {
+      "baseline_sha256": "f2f906faa8717ce645c739928615fcc9c36f1fe197dffd01dc198b946f9c632d",
+      "collection_key": "star-wars-last-jedi",
+      "coverage_sha256": "38f44347298fcc2968a26086884048b4322e6c959a6fc5b611c885c120689dfb",
+      "day_products": 89,
+      "product_sha256": "7c8375ac9411ef55e965a9a3d06d919a064764da34e86fa853e3d8eca4fd8dd1",
+      "status": "pass",
+      "stream_sha256": "cfc2bd371e249e5c37c15980a3993e65cd3b32fea627614047ba48cfbba5a8a9"
+    },
+    {
+      "baseline_sha256": "462921d3a97e5c12793961779d727292da74c01b5dde4a4fee3d817e58ddbd7f",
+      "collection_key": "stormy-daniels-2017",
+      "coverage_sha256": "4a4349fcf8ba1942fbd12339199b2d6164b80cdcc8f65f85342043b48984515a",
+      "day_products": 71,
+      "product_sha256": "aaa60a22302c7d70e28d53dcceb8e209f331d7b2a952240836ddc4526fcf4a26",
+      "status": "pass",
+      "stream_sha256": "9c05e7eed9486fcdc545bd0613cee75a78f226ddde6e50b3b875c645d6077760"
+    },
+    {
+      "baseline_sha256": "5413be4971bcd1cbd6274f75c954825baa5919a14616d26165011a74ade589f0",
+      "collection_key": "stranger-things-02",
+      "coverage_sha256": "1f8e07685f8ef39a354491281aeb870e3601c2d2eff93f6e58778989d93e6ea2",
+      "day_products": 66,
+      "product_sha256": "7006d3476c1a4a368024cfb6c02d886abed54a0ec1c0f37ec7a48d11484378a9",
+      "status": "pass",
+      "stream_sha256": "c0a9f2865fbc850d07142ee0582e027ae7dd3f7c922d8df724d78a89a1a1cca7"
+    },
+    {
+      "baseline_sha256": "8854876352ff26c22e56a3e6a1c6fb8430574b8f91fd42cfe32bfb085ebd6379",
+      "collection_key": "walking-dead-807",
+      "coverage_sha256": "fecce1f4dcbb098d86dde4b12769b1f9d876c990e0539fca6237938a88a539e7",
+      "day_products": 15,
+      "product_sha256": "1295d18552254ef357edb9951edf5a5f6e670e964d2c2e27925dbffce6289340",
+      "status": "pass",
+      "stream_sha256": "728de6fc44eb263aa3a69508a5127ef0a0ea6c453219b26de3143691ef20bc3a"
+    }
+  ],
+  "excluded_outputs": {
+    "fire-and-fury": [],
+    "stormy": []
+  },
+  "gates": {
+    "exclusions": true,
+    "index": true,
+    "inventory_map": true,
+    "metadata": true,
+    "products": true,
+    "repositories": true,
+    "site": true,
+    "workers": true
+  },
+  "generated_at": "2026-09-08T19:14:02.904987+00:00",
+  "index": {
+    "links": 12,
+    "missing_targets": [],
+    "path": "/home/bkoz/src/alpha60-results-2017/_includes/year-2017-0-media-objects.txt"
+  },
+  "inputs": {
+    "archive_map": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-cache-archive-map.json",
+      "sha256": "98ba8330ebe94fe309bf06d748c7d1a04c16e4879c167fa87e007ab6488326da",
+      "size": 32422
+    },
+    "config": {
+      "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/year-2017-v1.json",
+      "sha256": "35031ccbfe9a19aa51df05b6b4e990563c768082f5ac66c5e41fd71bf1f1d6ad",
+      "size": 2366
+    },
+    "inventory": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-0-media-objects.txt",
+      "sha256": "44d7866e750ccf4f9bfc69c2eeb0717dda427505f28636eabbd01a8ea3d5c7c7",
+      "size": 202
+    },
+    "metadata_audit": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/metadata-audit.json",
+      "sha256": "4e1897f1d88ff69ba736fd69936204ceb7d42fc653f4550da2794c9a914e6d23",
+      "size": 1914
+    },
+    "scope_exclusions": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-scope-exclusions.json",
+      "sha256": "8a4aac11783bd23e6a594a0773ba99c1615423e5b4ea2b5ca84ec8daa5baf3e1",
+      "size": 755
+    },
+    "site_audit": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/site-audit.json",
+      "sha256": "c4c31f8e9a95074d7cda42fefb5a953d7df42ce7445fe7297bba574cd6dba68e",
+      "size": 1480
+    },
+    "worker_receipts": [
+      {
+        "counts": {
+          "errors": 5,
+          "passed": 2,
+          "records": 7
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/worker-original-01.json",
+          "sha256": "ee6c966632fde5cef9c16557ee062dead0dae39cddeb562a33993d41f1a5e2d3",
+          "size": 7465
+        },
+        "kind": "original",
+        "owner": "ord",
+        "status": "error"
+      },
+      {
+        "counts": {
+          "errors": 3,
+          "passed": 2,
+          "records": 5
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/worker-original-02.json",
+          "sha256": "0e69a6eb3f7cd38dc060abbef73bc03ad49fd5b0b1b6827441f209d8de8c62af",
+          "size": 5262
+        },
+        "kind": "original",
+        "owner": "eureka",
+        "status": "error"
+      },
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 1,
+          "records": 1
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/worker-repair-01.json",
+          "sha256": "6ff2c9e21f5e22f707b7953eb5ff325bcde09dcb3c165ffc3f0557c440298bb8",
+          "size": 1295
+        },
+        "kind": "repair",
+        "owner": "ord",
+        "status": "pass"
+      },
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 1,
+          "records": 1
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/worker-repair-02.json",
+          "sha256": "613f3247965facb2ea03bfa96fc4d278ae40fcfff7560e8a4aa0e935b5e943be",
+          "size": 1299
+        },
+        "kind": "repair",
+        "owner": "ord",
+        "status": "pass"
+      },
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 1,
+          "records": 1
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/worker-repair-03.json",
+          "sha256": "14b742ece0143f2deef8ebb4ca2b6ed3afd73728e2738a27d52208ef4adc4ac7",
+          "size": 1286
+        },
+        "kind": "repair",
+        "owner": "ord",
+        "status": "pass"
+      },
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 1,
+          "records": 1
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/worker-repair-04.json",
+          "sha256": "f1ff3e3b04939eff7e8e931ad8888adfe165334836fea9f6a6bac62de2f44045",
+          "size": 1298
+        },
+        "kind": "repair",
+        "owner": "ord",
+        "status": "pass"
+      },
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 1,
+          "records": 1
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/worker-repair-05.json",
+          "sha256": "21326f82d9a22e0a9e5de46d064cfd49b8812bc682edc5ced16366fb77e48e02",
+          "size": 1277
+        },
+        "kind": "repair",
+        "owner": "ord",
+        "status": "pass"
+      },
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 3,
+          "records": 3
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-baseline-v2-closure/worker-repair-06.json",
+          "sha256": "eb5d59feff5a0c7ded5c3d1ff0f33cfa75df24a0866be9026e407f5da9fe1871",
+          "size": 2306
+        },
+        "kind": "repair",
+        "owner": "eureka",
+        "status": "pass"
+      }
+    ]
+  },
+  "issues": [],
+  "metadata_repository": {
+    "path": "/home/bkoz/src/alpha60-swarm-metadata",
+    "revision": "db302b1a9a3749405ab2010a380ff932d468e2e4",
+    "tracked_clean": true,
+    "untracked_files": [],
+    "worktree_clean": true
+  },
+  "results_repository": {
+    "path": "/home/bkoz/src/alpha60-results-2017",
+    "revision": "fff38cc23ad480b648de1be1b61421fb17686a8f",
+    "tracked_clean": true,
+    "untracked_files": [],
+    "worktree_clean": true
+  },
+  "schema": "alpha60-year-baseline-v2-campaign-audit/1",
+  "status": "pass",
+  "terminal_records": [
+    {
+      "collection_key": "blade-runner-2049",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass",
+      "results_revision": "0dac52ccb65dd11bf203e6cb932681a9d54b90e3"
+    },
+    {
+      "collection_key": "el-chapo-02",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass",
+      "results_revision": "1b207b563a6854526f3cd363fb3e5df14d5dff08"
+    },
+    {
+      "collection_key": "game-of-thrones-706",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "275e72018d12f25126ce52c462ca5b9f8c202eca"
+    },
+    {
+      "collection_key": "game-of-thrones-707",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass",
+      "results_revision": "aa197b4d95423df813d621d7b562652e62cd6a91"
+    },
+    {
+      "collection_key": "narcos-03",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "a4ece6a25ce7bee0fda0a8dfaf9a504c637d3e07"
+    },
+    {
+      "collection_key": "screeners",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "82ecdcb4c4d7d34bc5c1f915122bfa1db74031b2"
+    },
+    {
+      "collection_key": "sense8-02.1",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "ba18ff4d75d87d7231c33e691ce6cb1b779dcf5b"
+    },
+    {
+      "collection_key": "star-trek-discovery-101",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass",
+      "results_revision": "2c1e3d1c4519569ebcc3292b1c14c0753be28326"
+    },
+    {
+      "collection_key": "star-wars-last-jedi",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass",
+      "results_revision": "3aa405463c1af35d154c0a9e0b8e9d9ae669d224"
+    },
+    {
+      "collection_key": "stormy-daniels-2017",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass",
+      "results_revision": "803bd450748320c16fc6e2ebead4b940246d744e"
+    },
+    {
+      "collection_key": "stranger-things-02",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass",
+      "results_revision": "4afb4c8a91a1161a5801a3bc5a0d5e51af892c19"
+    },
+    {
+      "collection_key": "walking-dead-807",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass",
+      "results_revision": "af2d3af5b955699ea54567743ff8cf16b76b35c7"
+    }
+  ],
+  "year": "2017"
+}

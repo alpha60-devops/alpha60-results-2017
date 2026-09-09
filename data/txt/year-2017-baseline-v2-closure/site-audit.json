@@ -1,0 +1,76 @@
+{
+  "schema": "alpha60-results-baseline-v2-audit/1",
+  "year": "2017",
+  "status": "pass",
+  "counts": {
+    "passed": 12,
+    "absent": 0,
+    "old": 0,
+    "failed": 0,
+    "inventory": 12,
+    "unique": 12
+  },
+  "duplicate_keys": [],
+  "records": [
+    {
+      "collection_key": "blade-runner-2049",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "el-chapo-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "game-of-thrones-706",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "game-of-thrones-707",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "narcos-03",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "screeners",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "sense8-02.1",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "star-trek-discovery-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "star-wars-last-jedi",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "stormy-daniels-2017",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "stranger-things-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-807",
+      "status": "passed",
+      "issues": []
+    }
+  ]
+}

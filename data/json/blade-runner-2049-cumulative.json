@@ -491,9 +491,9 @@
     }
   ],
   "sample_day_year_end": 90,
-  "sample_day_year_start": 356,
-  "sample_days": 100,
-  "sample_duration": "2017-12-22-to-2018-03-31",
+  "sample_day_year_start": 363,
+  "sample_days": 93,
+  "sample_duration": "2017-12-29-to-2018-03-31",
   "sample_year_end": 2018,
   "sample_year_start": 2017
 }

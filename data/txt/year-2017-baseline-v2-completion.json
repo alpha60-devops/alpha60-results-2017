@@ -1,0 +1,46 @@
+{
+  "campaign_counts": {
+    "archive_records": 12,
+    "baseline_v2_pages": 12,
+    "day_complete": 12,
+    "day_product_pairs": 656,
+    "excluded_records": 2,
+    "index_links": 12,
+    "inventory": 12,
+    "worker_failed": 0,
+    "worker_passed": 12
+  },
+  "counts": {
+    "absent": 0,
+    "failed": 0,
+    "inventory": 12,
+    "old": 0,
+    "passed": 12,
+    "unique": 12
+  },
+  "evidence_sha256": {
+    "campaign_audit": "ab450bae7029f2127a015b8a5d90ec61a936da1e690eb5b4a14e5de5904d1311",
+    "metadata-audit.json": "4e1897f1d88ff69ba736fd69936204ceb7d42fc653f4550da2794c9a914e6d23",
+    "site-audit.json": "c4c31f8e9a95074d7cda42fefb5a953d7df42ce7445fe7297bba574cd6dba68e",
+    "worker-original-01.json": "ee6c966632fde5cef9c16557ee062dead0dae39cddeb562a33993d41f1a5e2d3",
+    "worker-original-02.json": "0e69a6eb3f7cd38dc060abbef73bc03ad49fd5b0b1b6827441f209d8de8c62af",
+    "worker-repair-01.json": "6ff2c9e21f5e22f707b7953eb5ff325bcde09dcb3c165ffc3f0557c440298bb8",
+    "worker-repair-02.json": "613f3247965facb2ea03bfa96fc4d278ae40fcfff7560e8a4aa0e935b5e943be",
+    "worker-repair-03.json": "14b742ece0143f2deef8ebb4ca2b6ed3afd73728e2738a27d52208ef4adc4ac7",
+    "worker-repair-04.json": "f1ff3e3b04939eff7e8e931ad8888adfe165334836fea9f6a6bac62de2f44045",
+    "worker-repair-05.json": "21326f82d9a22e0a9e5de46d064cfd49b8812bc682edc5ced16366fb77e48e02",
+    "worker-repair-06.json": "eb5d59feff5a0c7ded5c3d1ff0f33cfa75df24a0866be9026e407f5da9fe1871"
+  },
+  "generated_at": "2026-09-08T19:14:02.954144+00:00",
+  "schema": "alpha60-year-baseline-v2-completion/1",
+  "source_revisions": {
+    "alpha60": "67ba1d7489ab95d806b2b97e2834e26cfa8c9291",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "a106b9528c6f444032ab6551adbc582767d33c9e",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "db302b1a9a3749405ab2010a380ff932d468e2e4",
+    "results": "fff38cc23ad480b648de1be1b61421fb17686a8f"
+  },
+  "status": "passed",
+  "year": "2017"
+}
