@@ -1,0 +1,717 @@
+{
+    "collection_name": "The Good Fight",
+    "collection_id": "105",
+    "collection_key": "good-fight-105",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "sample_duration": "2017-03-12-to-2017-03-26",
+    "sample_days": 15,
+    "sample_year_start": 2017,
+    "sample_year_end": 2017,
+    "sample_day_year_start": 71,
+    "sample_day_year_end": 85,
+    "collection_week": [
+        {
+    "number": "week-00001",
+    "btiha_size": 9,
+    "udownloaders_total": 67027,
+    "uuploaders_total": 45572
+},
+        {
+    "number": "week-00002",
+    "btiha_size": 9,
+    "udownloaders_total": 90390,
+    "uuploaders_total": 64797
+},
+        {
+    "number": "week-00003",
+    "btiha_size": 9,
+    "udownloaders_total": 92019,
+    "uuploaders_total": 66060
+}
+    ],
+    "collection_week_by_btiha": [
+        [
+    {
+        "id": 14,
+        "name": "multi-btih-1-2-x-The.Good.Fight.S01E05.WEBRip.X264-DEFLATE[ettv]-l33t",
+        "btih": "c83ab3ce0c23f92bd3e8fe99149b869aecd9c141",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.407939997,
+        "creation": "2017-03-12T15:46:07.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 48361,
+        "uuploaders": 33266
+    },
+    {
+        "id": 15,
+        "name": "multi-btih-2-2-x-The.Good.Fight.S01E05.WEBRip.XviD-FUM[ettv]-l33t",
+        "btih": "35062dbdef589fcb18fb56541d9f561f2fa036b1",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.449410925,
+        "creation": "2017-03-13T00:58:09.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 11881,
+        "uuploaders": 8712
+    },
+    {
+        "id": 13,
+        "name": "multi-btih-0-2-x-The.Good.Fight.S01E05.720p.WEBRip.X264-DEFLATE[ettv]-l33t",
+        "btih": "7a5457a1fc0eca76db651d041d36f6003277e38d",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.501121393,
+        "creation": "2017-03-12T15:46:10.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5415,
+        "uuploaders": 2890
+    },
+    {
+        "id": 3,
+        "name": "The.Good.Fight.S01E05.720p.WEBRip.X264-DEFLATE [IPT]",
+        "btih": "6ffa0a4e344630e024993f0072f46a4b318750b3",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.501127494,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 489,
+        "uuploaders": 263
+    },
+    {
+        "id": 12,
+        "name": "The.Good.Fight.S01E05.XviD-AFG [IPT]",
+        "btih": "d7bc518956eca22b012a70a8b1e3602f80ccf41e",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.388767299,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 361,
+        "uuploaders": 217
+    },
+    {
+        "id": 1,
+        "name": "The.Good.Fight.S01E05.480p.x264-mSD [IPT]",
+        "btih": "db7d2fb54aa2552d329b6ea6b11d27747996b479",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.183655965,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 160,
+        "uuploaders": 69
+    },
+    {
+        "id": 2,
+        "name": "The.Good.Fight.S01E05.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "a28679aacf974725321ea5f48fc70c567075513c",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.240475381,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 139,
+        "uuploaders": 64
+    },
+    {
+        "id": 6,
+        "name": "The.Good.Fight.S01E05.AAC.MP4-Mobile [IPT]",
+        "btih": "ade06629a3e74231fee2e46481447a03c8532843",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.148399565,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 135,
+        "uuploaders": 39
+    },
+    {
+        "id": 7,
+        "name": "The.Good.Fight.S01E05.WEBRip.X264-DEFLATE [IPT]",
+        "btih": "2b8883d044d407c64329a216881d6f20dd8df693",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.407945253,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 86,
+        "uuploaders": 52
+    }
+],
+        [
+    {
+        "id": 14,
+        "name": "multi-btih-1-2-x-The.Good.Fight.S01E05.WEBRip.X264-DEFLATE[ettv]-l33t",
+        "btih": "c83ab3ce0c23f92bd3e8fe99149b869aecd9c141",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.407939997,
+        "creation": "2017-03-12T15:46:07.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 65980,
+        "uuploaders": 48557
+    },
+    {
+        "id": 15,
+        "name": "multi-btih-2-2-x-The.Good.Fight.S01E05.WEBRip.XviD-FUM[ettv]-l33t",
+        "btih": "35062dbdef589fcb18fb56541d9f561f2fa036b1",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.449410925,
+        "creation": "2017-03-13T00:58:09.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15512,
+        "uuploaders": 11361
+    },
+    {
+        "id": 13,
+        "name": "multi-btih-0-2-x-The.Good.Fight.S01E05.720p.WEBRip.X264-DEFLATE[ettv]-l33t",
+        "btih": "7a5457a1fc0eca76db651d041d36f6003277e38d",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.501121393,
+        "creation": "2017-03-12T15:46:10.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6853,
+        "uuploaders": 3875
+    },
+    {
+        "id": 3,
+        "name": "The.Good.Fight.S01E05.720p.WEBRip.X264-DEFLATE [IPT]",
+        "btih": "6ffa0a4e344630e024993f0072f46a4b318750b3",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.501127494,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 703,
+        "uuploaders": 352
+    },
+    {
+        "id": 12,
+        "name": "The.Good.Fight.S01E05.XviD-AFG [IPT]",
+        "btih": "d7bc518956eca22b012a70a8b1e3602f80ccf41e",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.388767299,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 570,
+        "uuploaders": 310
+    },
+    {
+        "id": 1,
+        "name": "The.Good.Fight.S01E05.480p.x264-mSD [IPT]",
+        "btih": "db7d2fb54aa2552d329b6ea6b11d27747996b479",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.183655965,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 249,
+        "uuploaders": 114
+    },
+    {
+        "id": 2,
+        "name": "The.Good.Fight.S01E05.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "a28679aacf974725321ea5f48fc70c567075513c",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.240475381,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 221,
+        "uuploaders": 104
+    },
+    {
+        "id": 6,
+        "name": "The.Good.Fight.S01E05.AAC.MP4-Mobile [IPT]",
+        "btih": "ade06629a3e74231fee2e46481447a03c8532843",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.148399565,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 188,
+        "uuploaders": 54
+    },
+    {
+        "id": 7,
+        "name": "The.Good.Fight.S01E05.WEBRip.X264-DEFLATE [IPT]",
+        "btih": "2b8883d044d407c64329a216881d6f20dd8df693",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.407945253,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 114,
+        "uuploaders": 70
+    }
+],
+        [
+    {
+        "id": 14,
+        "name": "multi-btih-1-2-x-The.Good.Fight.S01E05.WEBRip.X264-DEFLATE[ettv]-l33t",
+        "btih": "c83ab3ce0c23f92bd3e8fe99149b869aecd9c141",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.407939997,
+        "creation": "2017-03-12T15:46:07.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 67223,
+        "uuploaders": 49552
+    },
+    {
+        "id": 15,
+        "name": "multi-btih-2-2-x-The.Good.Fight.S01E05.WEBRip.XviD-FUM[ettv]-l33t",
+        "btih": "35062dbdef589fcb18fb56541d9f561f2fa036b1",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.449410925,
+        "creation": "2017-03-13T00:58:09.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15756,
+        "uuploaders": 11538
+    },
+    {
+        "id": 13,
+        "name": "multi-btih-0-2-x-The.Good.Fight.S01E05.720p.WEBRip.X264-DEFLATE[ettv]-l33t",
+        "btih": "7a5457a1fc0eca76db651d041d36f6003277e38d",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.501121393,
+        "creation": "2017-03-12T15:46:10.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6941,
+        "uuploaders": 3940
+    },
+    {
+        "id": 3,
+        "name": "The.Good.Fight.S01E05.720p.WEBRip.X264-DEFLATE [IPT]",
+        "btih": "6ffa0a4e344630e024993f0072f46a4b318750b3",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.501127494,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 724,
+        "uuploaders": 359
+    },
+    {
+        "id": 12,
+        "name": "The.Good.Fight.S01E05.XviD-AFG [IPT]",
+        "btih": "d7bc518956eca22b012a70a8b1e3602f80ccf41e",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.388767299,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 585,
+        "uuploaders": 319
+    },
+    {
+        "id": 1,
+        "name": "The.Good.Fight.S01E05.480p.x264-mSD [IPT]",
+        "btih": "db7d2fb54aa2552d329b6ea6b11d27747996b479",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.183655965,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 257,
+        "uuploaders": 120
+    },
+    {
+        "id": 2,
+        "name": "The.Good.Fight.S01E05.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "a28679aacf974725321ea5f48fc70c567075513c",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.240475381,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 225,
+        "uuploaders": 106
+    },
+    {
+        "id": 6,
+        "name": "The.Good.Fight.S01E05.AAC.MP4-Mobile [IPT]",
+        "btih": "ade06629a3e74231fee2e46481447a03c8532843",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.148399565,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 189,
+        "uuploaders": 54
+    },
+    {
+        "id": 7,
+        "name": "The.Good.Fight.S01E05.WEBRip.X264-DEFLATE [IPT]",
+        "btih": "2b8883d044d407c64329a216881d6f20dd8df693",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.407945253,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 119,
+        "uuploaders": 72
+    }
+]
+    ],
+    "collection_week_by_country": [
+        [
+    {
+        "number": "BRA_week_1",
+        "btiha_size": 6,
+        "udownloaders_total": 2794,
+        "uuploaders_total": 2150
+    },
+    {
+        "number": "CAN_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 3943,
+        "uuploaders_total": 2630
+    },
+    {
+        "number": "CHN_week_1",
+        "btiha_size": 4,
+        "udownloaders_total": 1243,
+        "uuploaders_total": 768
+    },
+    {
+        "number": "DEU_week_1",
+        "btiha_size": 6,
+        "udownloaders_total": 584,
+        "uuploaders_total": 345
+    },
+    {
+        "number": "ESP_week_1",
+        "btiha_size": 4,
+        "udownloaders_total": 2296,
+        "uuploaders_total": 1548
+    },
+    {
+        "number": "FRA_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 1348,
+        "uuploaders_total": 980
+    },
+    {
+        "number": "HKG_week_1",
+        "btiha_size": 5,
+        "udownloaders_total": 431,
+        "uuploaders_total": 298
+    },
+    {
+        "number": "JPN_week_1",
+        "btiha_size": 6,
+        "udownloaders_total": 269,
+        "uuploaders_total": 148
+    },
+    {
+        "number": "KOR_week_1",
+        "btiha_size": 4,
+        "udownloaders_total": 700,
+        "uuploaders_total": 450
+    },
+    {
+        "number": "MEX_week_1",
+        "btiha_size": 7,
+        "udownloaders_total": 408,
+        "uuploaders_total": 293
+    },
+    {
+        "number": "NLD_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 2855,
+        "uuploaders_total": 1779
+    },
+    {
+        "number": "RUS_week_1",
+        "btiha_size": 4,
+        "udownloaders_total": 399,
+        "uuploaders_total": 286
+    },
+    {
+        "number": "SWE_week_1",
+        "btiha_size": 7,
+        "udownloaders_total": 850,
+        "uuploaders_total": 531
+    },
+    {
+        "number": "TUR_week_1",
+        "btiha_size": 4,
+        "udownloaders_total": 318,
+        "uuploaders_total": 238
+    },
+    {
+        "number": "UKR_week_1",
+        "btiha_size": 3,
+        "udownloaders_total": 103,
+        "uuploaders_total": 73
+    },
+    {
+        "number": "USA_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 9203,
+        "uuploaders_total": 5600
+    }
+],
+        [
+    {
+        "number": "BRA_week_2",
+        "btiha_size": 6,
+        "udownloaders_total": 4706,
+        "uuploaders_total": 3782
+    },
+    {
+        "number": "CAN_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 5162,
+        "uuploaders_total": 3669
+    },
+    {
+        "number": "CHN_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 1735,
+        "uuploaders_total": 1108
+    },
+    {
+        "number": "DEU_week_2",
+        "btiha_size": 6,
+        "udownloaders_total": 771,
+        "uuploaders_total": 491
+    },
+    {
+        "number": "ESP_week_2",
+        "btiha_size": 5,
+        "udownloaders_total": 3164,
+        "uuploaders_total": 2292
+    },
+    {
+        "number": "FRA_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 1823,
+        "uuploaders_total": 1369
+    },
+    {
+        "number": "HKG_week_2",
+        "btiha_size": 6,
+        "udownloaders_total": 563,
+        "uuploaders_total": 404
+    },
+    {
+        "number": "JPN_week_2",
+        "btiha_size": 6,
+        "udownloaders_total": 367,
+        "uuploaders_total": 220
+    },
+    {
+        "number": "KOR_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 995,
+        "uuploaders_total": 677
+    },
+    {
+        "number": "MEX_week_2",
+        "btiha_size": 7,
+        "udownloaders_total": 580,
+        "uuploaders_total": 439
+    },
+    {
+        "number": "NLD_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 3445,
+        "uuploaders_total": 2260
+    },
+    {
+        "number": "RUS_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 558,
+        "uuploaders_total": 419
+    },
+    {
+        "number": "SWE_week_2",
+        "btiha_size": 8,
+        "udownloaders_total": 1050,
+        "uuploaders_total": 692
+    },
+    {
+        "number": "TUR_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 430,
+        "uuploaders_total": 332
+    },
+    {
+        "number": "UKR_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 138,
+        "uuploaders_total": 104
+    },
+    {
+        "number": "USA_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 12089,
+        "uuploaders_total": 7769
+    }
+],
+        [
+    {
+        "number": "BRA_week_3",
+        "btiha_size": 6,
+        "udownloaders_total": 4803,
+        "uuploaders_total": 3864
+    },
+    {
+        "number": "CAN_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 5214,
+        "uuploaders_total": 3708
+    },
+    {
+        "number": "CHN_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 1756,
+        "uuploaders_total": 1127
+    },
+    {
+        "number": "DEU_week_3",
+        "btiha_size": 6,
+        "udownloaders_total": 785,
+        "uuploaders_total": 501
+    },
+    {
+        "number": "ESP_week_3",
+        "btiha_size": 5,
+        "udownloaders_total": 3225,
+        "uuploaders_total": 2336
+    },
+    {
+        "number": "FRA_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 1862,
+        "uuploaders_total": 1409
+    },
+    {
+        "number": "HKG_week_3",
+        "btiha_size": 6,
+        "udownloaders_total": 578,
+        "uuploaders_total": 418
+    },
+    {
+        "number": "JPN_week_3",
+        "btiha_size": 6,
+        "udownloaders_total": 383,
+        "uuploaders_total": 227
+    },
+    {
+        "number": "KOR_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 1006,
+        "uuploaders_total": 687
+    },
+    {
+        "number": "MEX_week_3",
+        "btiha_size": 7,
+        "udownloaders_total": 586,
+        "uuploaders_total": 445
+    },
+    {
+        "number": "NLD_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 3497,
+        "uuploaders_total": 2294
+    },
+    {
+        "number": "RUS_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 568,
+        "uuploaders_total": 427
+    },
+    {
+        "number": "SWE_week_3",
+        "btiha_size": 8,
+        "udownloaders_total": 1070,
+        "uuploaders_total": 707
+    },
+    {
+        "number": "TUR_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 438,
+        "uuploaders_total": 339
+    },
+    {
+        "number": "UKR_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 139,
+        "uuploaders_total": 105
+    },
+    {
+        "number": "USA_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 12271,
+        "uuploaders_total": 7890
+    }
+]
+    ]
+}
