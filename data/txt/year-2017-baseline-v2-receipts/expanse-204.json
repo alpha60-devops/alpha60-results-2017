@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt3230854",
+    "imdb_id": "tt3230854",
+    "revision": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec",
+    "wikidata_id": "Q18389644",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Expanse_(TV_series)"
+  },
+  "coverage_sha256": "881cde7bc31afec3eb7536f4fbc766d82860c33ad024574b75c0bdeef02e0fc3",
+  "generated_at": "2026-09-09T02:13:47.941590+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/expanse-204.cache/cache.20170219.tar.xz",
+      "sha256": "b4c28234663739874e86b8b08723a7151043ba101cca03c7db324b18c969a193",
+      "size": 6119176
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-coverage-evidence/expanse-204.md",
+      "sha256": "485f5e428bfe945fde0afa072ed6e7cc8143c50dad7d5f1edd9668ffcf49615b",
+      "size": 2553
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-cache-stream-receipts/expanse-204.json",
+      "sha256": "8efc8bb3495413ebae67fa6401c890d2f855619355d6cb918b55447b9c30290e",
+      "size": 1986
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-product-receipts/expanse-204.json",
+      "sha256": "8b71271095d1ff004dfeb33d633df74503bda674fed487ccba3f70561d6e86af",
+      "size": 361
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+      "sha256": "545757136e399cdd72c619c9f9ffaa4fe15317554642b14efc0f9c41d4307bca",
+      "size": 59066
+    }
+  },
+  "media_object": "expanse-204",
+  "published_files": {
+    "data/csv/bytes/expanse-204-cumulative-detail.2017-btiha-itemized-by-bytes.csv": "d9c8858202cf511385ac9512d5787e197e5acf20ee80af9ed3c7bcc4335b8265",
+    "docs/itemized/expanse-204-sample-cache-audit.md": "099fa643af8b44cf722528ed53d377b46dfa8ec4dac63191e48b17e57403ae04",
+    "docs/itemized/figures/expanse-204-carto-4k.webp": "05c252a2db3afa2c65b8263b1efeaa84682ffefa352c0eb09fe2f0b2cdbb5f91",
+    "docs/itemized/figures/expanse-204-carto.png": "4e67c1002c45ac68d864fd10771e01dadb4d97590ce2b45cddb0df727ce56ef7",
+    "docs/itemized/figures/expanse-204-cumulative-detail-btiha-itemized-by-bytes.svg": "cd09fbdf480fab19fbea3a7017509083df6cd2cb962bf6b6907117e77d3f37d3",
+    "docs/itemized/figures/expanse-204-data-ge-1080p-4k.webp": "159eeaf90db58397ca2e93147706f5820042484013c7f6a44acecaab90d9ef30",
+    "docs/itemized/figures/expanse-204-data-ge-1080p.webp": "9c46d57ff954558a67c1d07aedf695adada10fe7d6f1da1c8723301566072bd8",
+    "docs/itemized/figures/expanse-204-data-lt-1080p-4k.webp": "878cf80b7c698c279e7fd4110d8810ddea118df0dd8e68d8faeb0211a571b975",
+    "docs/itemized/figures/expanse-204-data-lt-1080p.webp": "b3170567aa715356fe6fb166d241915b49f090d8d15d9296e6743dc0a5769cbe",
+    "docs/itemized/figures/expanse-204-downloads-by-day-day.svg": "9a0eb3a9a70de1fcf37242cef225b368c042232648d796a0ce621ec387d09750",
+    "docs/itemized/figures/expanse-204-downloads-by-week-expanse-204-week.svg": "0481a660e609725c641300b0e22c98481ee4b420131c5ea6c628828d67aff63b",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "d17262f5de025dd0b99973b5f8648f02304732f6",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/expanse-204/tmp/expanse-204-cumulative-btiha.geojson",
+        "sha256": "858efd4e8679b9a8be5ea90d0a4f72deb5ac5e04391340c8118e651541643271",
+        "size": 3009608
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/expanse-204/tmp/expanse-204-cumulative-btiha-media-objects.json",
+        "sha256": "0109c43dea2d32440c2f93f657737ddd7a618edc573b95f3c13f654c66ad98d9",
+        "size": 42308
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "expanse-204",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "e38ad865d97233607528beb67400c16ff733ade9875011dc51d6cd724911d011",
+      "size": 1208808
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          36.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Lelystad",
+          "Amsterdam",
+          "London",
+          "Toronto",
+          "Roosendaal",
+          "Warsaw",
+          "Paris",
+          "New York City",
+          "Zagreb",
+          "Brisbane"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          62.0,
+          39.0,
+          38.0,
+          34.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Lelystad",
+          "Amsterdam",
+          "Sydney",
+          "Toronto",
+          "Melbourne",
+          "Stockholm",
+          "Paris",
+          "Warsaw",
+          "Seattle"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 4,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 9,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 1,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "d17262f5de025dd0b99973b5f8648f02304732f6",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "9118dcee59582140eaf9b1224b053ff5bea0330d",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2017"
+}

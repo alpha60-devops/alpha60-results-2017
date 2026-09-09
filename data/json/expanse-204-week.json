@@ -1,0 +1,393 @@
+{
+    "collection_name": "The Expanse",
+    "collection_id": "204",
+    "collection_key": "expanse-204",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "sample_duration": "2017-02-16-to-2017-02-19",
+    "sample_days": 4,
+    "sample_year_start": 2017,
+    "sample_year_end": 2017,
+    "sample_day_year_start": 47,
+    "sample_day_year_end": 50,
+    "collection_week": [
+        {
+    "number": "week-00001",
+    "btiha_size": 19,
+    "udownloaders_total": 134036,
+    "uuploaders_total": 84830
+}
+    ],
+    "collection_week_by_btiha": [
+        [
+    {
+        "id": 13,
+        "name": "The.Expanse.S02E04.HDTV.x264-SVA[eztv]",
+        "btih": "af91e4a1e0ff9a7fd65a2dd9e9b9bedc324da501",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.269445034,
+        "creation": "2017-02-16T04:09:11.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 44580,
+        "uuploaders": 27213
+    },
+    {
+        "id": 6,
+        "name": "The.Expanse.S02E04.720p.HDTV.x264-SVA[eztv]",
+        "btih": "b1fc4b9432c95237854ce1c91e9e2a512b12485a",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.880496711,
+        "creation": "2017-02-16T04:07:15.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 16058,
+        "uuploaders": 11079
+    },
+    {
+        "id": 8,
+        "name": "The.Expanse.S02E04.720p.HDTV.x264-SVA[rartv]-[rarbg.to]",
+        "btih": "4012806083013f3ffce4325629248da514af7746",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.8804968,
+        "creation": "2017-02-16T04:00:17.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 14658,
+        "uuploaders": 9149
+    },
+    {
+        "id": 18,
+        "name": "The.Expanse.S02E04.WEB-DL.XviD-FUM[ettv]",
+        "btih": "f0b8c8eeb42a32edaa72d7972e40a91e8f415af9",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.365395041,
+        "creation": "2017-02-17T10:56:16.000000000Z,mktorrent 1.0",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13478,
+        "uuploaders": 9847
+    },
+    {
+        "id": 15,
+        "name": "The.Expanse.S02E04.HDTV.x264-SVA[rartv]-[rarbg.to]",
+        "btih": "dddca655eb3638d4717824b6c55c79fe1bd69407",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.269445119,
+        "creation": "2017-02-16T04:01:29.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10465,
+        "uuploaders": 5769
+    },
+    {
+        "id": 14,
+        "name": "The.Expanse.S02E04.HDTV.x264-SVA[PRiME]",
+        "btih": "7e552cd2d99e43c34fbb233e3baf0c1ecd416c76",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.269445781,
+        "creation": "2017-02-16T04:11:17.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10295,
+        "uuploaders": 7433
+    },
+    {
+        "id": 7,
+        "name": "The.Expanse.S02E04.720p.HDTV.x264-SVA[PRiME]",
+        "btih": "338a4d9f190d5e33b5b0c88149519d9ac13443b9",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.880497458,
+        "creation": "2017-02-16T04:13:27.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8855,
+        "uuploaders": 6544
+    },
+    {
+        "id": 3,
+        "name": "The.Expanse.S02E04.1080p.WEB.x264-HEAT[rartv]-[rarbg.to]",
+        "btih": "a14aa463ea3cd5cd51cd2549d60a6dc55309fa6d",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.331262852,
+        "creation": "2017-02-16T12:19:15.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5539,
+        "uuploaders": 2655
+    },
+    {
+        "id": 4,
+        "name": "The.Expanse.S02E04.720p.HDTV.x264-SVA [IPT]",
+        "btih": "0a54a8331897e576fa95237123fe4bb25bc61623",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.88049938,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 3769,
+        "uuploaders": 2328
+    },
+    {
+        "id": 16,
+        "name": "The.Expanse.S02E04.WEB-DL.x264-RARBG-[rarbg.to]",
+        "btih": "f19a653c86adab19fe7baa075a31a4fa20b64fe9",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.286038329,
+        "creation": "2017-02-17T06:58:43.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1241,
+        "uuploaders": 390
+    },
+    {
+        "id": 19,
+        "name": "The.Expanse.S02E04.XviD-AFG [IPT]",
+        "btih": "1f9d5561cb582390c14bc8a13450c9b6216c8187",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.466435522,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1136,
+        "uuploaders": 605
+    },
+    {
+        "id": 2,
+        "name": "The.Expanse.S02E04.1080p.WEB.x264-HEAT [IPT]",
+        "btih": "d328cfb38c561c2f78f43fb8fe2cd9df6bba67b9",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.331267385,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1046,
+        "uuploaders": 460
+    },
+    {
+        "id": 5,
+        "name": "The.Expanse.S02E04.720p.HDTV.x264-SVA.[VTV]",
+        "btih": "51c578c9823dd58f6eea287c368ed935843d63ab",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.880496711,
+        "creation": "2017-02-16T04:02:05.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 972,
+        "uuploaders": 530
+    },
+    {
+        "id": 12,
+        "name": "The.Expanse.S02E04.HDTV.x264-SVA [IPT]",
+        "btih": "2f0203f47f2bc531576260c60942f4e0eff873fd",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.269447519,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 726,
+        "uuploaders": 249
+    },
+    {
+        "id": 9,
+        "name": "The.Expanse.S02E04.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "d4b629d38351446d5a04d0b90c014da2463f5c95",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.279447305,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 550,
+        "uuploaders": 241
+    },
+    {
+        "id": 1,
+        "name": "The.Expanse.S02E04.1080p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+        "btih": "47131c8aeedc46b3629c60894dedfb1b7a6e1211",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.77043409,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 359,
+        "uuploaders": 168
+    },
+    {
+        "id": 10,
+        "name": "The.Expanse.S02E04.720p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+        "btih": "c366fe81300a51e44f829f8a12b7e02e2177c2be",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.408003333,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 177,
+        "uuploaders": 87
+    },
+    {
+        "id": 17,
+        "name": "The.Expanse.S02E04.WEB-DL.XviD-FUM [IPT]",
+        "btih": "5a365a759a727d3d7d9a30c4ab450fb3b723286e",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.366327885,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 71,
+        "uuploaders": 46
+    },
+    {
+        "id": 11,
+        "name": "The.Expanse.S02E04.AAC.MP4-Mobile [IPT]",
+        "btih": "c4951d6c55be45c12fe37f15c8f379033c4bfc26",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.171893865,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 61,
+        "uuploaders": 37
+    }
+]
+    ],
+    "collection_week_by_country": [
+        [
+    {
+        "number": "BRA_week_1",
+        "btiha_size": 14,
+        "udownloaders_total": 3658,
+        "uuploaders_total": 2240
+    },
+    {
+        "number": "CAN_week_1",
+        "btiha_size": 19,
+        "udownloaders_total": 8652,
+        "uuploaders_total": 5661
+    },
+    {
+        "number": "CHN_week_1",
+        "btiha_size": 13,
+        "udownloaders_total": 3084,
+        "uuploaders_total": 1408
+    },
+    {
+        "number": "DEU_week_1",
+        "btiha_size": 18,
+        "udownloaders_total": 1459,
+        "uuploaders_total": 790
+    },
+    {
+        "number": "ESP_week_1",
+        "btiha_size": 16,
+        "udownloaders_total": 2883,
+        "uuploaders_total": 1845
+    },
+    {
+        "number": "FRA_week_1",
+        "btiha_size": 19,
+        "udownloaders_total": 3554,
+        "uuploaders_total": 2441
+    },
+    {
+        "number": "HKG_week_1",
+        "btiha_size": 14,
+        "udownloaders_total": 603,
+        "uuploaders_total": 420
+    },
+    {
+        "number": "JPN_week_1",
+        "btiha_size": 15,
+        "udownloaders_total": 517,
+        "uuploaders_total": 311
+    },
+    {
+        "number": "KOR_week_1",
+        "btiha_size": 14,
+        "udownloaders_total": 1181,
+        "uuploaders_total": 674
+    },
+    {
+        "number": "MEX_week_1",
+        "btiha_size": 12,
+        "udownloaders_total": 577,
+        "uuploaders_total": 393
+    },
+    {
+        "number": "NLD_week_1",
+        "btiha_size": 19,
+        "udownloaders_total": 9756,
+        "uuploaders_total": 5539
+    },
+    {
+        "number": "RUS_week_1",
+        "btiha_size": 14,
+        "udownloaders_total": 1059,
+        "uuploaders_total": 647
+    },
+    {
+        "number": "SWE_week_1",
+        "btiha_size": 17,
+        "udownloaders_total": 4181,
+        "uuploaders_total": 2379
+    },
+    {
+        "number": "TUR_week_1",
+        "btiha_size": 13,
+        "udownloaders_total": 1006,
+        "uuploaders_total": 683
+    },
+    {
+        "number": "UKR_week_1",
+        "btiha_size": 13,
+        "udownloaders_total": 224,
+        "uuploaders_total": 137
+    },
+    {
+        "number": "USA_week_1",
+        "btiha_size": 19,
+        "udownloaders_total": 23324,
+        "uuploaders_total": 13997
+    }
+]
+    ]
+}
