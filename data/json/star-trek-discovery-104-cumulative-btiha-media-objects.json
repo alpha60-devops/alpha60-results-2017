@@ -1,0 +1,4062 @@
+{
+    "collection_name": "Star Trek Discovery",
+    "collection_id": "104",
+    "collection_key": "star-trek-discovery-104",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "1f04db801429e466adb8e4d01726eac281c1e233",
+            "duplicate_0_0": "Star Trek Discovery 2017 - S01E04 [WEB-DL] WWW.BLUDV.COM.1f04db801429e466",
+            "duplicate_0_1": "star-trek-discovery-2017-s01e04-web-dl.dublada"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "54c1fb4608f0dacc9bdc85e16bc6c40cf823b755",
+            "duplicate_1_0": "[ Torrent9.tv ] Star.Trek.Discovery.S01E04.REPACK.FRENCH.WEBRip.XViD-EXTREME.avi.54c1fb4608f0dacc",
+            "duplicate_1_1": "[limetorrents.cc]Star.Trek.Discovery.S01E04.REPACK.FRENCH.WEBRip.XViD-EXTREME.avi"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "e60b045ac1a3a02e1df4d9af3db5816d60fb1814",
+            "duplicate_2_0": "[ Torrent9.tv ] Star.Trek.Discovery.S01E04.VOSTFR.WEBRip.XviD-EXTREME.avi.e60b045ac1a3a02e",
+            "duplicate_2_1": "[limetorrents.cc]Star.Trek.Discovery.S01E04.VOSTFR.WEBRip.XviD-EXTREME.avi"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "ee788484545246e254f05427fec366e5ebf93949",
+            "duplicate_3_0": "[limetorrents.cc]Star.Trek.Discovery.S01E04.1080p.CBS.WEBRip.AAC2.0.x264-AJP69",
+            "duplicate_3_1": "Star.Trek.Discovery.S01E04.1080p.CBS.WEBRip.AAC2.0.x264-AJP69[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "2d486e3bb33a50209a31fb5d89a56ba2c0f9139b",
+            "duplicate_4_0": "[limetorrents.cc]Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS",
+            "duplicate_4_1": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "bcd3ff7800b10d8b1123728d050ee9a63428ccb3",
+            "duplicate_5_0": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.CBS.WEBRip.AAC2.0.x264-AJP69",
+            "duplicate_5_1": "Star.Trek.Discovery.S01E04.720p.CBS.WEBRip.AAC2.0.x264-AJP69[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "c059827e4e590bb708bd8c6fdc60a43e97b4a703",
+            "duplicate_6_0": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.HDTV.Subtitulado.Esp.SC.avi",
+            "duplicate_6_1": "Star.Trek.Discovery.S01E04.720p.HDTV.Subtitulado.Esp.SC.avi.c059827e4e590bb7"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "8611c1f2537bc3df96b2577c50a2466b5a49e34b",
+            "duplicate_7_0": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta",
+            "duplicate_7_1": "www.Torrenting.com - Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta.8611c1f2537bc3df"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "4f068919094a208516d1a99da119b4961cfa9cb3",
+            "duplicate_8_0": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.NF.WEBRip.DD5.1.x264-NTb",
+            "duplicate_8_1": "Star.Trek.Discovery.S01E04.720p.NF.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "16a5b318ff3d6ad1beb93bd1ddeb913a26eb5e37",
+            "duplicate_9_0": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS",
+            "duplicate_9_1": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "dfb791ffca7ea15b04afc2a67c39c5877944089d",
+            "duplicate_10_0": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.x264.[StB]",
+            "duplicate_10_1": "Star Trek Discovery S01E04 720p x264 [StB].dfb791ffca7ea15b"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "15932a250af3ff928552a934e8e12c329afbb54b",
+            "duplicate_11_0": "[limetorrents.cc]Star.Trek.Discovery.S01E04.CBS.WEBRip.AAC2.0.x264-AJP69",
+            "duplicate_11_1": "Star.Trek.Discovery.S01E04.CBS.WEBRip.AAC2.0.x264-AJP69[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 12,
+            "duplicate_btih": "3c0fe15e630b67bcfa7645320415cd772fdfda28",
+            "duplicate_12_0": "[limetorrents.cc]Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta",
+            "duplicate_12_1": "www.Torrenting.com - Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta.3c0fe15e630b67bc"
+        },
+        {
+            "duplicate_id": 13,
+            "duplicate_btih": "d0eb70895b5cb8916063ceaf41e9b712e398fba5",
+            "duplicate_13_0": "[limetorrents.cc]Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE.[rarbg]",
+            "duplicate_13_1": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 14,
+            "duplicate_btih": "803f6af42359baea9e5de7a3bfe003cd95828375",
+            "duplicate_14_0": "[limetorrents.cc]Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.t",
+            "duplicate_14_1": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv].803f6af42359baea"
+        },
+        {
+            "duplicate_id": 15,
+            "duplicate_btih": "f8eec639e2e2bf8be5c226f90fc2b5130baa2883",
+            "duplicate_15_0": "[limetorrents.cc]Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.WEB-DL.AAC2.0.x264.CLEANED.mkv",
+            "duplicate_15_1": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.WEB-DL.AAC2.0.x264.CLEANED"
+        },
+        {
+            "duplicate_id": 16,
+            "duplicate_btih": "45fd4d1a45aab345c0a4df86fcc3f4bcbd5ac63d",
+            "duplicate_16_0": "[limetorrents.cc]Star.Trek.Discovery.S01E04.WEBRip.x264-TBS.mkv",
+            "duplicate_16_1": "[limetorrents.cc]Star.Trek.Discovery.S01E04.WEBRip.x264-TBS"
+        },
+        {
+            "duplicate_id": 17,
+            "duplicate_btih": "41b32c27d8fda135a4c8ab43e5fa735edaa9eefc",
+            "duplicate_17_0": "[limetorrents.cc]Star.Trek.Discovery.S01E04.WEBRip.x264-TBS[ettv]",
+            "duplicate_17_1": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS[ettv].41b32c27d8fda135"
+        },
+        {
+            "duplicate_id": 18,
+            "duplicate_btih": "95b94e7f1eab6d3a647dccc2f5f490b239cfcaf7",
+            "duplicate_18_0": "[limetorrents.cc]Star.Trek.Discovery.S01E04.XviD-AFG",
+            "duplicate_18_1": "www.Torrenting.com - Star.Trek.Discovery.S01E04.XviD-AFG.95b94e7f1eab6d3a"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[ Torrent9.tv ] Star.Trek.Discovery.S01E04.FRENCH.WEBRip.XViD-EXTREME.avi.d6881abba08e0cfe",
+            "size_total": 0.434323112,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.434323112,
+                    "path": "[ Torrent9.tv ] Star.Trek.Discovery.S01E04.FRENCH.WEBRip.XViD-EXTREME.avi"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[ Torrent9.tv ] Star.Trek.Discovery.S01E04.REPACK.FRENCH.WEBRip.XViD-EXTREME.avi.54c1fb4608f0dacc",
+            "size_total": 0.434336028,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.434336028,
+                    "path": "[ Torrent9.tv ] Star.Trek.Discovery.S01E04.REPACK.FRENCH.WEBRip.XViD-EXTREME.avi"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[ Torrent9.tv ] Star.Trek.Discovery.S01E04.VOSTFR.WEBRip.XviD-EXTREME.avi.e60b045ac1a3a02e",
+            "size_total": 0.435926842,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.435926842,
+                    "path": "[ Torrent9.tv ] Star.Trek.Discovery.S01E04.VOSTFR.WEBRip.XviD-EXTREME.avi"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[FileTracker.pl]Star Trek Discovery S01E04[wilu75].2f8800b4a5e305f8"
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.1080p.6CH.WEBRip.x265-HETeam",
+            "size_total": 0.522815334,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.522815249,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.6CH.WEBRip.x265-HETeam/Star.Trek.Discovery.S01E04.1080p.6CH.WEBRip.x265-HETeam.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 8.5e-8,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.6CH.WEBRip.x265-HETeam/Read Me.txt"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.1080p.CBS.WEBRip.AAC2.0.x264-AJP69",
+            "size_total": 1.582950637,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.CBS.WEBRip.AAC2.0.x264-AJP69[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.582950607,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.CBS.WEBRip.AAC2.0.x264-AJP69[rarbg]/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.1080p.CBS.WEB-DL.AAC2.0.x264-AJP69.mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta",
+            "size_total": 0.976112724,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000537065,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002480794,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002679538,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.003063795,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.967350348,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta/Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.0000011,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta/Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.1080p.WEBRip.6CH.x265.HEVC-PSA",
+            "size_total": 0.817349653,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.817349653,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.1080p.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS",
+            "size_total": 1.469293736,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.469293601,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS[rarbg]/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.05e-7,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS[rarbg]/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.480p.237mb.HDwebrip.x264-]butch.mp4",
+            "size_total": 0.249180141,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.249180141,
+                    "path": "Star.Trek.Discovery.S01E04.480p.237mb.HDwebrip.x264-][ The Butcher's Knife Cares Not for the Lamb's Cry ][ 09-Oct-2017 ].mp4"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.CBS.WEB-DL.MkvCage.mkv",
+            "size_total": 0.410666212,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.410666212,
+                    "path": "Star.Trek.Discovery.S01E04.720p.CBS.WEB-DL.MkvCage.mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.CBS.WEB-DL.x265-HETeam",
+            "size_total": 0.281552571,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.281552486,
+                    "path": "Star.Trek.Discovery.S01E04.720p.CBS.WEB-DL.x265-HETeam/Star.Trek.Discovery.S01E04.720p.CBS.WEB-DL.x265-HETeam.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 8.5e-8,
+                    "path": "Star.Trek.Discovery.S01E04.720p.CBS.WEB-DL.x265-HETeam/Read Me.txt"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.CBS.WEBRip.AAC2.0.x264-AJP69",
+            "size_total": 1.132229559,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S01E04.720p.CBS.WEBRip.AAC2.0.x264-AJP69[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.132229529,
+                    "path": "Star.Trek.Discovery.S01E04.720p.CBS.WEBRip.AAC2.0.x264-AJP69[rarbg]/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69.mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.HDTV.Subtitulado.Esp.SC.avi",
+            "size_total": 1.153898496,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.153898496,
+                    "path": "Star.Trek.Discovery.S01E04.720p.HDTV.Subtitulado.Esp.SC.avi"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta",
+            "size_total": 0.462199957,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000782949,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001161683,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000436028,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00069758,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.45912043,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001203,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.NF.WEBRip.DD5.1.x264-NTb",
+            "size_total": 1.055916804,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S01E04.720p.NF.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.055916774,
+                    "path": "Star.Trek.Discovery.S01E04.720p.NF.WEBRip.DD5.1.x264-NTb[rarbg]/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.NF.WEB-DL.DD5.1.x264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.WEBRip.2CH.x265.HEVC-PSA",
+            "size_total": 0.310808354,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.310808354,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butcher's.Knife.Cares.Not.for.the.Lamb's.Cry.720p.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS",
+            "size_total": 1.346136059,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.346135965,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS[rarbg]/star.trek.discovery.s01e04.720p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.4e-8,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS[rarbg]/star.trek.discovery.s01e04.720p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.x264.[StB]",
+            "size_total": 0.472516213,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.8e-8,
+                    "path": "Star Trek Discovery S01E04 720p x264 [StB]/Torrent downloaded from Demonoid.ooo.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000009856,
+                    "path": "Star Trek Discovery S01E04 720p x264 [StB]/Star Trek Discovery S01E04 720p x264 [StB].nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.472506309,
+                    "path": "Star Trek Discovery S01E04 720p x264 [StB]/Star Trek Discovery S01E04 720p x264 [StB].mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.CBS.WEBRip.AAC2.0.x264-AJP69",
+            "size_total": 0.59178279,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S01E04.CBS.WEBRip.AAC2.0.x264-AJP69[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.59178276,
+                    "path": "Star.Trek.Discovery.S01E04.CBS.WEBRip.AAC2.0.x264-AJP69[rarbg]/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.540p.CBS.WEB-DL.AAC2.0.x264-AJP69.mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta",
+            "size_total": 1.284651978,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00192916,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002569606,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002114398,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002085948,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.275951619,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001163,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE.[rarbg]",
+            "size_total": 2.508994918,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.508994347,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE[rarbg]/Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.41e-7,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE[rarbg]/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.PL.720p-H3Q.[AgusiQ]",
+            "size_total": 1.509984575,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.25e-7,
+                    "path": "[AgusiQ-TorrentS.pl] Star.Trek.Discovery.S01E04.PL.720p-H3Q [AgusiQ]/AgusiQ Zaprasza.url"
+                },
+                {
+                    "number": 2,
+                    "size": 0.006836184,
+                    "path": "[AgusiQ-TorrentS.pl] Star.Trek.Discovery.S01E04.PL.720p-H3Q [AgusiQ]/AgusiQ-Torrents The Best.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001700262,
+                    "path": "[AgusiQ-TorrentS.pl] Star.Trek.Discovery.S01E04.PL.720p-H3Q [AgusiQ]/AgusiQ.gif"
+                },
+                {
+                    "number": 4,
+                    "size": 1.50144397,
+                    "path": "[AgusiQ-TorrentS.pl] Star.Trek.Discovery.S01E04.PL.720p-H3Q [AgusiQ]/Star.Trek.Discovery.S01E04.PL.720p.WEB.DD5.1.XviD-H3Q.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000004034,
+                    "path": "[AgusiQ-TorrentS.pl] Star.Trek.Discovery.S01E04.PL.720p-H3Q [AgusiQ]/Torrent downloaded from agusiq-torrents.pl upload AQ.txt"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.REPACK.FRENCH.WEBRip.XViD-EXTREME.avi",
+            "size_total": 0.434336028,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.434336028,
+                    "path": "[ Torrent9.tv ] Star.Trek.Discovery.S01E04.REPACK.FRENCH.WEBRip.XViD-EXTREME.avi"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.t",
+            "size_total": 1.13263933,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000081759,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv]/Screenshot-001.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000095917,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv]/Screenshot-002.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000113647,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv]/Screenshot-003.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000118211,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv]/Screenshot-004.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 1.132229529,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv]/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv].mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.67e-7,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv]/To keep us going please read.txt.txt"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.WEB-DL.AAC2.0.x264.CLEANED.mkv",
+            "size_total": 1.09187075,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.0918707,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.WEB-DL.AAC2.0.x264.CLEANED.mk/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.WEB-DL.AAC2.0.x264.CLEANED.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5e-8,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.WEB-DL.AAC2.0.x264.CLEANED.mk/Torrent Downloaded from 1337x.to.txt"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.VOSTFR.WEBRip.XviD-EXTREME.avi",
+            "size_total": 0.435926842,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.435926842,
+                    "path": "[ Torrent9.tv ] Star.Trek.Discovery.S01E04.VOSTFR.WEBRip.XviD-EXTREME.avi"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.WEBRip",
+            "size_total": 0.585472188,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000002188,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip..mkv/Star.Trek.Discovery.S01E04.WEBRip..lnk"
+                },
+                {
+                    "number": 2,
+                    "size": 0.58547,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip..mkv/Star.Trek.Discovery.S01E04.WEBRip..mkv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.WEBRip.x264-SVA",
+            "size_total": 0.58547222,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00000222,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-SVA.mkv/Star.Trek.Discovery.S01E04.WEBRip.x264-SVA.lnk"
+                },
+                {
+                    "number": 2,
+                    "size": 0.58547,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-SVA.mkv/Star.Trek.Discovery.S01E04.WEBRip.x264-SVA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.WEBRip.x264-TBS.mkv",
+            "size_total": 0.31107222,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00000222,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS.mkv/Star.Trek.Discovery.S01E04.WEBRip.x264-TBS.lnk"
+                },
+                {
+                    "number": 2,
+                    "size": 0.31107,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS.mkv/Star.Trek.Discovery.S01E04.WEBRip.x264-TBS.mkv"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.WEBRip.x264-TBS",
+            "size_total": 0.31107222,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00000222,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS.mkv/Star.Trek.Discovery.S01E04.WEBRip.x264-TBS.lnk"
+                },
+                {
+                    "number": 2,
+                    "size": 0.31107,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS.mkv/Star.Trek.Discovery.S01E04.WEBRip.x264-TBS.mkv"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.WEBRip.x264-TBS[ettv]",
+            "size_total": 0.424100773,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.61e-7,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS[ettv]/To keep us going please read.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.424100612,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS[ettv]/star.trek.discovery.s01e04.webrip.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.XviD-AFG",
+            "size_total": 0.710982006,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000030061,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000383299,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000340923,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000411326,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.70981514,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.XviD-AFG/Star.Trek.Discovery.S01E04.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001173,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.XviD-AFG/Star.Trek.Discovery.S01E04.XviD-AFG.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.XviD-AFG/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "[nextorrent.cc] Star.Trek.Discovery.S01E04.FRENCH.WEBRip.XviD-ZT.avi.243bc871969f73b8",
+            "size_total": 0.36771828,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.36771828,
+                    "path": "[nextorrent.cc] Star.Trek.Discovery.S01E04.FRENCH.WEBRip.XviD-ZT.avi"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "[nextorrent.cc] Star.Trek.Discovery.S01E04.VOSTFR.WEBRip.XviD-ZT.avi.0604848d06c32558",
+            "size_total": 0.367791626,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.367791626,
+                    "path": "[nextorrent.cc] Star.Trek.Discovery.S01E04.VOSTFR.WEBRip.XviD-ZT.avi"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "[repack] Star Trek Discovery S01E04 FRENCH WEBRip XviD-Zezeprod.3c206042cab756eb",
+            "size_total": 0.363186779,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.363181733,
+                    "path": "[repack] Star Trek Discovery S01E04 FRENCH WEBRip XviD-Zezeprod/Star.Trek.Discovery.S01E04.FRENCH.WEBRip.XviD-Zezeprod.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000005046,
+                    "path": "[repack] Star Trek Discovery S01E04 FRENCH WEBRip XviD-Zezeprod/Star.Trek.Discovery.S01E04.FRENCH.WEBRip.XviD-Zezeprod.avi.txt"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.1080p.WEB-DLRip.Profix.",
+            "size_total": 8.567126012,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.04371908,
+                    "path": "Star.Trek.Discovery.S01.1080p.WEB-DLRip.Profix.Media/Star.Trek.Discovery.S01E01.1080p.WEB-DLRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.912563651,
+                    "path": "Star.Trek.Discovery.S01.1080p.WEB-DLRip.Profix.Media/Star.Trek.Discovery.S01E02.1080p.WEB-DLRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.267322412,
+                    "path": "Star.Trek.Discovery.S01.1080p.WEB-DLRip.Profix.Media/Star.Trek.Discovery.S01E03.1080p.WEB-DLRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.343520869,
+                    "path": "Star.Trek.Discovery.S01.1080p.WEB-DLRip.Profix.Media/Star.Trek.Discovery.S01E04.1080p.WEB-DLRip.Profix.Media.mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.400p.WEBRip.OmskBird",
+            "size_total": 2.723735552,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.652756992,
+                    "path": "Star.Trek.Discovery.S01.400p.WEBRip.OmskBird/Star.Trek.Discovery.S01E01.WEBRip.OmskBird.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.58745856,
+                    "path": "Star.Trek.Discovery.S01.400p.WEBRip.OmskBird/Star.Trek.Discovery.S01E02.WEBRip.OmskBird.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.731580416,
+                    "path": "Star.Trek.Discovery.S01.400p.WEBRip.OmskBird/Star.Trek.Discovery.S01E03.WEBRip.OmskBird.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.751939584,
+                    "path": "Star.Trek.Discovery.S01.400p.WEBRip.OmskBird/Star.Trek.Discovery.S01E04.WEBRip.OmskBird.avi"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.720p.SunshineStudio_3",
+            "size_total": 4.980494809,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.51745208,
+                    "path": "Star.Trek.Discovery.S01.720p.SunshineStudio/Star.Trek.Discovery.S01E04.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.258012632,
+                    "path": "Star.Trek.Discovery.S01.720p.SunshineStudio/Star.Trek.Discovery.S01E03.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.148977033,
+                    "path": "Star.Trek.Discovery.S01.720p.SunshineStudio/Star.Trek.Discovery.S01E02.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.056053064,
+                    "path": "Star.Trek.Discovery.S01.720p.SunshineStudio/Star.Trek.Discovery.S01E01.720p.SunshineStudio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.720p.WEB-DLRip.OmskBird",
+            "size_total": 4.244386609,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.021536913,
+                    "path": "Star.Trek.Discovery.S01.720p.WEB-DLRip.OmskBird/Star.Trek.Discovery.S01E01.720p.WEBRip.OmskBird.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.911608423,
+                    "path": "Star.Trek.Discovery.S01.720p.WEB-DLRip.OmskBird/Star.Trek.Discovery.S01E02.720p.WEBRip.OmskBird.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 1.139569413,
+                    "path": "Star.Trek.Discovery.S01.720p.WEB-DLRip.OmskBird/Star.Trek.Discovery.S01E03.720p.WEBRip.OmskBird.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 1.17167186,
+                    "path": "Star.Trek.Discovery.S01.720p.WEB-DLRip.OmskBird/Star.Trek.Discovery.S01E04.720p.WEBRip.OmskBird.mp4"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.720p.WEB-DLRip.Profix.M",
+            "size_total": 5.544353222,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.322664259,
+                    "path": "Star.Trek.Discovery.S01.720p.WEB-DLRip.Profix.Media/Star.Trek.Discovery.S01E01.720p.WEB-DLRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.240627528,
+                    "path": "Star.Trek.Discovery.S01.720p.WEB-DLRip.Profix.Media/Star.Trek.Discovery.S01E02.720p.WEB-DLRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.463803161,
+                    "path": "Star.Trek.Discovery.S01.720p.WEB-DLRip.Profix.Media/Star.Trek.Discovery.S01E03.720p.WEB-DLRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.517258274,
+                    "path": "Star.Trek.Discovery.S01.720p.WEB-DLRip.Profix.Media/Star.Trek.Discovery.S01E04.720p.WEB-DLRip.Profix.Media.mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.WEB-DL.Rus.2xEng.Subs.E",
+            "size_total": 7.396578155,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.43585716,
+                    "path": "Star.Trek.Discovery.S01.WEB-DL.Rus.2xEng.Subs.ELITEHD/Star.Trek.Discovery.S01E01.The.Vulcan.Hello.1080p.WEB-DL.Rus.2xEng.Subs.ELITEHD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.377919187,
+                    "path": "Star.Trek.Discovery.S01.WEB-DL.Rus.2xEng.Subs.ELITEHD/Star.Trek.Discovery.S01E02.Battle.at.the.Binary.Stars.1080p.WEB-DL.Rus.2xEng.Subs.ELITEHD.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.781752733,
+                    "path": "Star.Trek.Discovery.S01.WEB-DL.Rus.2xEng.Subs.ELITEHD/Star.Trek.Discovery.S01E03.Context.is.for.Kings.1080p.WEB-DL.Rus.2xEng.Subs.ELITEHD.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.801049075,
+                    "path": "Star.Trek.Discovery.S01.WEB-DL.Rus.2xEng.Subs.ELITEHD/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.1080p.WEB-DL.Rus.2xEng.Subs.ELITEHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.WEBRip.1080p.IdeaFilm",
+            "size_total": 15.947642572,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.403988287,
+                    "path": "Star.Trek.Discovery.S01.WEBRip.1080p/Star.Trek.Discovery.S01E04.WEBRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.425541744,
+                    "path": "Star.Trek.Discovery.S01.WEBRip.1080p/Star.Trek.Discovery.S01E02.WEBRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.281468841,
+                    "path": "Star.Trek.Discovery.S01.WEBRip.1080p/Star.Trek.Discovery.S01E03.WEBRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.8366437,
+                    "path": "Star.Trek.Discovery.S01.WEBRip.1080p/Star.Trek.Discovery.S01E01.WEBRip.1080p.IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.WEBRip.720p.IdeaFilm",
+            "size_total": 10.649000588,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.940735545,
+                    "path": "Star.Trek.Discovery.S01.WEBRip.720p/Star.Trek.Discovery.S01E04.WEBRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.287750312,
+                    "path": "Star.Trek.Discovery.S01.WEBRip.720p/Star.Trek.Discovery.S01E02.WEBRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.858847402,
+                    "path": "Star.Trek.Discovery.S01.WEBRip.720p/Star.Trek.Discovery.S01E03.WEBRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.561667329,
+                    "path": "Star.Trek.Discovery.S01.WEBRip.720p/Star.Trek.Discovery.S01E01.WEBRip.720p.IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.WEBRip.IdeaFilm",
+            "size_total": 2.937130042,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.811214776,
+                    "path": "Star.Trek.Discovery.S01.WEBRip/Star.Trek.Discovery.S01E04.WEBRip.IdeaFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.629551474,
+                    "path": "Star.Trek.Discovery.S01.WEBRip/Star.Trek.Discovery.S01E02.WEBRip.IdeaFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.787408424,
+                    "path": "Star.Trek.Discovery.S01.WEBRip/Star.Trek.Discovery.S01E03.WEBRip.IdeaFilm.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.708955368,
+                    "path": "Star.Trek.Discovery.S01.WEBRip/Star.Trek.Discovery.S01E01.WEBRip.IdeaFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.WEBRip.Profix.Media",
+            "size_total": 2.368278192,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.563185538,
+                    "path": "Star.Trek.Discovery.S01.WEBRip.Profix.Media/Star.Trek.Discovery.S01E01.WEBRip.Profix.Media.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.604876688,
+                    "path": "Star.Trek.Discovery.S01.WEBRip.Profix.Media/Star.Trek.Discovery.S01E02.WEBRip.Profix.Media.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.5457129,
+                    "path": "Star.Trek.Discovery.S01.WEBRip.Profix.Media/Star.Trek.Discovery.S01E03.WEBRip.Profix.Media.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.654503066,
+                    "path": "Star.Trek.Discovery.S01.WEBRip.Profix.Media/Star.Trek.Discovery.S01E04.WEBRip.Profix.Media.avi"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "[rutor.is]Star_Trek_Discovery_Season_01_SDI_Media",
+            "size_total": 2.309378048,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.577040384,
+                    "path": "Star Trek Discovery (Season 01) SDI Media/Star.Trek.Discovery.S01E01.WEB-DLRip.Rus.Eng.SDI.Media.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.576663552,
+                    "path": "Star Trek Discovery (Season 01) SDI Media/Star.Trek.Discovery.S01E02.WEB-DLRip.Rus.Eng.SDI.Media.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.57760768,
+                    "path": "Star Trek Discovery (Season 01) SDI Media/Star.Trek.Discovery.S01E03.WEB-DLRip.Rus.Eng.SDI.Media.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.578066432,
+                    "path": "Star Trek Discovery (Season 01) SDI Media/Star.Trek.Discovery.S01E04.WEB-DLRip.Rus.Eng.SDI.Media.avi"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Star Trek - Discovery.1x04.Ita.Eng.sub.ita.eng.iCV-MIRCrew.d0186267bb731ce6",
+            "size_total": 0.830445278,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.830283776,
+                    "path": "Star Trek - Discovery.1x04.Ita.Eng.sub.ita.eng.iCV-MIRCrew/Star Trek - Discovery.1x04.Ita.Eng.sub.ita.eng.iCV-MIRCrew.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000048972,
+                    "path": "Star Trek - Discovery.1x04.Ita.Eng.sub.ita.eng.iCV-MIRCrew/Star Trek - Discovery.1x04.Ita.Eng.sub.ita.eng.iCV-MIRCrew.eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000010282,
+                    "path": "Star Trek - Discovery.1x04.Ita.Eng.sub.ita.eng.iCV-MIRCrew/Star Trek - Discovery.1x04.Ita.Eng.sub.ita.eng.iCV-MIRCrew.forcedeng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000048004,
+                    "path": "Star Trek - Discovery.1x04.Ita.Eng.sub.ita.eng.iCV-MIRCrew/Star Trek - Discovery.1x04.Ita.Eng.sub.ita.eng.iCV-MIRCrew.ita.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000011768,
+                    "path": "Star Trek - Discovery.1x04.Ita.Eng.sub.ita.eng.iCV-MIRCrew/Star Trek - Discovery.1x04.Ita.Eng.sub.ita.eng.iCV-MIRCrew.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000042476,
+                    "path": "Star Trek - Discovery.1x04.Ita.Eng.sub.ita.eng.iCV-MIRCrew/Star Trek - Discovery.1x04.Ita.Eng.sub.ita.eng.iCV-MIRCrew.tlh.srt"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Star Trek Discovery - Temporada 1 [HDTV 720p][Cap.104][AC3 5.1 Español Castellano].5d409c2f8ab0269a",
+            "size_total": 1.833948417,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.01e-7,
+                    "path": "Star Trek Discovery - Temporada 1 [HDTV 720p][Cap.104][AC3 5.1 Español Castellano]/Importante leer !!!!!.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.833947857,
+                    "path": "Star Trek Discovery - Temporada 1 [HDTV 720p][Cap.104][AC3 5.1 Español Castellano]/StarTrekDiscovery720p1x04 [www.newpct1.com].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.59e-7,
+                    "path": "Star Trek Discovery - Temporada 1 [HDTV 720p][Cap.104][AC3 5.1 Español Castellano]/TorrentLocura.url"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Star Trek Discovery 2017 - S01E04 [WEB-DL] WWW.BLUDV.COM.1f04db801429e466",
+            "size_total": 0.702551536,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.1e-7,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] WWW.BLUDV.COM/BLUDV.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.56e-7,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] WWW.BLUDV.COM/Leia.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00001126,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] WWW.BLUDV.COM/Star.Trek.Discovery.S01E04.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.forced.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000048312,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] WWW.BLUDV.COM/Star.Trek.Discovery.S01E04.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.033957794,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] WWW.BLUDV.COM/BLUDV.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.668533904,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] WWW.BLUDV.COM/Star.Trek.Discovery.S01E04.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Star Trek Discovery S01E04 720p x264 [StB].dfb791ffca7ea15b",
+            "size_total": 0.472516213,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.8e-8,
+                    "path": "Star Trek Discovery S01E04 720p x264 [StB]/Torrent downloaded from Demonoid.ooo.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000009856,
+                    "path": "Star Trek Discovery S01E04 720p x264 [StB]/Star Trek Discovery S01E04 720p x264 [StB].nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.472506309,
+                    "path": "Star Trek Discovery S01E04 720p x264 [StB]/Star Trek Discovery S01E04 720p x264 [StB].mkv"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Star Trek Discovery S01E04 FRENCH WEBRip XviD-ZT.d12c8ab410d32724",
+            "size_total": 0.36709348,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.367089028,
+                    "path": "Star Trek Discovery S01E04 FRENCH WEBRip XviD-ZT/Star.Trek.Discovery.S01E04.FRENCH.WEBRip.XviD-ZT.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000004452,
+                    "path": "Star Trek Discovery S01E04 FRENCH WEBRip XviD-ZT/Star.Trek.Discovery.S01E04.FRENCH.WEBRip.XviD-ZT.avi.txt"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "star-trek-discovery-2017-s01e04-web-dl-1080p.dublada",
+            "size_total": 2.580497713,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.1e-7,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] [1080p] WWW.BLUDV.COM/BLUDV.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.56e-7,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] [1080p] WWW.BLUDV.COM/Leia.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00001126,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] [1080p] WWW.BLUDV.COM/Star.Trek.Discovery.S01E04.1080p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000048312,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] [1080p] WWW.BLUDV.COM/Legenda/Star.Trek.Discovery.S01E04.1080p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.033957794,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] [1080p] WWW.BLUDV.COM/BLUDV.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 2.546480081,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] [1080p] WWW.BLUDV.COM/Star.Trek.Discovery.S01E04.1080p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "star-trek-discovery-2017-s01e04-web-dl.dublada",
+            "size_total": 0.702551536,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.1e-7,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] WWW.BLUDV.COM/BLUDV.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.56e-7,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] WWW.BLUDV.COM/Leia.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00001126,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] WWW.BLUDV.COM/Star.Trek.Discovery.S01E04.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.forced.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000048312,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] WWW.BLUDV.COM/Star.Trek.Discovery.S01E04.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.033957794,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] WWW.BLUDV.COM/BLUDV.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.668533904,
+                    "path": "Star Trek Discovery 2017 - S01E04 [WEB-DL] WWW.BLUDV.COM/Star.Trek.Discovery.S01E04.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Star.Trek.Discovery.S01.1080p.WEBRip.OmskBird.832e938dd1a44106",
+            "size_total": 6.916746362,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.358575484,
+                    "path": "Star.Trek.Discovery.S01.1080p.WEBRip.OmskBird/Star.Trek.Discovery.S01E01.1080p.WEB-DL.OmskBird.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.26488524,
+                    "path": "Star.Trek.Discovery.S01.1080p.WEBRip.OmskBird/Star.Trek.Discovery.S01E02.1080p.WEB-DL.OmskBird.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.641789511,
+                    "path": "Star.Trek.Discovery.S01.1080p.WEBRip.OmskBird/Star.Trek.Discovery.S01E03.1080p.WEB-DL.OmskBird.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.651496127,
+                    "path": "Star.Trek.Discovery.S01.1080p.WEBRip.OmskBird/Star.Trek.Discovery.S01E04.1080p.WEB-DL.OmskBird.mkv"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Star.Trek.Discovery.S01E04.1080p.CBS.WEBRip.AAC2.0.x264-AJP69[rartv]-[rarbg.to]",
+            "size_total": 1.582950637,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.CBS.WEBRip.AAC2.0.x264-AJP69[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.582950607,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.CBS.WEBRip.AAC2.0.x264-AJP69[rarbg]/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.1080p.CBS.WEB-DL.AAC2.0.x264-AJP69.mkv"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.97611264,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000537065,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002480794,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002679538,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.003063795,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.967350348,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta/Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.0000011,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta/Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS [IPT]",
+            "size_total": 1.469299376,
+            "files_total": 32,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.05e-7,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.019297381,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 32,
+                    "size": 0.00000189,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.469293736,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.469293601,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS[rarbg]/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.05e-7,
+                    "path": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS[rarbg]/star.trek.discovery.s01e04.1080p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Star.Trek.Discovery.S01E04.720p.CBS.WEBRip.AAC2.0.x264-AJP69[rartv]-[rarbg.to]",
+            "size_total": 1.132229559,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S01E04.720p.CBS.WEBRip.AAC2.0.x264-AJP69[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.132229529,
+                    "path": "Star.Trek.Discovery.S01E04.720p.CBS.WEBRip.AAC2.0.x264-AJP69[rarbg]/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69.mkv"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Star.Trek.Discovery.S01E04.720p.HDTV.Subtitulado.Esp.SC.avi.c059827e4e590bb7",
+            "size_total": 1.153898496,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.153898496,
+                    "path": "Star.Trek.Discovery.S01E04.720p.HDTV.Subtitulado.Esp.SC.avi"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.462199873,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000782949,
+                    "path": "Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001161683,
+                    "path": "Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000436028,
+                    "path": "Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00069758,
+                    "path": "Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.45912043,
+                    "path": "Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001203,
+                    "path": "Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Star.Trek.Discovery.S01E04.720p.NF.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.055916804,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S01E04.720p.NF.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.055916774,
+                    "path": "Star.Trek.Discovery.S01E04.720p.NF.WEBRip.DD5.1.x264-NTb[rarbg]/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.NF.WEB-DL.DD5.1.x264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS [IPT]",
+            "size_total": 1.346141024,
+            "files_total": 29,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.4e-8,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.046139286,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000001674,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS/star.trek.discovery.s01e04.720p.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS.[VTV].mkv.665fa9fedfdfc7ea",
+            "size_total": 1.346135965,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.346135965,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS.[VTV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS[eztv].mkv",
+            "size_total": 1.346135965,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.346135965,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.346136059,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.346135965,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS[rarbg]/star.trek.discovery.s01e04.720p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.4e-8,
+                    "path": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS[rarbg]/star.trek.discovery.s01e04.720p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Star.Trek.Discovery.S01E04.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.233926175,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000025752,
+                    "path": "Star.Trek.Discovery.S01E04.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000358891,
+                    "path": "Star.Trek.Discovery.S01E04.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000298461,
+                    "path": "Star.Trek.Discovery.S01E04.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000376614,
+                    "path": "Star.Trek.Discovery.S01E04.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.23286516299999999,
+                    "path": "Star.Trek.Discovery.S01E04.AAC.MP4-Mobile/Star.Trek.Discovery.S01E04.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001294,
+                    "path": "Star.Trek.Discovery.S01E04.AAC.MP4-Mobile/Star.Trek.Discovery.S01E04.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Star.Trek.Discovery.S01E04.CBS.WEBRip.AAC2.0.x264-AJP69[rartv]-[rarbg.to]",
+            "size_total": 0.59178279,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S01E04.CBS.WEBRip.AAC2.0.x264-AJP69[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.59178276,
+                    "path": "Star.Trek.Discovery.S01E04.CBS.WEBRip.AAC2.0.x264-AJP69[rarbg]/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.540p.CBS.WEB-DL.AAC2.0.x264-AJP69.mkv"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 1.284651894,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00192916,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002569606,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002114398,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002085948,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.275951619,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001163,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE [IPT]",
+            "size_total": 2.509005853,
+            "files_total": 53,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.41e-7,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r45"
+                },
+                {
+                    "number": 48,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r46"
+                },
+                {
+                    "number": 49,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r47"
+                },
+                {
+                    "number": 50,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r48"
+                },
+                {
+                    "number": 51,
+                    "size": 0.009001589,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.r49"
+                },
+                {
+                    "number": 52,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.rar"
+                },
+                {
+                    "number": 53,
+                    "size": 0.000003723,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.sfv"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE[rartv]-[rarbg.to]",
+            "size_total": 2.508994918,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.508994347,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE[rarbg]/Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.41e-7,
+                    "path": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE[rarbg]/star.trek.discovery.s01e04.internal.1080p.web.x264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.1080p.CBS.WEB-DL.AAC2.0.x264-AJP69.mkv [IPT]",
+            "size_total": 1.582950607,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.582950607,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.1080p.CBS.WEB-DL.AAC2.0.x264-AJP69.mkv"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.1080p.NF.WEB-DL.DD5.1.x264-NTb [IPT]",
+            "size_total": 2.51943072,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000035006,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.1080p.NF.WEB-DL.DD5.1.x264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001658639,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.1080p.NF.WEB-DL.DD5.1.x264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002263029,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.1080p.NF.WEB-DL.DD5.1.x264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002615067,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.1080p.NF.WEB-DL.DD5.1.x264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.51285757,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.1080p.NF.WEB-DL.DD5.1.x264-NTb/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.1080p.NF.WEB-DL.DD5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001409,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.1080p.NF.WEB-DL.DD5.1.x264-NTb/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.1080p.NF.WEB-DL.DD5.1.x264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.540p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv].2ff148db5b8c8fe0",
+            "size_total": 0.591783026,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.59178276,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.540p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv]/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.540p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.66e-7,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.540p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv]/To keep us going please read.txt"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69.mkv [IPT]",
+            "size_total": 1.132229529,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.132229529,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69.mkv"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv].803f6af42359baea",
+            "size_total": 1.13263933,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000081759,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv]/Screenshot-001.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000095917,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv]/Screenshot-002.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000113647,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv]/Screenshot-003.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000118211,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv]/Screenshot-004.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 1.132229529,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv]/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv].mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.67e-7,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv]/To keep us going please read.txt.txt"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.ITA.ENG.NF.DLMux.x264-sp_54321.mkv.2015df03581ad21b",
+            "size_total": 1.12787308,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.12787308,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.ITA.ENG.NF.DLMux.x264-sp_54321.mkv"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.NF.WEB-DL.DD5.1.x264-NTb [IPT]",
+            "size_total": 1.058536296,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000011595,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.NF.WEB-DL.DD5.1.x264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000677582,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.NF.WEB-DL.DD5.1.x264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000853273,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.NF.WEB-DL.DD5.1.x264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001075582,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.NF.WEB-DL.DD5.1.x264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.055916774,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.NF.WEB-DL.DD5.1.x264-NTb/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.NF.WEB-DL.DD5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000149,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.NF.WEB-DL.DD5.1.x264-NTb/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.NF.WEB-DL.DD5.1.x264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.WEB-DL.AAC2.0.x264.CLEANED",
+            "size_total": 1.09187075,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.0918707,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.WEB-DL.AAC2.0.x264.CLEANED.mk/Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.WEB-DL.AAC2.0.x264.CLEANED.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5e-8,
+                    "path": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.WEB-DL.AAC2.0.x264.CLEANED.mk/Torrent Downloaded from 1337x.to.txt"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "Star.Trek.Discovery.S01E04.WEBMux.H264.Ita.Eng.Ac3.5.1.Subs.RoomCrew.mkv.6c424a44927a22c3"
+        },
+        {
+            "id": 82,
+            "name": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS [IPT]",
+            "size_total": 0.424104521,
+            "files_total": 24,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.9e-8,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.004103208,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000001254,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "name": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS.a3eb15576d84e638",
+            "size_total": 0.425408189,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000284401,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000480594,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000234174,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000308349,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.424100612,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 5.9e-8,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS/star.trek.discovery.s01e04.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "name": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS[ettv].41b32c27d8fda135",
+            "size_total": 0.424100773,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.61e-7,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS[ettv]/To keep us going please read.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.424100612,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS[ettv]/star.trek.discovery.s01e04.webrip.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "name": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS[eztv].mkv",
+            "size_total": 0.424100612,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.424100612,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "name": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.424100701,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.424100612,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS[rarbg]/star.trek.discovery.s01e04.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.9e-8,
+                    "path": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS[rarbg]/star.trek.discovery.s01e04.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "name": "Star.Trek.Discovery.S01E04.www.subtorrents.com.avi.c954f7d94b1f116c",
+            "size_total": 1.153898496,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.153898496,
+                    "path": "Star.Trek.Discovery.S01E04.www.subtorrents.com.avi"
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "name": "Star.Trek.Discovery.S01E04.XviD-AFG [IPT]",
+            "size_total": 0.710981922,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000030061,
+                    "path": "Star.Trek.Discovery.S01E04.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000383299,
+                    "path": "Star.Trek.Discovery.S01E04.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000340923,
+                    "path": "Star.Trek.Discovery.S01E04.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000411326,
+                    "path": "Star.Trek.Discovery.S01E04.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.70981514,
+                    "path": "Star.Trek.Discovery.S01E04.XviD-AFG/Star.Trek.Discovery.S01E04.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001173,
+                    "path": "Star.Trek.Discovery.S01E04.XviD-AFG/Star.Trek.Discovery.S01E04.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "name": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead.1080p.f57fe3ce07fe86d6",
+            "size_total": 6.869781711,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.310347105,
+                    "path": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead.1080p/StarTrek.Discovery.S01E01.WEBRip.BaibaKo.TeamNotDead.1080.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.264800455,
+                    "path": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead.1080p/StarTrek.Discovery.S01E02.WEBRip.BaibaKo.TeamNotDead.1080.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.641721808,
+                    "path": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead.1080p/StarTrek.Discovery.S01E03.WEBRip.BaibaKo.TeamNotDead.1080.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.652912343,
+                    "path": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead.1080p/StarTrek.Discovery.S01E04.WEBRip.BaibaKo.TeamNotDead.1080.mkv"
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "name": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead.720p.f8b9113fb4485d7e",
+            "size_total": 3.752435214,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.819815078,
+                    "path": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead.720p/StarTrek.Discovery.S01E01.WEBRip.BaibaKo.TeamNotDead.720.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.785265262,
+                    "path": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead.720p/StarTrek.Discovery.S01E02.WEBRip.BaibaKo.TeamNotDead.720.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.947449618,
+                    "path": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead.720p/StarTrek.Discovery.S01E03.WEBRip.BaibaKo.TeamNotDead.720.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.199905256,
+                    "path": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead.720p/StarTrek.Discovery.S01E04.WEBRip.BaibaKo.TeamNotDead.720.mkv"
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "name": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead.a3014ade568a1353",
+            "size_total": 1.604963254,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.435231998,
+                    "path": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead/StarTrek.Discovery.S01E01.WEBRip.BaibaKo.TeamNotDead.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.383003039,
+                    "path": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead/StarTrek.Discovery.S01E02.WEBRip.BaibaKo.TeamNotDead.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.390316659,
+                    "path": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead/StarTrek.Discovery.S01E03.WEBRip.BaibaKo.TeamNotDead.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.396411558,
+                    "path": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead/StarTrek.Discovery.S01E04.WEBRip.BaibaKo.TeamNotDead.mkv"
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "name": "www.Torrenting.com - Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta.8611c1f2537bc3df",
+            "size_total": 0.462199957,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000782949,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001161683,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000436028,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00069758,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.45912043,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001203,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "name": "www.Torrenting.com - Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta.3c0fe15e630b67bc",
+            "size_total": 1.284651978,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00192916,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002569606,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002114398,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002085948,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.275951619,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001163,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "name": "www.Torrenting.com - Star.Trek.Discovery.S01E04.XviD-AFG.95b94e7f1eab6d3a",
+            "size_total": 0.710982006,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000030061,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000383299,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000340923,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000411326,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.70981514,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.XviD-AFG/Star.Trek.Discovery.S01E04.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001173,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.XviD-AFG/Star.Trek.Discovery.S01E04.XviD-AFG.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Star.Trek.Discovery.S01E04.XviD-AFG/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "name": "星际迷航：发现号.Star.Trek.Discovery.S01E04.720p.HDTV.x264.双语字幕初校版-深影字幕组.mp4.ebba5d75ad93a86c",
+            "size_total": 0.753403972,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.753403972,
+                    "path": "星际迷航：发现号.Star.Trek.Discovery.S01E04.720p.HDTV.x264.双语字幕初校版-深影字幕组.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 75,
+            "name": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.540p.CBS.WEB-DL.AAC2.0.x264-AJP69[ettv].2ff148db5b8c8fe0",
+            "btih": "2ff148db5b8c8fe0854c5541934a4ddd66848a10",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.591783026,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 202019,
+            "uuploaders": 68482
+        },
+        {
+            "id": 99,
+            "name": "multi-btih-3-2-x-[limetorrents.cc]Star.Trek.Discovery.S01E04.1080p.CBS.WEBRip.AAC2.0.x264-AJP69",
+            "btih": "ee788484545246e254f05427fec366e5ebf93949",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.582950637,
+            "creation": "2017-10-09T01:12:31.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 158667,
+            "uuploaders": 68872
+        },
+        {
+            "id": 86,
+            "name": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "352556c89e403dea6cfbe72d3da4d3a8b3ce1de6",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.424100701,
+            "creation": "2017-10-09T05:04:02.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 119388,
+            "uuploaders": 45190
+        },
+        {
+            "id": 113,
+            "name": "multi-btih-17-2-x-[limetorrents.cc]Star.Trek.Discovery.S01E04.WEBRip.x264-TBS[ettv]",
+            "btih": "41b32c27d8fda135a4c8ab43e5fa735edaa9eefc",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.424100773,
+            "creation": "2017-10-09T05:07:40.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 67804,
+            "uuploaders": 43395
+        },
+        {
+            "id": 107,
+            "name": "multi-btih-11-2-x-[limetorrents.cc]Star.Trek.Discovery.S01E04.CBS.WEBRip.AAC2.0.x264-AJP69",
+            "btih": "15932a250af3ff928552a934e8e12c329afbb54b",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.59178279,
+            "creation": "2017-10-09T01:12:30.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 66213,
+            "uuploaders": 33364
+        },
+        {
+            "id": 101,
+            "name": "multi-btih-5-2-x-[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.CBS.WEBRip.AAC2.0.x264-AJP69",
+            "btih": "bcd3ff7800b10d8b1123728d050ee9a63428ccb3",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.132229559,
+            "creation": "2017-10-09T01:12:08.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 51678,
+            "uuploaders": 28452
+        },
+        {
+            "id": 105,
+            "name": "multi-btih-9-2-x-[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS",
+            "btih": "16a5b318ff3d6ad1beb93bd1ddeb913a26eb5e37",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.346136059,
+            "creation": "2017-10-09T05:05:42.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41564,
+            "uuploaders": 30708
+        },
+        {
+            "id": 100,
+            "name": "multi-btih-4-2-x-[limetorrents.cc]Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS",
+            "btih": "2d486e3bb33a50209a31fb5d89a56ba2c0f9139b",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.469293736,
+            "creation": "2017-10-09T05:05:58.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36166,
+            "uuploaders": 24263
+        },
+        {
+            "id": 110,
+            "name": "multi-btih-14-2-x-[limetorrents.cc]Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.t",
+            "btih": "803f6af42359baea9e5de7a3bfe003cd95828375",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.13263933,
+            "creation": "2017-10-09T00:36:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 32812,
+            "uuploaders": 17764
+        },
+        {
+            "id": 109,
+            "name": "multi-btih-13-2-x-[limetorrents.cc]Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE.[rarbg]",
+            "btih": "d0eb70895b5cb8916063ceaf41e9b712e398fba5",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.508994918,
+            "creation": "2017-10-09T07:55:14.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 31856,
+            "uuploaders": 22379
+        },
+        {
+            "id": 47,
+            "name": "[rutor.is]Star_Trek_Discovery_Season_01_SDI_Media",
+            "btih": "11da49b439ceabb7a577671309562329063cfca3",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 2.309378048,
+            "creation": "2017-10-09T09:11:13.000000000Z,uTorrent/2210,http://rutor.is/torrent/588101",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 28421,
+            "uuploaders": 15704
+        },
+        {
+            "id": 97,
+            "name": "multi-btih-1-2-x-[ Torrent9.tv ] Star.Trek.Discovery.S01E04.REPACK.FRENCH.WEBRip.XViD-EXTREME.avi.54c1fb4608f0dacc",
+            "btih": "54c1fb4608f0dacc9bdc85e16bc6c40cf823b755",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.434336028,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23215,
+            "uuploaders": 16244
+        },
+        {
+            "id": 104,
+            "name": "multi-btih-8-2-x-[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.NF.WEBRip.DD5.1.x264-NTb",
+            "btih": "4f068919094a208516d1a99da119b4961cfa9cb3",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.055916804,
+            "creation": "2017-10-09T08:15:34.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22891,
+            "uuploaders": 16102
+        },
+        {
+            "id": 1,
+            "name": "[ Torrent9.tv ] Star.Trek.Discovery.S01E04.FRENCH.WEBRip.XViD-EXTREME.avi.d6881abba08e0cfe",
+            "btih": "d6881abba08e0cfec688167612855fba84f33fba",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.434323112,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22073,
+            "uuploaders": 14662
+        },
+        {
+            "id": 98,
+            "name": "multi-btih-2-2-x-[ Torrent9.tv ] Star.Trek.Discovery.S01E04.VOSTFR.WEBRip.XviD-EXTREME.avi.e60b045ac1a3a02e",
+            "btih": "e60b045ac1a3a02e1df4d9af3db5816d60fb1814",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.435926842,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19959,
+            "uuploaders": 13704
+        },
+        {
+            "id": 85,
+            "name": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS[eztv].mkv",
+            "btih": "a83390f555f3988593fb534dd48ca0f2fbb7546d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.424100612,
+            "creation": "2017-10-16T10:36:09.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14640,
+            "uuploaders": 9807
+        },
+        {
+            "id": 96,
+            "name": "multi-btih-0-2-x-Star Trek Discovery 2017 - S01E04 [WEB-DL] WWW.BLUDV.COM.1f04db801429e466",
+            "btih": "1f04db801429e466adb8e4d01726eac281c1e233",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.702551536,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13560,
+            "uuploaders": 7087
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.1080p.6CH.WEBRip.x265-HETeam",
+            "btih": "54bc33e89742beff0228bb0f4751c1a1de7886ae",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.522815334,
+            "creation": "2017-10-10T13:13:22.000000000Z,qBittorrent v3.3.7,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12797,
+            "uuploaders": 6619
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.CBS.WEB-DL.x265-HETeam",
+            "btih": "9eb509073fd1dea7d5c51071cfac0b27f8c10ef0",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.281552571,
+            "creation": "2017-10-10T04:36:33.000000000Z,qBittorrent v3.3.7,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12478,
+            "uuploaders": 6838
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.CBS.WEB-DL.MkvCage.mkv",
+            "btih": "c37d5123dfafb4a6486bcdf51187b07fd165abee",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.410666212,
+            "creation": "2017-10-09T03:04:43.000000000Z,uTorrent/2210,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11744,
+            "uuploaders": 6802
+        },
+        {
+            "id": 17,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.WEBRip.2CH.x265.HEVC-PSA",
+            "btih": "1d63824b96ea3872e95abe50ffd63d87e8c13fbb",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.310808354,
+            "creation": "2017-10-09T08:37:09.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11555,
+            "uuploaders": 3835
+        },
+        {
+            "id": 64,
+            "name": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS [IPT]",
+            "btih": "668a833a7a2562fca3029d8b904d50e88177f198",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.346141024,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 11158,
+            "uuploaders": 6529
+        },
+        {
+            "id": 66,
+            "name": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS[eztv].mkv",
+            "btih": "657ce2da5f6d87804791a81cd18190c7dff8e7c4",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.346135965,
+            "creation": "2017-10-16T10:35:21.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11135,
+            "uuploaders": 7594
+        },
+        {
+            "id": 39,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.720p.SunshineStudio_3",
+            "btih": "4de21f90447099da06351ca67527bda797fc1536",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.980494809,
+            "creation": "2017-10-09T08:07:14.000000000Z,Nedulow (koshara.co),http://rutor.is/torrent/590571",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9347,
+            "uuploaders": 6122
+        },
+        {
+            "id": 53,
+            "name": "star-trek-discovery-2017-s01e04-web-dl-1080p.dublada",
+            "btih": "00355b59c6254d221f3fcd138bc92a489b7d1b30",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.580497713,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9057,
+            "uuploaders": 4421
+        },
+        {
+            "id": 42,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.WEB-DL.Rus.2xEng.Subs.E",
+            "btih": "5e9ced4823cc4427edb3743a60e47fb0799e845d",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 7.396578155,
+            "creation": "2017-10-09T09:12:04.000000000Z,karta (freerutor.org),http://rutor.is/torrent/590626",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8269,
+            "uuploaders": 4974
+        },
+        {
+            "id": 114,
+            "name": "multi-btih-18-2-x-[limetorrents.cc]Star.Trek.Discovery.S01E04.XviD-AFG",
+            "btih": "95b94e7f1eab6d3a647dccc2f5f490b239cfcaf7",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.710982006,
+            "creation": "2017-10-09T05:16:23.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7598,
+            "uuploaders": 4040
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.1080p.WEBRip.6CH.x265.HEVC-PSA",
+            "btih": "688f3eb50fc514a3d9b5dffb88df9dcc2f4a76c7",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.817349653,
+            "creation": "2017-10-09T15:36:13.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7142,
+            "uuploaders": 3040
+        },
+        {
+            "id": 34,
+            "name": "[nextorrent.cc] Star.Trek.Discovery.S01E04.FRENCH.WEBRip.XviD-ZT.avi.243bc871969f73b8",
+            "btih": "243bc871969f73b84444c01a44f627b6009c4e03",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.36771828,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6900,
+            "uuploaders": 4172
+        },
+        {
+            "id": 88,
+            "name": "Star.Trek.Discovery.S01E04.XviD-AFG [IPT]",
+            "btih": "d30d33c2a424dece983937b8788883066854d17a",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.710981922,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 6796,
+            "uuploaders": 3599
+        },
+        {
+            "id": 108,
+            "name": "multi-btih-12-2-x-[limetorrents.cc]Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta",
+            "btih": "3c0fe15e630b67bcfa7645320415cd772fdfda28",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.284651978,
+            "creation": "2017-10-09T17:20:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6596,
+            "uuploaders": 3446
+        },
+        {
+            "id": 95,
+            "name": "星际迷航：发现号.Star.Trek.Discovery.S01E04.720p.HDTV.x264.双语字幕初校版-深影字幕组.mp4.ebba5d75ad93a86c",
+            "btih": "ebba5d75ad93a86c36fe87bfafd699a31fa33d91",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.753403972,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5882,
+            "uuploaders": 2003
+        },
+        {
+            "id": 103,
+            "name": "multi-btih-7-2-x-[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta",
+            "btih": "8611c1f2537bc3df96b2577c50a2466b5a49e34b",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.462199957,
+            "creation": "2017-10-09T10:40:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5524,
+            "uuploaders": 2795
+        },
+        {
+            "id": 73,
+            "name": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.1080p.CBS.WEB-DL.AAC2.0.x264-AJP69.mkv [IPT]",
+            "btih": "255099f67fad0b1eb52a5bcf3c910de18296bc0a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.582950607,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5288,
+            "uuploaders": 3528
+        },
+        {
+            "id": 49,
+            "name": "Star Trek Discovery - Temporada 1 [HDTV 720p][Cap.104][AC3 5.1 Español Castellano].5d409c2f8ab0269a",
+            "btih": "5d409c2f8ab0269a70b9f099de3399d374d1e491",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.833948417,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5117,
+            "uuploaders": 2198
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.480p.237mb.HDwebrip.x264-]butch.mp4",
+            "btih": "dad14d8d9b10692644eed25cc31bb5386f2a0b31",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.249180141,
+            "creation": "2017-10-09T06:31:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5095,
+            "uuploaders": 2673
+        },
+        {
+            "id": 76,
+            "name": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.CBS.WEB-DL.AAC2.0.x264-AJP69.mkv [IPT]",
+            "btih": "a3d7e0ad15c0803b7fabcf2d32459584091074ea",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.132229529,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4961,
+            "uuploaders": 2657
+        },
+        {
+            "id": 78,
+            "name": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.ITA.ENG.NF.DLMux.x264-sp_54321.mkv.2015df03581ad21b",
+            "btih": "2015df03581ad21b7bbc466d9906fb5cbd40465e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.12787308,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4675,
+            "uuploaders": 2319
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta",
+            "btih": "5b12b48bd8f586d68e6ea6ae6a4ac63c3e74ba1d",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.976112724,
+            "creation": "2017-10-09T17:10:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3854,
+            "uuploaders": 1899
+        },
+        {
+            "id": 111,
+            "name": "multi-btih-15-2-x-[limetorrents.cc]Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.WEB-DL.AAC2.0.x264.CLEANED.mkv",
+            "btih": "f8eec639e2e2bf8be5c226f90fc2b5130baa2883",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.09187075,
+            "creation": "2017-10-09T18:21:33.000000000Z,qBittorrent v3.3.16,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3561,
+            "uuploaders": 941
+        },
+        {
+            "id": 106,
+            "name": "multi-btih-10-2-x-[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.x264.[StB]",
+            "btih": "dfb791ffca7ea15b04afc2a67c39c5877944089d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.472516213,
+            "creation": "2017-10-09T08:46:59.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3423,
+            "uuploaders": 1693
+        },
+        {
+            "id": 65,
+            "name": "Star.Trek.Discovery.S01E04.720p.WEBRip.x264-TBS.[VTV].mkv.665fa9fedfdfc7ea",
+            "btih": "665fa9fedfdfc7eac6171089db23454f6d73980a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.346135965,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3411,
+            "uuploaders": 2091
+        },
+        {
+            "id": 62,
+            "name": "Star.Trek.Discovery.S01E04.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "ba6f3984482bd8c3042b1a5513cf2cf457721f64",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.462199873,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3266,
+            "uuploaders": 1414
+        },
+        {
+            "id": 55,
+            "name": "Star.Trek.Discovery.S01.1080p.WEBRip.OmskBird.832e938dd1a44106",
+            "btih": "832e938dd1a441067c867974480648be34b09b8c",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 6.916746362,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3235,
+            "uuploaders": 1513
+        },
+        {
+            "id": 45,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.WEBRip.IdeaFilm",
+            "btih": "29869bd0afd201581603ad9b30f518690612f24f",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 2.937130042,
+            "creation": "2017-10-10T17:31:12.000000000Z,qBittorrent v3.3.16,http://rutor.is/torrent/588173",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3028,
+            "uuploaders": 1474
+        },
+        {
+            "id": 87,
+            "name": "Star.Trek.Discovery.S01E04.www.subtorrents.com.avi.c954f7d94b1f116c",
+            "btih": "c954f7d94b1f116c15a0f74e2f6c22d56366bf8a",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.153898496,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2909,
+            "uuploaders": 1846
+        },
+        {
+            "id": 29,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.WEBRip.x264-SVA",
+            "btih": "33048e66e7f3a0862c1c7253cc711bf1f0a46f5f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.58547222,
+            "creation": "2017-10-09T00:13:18.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2806,
+            "uuploaders": 1065
+        },
+        {
+            "id": 23,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.PL.720p-H3Q.[AgusiQ]",
+            "btih": "785d0415ed191fdc9fa0fa53cf6fb59c4d2b0520",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.509984575,
+            "creation": "2017-10-10T03:08:35.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2665,
+            "uuploaders": 1230
+        },
+        {
+            "id": 83,
+            "name": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS.a3eb15576d84e638",
+            "btih": "a3eb15576d84e638eafa016dc7baba6ada7216f7",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.425408189,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2573,
+            "uuploaders": 1478
+        },
+        {
+            "id": 43,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.WEBRip.1080p.IdeaFilm",
+            "btih": "e263c0054e36c50f599264b21b6727eb08500df0",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 15.947642572,
+            "creation": "2017-10-10T17:28:21.000000000Z,qBittorrent v3.3.16,http://rutor.is/torrent/588171",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2472,
+            "uuploaders": 1423
+        },
+        {
+            "id": 52,
+            "name": "Star Trek Discovery S01E04 FRENCH WEBRip XviD-ZT.d12c8ab410d32724",
+            "btih": "d12c8ab410d32724028c3e16766e55d1cf0fbdd2",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.36709348,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2428,
+            "uuploaders": 446
+        },
+        {
+            "id": 89,
+            "name": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead.1080p.f57fe3ce07fe86d6",
+            "btih": "f57fe3ce07fe86d60655dc5280062b83623bd9e3",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 6.869781711,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2414,
+            "uuploaders": 1225
+        },
+        {
+            "id": 40,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.720p.WEB-DLRip.OmskBird",
+            "btih": "da8fdb3a67c1d212c1c892330b305de6e0f42e06",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.244386609,
+            "creation": "2017-10-10T06:02:56.000000000Z,uTorrent/3.5,http://rutor.is/torrent/588285",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2377,
+            "uuploaders": 1125
+        },
+        {
+            "id": 102,
+            "name": "multi-btih-6-2-x-[limetorrents.cc]Star.Trek.Discovery.S01E04.720p.HDTV.Subtitulado.Esp.SC.avi",
+            "btih": "c059827e4e590bb708bd8c6fdc60a43e97b4a703",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.153898496,
+            "creation": "2017-10-10T17:42:24.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2361,
+            "uuploaders": 1259
+        },
+        {
+            "id": 35,
+            "name": "[nextorrent.cc] Star.Trek.Discovery.S01E04.VOSTFR.WEBRip.XviD-ZT.avi.0604848d06c32558",
+            "btih": "0604848d06c325588fc4fc49b2e5e2bc841c29ed",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.367791626,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2325,
+            "uuploaders": 1579
+        },
+        {
+            "id": 112,
+            "name": "multi-btih-16-2-x-[limetorrents.cc]Star.Trek.Discovery.S01E04.WEBRip.x264-TBS.mkv",
+            "btih": "45fd4d1a45aab345c0a4df86fcc3f4bcbd5ac63d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.31107222,
+            "creation": "2017-10-07T22:44:43.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2324,
+            "uuploaders": 807
+        },
+        {
+            "id": 91,
+            "name": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead.a3014ade568a1353",
+            "btih": "a3014ade568a13534bc2810f8000e4b650d1593b",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.604963254,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2266,
+            "uuploaders": 992
+        },
+        {
+            "id": 41,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.720p.WEB-DLRip.Profix.M",
+            "btih": "0083531798d0fe7abea6a24567acfb8c371e1990",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 5.544353222,
+            "creation": "2017-10-10T16:49:23.000000000Z,uTorrent/3.5,http://rutor.is/torrent/588368",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2167,
+            "uuploaders": 992
+        },
+        {
+            "id": 82,
+            "name": "Star.Trek.Discovery.S01E04.WEBRip.x264-TBS [IPT]",
+            "btih": "233bc7061245df15b765517972cad08934a7d971",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.424104521,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2117,
+            "uuploaders": 884
+        },
+        {
+            "id": 44,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.WEBRip.720p.IdeaFilm",
+            "btih": "c81b954fd17bee4d7eecc4793dcc34216421026b",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 10.649000588,
+            "creation": "2017-10-10T17:30:02.000000000Z,qBittorrent v3.3.16,http://rutor.is/torrent/588172",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1995,
+            "uuploaders": 1203
+        },
+        {
+            "id": 38,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.400p.WEBRip.OmskBird",
+            "btih": "5f54f754a24f08560344d48fffffc812b5789c2d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.723735552,
+            "creation": "2017-10-10T06:46:55.000000000Z,uTorrent/3.5,http://rutor.is/torrent/588291",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1933,
+            "uuploaders": 1066
+        },
+        {
+            "id": 90,
+            "name": "StarTrek.Discovery.S01.WEBRip.BaibaKo.TeamNotDead.720p.f8b9113fb4485d7e",
+            "btih": "f8b9113fb4485d7ee36022243c4b6c75324eb0f5",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 3.752435214,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1918,
+            "uuploaders": 685
+        },
+        {
+            "id": 46,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.WEBRip.Profix.Media",
+            "btih": "9515e7cffceb4239570575c1e56f31dc9ea8eed0",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.368278192,
+            "creation": "2017-10-10T16:46:11.000000000Z,uTorrent/3.5,http://rutor.is/torrent/588367",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1897,
+            "uuploaders": 803
+        },
+        {
+            "id": 58,
+            "name": "Star.Trek.Discovery.S01E04.1080p.WEBRip.x264-TBS [IPT]",
+            "btih": "a5f136d83b5e936272f4f43004cf127ce3629a23",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.469299376,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1708,
+            "uuploaders": 851
+        },
+        {
+            "id": 37,
+            "name": "[rutor.is]Star.Trek.Discovery.S01.1080p.WEB-DLRip.Profix.",
+            "btih": "dabc7b2d9c61d74f9afc2e16be59d9648549a8cc",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 8.567126012,
+            "creation": "2017-10-10T16:55:13.000000000Z,uTorrent/3.5,http://rutor.is/torrent/588369",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1652,
+            "uuploaders": 967
+        },
+        {
+            "id": 74,
+            "name": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.1080p.NF.WEB-DL.DD5.1.x264-NTb [IPT]",
+            "btih": "942c0d61415e004989e8e3cd62bca5c151720073",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.51943072,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1631,
+            "uuploaders": 828
+        },
+        {
+            "id": 36,
+            "name": "[repack] Star Trek Discovery S01E04 FRENCH WEBRip XviD-Zezeprod.3c206042cab756eb",
+            "btih": "3c206042cab756eb9edadd8c784ea5f060dbaf43",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.363186779,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1614,
+            "uuploaders": 951
+        },
+        {
+            "id": 48,
+            "name": "Star Trek - Discovery.1x04.Ita.Eng.sub.ita.eng.iCV-MIRCrew.d0186267bb731ce6",
+            "btih": "d0186267bb731ce6e9d0d99ec9d31fabc6fbb1ec",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.830445278,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1450,
+            "uuploaders": 894
+        },
+        {
+            "id": 28,
+            "name": "[limetorrents.cc]Star.Trek.Discovery.S01E04.WEBRip",
+            "btih": "7fe2c4ce3fe583c1080b47aea143dca5cb429f38",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.585472188,
+            "creation": "2017-10-08T11:06:16.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1391,
+            "uuploaders": 599
+        },
+        {
+            "id": 71,
+            "name": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.WEB.X264-DEFLATE [IPT]",
+            "btih": "95931b3728a7c64407708acdcaba05341e3cb424",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.509005853,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1072,
+            "uuploaders": 673
+        },
+        {
+            "id": 68,
+            "name": "Star.Trek.Discovery.S01E04.AAC.MP4-Mobile [IPT]",
+            "btih": "378984b6df36ad7e0fbc6183edd8ca777f3c99df",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.233926175,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1010,
+            "uuploaders": 505
+        },
+        {
+            "id": 70,
+            "name": "Star.Trek.Discovery.S01E04.INTERNAL.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "abddaae5234e66a40e92cddd710d896729ab6a1f",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.284651894,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 746,
+            "uuploaders": 463
+        },
+        {
+            "id": 57,
+            "name": "Star.Trek.Discovery.S01E04.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "1628df53ac3a3c4b047ef20010862d6c05cd90f8",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.97611264,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 705,
+            "uuploaders": 360
+        },
+        {
+            "id": 79,
+            "name": "Star.Trek.Discovery.S01E04.The.Butchers.Knife.Cares.Not.for.the.Lambs.Cry.720p.NF.WEB-DL.DD5.1.x264-NTb [IPT]",
+            "btih": "ba2c01f6dbea83940621bdc71414630070a3d72c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.058536296,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 685,
+            "uuploaders": 399
+        }
+    ]
+}
