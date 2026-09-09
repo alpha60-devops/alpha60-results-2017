@@ -1,0 +1,88 @@
+{
+  "allow_leading_sparse": false,
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "available_day_products": 16,
+  "cache_members": 1683,
+  "collection_key": "walking-dead-801",
+  "downstream_cache_synthesis": {
+    "cache_members": {
+      "cumulative": 110,
+      "week": 328
+    },
+    "derived_durations": [
+      "week",
+      "cumulative"
+    ],
+    "producer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-cache-samples.exe",
+      "sha256": "c31c5a19740759d828bfe55cc8c2bd4ba9aeb411414bb32ef21efea1a860a897",
+      "size": 28618592
+    },
+    "sample_anchor": {
+      "directories": [
+        "2017-10-23-at-00-00",
+        "2017-11-07-at-00-00"
+      ],
+      "keys": [
+        "walking-dead-801"
+      ],
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017/walking-dead-801/tmp/walking-dead-801-released-day-sample-anchor",
+      "raw_samples_opened": false,
+      "synthetic": true
+    },
+    "schema": "alpha60-released-day-downstream-cache/1",
+    "source_duration": "day",
+    "status": "pass"
+  },
+  "first_date": "2017-10-23",
+  "first_index": 1,
+  "indices": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "last_date": "2017-11-07",
+  "last_index": 16,
+  "missing_indices": [],
+  "sample_span_days": 16,
+  "schema": "alpha60-day-cache-stream-contract/1",
+  "selection": {
+    "admitted_cache_members": 1683,
+    "archive_mutated": false,
+    "excluded_cache_members": 0,
+    "policy": "released-sample-endpoints-in-place",
+    "required_first_date": "2017-10-23",
+    "required_last_date": "2017-11-07",
+    "required_span_days": 16,
+    "schema": "alpha60-released-day-cache-window/1",
+    "source_cache_members": 1683,
+    "source_first_date": "2017-10-23",
+    "source_first_index": 1,
+    "source_last_date": "2017-11-07",
+    "source_last_index": 16
+  },
+  "sparse": false,
+  "status": "pass"
+}

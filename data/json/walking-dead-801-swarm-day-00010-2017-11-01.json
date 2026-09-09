@@ -1,0 +1,17 @@
+{
+    "datestamp": "2017-11-01",
+    "collection_name": "The Walking Dead",
+    "collection_id": "801",
+    "collection_key": "walking-dead-801",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "summary_type": "day",
+    "summary_index": 10,
+    "btiha_size": 90,
+    "upeers_total": 140359,
+    "useeds_total": 60965,
+    "upeers_new": 0,
+    "useeds_new": 0
+}
