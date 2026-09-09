@@ -1,0 +1,2513 @@
+{
+    "collection_name": "The Walking Dead",
+    "collection_id": "709",
+    "collection_key": "walking-dead-709",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "d5e9ed73a49a31c6e71ff3367e4bb03179fa9152",
+            "duplicate_0_0": "The.Walking.Dead.S07E09.WEB-DL.x264-FUM[ettv]-[rarbg.to]",
+            "duplicate_0_1": "The.Walking.Dead.S07E09.WEB-DL.x264-FUM[ettv]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "The.Walking.Dead.S07E09.1080p.WEB-DL.DD5.1.H.264-Cyphanix[ettv]",
+            "size_total": 2.189948691,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.189948522,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEB-DL.DD5.1.H.264-Cyphanix[ettv]/The.Walking.Dead.S07E09.1080p.WEB-DL.DD5.1.H.264-Cyphanix[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.69e-7,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEB-DL.DD5.1.H.264-Cyphanix[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "The.Walking.Dead.S07E09.1080p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "size_total": 2.191196455,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEB-DL.DD5.1.H264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3.1e-8,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEB-DL.DD5.1.H264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000054412,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEB-DL.DD5.1.H264-RARBG/The.Walking.Dead.S07E09.1080p.WEB-DL.DD5.1.H264-RARBG-SDH.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 2.190071638,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEB-DL.DD5.1.H264-RARBG/The.Walking.Dead.S07E09.1080p.WEB-DL.DD5.1.H264-RARBG.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000004307,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEB-DL.DD5.1.H264-RARBG/The.Walking.Dead.S07E09.1080p.WEB-DL.DD5.1.H264-RARBG.nfo"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000049303,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEB-DL.DD5.1.H264-RARBG/The.Walking.Dead.S07E09.1080p.WEB-DL.DD5.1.H264-RARBG.srt"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT [IPT]",
+            "size_total": 5.050007313,
+            "files_total": 103,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000001152,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r45"
+                },
+                {
+                    "number": 48,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r46"
+                },
+                {
+                    "number": 49,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r47"
+                },
+                {
+                    "number": 50,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r48"
+                },
+                {
+                    "number": 51,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r49"
+                },
+                {
+                    "number": 52,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r50"
+                },
+                {
+                    "number": 53,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r51"
+                },
+                {
+                    "number": 54,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r52"
+                },
+                {
+                    "number": 55,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r53"
+                },
+                {
+                    "number": 56,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r54"
+                },
+                {
+                    "number": 57,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r55"
+                },
+                {
+                    "number": 58,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r56"
+                },
+                {
+                    "number": 59,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r57"
+                },
+                {
+                    "number": 60,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r58"
+                },
+                {
+                    "number": 61,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r59"
+                },
+                {
+                    "number": 62,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r60"
+                },
+                {
+                    "number": 63,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r61"
+                },
+                {
+                    "number": 64,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r62"
+                },
+                {
+                    "number": 65,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r63"
+                },
+                {
+                    "number": 66,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r64"
+                },
+                {
+                    "number": 67,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r65"
+                },
+                {
+                    "number": 68,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r66"
+                },
+                {
+                    "number": 69,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r67"
+                },
+                {
+                    "number": 70,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r68"
+                },
+                {
+                    "number": 71,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r69"
+                },
+                {
+                    "number": 72,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r70"
+                },
+                {
+                    "number": 73,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r71"
+                },
+                {
+                    "number": 74,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r72"
+                },
+                {
+                    "number": 75,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r73"
+                },
+                {
+                    "number": 76,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r74"
+                },
+                {
+                    "number": 77,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r75"
+                },
+                {
+                    "number": 78,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r76"
+                },
+                {
+                    "number": 79,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r77"
+                },
+                {
+                    "number": 80,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r78"
+                },
+                {
+                    "number": 81,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r79"
+                },
+                {
+                    "number": 82,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r80"
+                },
+                {
+                    "number": 83,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r81"
+                },
+                {
+                    "number": 84,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r82"
+                },
+                {
+                    "number": 85,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r83"
+                },
+                {
+                    "number": 86,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r84"
+                },
+                {
+                    "number": 87,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r85"
+                },
+                {
+                    "number": 88,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r86"
+                },
+                {
+                    "number": 89,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r87"
+                },
+                {
+                    "number": 90,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r88"
+                },
+                {
+                    "number": 91,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r89"
+                },
+                {
+                    "number": 92,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r90"
+                },
+                {
+                    "number": 93,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r91"
+                },
+                {
+                    "number": 94,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r92"
+                },
+                {
+                    "number": 95,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r93"
+                },
+                {
+                    "number": 96,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r94"
+                },
+                {
+                    "number": 97,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r95"
+                },
+                {
+                    "number": 98,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r96"
+                },
+                {
+                    "number": 99,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r97"
+                },
+                {
+                    "number": 100,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r98"
+                },
+                {
+                    "number": 101,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.r99"
+                },
+                {
+                    "number": 102,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.rar"
+                },
+                {
+                    "number": 103,
+                    "size": 0.000006161,
+                    "path": "The.Walking.Dead.S07E09.1080p.WEBRip.x264-HEAT/the.walking.dead.s07e09.1080p.webrip.x264-heat.sfv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "The.Walking.Dead.S07E09.480p.x264-mSD [IPT]",
+            "size_total": 0.389573267,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000322952,
+                    "path": "The.Walking.Dead.S07E09.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00009871,
+                    "path": "The.Walking.Dead.S07E09.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000403019,
+                    "path": "The.Walking.Dead.S07E09.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000388331,
+                    "path": "The.Walking.Dead.S07E09.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.388359065,
+                    "path": "The.Walking.Dead.S07E09.480p.x264-mSD/The.Walking.Dead.S07E09.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000119,
+                    "path": "The.Walking.Dead.S07E09.480p.x264-mSD/The.Walking.Dead.S07E09.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS [IPT]",
+            "size_total": 2.965872673,
+            "files_total": 62,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.033674483,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/Sample/sample-the.walking.dead.s07e09.720p.hdtv.x264-avs.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.5e-8,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r00"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r01"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r02"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r03"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r04"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r05"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r06"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r07"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r08"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r09"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r10"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r11"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r12"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r13"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r14"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r15"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r16"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r17"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r18"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r19"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r20"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r21"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r22"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r23"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r24"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r25"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r26"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r27"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r28"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r29"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r30"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r31"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r32"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r33"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r34"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r35"
+                },
+                {
+                    "number": 39,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r36"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r37"
+                },
+                {
+                    "number": 41,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r38"
+                },
+                {
+                    "number": 42,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r39"
+                },
+                {
+                    "number": 43,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r40"
+                },
+                {
+                    "number": 44,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r41"
+                },
+                {
+                    "number": 45,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r42"
+                },
+                {
+                    "number": 46,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r43"
+                },
+                {
+                    "number": 47,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r44"
+                },
+                {
+                    "number": 48,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r45"
+                },
+                {
+                    "number": 49,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r46"
+                },
+                {
+                    "number": 50,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r47"
+                },
+                {
+                    "number": 51,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r48"
+                },
+                {
+                    "number": 52,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r49"
+                },
+                {
+                    "number": 53,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r50"
+                },
+                {
+                    "number": 54,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r51"
+                },
+                {
+                    "number": 55,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r52"
+                },
+                {
+                    "number": 56,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r53"
+                },
+                {
+                    "number": 57,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r54"
+                },
+                {
+                    "number": 58,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r55"
+                },
+                {
+                    "number": 59,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r56"
+                },
+                {
+                    "number": 60,
+                    "size": 0.032194762,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.r57"
+                },
+                {
+                    "number": 61,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.rar"
+                },
+                {
+                    "number": 62,
+                    "size": 0.000003363,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS/the.walking.dead.s07e09.720p.hdtv.x264-avs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS[eztv]",
+            "size_total": 2.93218898,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.93218898,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS[PRiME]",
+            "size_total": 2.932189727,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.32e-7,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS[PRiME]/Please Support!! Read More!!!.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.93218898,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS[PRiME]/The.Walking.Dead.S07E09.720p.HDTV.x264-AVS[PRiME].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.9e-8,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS[PRiME]/Torrent Downloaded From 1337x.to.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.46e-7,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS[PRiME]/Torrent Downloaded From ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS[rartv]-[rarbg.to]",
+            "size_total": 2.932189074,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.93218898,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS[rarbg]/The.Walking.Dead.S07E09.720p.HDTV.x264-AVS.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.4e-8,
+                    "path": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS[rarbg]/the.walking.dead.s07e09.720p.hdtv.x264-avs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "The.walking.dead.s07e09.720p.hdtv.x264-NBY-[moviezplanet.org]",
+            "size_total": 0.419928413,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.419928413,
+                    "path": "The.walking.dead.s07e09.720p.hdtv.x264-NBY-[moviezplanet.org].mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H.264-Cyphanix [IPT]",
+            "size_total": 1.743650202,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00020179,
+                    "path": "The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H.264-Cyphanix/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000297507,
+                    "path": "The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H.264-Cyphanix/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000720742,
+                    "path": "The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H.264-Cyphanix/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000824203,
+                    "path": "The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H.264-Cyphanix/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.741604426,
+                    "path": "The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H.264-Cyphanix/The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H.264-Cyphanix.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001534,
+                    "path": "The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H.264-Cyphanix/The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H.264-Cyphanix.nfo"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "size_total": 1.742852952,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3.1e-8,
+                    "path": "The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000054412,
+                    "path": "The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H264-RARBG/The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H264-RARBG-SDH.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 1.741728138,
+                    "path": "The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H264-RARBG/The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H264-RARBG.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000004304,
+                    "path": "The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H264-RARBG/The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H264-RARBG.nfo"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000049303,
+                    "path": "The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H264-RARBG/The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H264-RARBG.srt"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "The.Walking.Dead.S07E09.720p.WEB-DL.H264-FUM[ettv]",
+            "size_total": 1.741629789,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.74162962,
+                    "path": "The.Walking.Dead.S07E09.720p.WEB-DL.H264-FUM[ettv]/The.Walking.Dead.S07E09.720p.WEB-DL.H264-FUM[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.69e-7,
+                    "path": "The.Walking.Dead.S07E09.720p.WEB-DL.H264-FUM[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "The.Walking.Dead.S07E09.720p.WEB-DL.x264.ShAaNiG",
+            "size_total": 0.523858472,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.523858472,
+                    "path": "The.Walking.Dead.S07E09.720p.WEB-DL.x264.ShAaNiG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "The.Walking.Dead.S07E09.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.317363357,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000359206,
+                    "path": "The.Walking.Dead.S07E09.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000104661,
+                    "path": "The.Walking.Dead.S07E09.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00045638,
+                    "path": "The.Walking.Dead.S07E09.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000434034,
+                    "path": "The.Walking.Dead.S07E09.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.316007788,
+                    "path": "The.Walking.Dead.S07E09.AAC.MP4-Mobile/The.Walking.Dead.S07E09.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001288,
+                    "path": "The.Walking.Dead.S07E09.AAC.MP4-Mobile/The.Walking.Dead.S07E09.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "The.Walking.Dead.S07E09.HDTV.x264-FUM [IPT]",
+            "size_total": 0.68680716,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000146576,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-FUM/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000077803,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-FUM/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000139449,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-FUM/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000401521,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-FUM/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.686040259,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-FUM/The.Walking.Dead.S07E09.HDTV.x264-FUM.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001552,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-FUM/The.Walking.Dead.S07E09.HDTV.x264-FUM.nfo"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "The.Walking.Dead.S07E09.HDTV.x264-FUM[ettv]",
+            "size_total": 0.686040548,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.686040259,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-FUM[ettv]/The.Walking.Dead.S07E09.HDTV.x264-FUM[ettv].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 2.89e-7,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-FUM[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "The.Walking.Dead.S07E09.HDTV.x264-SVA [IPT]",
+            "size_total": 0.670757379,
+            "files_total": 47,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6e-8,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.010755024,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.rar"
+                },
+                {
+                    "number": 47,
+                    "size": 0.000002295,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA/the.walking.dead.s07e09.hdtv.x264-sva.sfv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "The.Walking.Dead.S07E09.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "size_total": 0.670750929,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.670750839,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA[rarbg]/The.Walking.Dead.S07E09.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6e-8,
+                    "path": "The.Walking.Dead.S07E09.HDTV.x264-SVA[rarbg]/the.walking.dead.s07e09.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "The.Walking.Dead.S07E09.HDTV.XviD-FUM[ettv]-[rarbg.to]",
+            "size_total": 0.450042749,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.45004246,
+                    "path": "The.Walking.Dead.S07E09.HDTV.XviD-FUM[ettv]/The.Walking.Dead.S07E09.HDTV.XviD-FUM[ettv].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 2.89e-7,
+                    "path": "The.Walking.Dead.S07E09.HDTV.XviD-FUM[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "The.Walking.Dead.S07E09.HDTV.XviD-iFT [IPT]",
+            "size_total": 1.054908884,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.3e-7,
+                    "path": "The.Walking.Dead.S07E09.HDTV.XviD-iFT/NFO-iFT.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.011173888,
+                    "path": "The.Walking.Dead.S07E09.HDTV.XviD-iFT/Sample.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 1.043734366,
+                    "path": "The.Walking.Dead.S07E09.HDTV.XviD-iFT/The.Walking.Dead.S07E09.HDTV.XviD-iFT.avi"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT [IPT]",
+            "size_total": 3.216474425,
+            "files_total": 67,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00000109,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r45"
+                },
+                {
+                    "number": 48,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r46"
+                },
+                {
+                    "number": 49,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r47"
+                },
+                {
+                    "number": 50,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r48"
+                },
+                {
+                    "number": 51,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r49"
+                },
+                {
+                    "number": 52,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r50"
+                },
+                {
+                    "number": 53,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r51"
+                },
+                {
+                    "number": 54,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r52"
+                },
+                {
+                    "number": 55,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r53"
+                },
+                {
+                    "number": 56,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r54"
+                },
+                {
+                    "number": 57,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r55"
+                },
+                {
+                    "number": 58,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r56"
+                },
+                {
+                    "number": 59,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r57"
+                },
+                {
+                    "number": 60,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r58"
+                },
+                {
+                    "number": 61,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r59"
+                },
+                {
+                    "number": 62,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r60"
+                },
+                {
+                    "number": 63,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r61"
+                },
+                {
+                    "number": 64,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r62"
+                },
+                {
+                    "number": 65,
+                    "size": 0.01646911,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.r63"
+                },
+                {
+                    "number": 66,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.rar"
+                },
+                {
+                    "number": 67,
+                    "size": 0.000004225,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT/the.walking.dead.s07e09.repack.1080p.web.h264-heat.sfv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT[rartv]-[rarbg.to]",
+            "size_total": 3.21646152,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 3.2164604,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT[rarbg]/the.walking.dead.s07e09.repack.1080p.web.h264-heat.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00000109,
+                    "path": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT[rarbg]/the.walking.dead.s07e09.repack.1080p.web.h264-heat.nfo"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "The.Walking.Dead.S07E09.REPACK.720p.HDTV.x264-AVS[rartv]-[rarbg.to]",
+            "size_total": 2.23473633,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S07E09.REPACK.720p.HDTV.x264-AVS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.234736192,
+                    "path": "The.Walking.Dead.S07E09.REPACK.720p.HDTV.x264-AVS[rarbg]/The.Walking.Dead.S07E09.REPACK.720p.HDTV.x264-AVS.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.08e-7,
+                    "path": "The.Walking.Dead.S07E09.REPACK.720p.HDTV.x264-AVS[rarbg]/the.walking.dead.s07e09.repack.720p.hdtv.x264-avs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "The.Walking.Dead.S07E09.REPACK.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "size_total": 0.588446723,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S07E09.REPACK.HDTV.x264-SVA[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.588446693,
+                    "path": "The.Walking.Dead.S07E09.REPACK.HDTV.x264-SVA[rarbg]/The.Walking.Dead.S07E09.REPACK.HDTV.x264-SVA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "The.Walking.Dead.S07E09.Rock.in.the.Road.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]-[rarbg.to]",
+            "size_total": 5.806323123,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Walking.Dead.S07E09.Rock.in.the.Road.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 5.806318738,
+                    "path": "The.Walking.Dead.S07E09.Rock.in.the.Road.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]/The.Walking.Dead.S07E09.Rock.in.the.Road.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000004354,
+                    "path": "The.Walking.Dead.S07E09.Rock.in.the.Road.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]/The.Walking.Dead.S07E09.Rock.in.the.Road.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio.nfo"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "The.Walking.Dead.S07E09.Rock.in.the.Road.720p.AMZN.WEBRip.DD+5.1.x264 [IPT]",
+            "size_total": 3.187550153,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000659592,
+                    "path": "The.Walking.Dead.S07E09.Rock.in.the.Road.720p.AMZN.WEBRip.DD+5.1.x264/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000474298,
+                    "path": "The.Walking.Dead.S07E09.Rock.in.the.Road.720p.AMZN.WEBRip.DD+5.1.x264/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000592496,
+                    "path": "The.Walking.Dead.S07E09.Rock.in.the.Road.720p.AMZN.WEBRip.DD+5.1.x264/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001474701,
+                    "path": "The.Walking.Dead.S07E09.Rock.in.the.Road.720p.AMZN.WEBRip.DD+5.1.x264/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 3.184347477,
+                    "path": "The.Walking.Dead.S07E09.Rock.in.the.Road.720p.AMZN.WEBRip.DD+5.1.x264/The.Walking.Dead.S07E09.Rock.in.the.Road.720p.AMZN.WEBRip.DD+5.1.x264.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001589,
+                    "path": "The.Walking.Dead.S07E09.Rock.in.the.Road.720p.AMZN.WEBRip.DD+5.1.x264/The.Walking.Dead.S07E09.Rock.in.the.Road.720p.AMZN.WEBRip.DD+5.1.x264.nfo"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "The.Walking.Dead.S07E09.WEB-DL.x264-FUM[ettv]-[rarbg.to]",
+            "size_total": 0.802046017,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.802045728,
+                    "path": "The.Walking.Dead.S07E09.WEB-DL.x264-FUM[ettv]/The.Walking.Dead.S07E09.WEB-DL.x264-FUM[ettv].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 2.89e-7,
+                    "path": "The.Walking.Dead.S07E09.WEB-DL.x264-FUM[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "The.Walking.Dead.S07E09.WEB-DL.x264-FUM[ettv]",
+            "size_total": 0.802046017,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.802045728,
+                    "path": "The.Walking.Dead.S07E09.WEB-DL.x264-FUM[ettv]/The.Walking.Dead.S07E09.WEB-DL.x264-FUM[ettv].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 2.89e-7,
+                    "path": "The.Walking.Dead.S07E09.WEB-DL.x264-FUM[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "The.Walking.Dead.S07E09.WEB-DL.x264-RARBG-[rarbg.to]",
+            "size_total": 1.1450028,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Walking.Dead.S07E09.WEB-DL.x264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S07E09.WEB-DL.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000045424,
+                    "path": "The.Walking.Dead.S07E09.WEB-DL.x264-RARBG/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000050233,
+                    "path": "The.Walking.Dead.S07E09.WEB-DL.x264-RARBG/Subs/3_Eng.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 1.143886096,
+                    "path": "The.Walking.Dead.S07E09.WEB-DL.x264-RARBG/The.Walking.Dead.S07E09.WEB-DL.x264-RARBG.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000004253,
+                    "path": "The.Walking.Dead.S07E09.WEB-DL.x264-RARBG/The.Walking.Dead.S07E09.WEB-DL.x264-RARBG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "The.Walking.Dead.S07E09.XviD-AFG [IPT]",
+            "size_total": 0.883465819,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000349917,
+                    "path": "The.Walking.Dead.S07E09.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000086118,
+                    "path": "The.Walking.Dead.S07E09.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000449805,
+                    "path": "The.Walking.Dead.S07E09.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000455621,
+                    "path": "The.Walking.Dead.S07E09.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.882123194,
+                    "path": "The.Walking.Dead.S07E09.XviD-AFG/The.Walking.Dead.S07E09.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001164,
+                    "path": "The.Walking.Dead.S07E09.XviD-AFG/The.Walking.Dead.S07E09.XviD-AFG.nfo"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 16,
+            "name": "The.Walking.Dead.S07E09.HDTV.x264-FUM[ettv]",
+            "btih": "87d8eb78da788dd1cf0988fa063b8c7d9d21f87c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.686040548,
+            "creation": "2017-02-13T04:00:09.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 582751,
+            "uuploaders": 250807
+        },
+        {
+            "id": 31,
+            "name": "multi-btih-0-2-x-The.Walking.Dead.S07E09.WEB-DL.x264-FUM[ettv]-[rarbg.to]",
+            "btih": "d5e9ed73a49a31c6e71ff3367e4bb03179fa9152",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.802046017,
+            "creation": "2017-02-13T09:08:15.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 140030,
+            "uuploaders": 96377
+        },
+        {
+            "id": 19,
+            "name": "The.Walking.Dead.S07E09.HDTV.XviD-FUM[ettv]-[rarbg.to]",
+            "btih": "8e8df4e48a3502139cbe54614714e779bcc8b10f",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.450042749,
+            "creation": "2017-02-13T04:28:12.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 101356,
+            "uuploaders": 60945
+        },
+        {
+            "id": 8,
+            "name": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS[rartv]-[rarbg.to]",
+            "btih": "1eb440969dba803ee853fd2d293e8183af00d54f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.932189074,
+            "creation": "2017-02-13T03:04:50.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 75533,
+            "uuploaders": 39117
+        },
+        {
+            "id": 2,
+            "name": "The.Walking.Dead.S07E09.1080p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "btih": "62444002e1eb334bc7905770586c9cf6f8e2bab0",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.191196455,
+            "creation": "2017-02-13T08:07:59.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 70217,
+            "uuploaders": 41024
+        },
+        {
+            "id": 1,
+            "name": "The.Walking.Dead.S07E09.1080p.WEB-DL.DD5.1.H.264-Cyphanix[ettv]",
+            "btih": "4d7f95fb4d2b6641d51765a1516c18aff44bf285",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.189948691,
+            "creation": "2017-02-13T10:26:34.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 63689,
+            "uuploaders": 46942
+        },
+        {
+            "id": 24,
+            "name": "The.Walking.Dead.S07E09.REPACK.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "btih": "2183a044eb17a7ab2cef79800147fcd80843b70b",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.588446723,
+            "creation": "2017-02-13T06:16:34.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 57732,
+            "uuploaders": 32373
+        },
+        {
+            "id": 18,
+            "name": "The.Walking.Dead.S07E09.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "btih": "59e3507e61604e5b2b93babb0c752b2dc54dc2fd",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.670750929,
+            "creation": "2017-02-13T03:03:09.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 56412,
+            "uuploaders": 28010
+        },
+        {
+            "id": 23,
+            "name": "The.Walking.Dead.S07E09.REPACK.720p.HDTV.x264-AVS[rartv]-[rarbg.to]",
+            "btih": "cfe3aa2fda28c4fe9aab570eb1e7bafee510ae9a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.23473633,
+            "creation": "2017-02-13T06:17:56.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 54609,
+            "uuploaders": 30893
+        },
+        {
+            "id": 12,
+            "name": "The.Walking.Dead.S07E09.720p.WEB-DL.H264-FUM[ettv]",
+            "btih": "a52b039afaf78008d181ecbffc802a83bd1bf5af",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.741629789,
+            "creation": "2017-02-13T08:26:27.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 45578,
+            "uuploaders": 32215
+        },
+        {
+            "id": 6,
+            "name": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS[eztv]",
+            "btih": "4fead934a6b732b5c77008a13cb3a79c2eefd934",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.93218898,
+            "creation": "2017-02-13T03:21:46.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 34527,
+            "uuploaders": 23819
+        },
+        {
+            "id": 11,
+            "name": "The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "btih": "e447e3b68bb587155890bd99f1a1d80a3998e0ae",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.742852952,
+            "creation": "2017-02-13T08:17:14.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25085,
+            "uuploaders": 11679
+        },
+        {
+            "id": 13,
+            "name": "The.Walking.Dead.S07E09.720p.WEB-DL.x264.ShAaNiG",
+            "btih": "24be973e8dce7116d7121b39d6f9c7bad84aba10",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.523858472,
+            "creation": "2017-02-13T12:15:53.000000000Z,uTorrent/2210",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22977,
+            "uuploaders": 14458
+        },
+        {
+            "id": 5,
+            "name": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS [IPT]",
+            "btih": "dfb1e4b65057af85160238588fcec80cdbc41226",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.965872673,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 22175,
+            "uuploaders": 11123
+        },
+        {
+            "id": 9,
+            "name": "The.walking.dead.s07e09.720p.hdtv.x264-NBY-[moviezplanet.org]",
+            "btih": "0e059612bdf3b32eae25e3de32d0af4f0c570d40",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.419928413,
+            "creation": "2017-02-13T05:12:08.000000000Z,uTorrent/2210",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20951,
+            "uuploaders": 11617
+        },
+        {
+            "id": 7,
+            "name": "The.Walking.Dead.S07E09.720p.HDTV.x264-AVS[PRiME]",
+            "btih": "faa63fa28d18cfdf8a99897818d2bad6039e1bad",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.932189727,
+            "creation": "2017-02-13T03:30:51.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16759,
+            "uuploaders": 10478
+        },
+        {
+            "id": 29,
+            "name": "The.Walking.Dead.S07E09.WEB-DL.x264-RARBG-[rarbg.to]",
+            "btih": "04ca1e27b7ccfd017f3da34d4fe05f79666efe58",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 1.1450028,
+            "creation": "2017-02-13T08:36:38.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9695,
+            "uuploaders": 4294
+        },
+        {
+            "id": 30,
+            "name": "The.Walking.Dead.S07E09.XviD-AFG [IPT]",
+            "btih": "7525784c63449d2d3b92d5e30cd212f773824b9f",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.883465819,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 8898,
+            "uuploaders": 4614
+        },
+        {
+            "id": 25,
+            "name": "The.Walking.Dead.S07E09.Rock.in.the.Road.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]-[rarbg.to]",
+            "btih": "add28b1a12a88f1d50a18a02edca2c0f4b24be13",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.806323123,
+            "creation": "2017-02-13T14:57:14.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8643,
+            "uuploaders": 3946
+        },
+        {
+            "id": 22,
+            "name": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT[rartv]-[rarbg.to]",
+            "btih": "4d17fc4b68284afc4126dc636c551cd8b57283c7",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.21646152,
+            "creation": "2017-02-13T16:28:07.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8252,
+            "uuploaders": 3904
+        },
+        {
+            "id": 17,
+            "name": "The.Walking.Dead.S07E09.HDTV.x264-SVA [IPT]",
+            "btih": "ee9ab48c85a2d52ac95609bca1701c88cf47e2b5",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.670757379,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3398,
+            "uuploaders": 1668
+        },
+        {
+            "id": 4,
+            "name": "The.Walking.Dead.S07E09.480p.x264-mSD [IPT]",
+            "btih": "011cd2cf947a0ef5731481240d40a048e3a83bce",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.389573267,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3221,
+            "uuploaders": 1260
+        },
+        {
+            "id": 14,
+            "name": "The.Walking.Dead.S07E09.AAC.MP4-Mobile [IPT]",
+            "btih": "c2876cbe6056305967ef22443390685d302fc3ed",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.317363357,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2170,
+            "uuploaders": 686
+        },
+        {
+            "id": 21,
+            "name": "The.Walking.Dead.S07E09.REPACK.1080p.WEB.h264-HEAT [IPT]",
+            "btih": "338b9ff99500f4d50cd490f253ba5d6323a37106",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.216474425,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1570,
+            "uuploaders": 609
+        },
+        {
+            "id": 10,
+            "name": "The.Walking.Dead.S07E09.720p.WEB-DL.DD5.1.H.264-Cyphanix [IPT]",
+            "btih": "570f9c87577b10b0c7b81b626f71a5349d727095",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.743650202,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1347,
+            "uuploaders": 551
+        },
+        {
+            "id": 20,
+            "name": "The.Walking.Dead.S07E09.HDTV.XviD-iFT [IPT]",
+            "btih": "c4cac52db65e9d56500528c3e381be018ae6f5de",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 1.054908884,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1302,
+            "uuploaders": 639
+        },
+        {
+            "id": 15,
+            "name": "The.Walking.Dead.S07E09.HDTV.x264-FUM [IPT]",
+            "btih": "6a07d0125d43f3db261f55036d38e74bfeefe14d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.68680716,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1020,
+            "uuploaders": 449
+        },
+        {
+            "id": 26,
+            "name": "The.Walking.Dead.S07E09.Rock.in.the.Road.720p.AMZN.WEBRip.DD+5.1.x264 [IPT]",
+            "btih": "a292d9460f78bf76c45abb12eb97f166b28c76f5",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 3.187550153,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 634,
+            "uuploaders": 310
+        }
+    ]
+}
