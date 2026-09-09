@@ -1,0 +1,202 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt1984119",
+    "imdb_id": "tt1984119",
+    "revision": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec",
+    "wikidata_id": "Q25207414",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Feud_(TV_series)"
+  },
+  "coverage_sha256": "51d8e163f175286283008c34442121eda648c020592c96c6413a91aa08b403b6",
+  "generated_at": "2026-09-09T02:14:01.342758+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/feud-101.cache/cache.20170312.tar.xz",
+      "sha256": "3f404dfee1215ee7bb483a70bdeff831152710dd3bde124f5b774c2ddc95cf4a",
+      "size": 2446100
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-coverage-evidence/feud-101.md",
+      "sha256": "35ed3da345ccf724d074a1a96242b413283d9905b6c6f52adfc33ec1a7f72d3b",
+      "size": 2987
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-cache-stream-receipts/feud-101.json",
+      "sha256": "45ead8f009b2e3076569fbb8fd359996e02d2e9f424fce076e45b202bb2648a1",
+      "size": 1991
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-product-receipts/feud-101.json",
+      "sha256": "effec6cccb773491136237393973458cb588e224f01ff0863b026d2bb62d26f6",
+      "size": 358
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+      "sha256": "545757136e399cdd72c619c9f9ffaa4fe15317554642b14efc0f9c41d4307bca",
+      "size": 59066
+    }
+  },
+  "media_object": "feud-101",
+  "published_files": {
+    "data/csv/bytes/feud-101-cumulative-detail.2017-btiha-itemized-by-bytes.csv": "8930e51abdb1d5aec0870bdeb84d77e86b3c9492afe6f155b8c40e6532555781",
+    "docs/itemized/feud-101-sample-cache-audit.md": "4d0ffc5d99a23ce0bc966ecfed46a11ff4de6f6dea00315d2b149fb5bed9445e",
+    "docs/itemized/figures/feud-101-carto-4k.webp": "a84772edc118310f765c554691bd8089af31a57399270095b92bdb5dd40d17b2",
+    "docs/itemized/figures/feud-101-carto.png": "148918d9da04e9c8df571fee46684af2663b16307c9cabbd84e1e38c9566cec8",
+    "docs/itemized/figures/feud-101-cumulative-detail-btiha-itemized-by-bytes.svg": "ab18a1b10e507cec3174a9b961522a3dd7eaf56e333a8dba555bf53a6e2789d4",
+    "docs/itemized/figures/feud-101-data-ge-1080p-4k.webp": "145e4f9cffad68652564a1e2b3562a969ad71c07563417a5693e9db9ee4b728a",
+    "docs/itemized/figures/feud-101-data-ge-1080p.webp": "96a8cc3e5c1ef69c6768aa090e7ed367b1f7a40eaf37a5b3fc24ae6ee47e6149",
+    "docs/itemized/figures/feud-101-data-lt-1080p-4k.webp": "138804fc1b8afe80069661ee1680bc6583f3da7b7e0bf7d7550f9263637ab00d",
+    "docs/itemized/figures/feud-101-data-lt-1080p.webp": "6fc392cde13794f324ec0ef1c50529d3b6db8debcadce893ee5e119749575cdb",
+    "docs/itemized/figures/feud-101-downloads-by-day-day.svg": "c09e27e4fb7dd6d6780356e6126040ba70d782e2f53c3cb3b3019ab725405e2d",
+    "docs/itemized/figures/feud-101-downloads-by-week-feud-101-week.svg": "229d5c7e5933f6a4bd666adb59f2eb63a6fec54676cf936e95d7d748357b8b85",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "d17262f5de025dd0b99973b5f8648f02304732f6",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/feud-101/tmp/feud-101-cumulative-btiha.geojson",
+        "sha256": "f78b9bc0cb37f07c1003f0b9e3e06c90fd3a44e7fe3845d2ffdf4e80cce4b0d9",
+        "size": 939130
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/feud-101/tmp/feud-101-cumulative-btiha-media-objects.json",
+        "sha256": "5605886b9dc873baa19f544cf517da67a1e63cb2f789d2cb6fc1efc195c3e7b2",
+        "size": 66471
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "feud-101",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "e38ad865d97233607528beb67400c16ff733ade9875011dc51d6cd724911d011",
+      "size": 1208808
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          90.0,
+          90.0,
+          90.0,
+          90.0,
+          90.0,
+          90.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 7,
+        "labels": [
+          "Lelystad",
+          "Amsterdam",
+          "Roosendaal",
+          "London",
+          "Minneapolis",
+          "Toronto",
+          "Riyadh"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          74.0,
+          60.0,
+          48.0,
+          48.0,
+          44.0,
+          33.0,
+          33.0,
+          30.0,
+          28.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Lelystad",
+          "Armonk",
+          "Amsterdam",
+          "Dallas",
+          "Sydney",
+          "Melbourne",
+          "Toronto",
+          "S\u00e3o Paulo",
+          "Seoul"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 6,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 10,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 1,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "d17262f5de025dd0b99973b5f8648f02304732f6",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "9118dcee59582140eaf9b1224b053ff5bea0330d",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2017"
+}

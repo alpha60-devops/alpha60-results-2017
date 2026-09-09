@@ -1,0 +1,463 @@
+{
+    "collection_name": "Feud",
+    "collection_id": "101",
+    "collection_key": "feud-101",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "sample_duration": "2017-03-07-to-2017-03-12",
+    "sample_days": 6,
+    "sample_year_start": 2017,
+    "sample_year_end": 2017,
+    "sample_day_year_start": 66,
+    "sample_day_year_end": 71,
+    "collection_week": [
+        {
+    "number": "week-00001",
+    "btiha_size": 24,
+    "udownloaders_total": 35225,
+    "uuploaders_total": 22107
+}
+    ],
+    "collection_week_by_btiha": [
+        [
+    {
+        "id": 23,
+        "name": "Feud.S01E01.PROPER.HDTV.x264-KILLERS[ettv]-alt",
+        "btih": "bc203fc145b1de9c4f8ec98c947dbf1937290d71",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.430634598,
+        "creation": "2017-03-06T08:10:08.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13126,
+        "uuploaders": 8523
+    },
+    {
+        "id": 30,
+        "name": "multi-btih-1-2-x-Feud.S01E01.HDTV.x264-FLEET-alt[eztv].mkv",
+        "btih": "0dba2d7a947310117751f555c0ecc19dc2c00815",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.394816542,
+        "creation": "2017-03-06T04:17:14.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5893,
+        "uuploaders": 3677
+    },
+    {
+        "id": 32,
+        "name": "multi-btih-3-2-x-Feud.S01E01.PROPER.HDTV.x264-KILLERS-alt[eztv].mkv",
+        "btih": "df90e611d4708eae0557f1fa557708281733c6f7",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.430634429,
+        "creation": "2017-03-06T12:36:15.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3684,
+        "uuploaders": 2231
+    },
+    {
+        "id": 17,
+        "name": "Feud.S01E01.PROPER.720p.HDTV.x264-KILLERS[ettv]",
+        "btih": "6fef27a7b0329bbab3a8aa846790af5934d9b8df",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.885027822,
+        "creation": "2017-03-06T08:12:12.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3191,
+        "uuploaders": 2272
+    },
+    {
+        "id": 27,
+        "name": "FEUD.S01E01.WEBRip.XviD-FUM[ettv]",
+        "btih": "63fec48633527eea2d321ce1dc9cae1e1260f6d0",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.522473743,
+        "creation": "2017-03-07T03:06:09.000000000Z,mktorrent 1.0",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2832,
+        "uuploaders": 1357
+    },
+    {
+        "id": 31,
+        "name": "multi-btih-2-2-x-Feud.S01E01.PROPER.720p.HDTV.x264-KILLERS-alt[eztv].mkv",
+        "btih": "ecc1072c73644df6a33452255ccb90deaf4f739e",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.885027653,
+        "creation": "2017-03-06T08:15:30.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1954,
+        "uuploaders": 1297
+    },
+    {
+        "id": 29,
+        "name": "multi-btih-0-2-x-Feud.S01E01.720p.HDTV.x264-FLEET[eztv]-alt.mkv",
+        "btih": "3f694681e425e0e4d2a1a2423960fd55bf80a063",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.795647479,
+        "creation": "2017-03-06T04:19:26.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1476,
+        "uuploaders": 937
+    },
+    {
+        "id": 11,
+        "name": "Feud.S01E01.HDTV.x264-FLEET[PRiME]",
+        "btih": "c6de171be8975d4d8016f6463c8a4c6344906961",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.394817289,
+        "creation": "2017-03-06T04:16:07.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1177,
+        "uuploaders": 724
+    },
+    {
+        "id": 5,
+        "name": "Feud.S01E01.720p.HDTV.x264-FLEET[PRiME]",
+        "btih": "4b9a0ec4e8a6dbe1cf713df66a10cf623ef389b3",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.795648226,
+        "creation": "2017-03-06T04:17:23.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 673,
+        "uuploaders": 483
+    },
+    {
+        "id": 15,
+        "name": "Feud.S01E01.PROPER.720p.HDTV.x264-KILLERS [IPT]",
+        "btih": "99eadaf8fdad5b246cfea554ea14e7cc27e5ee11",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.885045164,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 242,
+        "uuploaders": 113
+    },
+    {
+        "id": 2,
+        "name": "Feud.S01E01.720p.HDTV.x264-FLEET [IPT]",
+        "btih": "40830b0c153186964aa3bb34411d76fd74dcfa61",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.795653323,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 186,
+        "uuploaders": 128
+    },
+    {
+        "id": 28,
+        "name": "Feud.S01E01.XviD-AFG [IPT]",
+        "btih": "40739e9819bcc494fb5b65a6cdc1982fc2a49023",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.50706283,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 115,
+        "uuploaders": 71
+    },
+    {
+        "id": 12,
+        "name": "FEUD.S01E01.Pilot.1080p.AMZN.WEBRip.DD+5.1.x264 [IPT]",
+        "btih": "8cb81f728d9913895eff89f15e87919c35095c3b",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.889935109,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 97,
+        "uuploaders": 30
+    },
+    {
+        "id": 25,
+        "name": "Feud.S01E01.PROPER.XviD-AFG [IPT]",
+        "btih": "a93db260630171c7dec371bf941467dd233b3a49",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.584415439,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 92,
+        "uuploaders": 43
+    },
+    {
+        "id": 1,
+        "name": "Feud.S01E01.480p.x264-mSD [IPT]",
+        "btih": "f3e115510370b341cd9700b71d8f31cb587d3944",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.257935746,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 73,
+        "uuploaders": 12
+    },
+    {
+        "id": 21,
+        "name": "Feud.S01E01.PROPER.HDTV.x264-KILLERS [IPT]",
+        "btih": "798f1b4f902a6b2307433b563d90cd116f9152cd",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.430650134,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 55,
+        "uuploaders": 33
+    },
+    {
+        "id": 19,
+        "name": "Feud.S01E01.PROPER.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "2078518d05c0f48ac6d6deee5e25a76195120795",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.394784754,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 53,
+        "uuploaders": 32
+    },
+    {
+        "id": 20,
+        "name": "Feud.S01E01.PROPER.AAC.MP4-Mobile [IPT]",
+        "btih": "fe1744bfd55cda0d9480a36b4e41d553c554dce8",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.250849152,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 53,
+        "uuploaders": 17
+    },
+    {
+        "id": 8,
+        "name": "Feud.S01E01.HDTV.x264-FLEET [IPT]",
+        "btih": "8ec1c03125873cb7179f992f0cda2d37e2eec13d",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.394820829,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 53,
+        "uuploaders": 31
+    },
+    {
+        "id": 14,
+        "name": "Feud.S01E01.PROPER.480p.x264-mSD [IPT]",
+        "btih": "f537495c8aeb0f4538d60a0d5480d492083b74c5",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.291463993,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 52,
+        "uuploaders": 18
+    },
+    {
+        "id": 26,
+        "name": "FEUD.S01E01.WEBRip.XviD-FUM [IPT]",
+        "btih": "89fab2d1765fee17ca0699c706e3319fda5022c3",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.52344098,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 41,
+        "uuploaders": 22
+    },
+    {
+        "id": 6,
+        "name": "Feud.S01E01.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "e3f59a93f89f250eaf4fd398e788ccedb41fa0ef",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.343375527,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 40,
+        "uuploaders": 22
+    },
+    {
+        "id": 13,
+        "name": "FEUD.S01E01.Pilot.720p.AMZN.WEBRip.DD+5.1.x264 [IPT]",
+        "btih": "2d46d32fe151dc7e59f4d4b9da4c63a35dbc3bf7",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.516515288,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 38,
+        "uuploaders": 18
+    },
+    {
+        "id": 7,
+        "name": "Feud.S01E01.AAC.MP4-Mobile [IPT]",
+        "btih": "9d75a373ebed4974e05f19b8dbeff16dcf636d16",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.221410592,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 29,
+        "uuploaders": 16
+    }
+]
+    ],
+    "collection_week_by_country": [
+        [
+    {
+        "number": "BRA_week_1",
+        "btiha_size": 10,
+        "udownloaders_total": 3844,
+        "uuploaders_total": 2641
+    },
+    {
+        "number": "CAN_week_1",
+        "btiha_size": 24,
+        "udownloaders_total": 1492,
+        "uuploaders_total": 938
+    },
+    {
+        "number": "CHN_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 615,
+        "uuploaders_total": 299
+    },
+    {
+        "number": "DEU_week_1",
+        "btiha_size": 16,
+        "udownloaders_total": 270,
+        "uuploaders_total": 126
+    },
+    {
+        "number": "ESP_week_1",
+        "btiha_size": 11,
+        "udownloaders_total": 1103,
+        "uuploaders_total": 739
+    },
+    {
+        "number": "FRA_week_1",
+        "btiha_size": 22,
+        "udownloaders_total": 578,
+        "uuploaders_total": 416
+    },
+    {
+        "number": "HKG_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 148,
+        "uuploaders_total": 103
+    },
+    {
+        "number": "JPN_week_1",
+        "btiha_size": 11,
+        "udownloaders_total": 174,
+        "uuploaders_total": 103
+    },
+    {
+        "number": "KOR_week_1",
+        "btiha_size": 10,
+        "udownloaders_total": 541,
+        "uuploaders_total": 340
+    },
+    {
+        "number": "MEX_week_1",
+        "btiha_size": 11,
+        "udownloaders_total": 273,
+        "uuploaders_total": 191
+    },
+    {
+        "number": "NLD_week_1",
+        "btiha_size": 24,
+        "udownloaders_total": 2531,
+        "uuploaders_total": 719
+    },
+    {
+        "number": "RUS_week_1",
+        "btiha_size": 10,
+        "udownloaders_total": 197,
+        "uuploaders_total": 100
+    },
+    {
+        "number": "SWE_week_1",
+        "btiha_size": 13,
+        "udownloaders_total": 530,
+        "uuploaders_total": 288
+    },
+    {
+        "number": "TUR_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 124,
+        "uuploaders_total": 79
+    },
+    {
+        "number": "UKR_week_1",
+        "btiha_size": 8,
+        "udownloaders_total": 44,
+        "uuploaders_total": 27
+    },
+    {
+        "number": "USA_week_1",
+        "btiha_size": 24,
+        "udownloaders_total": 5454,
+        "uuploaders_total": 3450
+    }
+]
+    ]
+}
