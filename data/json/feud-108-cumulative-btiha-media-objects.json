@@ -1,0 +1,1330 @@
+{
+    "collection_name": "Feud",
+    "collection_id": "108",
+    "collection_key": "feud-108",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "FEUD.S01E08.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]-[rarbg.to]",
+            "size_total": 5.973225304,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.973225274,
+                    "path": "FEUD.S01E08.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio[rarbg]/FEUD.S01E08.You.Mean.All.This.Time.We.Could.Have.Been.Friends.1080p.AMZN.WEBRip.DD+5.1.x264-CasStudio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "FEUD.S01E08.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio[rarbg]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Feud.S01E08.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.731457329,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.724195669,
+                    "path": "Feud.S01E08.1080p.HEVC.x265-MeGusta/Feud.S01E08.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000119,
+                    "path": "Feud.S01E08.1080p.HEVC.x265-MeGusta/Feud.S01E08.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002538471,
+                    "path": "Feud.S01E08.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001700122,
+                    "path": "Feud.S01E08.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00126285,
+                    "path": "Feud.S01E08.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001759027,
+                    "path": "Feud.S01E08.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Feud.S01E08.1080p.WEB.h264-MOROSE [IPT]",
+            "size_total": 2.547899346,
+            "files_total": 53,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.85e-7,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r45"
+                },
+                {
+                    "number": 48,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r46"
+                },
+                {
+                    "number": 49,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r47"
+                },
+                {
+                    "number": 50,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r48"
+                },
+                {
+                    "number": 51,
+                    "size": 0.047896513,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.r49"
+                },
+                {
+                    "number": 52,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.rar"
+                },
+                {
+                    "number": 53,
+                    "size": 0.000002448,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE/feud.s01e08.1080p.web.h264-morose.sfv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Feud.S01E08.1080p.WEB.h264-MOROSE[rartv]-[rarbg.to]",
+            "size_total": 2.547890706,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.547890291,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE[rarbg]/feud.s01e08.1080p.web.h264-morose.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.85e-7,
+                    "path": "Feud.S01E08.1080p.WEB.h264-MOROSE[rarbg]/feud.s01e08.1080p.web.h264-morose.nfo"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Feud.S01E08.480p.x264-mSD [IPT]",
+            "size_total": 0.231618239,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.230735395,
+                    "path": "Feud.S01E08.480p.x264-mSD/Feud.S01E08.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001162,
+                    "path": "Feud.S01E08.480p.x264-mSD/Feud.S01E08.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000311192,
+                    "path": "Feud.S01E08.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000201002,
+                    "path": "Feud.S01E08.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000140137,
+                    "path": "Feud.S01E08.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000229351,
+                    "path": "Feud.S01E08.480p.x264-mSD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "FEUD.S01E08.720p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]-[rarbg.to]",
+            "size_total": 2.533645351,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.533645321,
+                    "path": "FEUD.S01E08.720p.AMZN.WEBRip.DD5.1.x264-CasStudio[rarbg]/FEUD.S01E08.You.Mean.All.This.Time.We.Could.Have.Been.Friends.720p.AMZN.WEBRip.DD+5.1.x264-CasStudio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "FEUD.S01E08.720p.AMZN.WEBRip.DD5.1.x264-CasStudio[rarbg]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Feud.S01E08.720p.HDTV.x264-FLEET [IPT]",
+            "size_total": 1.946963138,
+            "files_total": 41,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.96e-7,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.046960609,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.rar"
+                },
+                {
+                    "number": 41,
+                    "size": 0.000001833,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET/feud.s01e08.720p.hdtv.x264-fleet.sfv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Feud.S01E08.720p.HDTV.x264-FLEET[eztv].mkv",
+            "size_total": 1.946956865,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.946956865,
+                    "path": "Feud.S01E08.720p.HDTV.x264-FLEET[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Feud.S01E08.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.291831193,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.288486194,
+                    "path": "Feud.S01E08.720p.HEVC.x265-MeGusta/Feud.S01E08.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001165,
+                    "path": "Feud.S01E08.720p.HEVC.x265-MeGusta/Feud.S01E08.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000298631,
+                    "path": "Feud.S01E08.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001286773,
+                    "path": "Feud.S01E08.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000672754,
+                    "path": "Feud.S01E08.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001085676,
+                    "path": "Feud.S01E08.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Feud.S01E08.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.201605859,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.200620225,
+                    "path": "Feud.S01E08.AAC.MP4-Mobile/Feud.S01E08.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001259,
+                    "path": "Feud.S01E08.AAC.MP4-Mobile/Feud.S01E08.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000347447,
+                    "path": "Feud.S01E08.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000226982,
+                    "path": "Feud.S01E08.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000157269,
+                    "path": "Feud.S01E08.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000252677,
+                    "path": "Feud.S01E08.AAC.MP4-Mobile/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Feud.S01E08.HDTV.x264-FLEET [IPT]",
+            "size_total": 0.363304742,
+            "files_total": 27,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.96e-7,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.003302996,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.015,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.rar"
+                },
+                {
+                    "number": 27,
+                    "size": 0.00000105,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET/feud.s01e08.hdtv.x264-fleet.sfv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Feud.S01E08.HDTV.x264-FLEET[rartv]-[rarbg.to]",
+            "size_total": 0.363301447,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.363300721,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET[rarbg]/Feud.S01E08.HDTV.x264-FLEET.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 6.96e-7,
+                    "path": "Feud.S01E08.HDTV.x264-FLEET[rarbg]/feud.s01e08.hdtv.x264-fleet.nfo"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "FEUD.S01E08.WEBRip.x264-RARBG-[rarbg.to]",
+            "size_total": 0.589816144,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.58871909,
+                    "path": "FEUD.S01E08.WEBRip.x264-RARBG/FEUD.S01E08.WEBRip.x264-RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000004196,
+                    "path": "FEUD.S01E08.WEBRip.x264-RARBG/FEUD.S01E08.WEBRip.x264-RARBG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001016764,
+                    "path": "FEUD.S01E08.WEBRip.x264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 3e-8,
+                    "path": "FEUD.S01E08.WEBRip.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000076064,
+                    "path": "FEUD.S01E08.WEBRip.x264-RARBG/Subs/2_Eng.srt"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "FEUD.S01E08.WEBRip.XviD-FUM [IPT]",
+            "size_total": 0.555384772,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.554285348,
+                    "path": "FEUD.S01E08.WEBRip.XviD-FUM/FEUD.S01E08.WEBRip.XviD-FUM.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000147,
+                    "path": "FEUD.S01E08.WEBRip.XviD-FUM/FEUD.S01E08.WEBRip.XviD-FUM.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000222689,
+                    "path": "FEUD.S01E08.WEBRip.XviD-FUM/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00026051,
+                    "path": "FEUD.S01E08.WEBRip.XviD-FUM/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000344802,
+                    "path": "FEUD.S01E08.WEBRip.XviD-FUM/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000269953,
+                    "path": "FEUD.S01E08.WEBRip.XviD-FUM/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "FEUD.S01E08.WEBRip.XviD-FUM[ettv]-[rarbg.to]",
+            "size_total": 0.554285517,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.554285348,
+                    "path": "FEUD.S01E08.WEBRip.XviD-FUM[ettv]/FEUD.S01E08.WEBRip.XviD-FUM[ettv].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 1.69e-7,
+                    "path": "FEUD.S01E08.WEBRip.XviD-FUM[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Feud.S01E08.XviD-AFG [IPT]",
+            "size_total": 0.462244693,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.461327278,
+                    "path": "Feud.S01E08.XviD-AFG/Feud.S01E08.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001134,
+                    "path": "Feud.S01E08.XviD-AFG/Feud.S01E08.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.0003022,
+                    "path": "Feud.S01E08.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000262563,
+                    "path": "Feud.S01E08.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000134137,
+                    "path": "Feud.S01E08.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000217381,
+                    "path": "Feud.S01E08.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "FEUD.S01E08.You.Mean.All.This.Time.We.Could.Have.Been.Friends.1080p.AMZN.WEBRip.DD+5.1.x264 [IPT]",
+            "size_total": 5.98525297,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.973225274,
+                    "path": "FEUD.S01E08.You.Mean.All.This.Time.We.Could.Have.Been.Friends.1080p.AMZN.WEBRip.DD+5.1.x264/FEUD.S01E08.You.Mean.All.This.Time.We.Could.Have.Been.Friends.1080p.AMZN.WEBRip.DD+5.1.x264.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001572,
+                    "path": "FEUD.S01E08.You.Mean.All.This.Time.We.Could.Have.Been.Friends.1080p.AMZN.WEBRip.DD+5.1.x264/FEUD.S01E08.You.Mean.All.This.Time.We.Could.Have.Been.Friends.1080p.AMZN.WEBRip.DD+5.1.x264.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002584879,
+                    "path": "FEUD.S01E08.You.Mean.All.This.Time.We.Could.Have.Been.Friends.1080p.AMZN.WEBRip.DD+5.1.x264/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.003019467,
+                    "path": "FEUD.S01E08.You.Mean.All.This.Time.We.Could.Have.Been.Friends.1080p.AMZN.WEBRip.DD+5.1.x264/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.003487618,
+                    "path": "FEUD.S01E08.You.Mean.All.This.Time.We.Could.Have.Been.Friends.1080p.AMZN.WEBRip.DD+5.1.x264/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00293416,
+                    "path": "FEUD.S01E08.You.Mean.All.This.Time.We.Could.Have.Been.Friends.1080p.AMZN.WEBRip.DD+5.1.x264/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Feud.S01E08.you.mean.all.this.time.we.could.have.been.friends.720p.webrip.hevc.x265.rmteam",
+            "size_total": 0.296181165,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.29618105,
+                    "path": "feud.s01e08.you.mean.all.this.time.we.could.have.been.friends.720p.webrip.hevc.x265.rmteam/feud.s01e08.you.mean.all.this.time.we.could.have.been.friends.720p.webrip.hevc.x265.rmteam.mkv.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 5.8e-8,
+                    "path": "feud.s01e08.you.mean.all.this.time.we.could.have.been.friends.720p.webrip.hevc.x265.rmteam/Torrent downloaded from www.Demonoid.pw - Demonoid .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 5.7e-8,
+                    "path": "feud.s01e08.you.mean.all.this.time.we.could.have.been.friends.720p.webrip.hevc.x265.rmteam/My Forum - ShadowHD.info.txt"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 15,
+            "name": "FEUD.S01E08.WEBRip.XviD-FUM[ettv]-[rarbg.to]",
+            "btih": "801e5b67d8f76c3629adfb300841417230e23785",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.554285517,
+            "creation": "2017-04-25T04:24:29.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13901,
+            "uuploaders": 6934
+        },
+        {
+            "id": 8,
+            "name": "Feud.S01E08.720p.HDTV.x264-FLEET[eztv].mkv",
+            "btih": "09ff503a7252f077f29d64dd90557d09c46cebb2",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.946956865,
+            "creation": "2017-04-24T03:22:21.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11486,
+            "uuploaders": 6234
+        },
+        {
+            "id": 12,
+            "name": "Feud.S01E08.HDTV.x264-FLEET[rartv]-[rarbg.to]",
+            "btih": "2bf54add013b7cea61fbe05cbaa0ca1c684bbdd1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.363301447,
+            "creation": "2017-04-24T03:18:13.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9604,
+            "uuploaders": 3110
+        },
+        {
+            "id": 6,
+            "name": "FEUD.S01E08.720p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]-[rarbg.to]",
+            "btih": "e9e0e0ff2849eef2ce3970dc1fe0cfc17cd1eb67",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.533645351,
+            "creation": "2017-04-24T20:55:04.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2556,
+            "uuploaders": 990
+        },
+        {
+            "id": 4,
+            "name": "Feud.S01E08.1080p.WEB.h264-MOROSE[rartv]-[rarbg.to]",
+            "btih": "a8d707d86f03055ea1dc8678111b311c0d71abcd",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.547890706,
+            "creation": "2017-04-24T15:34:55.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1933,
+            "uuploaders": 838
+        },
+        {
+            "id": 1,
+            "name": "FEUD.S01E08.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]-[rarbg.to]",
+            "btih": "fe2fd32884a272bee6b0af09aede5d6241339c4e",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.973225304,
+            "creation": "2017-04-24T20:54:50.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1834,
+            "uuploaders": 704
+        },
+        {
+            "id": 13,
+            "name": "FEUD.S01E08.WEBRip.x264-RARBG-[rarbg.to]",
+            "btih": "7356fe7c9aee9c60ccff5f547f1164aedd3f444f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.589816144,
+            "creation": "2017-04-24T21:12:34.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1763,
+            "uuploaders": 775
+        },
+        {
+            "id": 18,
+            "name": "Feud.S01E08.you.mean.all.this.time.we.could.have.been.friends.720p.webrip.hevc.x265.rmteam",
+            "btih": "ba009a99dd8f40570d3fb531341b4c854d7fcb7b",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.296181165,
+            "creation": "2017-04-25T10:39:37.000000000Z,uTorrent/2210,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 727,
+            "uuploaders": 312
+        },
+        {
+            "id": 7,
+            "name": "Feud.S01E08.720p.HDTV.x264-FLEET [IPT]",
+            "btih": "3fed027c6c1060f3b25b8751d7de38f6fa7df806",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.946963138,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 570,
+            "uuploaders": 244
+        },
+        {
+            "id": 16,
+            "name": "Feud.S01E08.XviD-AFG [IPT]",
+            "btih": "0f9169e5bda9c9d64709b056cec29a59cdab0676",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.462244693,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 271,
+            "uuploaders": 159
+        },
+        {
+            "id": 11,
+            "name": "Feud.S01E08.HDTV.x264-FLEET [IPT]",
+            "btih": "f2d19e5855b1f29373cc45a27ca41b66906060e0",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.363304742,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 188,
+            "uuploaders": 96
+        },
+        {
+            "id": 5,
+            "name": "Feud.S01E08.480p.x264-mSD [IPT]",
+            "btih": "cd3ee31466d70004bb89f122845a1261b268d664",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.231618239,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 96,
+            "uuploaders": 31
+        },
+        {
+            "id": 3,
+            "name": "Feud.S01E08.1080p.WEB.h264-MOROSE [IPT]",
+            "btih": "bb2fc0af557dddf81f7c3f8a1285b5d2e1914315",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.547899346,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 90,
+            "uuploaders": 51
+        },
+        {
+            "id": 10,
+            "name": "Feud.S01E08.AAC.MP4-Mobile [IPT]",
+            "btih": "a688743a2a39fbbe0c1da18055bacd41cbeb2cfe",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.201605859,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 87,
+            "uuploaders": 46
+        },
+        {
+            "id": 2,
+            "name": "Feud.S01E08.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "3f2d29e941de8003999d50e26bc2e22a259d2cb4",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.731457329,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 79,
+            "uuploaders": 29
+        },
+        {
+            "id": 9,
+            "name": "Feud.S01E08.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "8e0cbb17950762dfcc3ced66c9e3e9debd0c873d",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.291831193,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 60,
+            "uuploaders": 36
+        },
+        {
+            "id": 14,
+            "name": "FEUD.S01E08.WEBRip.XviD-FUM [IPT]",
+            "btih": "c40336e8bf9215477487f9eff00c06122b722b5c",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.555384772,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 41,
+            "uuploaders": 20
+        },
+        {
+            "id": 17,
+            "name": "FEUD.S01E08.You.Mean.All.This.Time.We.Could.Have.Been.Friends.1080p.AMZN.WEBRip.DD+5.1.x264 [IPT]",
+            "btih": "323d3394cf9b7f28311e0b49be98030cf4422866",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.98525297,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 39,
+            "uuploaders": 15
+        }
+    ]
+}

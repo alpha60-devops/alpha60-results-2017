@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt1984119",
+    "imdb_id": "tt1984119",
+    "revision": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec",
+    "wikidata_id": "Q25207414",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Feud_(TV_series)"
+  },
+  "coverage_sha256": "88c83355bb349afdb43175c005042c8d6b8eb823649df937cbb78bd79dca35d4",
+  "generated_at": "2026-09-09T01:50:16.105142+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/feud-108.cache/cache.20170510.tar.xz",
+      "sha256": "926e867c17e536a2147e7bbbb071e519312b714a32bead8bfa2af0f2582be4c2",
+      "size": 2386792
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-coverage-evidence/feud-108.md",
+      "sha256": "9e55d63f5cc2a7e2a545151006738a68838a23d2752b438e363d4ad15ae08b89",
+      "size": 9237
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-cache-stream-receipts/feud-108.json",
+      "sha256": "2acc2d497fee99632a261c1752bafe9f2b6a4ff8c502749ceb5585545d2053aa",
+      "size": 2081
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-product-receipts/feud-108.json",
+      "sha256": "a27b9ddcc5342a4817907f17c6b6037c03b36f30f50f75c541452df72072fe05",
+      "size": 360
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+      "sha256": "a8b61a3da60ab34c0dc9dbbddfdd3267e4c8461177e747c8ad4038d63e39c8f8",
+      "size": 57579
+    }
+  },
+  "media_object": "feud-108",
+  "published_files": {
+    "data/csv/bytes/feud-108-cumulative-detail.2017-btiha-itemized-by-bytes.csv": "8846cf863182f6724c382d9e5f15f252f9b5a7b8354aa0c52798943b72c525a1",
+    "docs/itemized/feud-108-sample-cache-audit.md": "03246edf8bd6316d03330a25da9ac0c1ce47c0e66b527bfc019ce5995eea5385",
+    "docs/itemized/figures/feud-108-carto-4k.webp": "55629a4fe219468dc0cfc6637870df84e62e4524edddb8a6eec454d75fa430b5",
+    "docs/itemized/figures/feud-108-carto.png": "7d03a7bddbdeaae9acfaea84d2d54cfd2ed4f969adfe3ecef3933e65b1a47de5",
+    "docs/itemized/figures/feud-108-cumulative-detail-btiha-itemized-by-bytes.svg": "423900b61568648baf031c170e03e78d31d68dc470e18f005d73dc8d8f3ffb56",
+    "docs/itemized/figures/feud-108-data-ge-1080p-4k.webp": "9081bc5474be4b6670cde9e95ee501ba487220ab19c0221eeebb8552b90a71b2",
+    "docs/itemized/figures/feud-108-data-ge-1080p.webp": "50c8ff86065621ac909bd0b65ac38c0a911f0a2f3dcd7e4c550bf099f8a874d3",
+    "docs/itemized/figures/feud-108-data-lt-1080p-4k.webp": "cfc4d4952124c066b186e457d5e1aee3ef62991ecfe04f47db1a7cb96e7e1422",
+    "docs/itemized/figures/feud-108-data-lt-1080p.webp": "ca81c26dc01f4ddd43ebd5b11f0875ce1a59ea7d6eada0d1712cb2265140fe0c",
+    "docs/itemized/figures/feud-108-downloads-by-day-day.svg": "039abc7ee33bea19dc4bc03df57339a236731dd3234933c32b375842c3508c1c",
+    "docs/itemized/figures/feud-108-downloads-by-week-feud-108-week.svg": "732f0bbbe1414fec7b2a47ec20cb9ac5c01b495443cca091d2d325e8317db94b",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c4cf3fa8e710f9727ab3f7110f6e55b0b8d74b61",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/feud-108/tmp/feud-108-cumulative-btiha.geojson",
+        "sha256": "8be3f5b20c66b063df8fc6e28de80b215267c0f5e943c873a877b32f194b1400",
+        "size": 1109159
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/feud-108/tmp/feud-108-cumulative-btiha-media-objects.json",
+        "sha256": "ff71c045c066bf02b1212be7bc7821b3abc4d33a476c7a53bdcf2b36d446a20b",
+        "size": 51506
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "feud-108",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          57.0,
+          56.0,
+          51.0,
+          44.0,
+          43.0,
+          36.0,
+          35.0,
+          32.0,
+          32.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "S\u00e3o Paulo",
+          "Lelystad",
+          "Chicago",
+          "Toronto",
+          "Dublin",
+          "Barcelona",
+          "Sydney",
+          "Solna",
+          "New York City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          84.0,
+          72.0,
+          61.0,
+          50.0,
+          48.0,
+          44.0,
+          42.0,
+          40.0,
+          38.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "S\u00e3o Paulo",
+          "London",
+          "Lelystad",
+          "Sydney",
+          "Breda",
+          "Melbourne",
+          "Amsterdam",
+          "Dublin",
+          "Roosendaal",
+          "Rio de Janeiro"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 17,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 9,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 3,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c4cf3fa8e710f9727ab3f7110f6e55b0b8d74b61",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "9118dcee59582140eaf9b1224b053ff5bea0330d",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2017"
+}

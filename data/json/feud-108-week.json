@@ -1,0 +1,1095 @@
+{
+    "collection_name": "Feud",
+    "collection_id": "108",
+    "collection_key": "feud-108",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "sample_duration": "2017-04-24-to-2017-05-10",
+    "sample_days": 17,
+    "sample_year_start": 2017,
+    "sample_year_end": 2017,
+    "sample_day_year_start": 114,
+    "sample_day_year_end": 130,
+    "collection_week": [
+        {
+    "number": "week-00001",
+    "btiha_size": 18,
+    "udownloaders_total": 33153,
+    "uuploaders_total": 15732
+},
+        {
+    "number": "week-00002",
+    "btiha_size": 18,
+    "udownloaders_total": 42776,
+    "uuploaders_total": 19673
+},
+        {
+    "number": "week-00003",
+    "btiha_size": 18,
+    "udownloaders_total": 45325,
+    "uuploaders_total": 20624
+}
+    ],
+    "collection_week_by_btiha": [
+        [
+    {
+        "id": 8,
+        "name": "Feud.S01E08.720p.HDTV.x264-FLEET[eztv].mkv",
+        "btih": "09ff503a7252f077f29d64dd90557d09c46cebb2",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.946956865,
+        "creation": "2017-04-24T03:22:21.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 9413,
+        "uuploaders": 5413
+    },
+    {
+        "id": 15,
+        "name": "FEUD.S01E08.WEBRip.XviD-FUM[ettv]-[rarbg.to]",
+        "btih": "801e5b67d8f76c3629adfb300841417230e23785",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.554285517,
+        "creation": "2017-04-25T04:24:29.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 9349,
+        "uuploaders": 4888
+    },
+    {
+        "id": 12,
+        "name": "Feud.S01E08.HDTV.x264-FLEET[rartv]-[rarbg.to]",
+        "btih": "2bf54add013b7cea61fbe05cbaa0ca1c684bbdd1",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.363301447,
+        "creation": "2017-04-24T03:18:13.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7783,
+        "uuploaders": 2440
+    },
+    {
+        "id": 4,
+        "name": "Feud.S01E08.1080p.WEB.h264-MOROSE[rartv]-[rarbg.to]",
+        "btih": "a8d707d86f03055ea1dc8678111b311c0d71abcd",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.547890706,
+        "creation": "2017-04-24T15:34:55.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1539,
+        "uuploaders": 652
+    },
+    {
+        "id": 6,
+        "name": "FEUD.S01E08.720p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]-[rarbg.to]",
+        "btih": "e9e0e0ff2849eef2ce3970dc1fe0cfc17cd1eb67",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.533645351,
+        "creation": "2017-04-24T20:55:04.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1313,
+        "uuploaders": 583
+    },
+    {
+        "id": 1,
+        "name": "FEUD.S01E08.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]-[rarbg.to]",
+        "btih": "fe2fd32884a272bee6b0af09aede5d6241339c4e",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.973225304,
+        "creation": "2017-04-24T20:54:50.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1189,
+        "uuploaders": 490
+    },
+    {
+        "id": 13,
+        "name": "FEUD.S01E08.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "7356fe7c9aee9c60ccff5f547f1164aedd3f444f",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.589816144,
+        "creation": "2017-04-24T21:12:34.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1077,
+        "uuploaders": 471
+    },
+    {
+        "id": 7,
+        "name": "Feud.S01E08.720p.HDTV.x264-FLEET [IPT]",
+        "btih": "3fed027c6c1060f3b25b8751d7de38f6fa7df806",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.946963138,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 392,
+        "uuploaders": 192
+    },
+    {
+        "id": 18,
+        "name": "Feud.S01E08.you.mean.all.this.time.we.could.have.been.friends.720p.webrip.hevc.x265.rmteam",
+        "btih": "ba009a99dd8f40570d3fb531341b4c854d7fcb7b",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.296181165,
+        "creation": "2017-04-25T10:39:37.000000000Z,uTorrent/2210,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 360,
+        "uuploaders": 224
+    },
+    {
+        "id": 16,
+        "name": "Feud.S01E08.XviD-AFG [IPT]",
+        "btih": "0f9169e5bda9c9d64709b056cec29a59cdab0676",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.462244693,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 196,
+        "uuploaders": 125
+    },
+    {
+        "id": 11,
+        "name": "Feud.S01E08.HDTV.x264-FLEET [IPT]",
+        "btih": "f2d19e5855b1f29373cc45a27ca41b66906060e0",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.363304742,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 151,
+        "uuploaders": 78
+    },
+    {
+        "id": 5,
+        "name": "Feud.S01E08.480p.x264-mSD [IPT]",
+        "btih": "cd3ee31466d70004bb89f122845a1261b268d664",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.231618239,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 82,
+        "uuploaders": 25
+    },
+    {
+        "id": 3,
+        "name": "Feud.S01E08.1080p.WEB.h264-MOROSE [IPT]",
+        "btih": "bb2fc0af557dddf81f7c3f8a1285b5d2e1914315",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.547899346,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 70,
+        "uuploaders": 38
+    },
+    {
+        "id": 10,
+        "name": "Feud.S01E08.AAC.MP4-Mobile [IPT]",
+        "btih": "a688743a2a39fbbe0c1da18055bacd41cbeb2cfe",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.201605859,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 66,
+        "uuploaders": 29
+    },
+    {
+        "id": 2,
+        "name": "Feud.S01E08.1080p.HEVC.x265-MeGusta [IPT]",
+        "btih": "3f2d29e941de8003999d50e26bc2e22a259d2cb4",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.731457329,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 53,
+        "uuploaders": 22
+    },
+    {
+        "id": 9,
+        "name": "Feud.S01E08.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "8e0cbb17950762dfcc3ced66c9e3e9debd0c873d",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.291831193,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 52,
+        "uuploaders": 30
+    },
+    {
+        "id": 14,
+        "name": "FEUD.S01E08.WEBRip.XviD-FUM [IPT]",
+        "btih": "c40336e8bf9215477487f9eff00c06122b722b5c",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.555384772,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 36,
+        "uuploaders": 18
+    },
+    {
+        "id": 17,
+        "name": "FEUD.S01E08.You.Mean.All.This.Time.We.Could.Have.Been.Friends.1080p.AMZN.WEBRip.DD+5.1.x264 [IPT]",
+        "btih": "323d3394cf9b7f28311e0b49be98030cf4422866",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.98525297,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 32,
+        "uuploaders": 14
+    }
+],
+        [
+    {
+        "id": 15,
+        "name": "FEUD.S01E08.WEBRip.XviD-FUM[ettv]-[rarbg.to]",
+        "btih": "801e5b67d8f76c3629adfb300841417230e23785",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.554285517,
+        "creation": "2017-04-25T04:24:29.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12956,
+        "uuploaders": 6553
+    },
+    {
+        "id": 8,
+        "name": "Feud.S01E08.720p.HDTV.x264-FLEET[eztv].mkv",
+        "btih": "09ff503a7252f077f29d64dd90557d09c46cebb2",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.946956865,
+        "creation": "2017-04-24T03:22:21.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 11088,
+        "uuploaders": 6076
+    },
+    {
+        "id": 12,
+        "name": "Feud.S01E08.HDTV.x264-FLEET[rartv]-[rarbg.to]",
+        "btih": "2bf54add013b7cea61fbe05cbaa0ca1c684bbdd1",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.363301447,
+        "creation": "2017-04-24T03:18:13.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 9210,
+        "uuploaders": 2953
+    },
+    {
+        "id": 6,
+        "name": "FEUD.S01E08.720p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]-[rarbg.to]",
+        "btih": "e9e0e0ff2849eef2ce3970dc1fe0cfc17cd1eb67",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.533645351,
+        "creation": "2017-04-24T20:55:04.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2321,
+        "uuploaders": 915
+    },
+    {
+        "id": 4,
+        "name": "Feud.S01E08.1080p.WEB.h264-MOROSE[rartv]-[rarbg.to]",
+        "btih": "a8d707d86f03055ea1dc8678111b311c0d71abcd",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.547890706,
+        "creation": "2017-04-24T15:34:55.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1854,
+        "uuploaders": 796
+    },
+    {
+        "id": 1,
+        "name": "FEUD.S01E08.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]-[rarbg.to]",
+        "btih": "fe2fd32884a272bee6b0af09aede5d6241339c4e",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.973225304,
+        "creation": "2017-04-24T20:54:50.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1680,
+        "uuploaders": 673
+    },
+    {
+        "id": 13,
+        "name": "FEUD.S01E08.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "7356fe7c9aee9c60ccff5f547f1164aedd3f444f",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.589816144,
+        "creation": "2017-04-24T21:12:34.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1616,
+        "uuploaders": 721
+    },
+    {
+        "id": 18,
+        "name": "Feud.S01E08.you.mean.all.this.time.we.could.have.been.friends.720p.webrip.hevc.x265.rmteam",
+        "btih": "ba009a99dd8f40570d3fb531341b4c854d7fcb7b",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.296181165,
+        "creation": "2017-04-25T10:39:37.000000000Z,uTorrent/2210,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 630,
+        "uuploaders": 298
+    },
+    {
+        "id": 7,
+        "name": "Feud.S01E08.720p.HDTV.x264-FLEET [IPT]",
+        "btih": "3fed027c6c1060f3b25b8751d7de38f6fa7df806",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.946963138,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 515,
+        "uuploaders": 228
+    },
+    {
+        "id": 16,
+        "name": "Feud.S01E08.XviD-AFG [IPT]",
+        "btih": "0f9169e5bda9c9d64709b056cec29a59cdab0676",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.462244693,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 246,
+        "uuploaders": 147
+    },
+    {
+        "id": 11,
+        "name": "Feud.S01E08.HDTV.x264-FLEET [IPT]",
+        "btih": "f2d19e5855b1f29373cc45a27ca41b66906060e0",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.363304742,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 182,
+        "uuploaders": 92
+    },
+    {
+        "id": 5,
+        "name": "Feud.S01E08.480p.x264-mSD [IPT]",
+        "btih": "cd3ee31466d70004bb89f122845a1261b268d664",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.231618239,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 94,
+        "uuploaders": 29
+    },
+    {
+        "id": 10,
+        "name": "Feud.S01E08.AAC.MP4-Mobile [IPT]",
+        "btih": "a688743a2a39fbbe0c1da18055bacd41cbeb2cfe",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.201605859,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 86,
+        "uuploaders": 46
+    },
+    {
+        "id": 3,
+        "name": "Feud.S01E08.1080p.WEB.h264-MOROSE [IPT]",
+        "btih": "bb2fc0af557dddf81f7c3f8a1285b5d2e1914315",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.547899346,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 86,
+        "uuploaders": 48
+    },
+    {
+        "id": 2,
+        "name": "Feud.S01E08.1080p.HEVC.x265-MeGusta [IPT]",
+        "btih": "3f2d29e941de8003999d50e26bc2e22a259d2cb4",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.731457329,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 76,
+        "uuploaders": 28
+    },
+    {
+        "id": 9,
+        "name": "Feud.S01E08.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "8e0cbb17950762dfcc3ced66c9e3e9debd0c873d",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.291831193,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 59,
+        "uuploaders": 35
+    },
+    {
+        "id": 14,
+        "name": "FEUD.S01E08.WEBRip.XviD-FUM [IPT]",
+        "btih": "c40336e8bf9215477487f9eff00c06122b722b5c",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.555384772,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 40,
+        "uuploaders": 20
+    },
+    {
+        "id": 17,
+        "name": "FEUD.S01E08.You.Mean.All.This.Time.We.Could.Have.Been.Friends.1080p.AMZN.WEBRip.DD+5.1.x264 [IPT]",
+        "btih": "323d3394cf9b7f28311e0b49be98030cf4422866",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.98525297,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 37,
+        "uuploaders": 15
+    }
+],
+        [
+    {
+        "id": 15,
+        "name": "FEUD.S01E08.WEBRip.XviD-FUM[ettv]-[rarbg.to]",
+        "btih": "801e5b67d8f76c3629adfb300841417230e23785",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.554285517,
+        "creation": "2017-04-25T04:24:29.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13901,
+        "uuploaders": 6934
+    },
+    {
+        "id": 8,
+        "name": "Feud.S01E08.720p.HDTV.x264-FLEET[eztv].mkv",
+        "btih": "09ff503a7252f077f29d64dd90557d09c46cebb2",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.946956865,
+        "creation": "2017-04-24T03:22:21.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 11486,
+        "uuploaders": 6234
+    },
+    {
+        "id": 12,
+        "name": "Feud.S01E08.HDTV.x264-FLEET[rartv]-[rarbg.to]",
+        "btih": "2bf54add013b7cea61fbe05cbaa0ca1c684bbdd1",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.363301447,
+        "creation": "2017-04-24T03:18:13.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 9604,
+        "uuploaders": 3110
+    },
+    {
+        "id": 6,
+        "name": "FEUD.S01E08.720p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]-[rarbg.to]",
+        "btih": "e9e0e0ff2849eef2ce3970dc1fe0cfc17cd1eb67",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.533645351,
+        "creation": "2017-04-24T20:55:04.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2556,
+        "uuploaders": 990
+    },
+    {
+        "id": 4,
+        "name": "Feud.S01E08.1080p.WEB.h264-MOROSE[rartv]-[rarbg.to]",
+        "btih": "a8d707d86f03055ea1dc8678111b311c0d71abcd",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.547890706,
+        "creation": "2017-04-24T15:34:55.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1933,
+        "uuploaders": 838
+    },
+    {
+        "id": 1,
+        "name": "FEUD.S01E08.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]-[rarbg.to]",
+        "btih": "fe2fd32884a272bee6b0af09aede5d6241339c4e",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.973225304,
+        "creation": "2017-04-24T20:54:50.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1834,
+        "uuploaders": 704
+    },
+    {
+        "id": 13,
+        "name": "FEUD.S01E08.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "7356fe7c9aee9c60ccff5f547f1164aedd3f444f",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.589816144,
+        "creation": "2017-04-24T21:12:34.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1763,
+        "uuploaders": 775
+    },
+    {
+        "id": 18,
+        "name": "Feud.S01E08.you.mean.all.this.time.we.could.have.been.friends.720p.webrip.hevc.x265.rmteam",
+        "btih": "ba009a99dd8f40570d3fb531341b4c854d7fcb7b",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.296181165,
+        "creation": "2017-04-25T10:39:37.000000000Z,uTorrent/2210,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 727,
+        "uuploaders": 312
+    },
+    {
+        "id": 7,
+        "name": "Feud.S01E08.720p.HDTV.x264-FLEET [IPT]",
+        "btih": "3fed027c6c1060f3b25b8751d7de38f6fa7df806",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.946963138,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 570,
+        "uuploaders": 244
+    },
+    {
+        "id": 16,
+        "name": "Feud.S01E08.XviD-AFG [IPT]",
+        "btih": "0f9169e5bda9c9d64709b056cec29a59cdab0676",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.462244693,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 271,
+        "uuploaders": 159
+    },
+    {
+        "id": 11,
+        "name": "Feud.S01E08.HDTV.x264-FLEET [IPT]",
+        "btih": "f2d19e5855b1f29373cc45a27ca41b66906060e0",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.363304742,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 188,
+        "uuploaders": 96
+    },
+    {
+        "id": 5,
+        "name": "Feud.S01E08.480p.x264-mSD [IPT]",
+        "btih": "cd3ee31466d70004bb89f122845a1261b268d664",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.231618239,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 96,
+        "uuploaders": 31
+    },
+    {
+        "id": 3,
+        "name": "Feud.S01E08.1080p.WEB.h264-MOROSE [IPT]",
+        "btih": "bb2fc0af557dddf81f7c3f8a1285b5d2e1914315",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.547899346,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 90,
+        "uuploaders": 51
+    },
+    {
+        "id": 10,
+        "name": "Feud.S01E08.AAC.MP4-Mobile [IPT]",
+        "btih": "a688743a2a39fbbe0c1da18055bacd41cbeb2cfe",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.201605859,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 87,
+        "uuploaders": 46
+    },
+    {
+        "id": 2,
+        "name": "Feud.S01E08.1080p.HEVC.x265-MeGusta [IPT]",
+        "btih": "3f2d29e941de8003999d50e26bc2e22a259d2cb4",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.731457329,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 79,
+        "uuploaders": 29
+    },
+    {
+        "id": 9,
+        "name": "Feud.S01E08.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "8e0cbb17950762dfcc3ced66c9e3e9debd0c873d",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.291831193,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 60,
+        "uuploaders": 36
+    },
+    {
+        "id": 14,
+        "name": "FEUD.S01E08.WEBRip.XviD-FUM [IPT]",
+        "btih": "c40336e8bf9215477487f9eff00c06122b722b5c",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.555384772,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 41,
+        "uuploaders": 20
+    },
+    {
+        "id": 17,
+        "name": "FEUD.S01E08.You.Mean.All.This.Time.We.Could.Have.Been.Friends.1080p.AMZN.WEBRip.DD+5.1.x264 [IPT]",
+        "btih": "323d3394cf9b7f28311e0b49be98030cf4422866",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.98525297,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 39,
+        "uuploaders": 15
+    }
+]
+    ],
+    "collection_week_by_country": [
+        [
+    {
+        "number": "BRA_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 3720,
+        "uuploaders_total": 2010
+    },
+    {
+        "number": "CAN_week_1",
+        "btiha_size": 18,
+        "udownloaders_total": 1615,
+        "uuploaders_total": 766
+    },
+    {
+        "number": "CHN_week_1",
+        "btiha_size": 8,
+        "udownloaders_total": 756,
+        "uuploaders_total": 154
+    },
+    {
+        "number": "DEU_week_1",
+        "btiha_size": 13,
+        "udownloaders_total": 270,
+        "uuploaders_total": 111
+    },
+    {
+        "number": "ESP_week_1",
+        "btiha_size": 10,
+        "udownloaders_total": 1403,
+        "uuploaders_total": 689
+    },
+    {
+        "number": "FRA_week_1",
+        "btiha_size": 18,
+        "udownloaders_total": 709,
+        "uuploaders_total": 428
+    },
+    {
+        "number": "HKG_week_1",
+        "btiha_size": 8,
+        "udownloaders_total": 175,
+        "uuploaders_total": 94
+    },
+    {
+        "number": "JPN_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 169,
+        "uuploaders_total": 79
+    },
+    {
+        "number": "KOR_week_1",
+        "btiha_size": 8,
+        "udownloaders_total": 257,
+        "uuploaders_total": 98
+    },
+    {
+        "number": "MEX_week_1",
+        "btiha_size": 10,
+        "udownloaders_total": 301,
+        "uuploaders_total": 175
+    },
+    {
+        "number": "NLD_week_1",
+        "btiha_size": 18,
+        "udownloaders_total": 2491,
+        "uuploaders_total": 572
+    },
+    {
+        "number": "RUS_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 249,
+        "uuploaders_total": 99
+    },
+    {
+        "number": "SWE_week_1",
+        "btiha_size": 11,
+        "udownloaders_total": 396,
+        "uuploaders_total": 171
+    },
+    {
+        "number": "TUR_week_1",
+        "btiha_size": 8,
+        "udownloaders_total": 208,
+        "uuploaders_total": 132
+    },
+    {
+        "number": "UKR_week_1",
+        "btiha_size": 6,
+        "udownloaders_total": 32,
+        "uuploaders_total": 14
+    },
+    {
+        "number": "USA_week_1",
+        "btiha_size": 18,
+        "udownloaders_total": 4821,
+        "uuploaders_total": 2077
+    }
+],
+        [
+    {
+        "number": "BRA_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 5249,
+        "uuploaders_total": 2856
+    },
+    {
+        "number": "CAN_week_2",
+        "btiha_size": 18,
+        "udownloaders_total": 1862,
+        "uuploaders_total": 891
+    },
+    {
+        "number": "CHN_week_2",
+        "btiha_size": 8,
+        "udownloaders_total": 1162,
+        "uuploaders_total": 215
+    },
+    {
+        "number": "DEU_week_2",
+        "btiha_size": 17,
+        "udownloaders_total": 395,
+        "uuploaders_total": 155
+    },
+    {
+        "number": "ESP_week_2",
+        "btiha_size": 10,
+        "udownloaders_total": 1764,
+        "uuploaders_total": 863
+    },
+    {
+        "number": "FRA_week_2",
+        "btiha_size": 18,
+        "udownloaders_total": 876,
+        "uuploaders_total": 503
+    },
+    {
+        "number": "HKG_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 239,
+        "uuploaders_total": 125
+    },
+    {
+        "number": "JPN_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 265,
+        "uuploaders_total": 120
+    },
+    {
+        "number": "KOR_week_2",
+        "btiha_size": 8,
+        "udownloaders_total": 399,
+        "uuploaders_total": 155
+    },
+    {
+        "number": "MEX_week_2",
+        "btiha_size": 10,
+        "udownloaders_total": 369,
+        "uuploaders_total": 211
+    },
+    {
+        "number": "NLD_week_2",
+        "btiha_size": 18,
+        "udownloaders_total": 3458,
+        "uuploaders_total": 675
+    },
+    {
+        "number": "RUS_week_2",
+        "btiha_size": 11,
+        "udownloaders_total": 377,
+        "uuploaders_total": 132
+    },
+    {
+        "number": "SWE_week_2",
+        "btiha_size": 11,
+        "udownloaders_total": 483,
+        "uuploaders_total": 201
+    },
+    {
+        "number": "TUR_week_2",
+        "btiha_size": 8,
+        "udownloaders_total": 243,
+        "uuploaders_total": 154
+    },
+    {
+        "number": "UKR_week_2",
+        "btiha_size": 7,
+        "udownloaders_total": 44,
+        "uuploaders_total": 17
+    },
+    {
+        "number": "USA_week_2",
+        "btiha_size": 18,
+        "udownloaders_total": 6158,
+        "uuploaders_total": 2574
+    }
+],
+        [
+    {
+        "number": "BRA_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 5558,
+        "uuploaders_total": 3043
+    },
+    {
+        "number": "CAN_week_3",
+        "btiha_size": 18,
+        "udownloaders_total": 1915,
+        "uuploaders_total": 913
+    },
+    {
+        "number": "CHN_week_3",
+        "btiha_size": 8,
+        "udownloaders_total": 1264,
+        "uuploaders_total": 220
+    },
+    {
+        "number": "DEU_week_3",
+        "btiha_size": 17,
+        "udownloaders_total": 444,
+        "uuploaders_total": 172
+    },
+    {
+        "number": "ESP_week_3",
+        "btiha_size": 10,
+        "udownloaders_total": 1872,
+        "uuploaders_total": 915
+    },
+    {
+        "number": "FRA_week_3",
+        "btiha_size": 18,
+        "udownloaders_total": 928,
+        "uuploaders_total": 516
+    },
+    {
+        "number": "HKG_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 254,
+        "uuploaders_total": 129
+    },
+    {
+        "number": "JPN_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 301,
+        "uuploaders_total": 132
+    },
+    {
+        "number": "KOR_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 443,
+        "uuploaders_total": 162
+    },
+    {
+        "number": "MEX_week_3",
+        "btiha_size": 10,
+        "udownloaders_total": 387,
+        "uuploaders_total": 216
+    },
+    {
+        "number": "NLD_week_3",
+        "btiha_size": 18,
+        "udownloaders_total": 3589,
+        "uuploaders_total": 692
+    },
+    {
+        "number": "RUS_week_3",
+        "btiha_size": 11,
+        "udownloaders_total": 441,
+        "uuploaders_total": 155
+    },
+    {
+        "number": "SWE_week_3",
+        "btiha_size": 11,
+        "udownloaders_total": 499,
+        "uuploaders_total": 206
+    },
+    {
+        "number": "TUR_week_3",
+        "btiha_size": 8,
+        "udownloaders_total": 257,
+        "uuploaders_total": 158
+    },
+    {
+        "number": "UKR_week_3",
+        "btiha_size": 7,
+        "udownloaders_total": 59,
+        "uuploaders_total": 19
+    },
+    {
+        "number": "USA_week_3",
+        "btiha_size": 18,
+        "udownloaders_total": 6567,
+        "uuploaders_total": 2713
+    }
+]
+    ]
+}
