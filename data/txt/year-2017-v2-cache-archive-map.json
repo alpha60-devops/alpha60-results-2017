@@ -1,0 +1,3221 @@
+{
+  "assignment_policy": "largest-archive-first-minimum-assigned-bytes",
+  "cache_root": "/mnt/gold/src/alpha60-samples-cache.gold",
+  "counts": {
+    "approved_filename_date_mismatches": 0,
+    "approved_observed_endpoint_mismatches": 0,
+    "checkpoint_records_reused": 0,
+    "day_member_streams_validated": 44,
+    "eligible_archives": 45,
+    "post_release_archive_records": 0,
+    "records": 44,
+    "sample_end_matches": 44,
+    "selected_archive_bytes": 12259020360,
+    "selected_archive_hashes": 44,
+    "sparse_sample_records": 12,
+    "unique_records": 44
+  },
+  "identity_source": {
+    "campaign_contract_records": 44,
+    "campaign_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+    "kind": "canonical-swarm-metadata",
+    "root": "/home/bkoz/src/alpha60-swarm-metadata/metadata"
+  },
+  "inventory": {
+    "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/raw-discovery/year-2017-cohort.txt",
+    "sha256": "ff1c69725cfb7ba0edfd30a3e118106cd8919a8dc5bda733b6e4d48a0793623c"
+  },
+  "overrides": {
+    "count": 0
+  },
+  "owners": {
+    "eureka": {
+      "archive_bytes": 6129441392,
+      "records": 22
+    },
+    "ord": {
+      "archive_bytes": 6129578968,
+      "records": 22
+    }
+  },
+  "records": [
+    {
+      "archive": {
+        "filename": "cache.20170312.tar.xz",
+        "filename_date": "20170312",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/americans-501.cache/cache.20170312.tar.xz",
+        "sha256": "956bf2e5c836860a9a2874f704fe22fc195543aadbf2787b6c4b625323ef174e",
+        "size": 6430628
+      },
+      "collection_key": "americans-501",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 6,
+          "cache_members": 112,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-03-12",
+          "sample_span_days": 6,
+          "sample_start": "2017-03-07",
+          "torrent_indices": 21
+        },
+        "required_collection_key": "americans-501",
+        "required_day_products": 6,
+        "required_sample_days": 6,
+        "required_sample_end": "2017-03-12",
+        "required_sample_start": "2017-03-07",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "5",
+        "collection_name": "The Americans",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 6,
+        "sample_end": "2017-03-12",
+        "sample_start": "2017-03-07",
+        "sha256": "acd9ff5cd77736fb992e6c470d12ebb347a6e1e717a89b5a6b88029f1f17ab89",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/americans-501.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170312.tar.xz",
+            "size": 6430628
+          }
+        ],
+        "expected_filename_date": "20170312"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170622.tar.xz",
+        "filename_date": "20170622",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/americans-513.cache/cache.20170622.tar.xz",
+        "sha256": "9566630c450b1320e36f80620570d99928bf2c07d3e35b59a5d0c87a0cda6db5",
+        "size": 12107096
+      },
+      "collection_key": "americans-513",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 23,
+          "cache_members": 477,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-06-22",
+          "sample_span_days": 23,
+          "sample_start": "2017-05-31",
+          "torrent_indices": 21
+        },
+        "required_collection_key": "americans-513",
+        "required_day_products": 23,
+        "required_sample_days": 23,
+        "required_sample_end": "2017-06-22",
+        "required_sample_start": "2017-05-31",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "5",
+        "collection_name": "The Americans",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 23,
+        "sample_end": "2017-06-22",
+        "sample_start": "2017-05-31",
+        "sha256": "b46d4a99a17bbaf0b24bcb7fcb3a6194652cc8eb610a44580a269f4905932960",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/americans-513.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170622.tar.xz",
+            "size": 12107096
+          }
+        ],
+        "expected_filename_date": "20170622"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20180331.tar.xz",
+        "filename_date": "20180331",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/blade-runner-2049.cache/cache.20180331.tar.xz",
+        "sha256": "3f7469dbeea2775ef1dc9836b1000630e3384f4bbb37b8485862f2c39d702c54",
+        "size": 804594548
+      },
+      "collection_key": "blade-runner-2049",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 89,
+          "cache_members": 3690,
+          "first_observed_day_index": 8,
+          "missing_indices": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            23,
+            24,
+            25,
+            26
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2018-03-31",
+          "sample_span_days": 100,
+          "sample_start": "2017-12-29",
+          "torrent_indices": 47
+        },
+        "required_collection_key": "blade-runner-2049",
+        "required_day_products": 89,
+        "required_sample_days": 100,
+        "required_sample_end": "2018-03-31",
+        "required_sample_start": "2017-12-22",
+        "required_sparse_intervals": [
+          {
+            "days": 7,
+            "first_index": 1,
+            "last_index": 7
+          },
+          {
+            "days": 4,
+            "first_index": 23,
+            "last_index": 26
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Blade Runner 2049",
+        "metadata_version": null,
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 100,
+        "sample_end": "2018-03-31",
+        "sample_start": "2017-12-22",
+        "sha256": "abfba1c5dd6607ed1420e6e7d53dacc1dade7a37f78d402b75d9f09728826846",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/blade-runner-2049.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180331.tar.xz",
+            "size": 804594548
+          }
+        ],
+        "expected_filename_date": "20180331"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20171223.tar.xz",
+        "filename_date": "20171223",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/el-chapo-02.cache/cache.20171223.tar.xz",
+        "sha256": "9ace8b36e36fa2ed7785352576bb149e2536707cdecdbb51b466ce215e99d7a2",
+        "size": 74961920
+      },
+      "collection_key": "el-chapo-02",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 8,
+          "cache_members": 1924,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-12-23",
+          "sample_span_days": 8,
+          "sample_start": "2017-12-16",
+          "torrent_indices": 246
+        },
+        "required_collection_key": "el-chapo-02",
+        "required_day_products": 8,
+        "required_sample_days": 8,
+        "required_sample_end": "2017-12-23",
+        "required_sample_start": "2017-12-16",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "El Chapo",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 8,
+        "sample_end": "2017-12-23",
+        "sample_start": "2017-12-16",
+        "sha256": "edd6c2c04e731497985e3dd633d7ddc899c037f782f43ea51b49ac78aa22c28c",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/el-chapo-02.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20171223.tar.xz",
+            "size": 74961920
+          }
+        ],
+        "expected_filename_date": "20171223"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170219.tar.xz",
+        "filename_date": "20170219",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-201.cache/cache.20170219.tar.xz",
+        "sha256": "4d868508c74ad44b1be8d941853a0d2b2192151e5ce6f38aef886a24c75dbb0f",
+        "size": 11774756
+      },
+      "collection_key": "expanse-201",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 18,
+          "cache_members": 436,
+          "first_observed_day_index": 1,
+          "missing_indices": [
+            3
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2017-02-19",
+          "sample_span_days": 19,
+          "sample_start": "2017-02-01",
+          "torrent_indices": 27
+        },
+        "required_collection_key": "expanse-201",
+        "required_day_products": 18,
+        "required_sample_days": 19,
+        "required_sample_end": "2017-02-19",
+        "required_sample_start": "2017-02-01",
+        "required_sparse_intervals": [
+          {
+            "days": 1,
+            "first_index": 3,
+            "last_index": 3
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "The Expanse",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 19,
+        "sample_end": "2017-02-19",
+        "sample_start": "2017-02-01",
+        "sha256": "52fc7b5883f3e7976b6291d45db5f8760da3b3212683613efdbb8cffbbe6e47a",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/expanse-201.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170219.tar.xz",
+            "size": 11774756
+          }
+        ],
+        "expected_filename_date": "20170219"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170223.tar.xz",
+        "filename_date": "20170223",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-203.cache/cache.20170223.tar.xz",
+        "sha256": "a3b56bb83e2f91dacf4b41bb96f653ec944a245562aea67835c9c9838a093503",
+        "size": 14125216
+      },
+      "collection_key": "expanse-203",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 16,
+          "cache_members": 382,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-02-23",
+          "sample_span_days": 16,
+          "sample_start": "2017-02-08",
+          "torrent_indices": 25
+        },
+        "required_collection_key": "expanse-203",
+        "required_day_products": 16,
+        "required_sample_days": 16,
+        "required_sample_end": "2017-02-23",
+        "required_sample_start": "2017-02-08",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "The Expanse",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 16,
+        "sample_end": "2017-02-23",
+        "sample_start": "2017-02-08",
+        "sha256": "b202e65ab81ab331eaf6790d07c03b6a580e23c8eec8cc7fea9789dd4782cc6d",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/expanse-203.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170223.tar.xz",
+            "size": 14125216
+          }
+        ],
+        "expected_filename_date": "20170223"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170219.tar.xz",
+        "filename_date": "20170219",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-204.cache/cache.20170219.tar.xz",
+        "sha256": "b4c28234663739874e86b8b08723a7151043ba101cca03c7db324b18c969a193",
+        "size": 6119176
+      },
+      "collection_key": "expanse-204",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 4,
+          "cache_members": 71,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-02-19",
+          "sample_span_days": 4,
+          "sample_start": "2017-02-16",
+          "torrent_indices": 19
+        },
+        "required_collection_key": "expanse-204",
+        "required_day_products": 4,
+        "required_sample_days": 4,
+        "required_sample_end": "2017-02-19",
+        "required_sample_start": "2017-02-16",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "The Expanse",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 4,
+        "sample_end": "2017-02-19",
+        "sample_start": "2017-02-16",
+        "sha256": "e4c17906c2aa131823375a98a550008ad04f64260be2b738bb4af8c2236b3614",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/expanse-204.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170219.tar.xz",
+            "size": 6119176
+          }
+        ],
+        "expected_filename_date": "20170219"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170419.tar.xz",
+        "filename_date": "20170419",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-210.cache/cache.20170419.tar.xz",
+        "sha256": "38ebe23b290c2929f077515671a5d45e21359620001526c0e69f59c5e38e2996",
+        "size": 23361000
+      },
+      "collection_key": "expanse-210",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 22,
+          "cache_members": 533,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-04-19",
+          "sample_span_days": 22,
+          "sample_start": "2017-03-29",
+          "torrent_indices": 25
+        },
+        "required_collection_key": "expanse-210",
+        "required_day_products": 22,
+        "required_sample_days": 22,
+        "required_sample_end": "2017-04-19",
+        "required_sample_start": "2017-03-29",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "The Expanse",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 22,
+        "sample_end": "2017-04-19",
+        "sample_start": "2017-03-29",
+        "sha256": "b8a3235a563fd4123b1cd9b7363412369dfe9484d0e309d679f539894ae42428",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/expanse-210.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170419.tar.xz",
+            "size": 23361000
+          }
+        ],
+        "expected_filename_date": "20170419"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170511.tar.xz",
+        "filename_date": "20170511",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-213.cache/cache.20170511.tar.xz",
+        "sha256": "f45a3ee800e230c6c6d86e07640a93660b9983b586e6118cfa31fc49150282a1",
+        "size": 21153624
+      },
+      "collection_key": "expanse-213",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 23,
+          "cache_members": 697,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-05-11",
+          "sample_span_days": 23,
+          "sample_start": "2017-04-19",
+          "torrent_indices": 32
+        },
+        "required_collection_key": "expanse-213",
+        "required_day_products": 23,
+        "required_sample_days": 23,
+        "required_sample_end": "2017-05-11",
+        "required_sample_start": "2017-04-19",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "The Expanse",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 23,
+        "sample_end": "2017-05-11",
+        "sample_start": "2017-04-19",
+        "sha256": "5bd9ca9f6f3a2a4616c8286dc83263ba5d263c669c3cc83c28ae469fed306798",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/expanse-213.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170511.tar.xz",
+            "size": 21153624
+          }
+        ],
+        "expected_filename_date": "20170511"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170312.tar.xz",
+        "filename_date": "20170312",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/feud-101.cache/cache.20170312.tar.xz",
+        "sha256": "3f404dfee1215ee7bb483a70bdeff831152710dd3bde124f5b774c2ddc95cf4a",
+        "size": 2446100
+      },
+      "collection_key": "feud-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 6,
+          "cache_members": 167,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-03-12",
+          "sample_span_days": 6,
+          "sample_start": "2017-03-07",
+          "torrent_indices": 28
+        },
+        "required_collection_key": "feud-101",
+        "required_day_products": 6,
+        "required_sample_days": 6,
+        "required_sample_end": "2017-03-12",
+        "required_sample_start": "2017-03-07",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Feud",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 6,
+        "sample_end": "2017-03-12",
+        "sample_start": "2017-03-07",
+        "sha256": "d457de40166fa4363529b83118319059e65219d762229314f5459fc904555866",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/feud-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170312.tar.xz",
+            "size": 2446100
+          }
+        ],
+        "expected_filename_date": "20170312"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170328.tar.xz",
+        "filename_date": "20170328",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/feud-102.cache/cache.20170328.tar.xz",
+        "sha256": "639ca54973a3eaad870f2571a8a1fe58c1b5441292253cd4a25eda0bc419f626",
+        "size": 2011084
+      },
+      "collection_key": "feud-102",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 17,
+          "cache_members": 150,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-03-28",
+          "sample_span_days": 17,
+          "sample_start": "2017-03-12",
+          "torrent_indices": 9
+        },
+        "required_collection_key": "feud-102",
+        "required_day_products": 17,
+        "required_sample_days": 17,
+        "required_sample_end": "2017-03-28",
+        "required_sample_start": "2017-03-12",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Feud",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 17,
+        "sample_end": "2017-03-28",
+        "sample_start": "2017-03-12",
+        "sha256": "9dbf62d5b2a5abd91ad666ff47831acd1eedb9877744a1ea488be3c949e00e03",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/feud-102.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170328.tar.xz",
+            "size": 2011084
+          }
+        ],
+        "expected_filename_date": "20170328"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170510.tar.xz",
+        "filename_date": "20170510",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/feud-108.cache/cache.20170510.tar.xz",
+        "sha256": "926e867c17e536a2147e7bbbb071e519312b714a32bead8bfa2af0f2582be4c2",
+        "size": 2386792
+      },
+      "collection_key": "feud-108",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 17,
+          "cache_members": 299,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-05-10",
+          "sample_span_days": 17,
+          "sample_start": "2017-04-24",
+          "torrent_indices": 18
+        },
+        "required_collection_key": "feud-108",
+        "required_day_products": 17,
+        "required_sample_days": 17,
+        "required_sample_end": "2017-05-10",
+        "required_sample_start": "2017-04-24",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Feud",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 17,
+        "sample_end": "2017-05-10",
+        "sample_start": "2017-04-24",
+        "sha256": "a44cb0d48070096ced0a6de36424de003aa643eeb87b11d501b2224ee1fee5bf",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/feud-108.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170510.tar.xz",
+            "size": 2386792
+          }
+        ],
+        "expected_filename_date": "20170510"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170901.tar.xz",
+        "filename_date": "20170901",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-701.cache/cache.20170901.tar.xz",
+        "sha256": "eaae07a5a08a4c5ae76a067ed597c96b002b1b57affd2e7d81f5d32aa9d4b573",
+        "size": 340738560
+      },
+      "collection_key": "game-of-thrones-701",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 34,
+          "cache_members": 2575,
+          "first_observed_day_index": 1,
+          "missing_indices": [
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            42,
+            43,
+            44,
+            45,
+            46
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2017-09-01",
+          "sample_span_days": 48,
+          "sample_start": "2017-07-16",
+          "torrent_indices": 82
+        },
+        "required_collection_key": "game-of-thrones-701",
+        "required_day_products": 34,
+        "required_sample_days": 48,
+        "required_sample_end": "2017-09-01",
+        "required_sample_start": "2017-07-16",
+        "required_sparse_intervals": [
+          {
+            "days": 9,
+            "first_index": 30,
+            "last_index": 38
+          },
+          {
+            "days": 5,
+            "first_index": 42,
+            "last_index": 46
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "7",
+        "collection_name": "Game of Thrones",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 48,
+        "sample_end": "2017-09-01",
+        "sample_start": "2017-07-16",
+        "sha256": "f22dd3ca4e901baed4330c87f70b8a5f2dfc4860ff78a1caa36adf9bdec20791",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/game-of-thrones-701.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170901.tar.xz",
+            "size": 340738560
+          }
+        ],
+        "expected_filename_date": "20170901"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170825.tar.xz",
+        "filename_date": "20170825",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-702.cache/cache.20170825.tar.xz",
+        "sha256": "7612a7a43ba3dccb835ef0f24716dd7800d2e17f4c7634f9bdc2715e4be5f83e",
+        "size": 312818596
+      },
+      "collection_key": "game-of-thrones-702",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 25,
+          "cache_members": 1569,
+          "first_observed_day_index": 1,
+          "missing_indices": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2017-08-25",
+          "sample_span_days": 34,
+          "sample_start": "2017-07-23",
+          "torrent_indices": 71
+        },
+        "required_collection_key": "game-of-thrones-702",
+        "required_day_products": 25,
+        "required_sample_days": 34,
+        "required_sample_end": "2017-08-25",
+        "required_sample_start": "2017-07-23",
+        "required_sparse_intervals": [
+          {
+            "days": 9,
+            "first_index": 23,
+            "last_index": 31
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "7",
+        "collection_name": "Game of Thrones",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 34,
+        "sample_end": "2017-08-25",
+        "sample_start": "2017-07-23",
+        "sha256": "799ec73ded435fd8a462ef47d10e54a1ded8dbe80ead8ee2ca6f1665de3b771f",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/game-of-thrones-702.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170825.tar.xz",
+            "size": 312818596
+          }
+        ],
+        "expected_filename_date": "20170825"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170901.tar.xz",
+        "filename_date": "20170901",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-703.cache/cache.20170901.tar.xz",
+        "sha256": "f5b2b05a222a762cc3249988d470bf96fb73a054a40466c7c639f0d45614ba09",
+        "size": 234890528
+      },
+      "collection_key": "game-of-thrones-703",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 19,
+          "cache_members": 1319,
+          "first_observed_day_index": 1,
+          "missing_indices": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2017-09-01",
+          "sample_span_days": 34,
+          "sample_start": "2017-07-30",
+          "torrent_indices": 73
+        },
+        "required_collection_key": "game-of-thrones-703",
+        "required_day_products": 19,
+        "required_sample_days": 34,
+        "required_sample_end": "2017-09-01",
+        "required_sample_start": "2017-07-30",
+        "required_sparse_intervals": [
+          {
+            "days": 9,
+            "first_index": 16,
+            "last_index": 24
+          },
+          {
+            "days": 6,
+            "first_index": 28,
+            "last_index": 33
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "7",
+        "collection_name": "Game of Thrones",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 34,
+        "sample_end": "2017-09-01",
+        "sample_start": "2017-07-30",
+        "sha256": "df5fe2d5afa27afd4780107e90c2d0c1165fa7a9bde459fb9762d4ac56589692",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/game-of-thrones-703.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170901.tar.xz",
+            "size": 234890528
+          }
+        ],
+        "expected_filename_date": "20170901"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170903.tar.xz",
+        "filename_date": "20170903",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-705.cache/cache.20170903.tar.xz",
+        "sha256": "9a1a26a59a42a2dec6a0dfdd037625a022a6993798342eee1c08d39fe9828dda",
+        "size": 569249512
+      },
+      "collection_key": "game-of-thrones-705",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 22,
+          "cache_members": 2110,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-09-03",
+          "sample_span_days": 22,
+          "sample_start": "2017-08-13",
+          "torrent_indices": 101
+        },
+        "required_collection_key": "game-of-thrones-705",
+        "required_day_products": 22,
+        "required_sample_days": 22,
+        "required_sample_end": "2017-09-03",
+        "required_sample_start": "2017-08-13",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "7",
+        "collection_name": "Game of Thrones",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 22,
+        "sample_end": "2017-09-03",
+        "sample_start": "2017-08-13",
+        "sha256": "53455bb7004ba9380e35f9cf5ebefca5e1d58e51d3cc0d4899a902fcf461c8b0",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/game-of-thrones-705.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170903.tar.xz",
+            "size": 569249512
+          }
+        ],
+        "expected_filename_date": "20170903"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170924.tar.xz",
+        "filename_date": "20170924",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-706.cache/cache.20170924.tar.xz",
+        "sha256": "dc8f489e64097b1643b814bf7a78a8ffa8798926c83beb2b7c3eccfe4b826e1d",
+        "size": 1298902516
+      },
+      "collection_key": "game-of-thrones-706",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 35,
+          "cache_members": 4405,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-09-24",
+          "sample_span_days": 35,
+          "sample_start": "2017-08-21",
+          "torrent_indices": 127
+        },
+        "required_collection_key": "game-of-thrones-706",
+        "required_day_products": 35,
+        "required_sample_days": 35,
+        "required_sample_end": "2017-09-24",
+        "required_sample_start": "2017-08-21",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "706",
+        "collection_name": "Game of Thrones",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 35,
+        "sample_end": "2017-09-24",
+        "sample_start": "2017-08-21",
+        "sha256": "ee100b2099938bd60bdaaa7021d007859aaa844cfcc7bcab5b62ebd0c43b8a71",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/game-of-thrones-706.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170924.tar.xz",
+            "size": 1298902516
+          }
+        ],
+        "expected_filename_date": "20170924"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20171130.tar.xz",
+        "filename_date": "20171130",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-707.cache/cache.20171130.tar.xz",
+        "sha256": "bb104ab0a0107f23ac6d17b3725e14334f6ee1a4ff80f9fc40ee61e4a4424ae0",
+        "size": 1782656356
+      },
+      "collection_key": "game-of-thrones-707",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 95,
+          "cache_members": 13913,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-11-30",
+          "sample_span_days": 95,
+          "sample_start": "2017-08-28",
+          "torrent_indices": 148
+        },
+        "required_collection_key": "game-of-thrones-707",
+        "required_day_products": 95,
+        "required_sample_days": 95,
+        "required_sample_end": "2017-11-30",
+        "required_sample_start": "2017-08-28",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "707",
+        "collection_name": "Game of Thrones",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 95,
+        "sample_end": "2017-11-30",
+        "sample_start": "2017-08-28",
+        "sha256": "f01102f88cc5139d2ee43c152d888052f1df6a5d54f5879fa287b8836f3f14a9",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/game-of-thrones-707.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20171130.tar.xz",
+            "size": 1782656356
+          }
+        ],
+        "expected_filename_date": "20171130"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170312.tar.xz",
+        "filename_date": "20170312",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-101.cache/cache.20170312.tar.xz",
+        "sha256": "376f9ecfcd9ee9c7da4512cd0166abf3d977c90392c9f0f5296cb80bc7e83e57",
+        "size": 14405548
+      },
+      "collection_key": "good-fight-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 21,
+          "cache_members": 582,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-03-12",
+          "sample_span_days": 21,
+          "sample_start": "2017-02-20",
+          "torrent_indices": 28
+        },
+        "required_collection_key": "good-fight-101",
+        "required_day_products": 21,
+        "required_sample_days": 21,
+        "required_sample_end": "2017-03-12",
+        "required_sample_start": "2017-02-20",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "The Good Fight",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 21,
+        "sample_end": "2017-03-12",
+        "sample_start": "2017-02-20",
+        "sha256": "34c5898744f75f1cd3437b563be7f47291e342fdab29fdcee71298348de2d6a3",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/good-fight-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170312.tar.xz",
+            "size": 14405548
+          }
+        ],
+        "expected_filename_date": "20170312"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170326.tar.xz",
+        "filename_date": "20170326",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-105.cache/cache.20170326.tar.xz",
+        "sha256": "119b0bfcb497bc67ea2acf660d50c050e7658dcf3cc606cf1bb4070093097f35",
+        "size": 9201308
+      },
+      "collection_key": "good-fight-105",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 15,
+          "cache_members": 177,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-03-26",
+          "sample_span_days": 15,
+          "sample_start": "2017-03-12",
+          "torrent_indices": 12
+        },
+        "required_collection_key": "good-fight-105",
+        "required_day_products": 15,
+        "required_sample_days": 15,
+        "required_sample_end": "2017-03-26",
+        "required_sample_start": "2017-03-12",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "The Good Fight",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 15,
+        "sample_end": "2017-03-26",
+        "sample_start": "2017-03-12",
+        "sha256": "3ee5c939d4d00408fc07174f4c979c2c56a9a90d8cf71f8708276d4118261967",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/good-fight-105.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170326.tar.xz",
+            "size": 9201308
+          }
+        ],
+        "expected_filename_date": "20170326"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170408.tar.xz",
+        "filename_date": "20170408",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-108.cache/cache.20170408.tar.xz",
+        "sha256": "7ef27a70e96b7cdfcdeb85bd976ee5c9f7e455094effd3b7dfc5cfa497f0f04a",
+        "size": 4009248
+      },
+      "collection_key": "good-fight-108",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 7,
+          "cache_members": 87,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-04-08",
+          "sample_span_days": 7,
+          "sample_start": "2017-04-02",
+          "torrent_indices": 13
+        },
+        "required_collection_key": "good-fight-108",
+        "required_day_products": 7,
+        "required_sample_days": 7,
+        "required_sample_end": "2017-04-08",
+        "required_sample_start": "2017-04-02",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "The Good Fight",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 7,
+        "sample_end": "2017-04-08",
+        "sample_start": "2017-04-02",
+        "sha256": "9f29f12c972d293fcf0dc810d30cf03889a0310f8f3579e3ec910da1c246d9d4",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/good-fight-108.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170408.tar.xz",
+            "size": 4009248
+          }
+        ],
+        "expected_filename_date": "20170408"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170505.tar.xz",
+        "filename_date": "20170505",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-110.cache/cache.20170505.tar.xz",
+        "sha256": "f0f02ccb72499a6e03e6520c54f39f6f59e8ffb8c3ae3950090a60e8f4157a14",
+        "size": 7087172
+      },
+      "collection_key": "good-fight-110",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 19,
+          "cache_members": 341,
+          "first_observed_day_index": 1,
+          "missing_indices": [
+            15
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2017-05-05",
+          "sample_span_days": 20,
+          "sample_start": "2017-04-16",
+          "torrent_indices": 20
+        },
+        "required_collection_key": "good-fight-110",
+        "required_day_products": 19,
+        "required_sample_days": 20,
+        "required_sample_end": "2017-05-05",
+        "required_sample_start": "2017-04-16",
+        "required_sparse_intervals": [
+          {
+            "days": 1,
+            "first_index": 15,
+            "last_index": 15
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "The Good Fight",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 20,
+        "sample_end": "2017-05-05",
+        "sample_start": "2017-04-16",
+        "sha256": "f1c9f8292e00afa7a7b2eed919c13226b4eaf643df080690c44c5fdc92a5596c",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/good-fight-110.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170505.tar.xz",
+            "size": 7087172
+          }
+        ],
+        "expected_filename_date": "20170505"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170517.tar.xz",
+        "filename_date": "20170517",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/handmaids-tale-101.cache/cache.20170517.tar.xz",
+        "sha256": "42951970a253fd01300d13dfc5dfde6229ecc0257b3352436a4d0cc06388a383",
+        "size": 30695344
+      },
+      "collection_key": "handmaids-tale-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 22,
+          "cache_members": 938,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-05-17",
+          "sample_span_days": 22,
+          "sample_start": "2017-04-26",
+          "torrent_indices": 45
+        },
+        "required_collection_key": "handmaids-tale-101",
+        "required_day_products": 22,
+        "required_sample_days": 22,
+        "required_sample_end": "2017-05-17",
+        "required_sample_start": "2017-04-26",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "The Handmaid's Tale",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 22,
+        "sample_end": "2017-05-17",
+        "sample_start": "2017-04-26",
+        "sha256": "318d8e0803a62b5b934bb31e50c0aa12068527d5dd68c6c8f62b46160fbdd128",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/handmaids-tale-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170517.tar.xz",
+            "size": 30695344
+          }
+        ],
+        "expected_filename_date": "20170517"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170530.tar.xz",
+        "filename_date": "20170530",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/handmaids-tale-105.cache/cache.20170530.tar.xz",
+        "sha256": "a2974335539739f98a5b0b7b3b92344fdfb88442a9ffb696fd927e912560b95f",
+        "size": 8846348
+      },
+      "collection_key": "handmaids-tale-105",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 21,
+          "cache_members": 450,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-05-30",
+          "sample_span_days": 21,
+          "sample_start": "2017-05-10",
+          "torrent_indices": 22
+        },
+        "required_collection_key": "handmaids-tale-105",
+        "required_day_products": 21,
+        "required_sample_days": 21,
+        "required_sample_end": "2017-05-30",
+        "required_sample_start": "2017-05-10",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "The Handmaid's Tale",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 21,
+        "sample_end": "2017-05-30",
+        "sample_start": "2017-05-10",
+        "sha256": "1627abe81c6efa6084447cc7ef3cfd875375fb2c5075275fb7208791cd87a960",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/handmaids-tale-105.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170530.tar.xz",
+            "size": 8846348
+          }
+        ],
+        "expected_filename_date": "20170530"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170827.tar.xz",
+        "filename_date": "20170827",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/house-of-cards-05.cache/cache.20170827.tar.xz",
+        "sha256": "20c9c38c97cc511d826bb783984d839584e8f0e53a2f70691fe13e4c82a6eb89",
+        "size": 110209140
+      },
+      "collection_key": "house-of-cards-05",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 16,
+          "cache_members": 2729,
+          "first_observed_day_index": 1,
+          "missing_indices": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2017-08-27",
+          "sample_span_days": 90,
+          "sample_start": "2017-05-30",
+          "torrent_indices": 177
+        },
+        "required_collection_key": "house-of-cards-05",
+        "required_day_products": 16,
+        "required_sample_days": 90,
+        "required_sample_end": "2017-08-27",
+        "required_sample_start": "2017-05-30",
+        "required_sparse_intervals": [
+          {
+            "days": 74,
+            "first_index": 14,
+            "last_index": 87
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "5",
+        "collection_name": "House of Cards",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 90,
+        "sample_end": "2017-08-27",
+        "sample_start": "2017-05-30",
+        "sha256": "19a7200e81a57b053d21e67f4c6e4e0526af59ece64ba483588c2183c0b9306d",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/house-of-cards-05.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170827.tar.xz",
+            "size": 110209140
+          }
+        ],
+        "expected_filename_date": "20170827"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170603.tar.xz",
+        "filename_date": "20170603",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/i-love-dick.cache/cache.20170603.tar.xz",
+        "sha256": "a933d6aac6b6f5e380fe017fa258da7078b4dde63c638213796b0a83cb889aee",
+        "size": 3615580
+      },
+      "collection_key": "i-love-dick",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 22,
+          "cache_members": 1188,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-06-03",
+          "sample_span_days": 22,
+          "sample_start": "2017-05-13",
+          "torrent_indices": 54
+        },
+        "required_collection_key": "i-love-dick",
+        "required_day_products": 22,
+        "required_sample_days": 22,
+        "required_sample_end": "2017-06-03",
+        "required_sample_start": "2017-05-13",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "I Love Dick",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 22,
+        "sample_end": "2017-06-03",
+        "sample_start": "2017-05-13",
+        "sha256": "5501fe420775bca8416f65433ca941c9219a9832beb646f25501f9ae04bbb122",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/i-love-dick.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170603.tar.xz",
+            "size": 3615580
+          }
+        ],
+        "expected_filename_date": "20170603"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170423.tar.xz",
+        "filename_date": "20170423",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/into-the-badlands-203.cache/cache.20170423.tar.xz",
+        "sha256": "65c093823f6624aebc9ebaeab3048a030388a5464f52464faa0eb83bf6b72173",
+        "size": 19950092
+      },
+      "collection_key": "into-the-badlands-203",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 21,
+          "cache_members": 525,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-04-23",
+          "sample_span_days": 21,
+          "sample_start": "2017-04-03",
+          "torrent_indices": 25
+        },
+        "required_collection_key": "into-the-badlands-203",
+        "required_day_products": 21,
+        "required_sample_days": 21,
+        "required_sample_end": "2017-04-23",
+        "required_sample_start": "2017-04-03",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Into the Badlands",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 21,
+        "sample_end": "2017-04-23",
+        "sample_start": "2017-04-03",
+        "sha256": "c1475e073fc3f01350a032818dcfc8a216227f3e6c5c009dbee72e1e72ad473a",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/into-the-badlands-203.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170423.tar.xz",
+            "size": 19950092
+          }
+        ],
+        "expected_filename_date": "20170423"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20171001.tar.xz",
+        "filename_date": "20171001",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/narcos-03.cache/cache.20171001.tar.xz",
+        "sha256": "d8044dbcf0a613d2c9a830eb647e59a48487857d30514190145a382eab606ed6",
+        "size": 622836080
+      },
+      "collection_key": "narcos-03",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 28,
+          "cache_members": 5605,
+          "first_observed_day_index": 1,
+          "missing_indices": [
+            20,
+            21,
+            22
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2017-10-01",
+          "sample_span_days": 31,
+          "sample_start": "2017-09-01",
+          "torrent_indices": 204
+        },
+        "required_collection_key": "narcos-03",
+        "required_day_products": 28,
+        "required_sample_days": 31,
+        "required_sample_end": "2017-10-01",
+        "required_sample_start": "2017-09-01",
+        "required_sparse_intervals": [
+          {
+            "days": 3,
+            "first_index": 20,
+            "last_index": 22
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "3",
+        "collection_name": "Narcos",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 31,
+        "sample_end": "2017-10-01",
+        "sample_start": "2017-09-01",
+        "sha256": "20c41ea306e5b7088f92d1b61d34f6dda42de3e11eae3d8acf4d7b6460cf598c",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/narcos-03.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20171001.tar.xz",
+            "size": 622836080
+          }
+        ],
+        "expected_filename_date": "20171001"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20180331.tar.xz",
+        "filename_date": "20180331",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/screeners.cache/cache.20180331.tar.xz",
+        "sha256": "d1d53e5959d3e15e625e499088115b6c5643481bb6409f899085896e2d0ceaad",
+        "size": 1496732992
+      },
+      "collection_key": "screeners",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 96,
+          "cache_members": 9909,
+          "first_observed_day_index": 1,
+          "missing_indices": [
+            23,
+            24,
+            25,
+            26
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2018-03-31",
+          "sample_span_days": 100,
+          "sample_start": "2017-12-22",
+          "torrent_indices": 147
+        },
+        "required_collection_key": "screeners",
+        "required_day_products": 96,
+        "required_sample_days": 100,
+        "required_sample_end": "2018-03-31",
+        "required_sample_start": "2017-12-22",
+        "required_sparse_intervals": [
+          {
+            "days": 4,
+            "first_index": 23,
+            "last_index": 26
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Screeners 2017-2018",
+        "metadata_version": null,
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 100,
+        "sample_end": "2018-03-31",
+        "sample_start": "2017-12-22",
+        "sha256": "a414a7de1aed7b20883d7733a387232640ba3a64bc0531bb45150a1e09d0ee6b",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/screeners.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180331.tar.xz",
+            "size": 1496732992
+          }
+        ],
+        "expected_filename_date": "20180331"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170827.tar.xz",
+        "filename_date": "20170827",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/sense8-02.1.cache/cache.20170827.tar.xz",
+        "sha256": "618ebf3f12134a30480e3808798164855842d894773db85d50e9002ae8b9f2f8",
+        "size": 118529372
+      },
+      "collection_key": "sense8-02.1",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 37,
+          "cache_members": 4280,
+          "first_observed_day_index": 1,
+          "missing_indices": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2017-08-27",
+          "sample_span_days": 115,
+          "sample_start": "2017-05-05",
+          "torrent_indices": 118
+        },
+        "required_collection_key": "sense8-02.1",
+        "required_day_products": 37,
+        "required_sample_days": 115,
+        "required_sample_end": "2017-08-27",
+        "required_sample_start": "2017-05-05",
+        "required_sparse_intervals": [
+          {
+            "days": 78,
+            "first_index": 35,
+            "last_index": 112
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Sense8",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 115,
+        "sample_end": "2017-08-27",
+        "sample_start": "2017-05-05",
+        "sha256": "20acd5afd3eb87971394dbbcdfe69ef389dab36bb457d2d98f5ac8ff211e7569",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/sense8-02.1.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170827.tar.xz",
+            "size": 118529372
+          }
+        ],
+        "expected_filename_date": "20170827"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20171021.tar.xz",
+        "filename_date": "20171021",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-101.cache/cache.20171021.tar.xz",
+        "sha256": "ea14b7c65803115f63b890a7086e98e0dbde95cc29c9862c9b7fdd1961345fb0",
+        "size": 360604036
+      },
+      "collection_key": "star-trek-discovery-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 27,
+          "cache_members": 3972,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-10-21",
+          "sample_span_days": 27,
+          "sample_start": "2017-09-25",
+          "torrent_indices": 150
+        },
+        "required_collection_key": "star-trek-discovery-101",
+        "required_day_products": 27,
+        "required_sample_days": 27,
+        "required_sample_end": "2017-10-21",
+        "required_sample_start": "2017-09-25",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "101",
+        "collection_name": "Star Trek Discovery",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 27,
+        "sample_end": "2017-10-21",
+        "sample_start": "2017-09-25",
+        "sha256": "1c33dfec09d05e01dbfa3069eddbcef8f8396f42bfe5c1817d2a89093bd79be1",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/star-trek-discovery-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20171021.tar.xz",
+            "size": 360604036
+          }
+        ],
+        "expected_filename_date": "20171021"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20171027.tar.xz",
+        "filename_date": "20171027",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-104.cache/cache.20171027.tar.xz",
+        "sha256": "f306a6d468e1372bab3985f20337e26dff06cc76a804fb523cf9449192724544",
+        "size": 162134812
+      },
+      "collection_key": "star-trek-discovery-104",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 19,
+          "cache_members": 1635,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-10-27",
+          "sample_span_days": 19,
+          "sample_start": "2017-10-09",
+          "torrent_indices": 93
+        },
+        "required_collection_key": "star-trek-discovery-104",
+        "required_day_products": 19,
+        "required_sample_days": 19,
+        "required_sample_end": "2017-10-27",
+        "required_sample_start": "2017-10-09",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Star Trek: Discovery",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 19,
+        "sample_end": "2017-10-27",
+        "sample_start": "2017-10-09",
+        "sha256": "84b5f5477789ee76ef844c544da17406c3421677286a1de3e797095ae924d578",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/star-trek-discovery-104.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20171025.tar.xz",
+            "size": 403089788
+          },
+          {
+            "filename": "cache.20171027.tar.xz",
+            "size": 162134812
+          }
+        ],
+        "expected_filename_date": "20171027"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20171211.tar.xz",
+        "filename_date": "20171211",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-109.cache/cache.20171211.tar.xz",
+        "sha256": "765bf429b71c915fd31c466554ee9d6b314a6b6176e0bf72ffbfa8d1eaa45bca",
+        "size": 294225944
+      },
+      "collection_key": "star-trek-discovery-109",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 29,
+          "cache_members": 2790,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-12-11",
+          "sample_span_days": 29,
+          "sample_start": "2017-11-13",
+          "torrent_indices": 100
+        },
+        "required_collection_key": "star-trek-discovery-109",
+        "required_day_products": 29,
+        "required_sample_days": 29,
+        "required_sample_end": "2017-12-11",
+        "required_sample_start": "2017-11-13",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Star Trek: Discovery",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 29,
+        "sample_end": "2017-12-11",
+        "sample_start": "2017-11-13",
+        "sha256": "a76ff6a5e15d96053bc14ff223e748c0ff3c503e2b8a1a5a185794c44c32e073",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/star-trek-discovery-109.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20171211.tar.xz",
+            "size": 294225944
+          }
+        ],
+        "expected_filename_date": "20171211"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20180331.tar.xz",
+        "filename_date": "20180331",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-wars-last-jedi.cache/cache.20180331.tar.xz",
+        "sha256": "1b03d588390a02f0f1db356d0ad867d65af9b19e5919614591ee300bb1ab775d",
+        "size": 568316392
+      },
+      "collection_key": "star-wars-last-jedi",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 89,
+          "cache_members": 2637,
+          "first_observed_day_index": 8,
+          "missing_indices": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            23,
+            24,
+            25,
+            26
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2018-03-31",
+          "sample_span_days": 100,
+          "sample_start": "2017-12-29",
+          "torrent_indices": 82
+        },
+        "required_collection_key": "star-wars-last-jedi",
+        "required_day_products": 89,
+        "required_sample_days": 100,
+        "required_sample_end": "2018-03-31",
+        "required_sample_start": "2017-12-22",
+        "required_sparse_intervals": [
+          {
+            "days": 7,
+            "first_index": 1,
+            "last_index": 7
+          },
+          {
+            "days": 4,
+            "first_index": 23,
+            "last_index": 26
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Star Wars The Last Jedi",
+        "metadata_version": null,
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 100,
+        "sample_end": "2018-03-31",
+        "sample_start": "2017-12-22",
+        "sha256": "3a15ccc3bb635d4a0abdd08a5bf8e91aa824c7942a68db09b3a0cbb4403de820",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/star-wars-last-jedi.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180331.tar.xz",
+            "size": 568316392
+          }
+        ],
+        "expected_filename_date": "20180331"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20180331.tar.xz",
+        "filename_date": "20180331",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/stormy-daniels-2017.cache/cache.20180331.tar.xz",
+        "sha256": "550f2632febd91fa42f13b5c0cc24fe16692013a984bfca2856766a119b4a6f2",
+        "size": 22682284
+      },
+      "collection_key": "stormy-daniels-2017",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 71,
+          "cache_members": 1890,
+          "first_observed_day_index": 30,
+          "missing_indices": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2018-03-31",
+          "sample_span_days": 100,
+          "sample_start": "2018-01-20",
+          "torrent_indices": 50
+        },
+        "required_collection_key": "stormy-daniels-2017",
+        "required_day_products": 71,
+        "required_sample_days": 100,
+        "required_sample_end": "2018-03-31",
+        "required_sample_start": "2017-12-22",
+        "required_sparse_intervals": [
+          {
+            "days": 29,
+            "first_index": 1,
+            "last_index": 29
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Stormy Daniels",
+        "metadata_version": null,
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 100,
+        "sample_end": "2018-03-31",
+        "sample_start": "2017-12-22",
+        "sha256": "364148449c8ff266b6e404fb77523a7af7f632510cbf740b8dcf7219539492b8",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/stormy-daniels-2017.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180331.tar.xz",
+            "size": 22682284
+          }
+        ],
+        "expected_filename_date": "20180331"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20171231.tar.xz",
+        "filename_date": "20171231",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/stranger-things-02.cache/cache.20171231.tar.xz",
+        "sha256": "f3d50f54f313ec6fc5360e0b785a35582fb817335f6bf3017bb4599c9038132d",
+        "size": 1542871924
+      },
+      "collection_key": "stranger-things-02",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 66,
+          "cache_members": 17962,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-12-31",
+          "sample_span_days": 66,
+          "sample_start": "2017-10-27",
+          "torrent_indices": 274
+        },
+        "required_collection_key": "stranger-things-02",
+        "required_day_products": 66,
+        "required_sample_days": 66,
+        "required_sample_end": "2017-12-31",
+        "required_sample_start": "2017-10-27",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Stranger Things",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 66,
+        "sample_end": "2017-12-31",
+        "sample_start": "2017-10-27",
+        "sha256": "e0bbc135cd13a89f0f1b544c2e7aec1f06dcb602a778e421c408aa667d469da6",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/stranger-things-02.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20171231.tar.xz",
+            "size": 1542871924
+          }
+        ],
+        "expected_filename_date": "20171231"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170730.tar.xz",
+        "filename_date": "20170730",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/twin-peaks-310.cache/cache.20170730.tar.xz",
+        "sha256": "1207b2e031392557adeeda42aabb1322234f5a1eb0bcdb274bbcebcbc9d926d9",
+        "size": 10480068
+      },
+      "collection_key": "twin-peaks-310",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 15,
+          "cache_members": 424,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-07-30",
+          "sample_span_days": 15,
+          "sample_start": "2017-07-16",
+          "torrent_indices": 29
+        },
+        "required_collection_key": "twin-peaks-310",
+        "required_day_products": 15,
+        "required_sample_days": 15,
+        "required_sample_end": "2017-07-30",
+        "required_sample_start": "2017-07-16",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "3",
+        "collection_name": "Twin Peaks",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 15,
+        "sample_end": "2017-07-30",
+        "sample_start": "2017-07-16",
+        "sha256": "5ba6f544cded3ee98e1087a1c5d86745eca32a2670d140f6db229b0502137f4b",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/twin-peaks-310.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170730.tar.xz",
+            "size": 10480068
+          }
+        ],
+        "expected_filename_date": "20170730"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170918.tar.xz",
+        "filename_date": "20170918",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/twin-peaks-317.cache/cache.20170918.tar.xz",
+        "sha256": "886dba2bcd4dfc5520b1c84274234a96a197c4945ec9f68fcaecee1a237662ec",
+        "size": 32757812
+      },
+      "collection_key": "twin-peaks-317",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 16,
+          "cache_members": 1266,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-09-18",
+          "sample_span_days": 16,
+          "sample_start": "2017-09-03",
+          "torrent_indices": 89
+        },
+        "required_collection_key": "twin-peaks-317",
+        "required_day_products": 16,
+        "required_sample_days": 16,
+        "required_sample_end": "2017-09-18",
+        "required_sample_start": "2017-09-03",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "3",
+        "collection_name": "Twin Peaks",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 16,
+        "sample_end": "2017-09-18",
+        "sample_start": "2017-09-03",
+        "sha256": "f658c7f2a5440b0c0e6a5979492be733d2308e516dae8739ec6a8d3c2b58bfda",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/twin-peaks-317.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170918.tar.xz",
+            "size": 32757812
+          }
+        ],
+        "expected_filename_date": "20170918"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170312.tar.xz",
+        "filename_date": "20170312",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-709.cache/cache.20170312.tar.xz",
+        "sha256": "5a86779c337b30e4c92290dc5356e6fa5f388b37efcc7de37ec0cdeeae7cc44a",
+        "size": 100038512
+      },
+      "collection_key": "walking-dead-709",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 29,
+          "cache_members": 825,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-03-12",
+          "sample_span_days": 29,
+          "sample_start": "2017-02-12",
+          "torrent_indices": 29
+        },
+        "required_collection_key": "walking-dead-709",
+        "required_day_products": 29,
+        "required_sample_days": 29,
+        "required_sample_end": "2017-03-12",
+        "required_sample_start": "2017-02-12",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "7",
+        "collection_name": "The Walking Dead",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 29,
+        "sample_end": "2017-03-12",
+        "sample_start": "2017-02-12",
+        "sha256": "e1ad2fc657ca615eeb1597b23a828afaf7718e08ee741a0f79cc183d618fcd88",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/walking-dead-709.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170312.tar.xz",
+            "size": 100038512
+          }
+        ],
+        "expected_filename_date": "20170312"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170306.tar.xz",
+        "filename_date": "20170306",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-710.cache/cache.20170306.tar.xz",
+        "sha256": "43fc59e6ede40a46c5f947920b7a07345c3e71ddc8bb984772c8808069afb54d",
+        "size": 65960036
+      },
+      "collection_key": "walking-dead-710",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 16,
+          "cache_members": 468,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-03-06",
+          "sample_span_days": 16,
+          "sample_start": "2017-02-19",
+          "torrent_indices": 31
+        },
+        "required_collection_key": "walking-dead-710",
+        "required_day_products": 16,
+        "required_sample_days": 16,
+        "required_sample_end": "2017-03-06",
+        "required_sample_start": "2017-02-19",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "7",
+        "collection_name": "The Walking Dead",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 16,
+        "sample_end": "2017-03-06",
+        "sample_start": "2017-02-19",
+        "sha256": "48637442d8626e8722e6814ef2627e1441c82795928661d4dbf0a3fb4dc03eba",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/walking-dead-710.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170306.tar.xz",
+            "size": 65960036
+          }
+        ],
+        "expected_filename_date": "20170306"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170326.tar.xz",
+        "filename_date": "20170326",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-713.cache/cache.20170326.tar.xz",
+        "sha256": "d5a9c2d516380aeaed8c85bdc18d112643ea939c7a764c08abb43053a839e930",
+        "size": 55074228
+      },
+      "collection_key": "walking-dead-713",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 15,
+          "cache_members": 484,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-03-26",
+          "sample_span_days": 15,
+          "sample_start": "2017-03-12",
+          "torrent_indices": 34
+        },
+        "required_collection_key": "walking-dead-713",
+        "required_day_products": 15,
+        "required_sample_days": 15,
+        "required_sample_end": "2017-03-26",
+        "required_sample_start": "2017-03-12",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "7",
+        "collection_name": "The Walking Dead",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 15,
+        "sample_end": "2017-03-26",
+        "sample_start": "2017-03-12",
+        "sha256": "30581ed3b9510857efa25541018cf27b9b0455ce268ffd47e328055c1bcc307c",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/walking-dead-713.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170326.tar.xz",
+            "size": 55074228
+          }
+        ],
+        "expected_filename_date": "20170326"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20170423.tar.xz",
+        "filename_date": "20170423",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-716.cache/cache.20170423.tar.xz",
+        "sha256": "8278f036fe881e94c764f10fed6c8d3cf77b7fd0ffa0eba8071ecedb0d21c524",
+        "size": 71312980
+      },
+      "collection_key": "walking-dead-716",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 22,
+          "cache_members": 628,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-04-23",
+          "sample_span_days": 22,
+          "sample_start": "2017-04-02",
+          "torrent_indices": 30
+        },
+        "required_collection_key": "walking-dead-716",
+        "required_day_products": 22,
+        "required_sample_days": 22,
+        "required_sample_end": "2017-04-23",
+        "required_sample_start": "2017-04-02",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "7",
+        "collection_name": "The Walking Dead",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 22,
+        "sample_end": "2017-04-23",
+        "sample_start": "2017-04-02",
+        "sha256": "d160c4a8b63b1f7272871c5ebe32d57abbb64dab8500273911c33e70a1a10576",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/walking-dead-716.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20170423.tar.xz",
+            "size": 71312980
+          }
+        ],
+        "expected_filename_date": "20170423"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20171107.tar.xz",
+        "filename_date": "20171107",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-801.cache/cache.20171107.tar.xz",
+        "sha256": "c8ba14db75a1689f8396399d5d606cb74abefcc1606557e19c6ddde8d1c27741",
+        "size": 314001236
+      },
+      "collection_key": "walking-dead-801",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 16,
+          "cache_members": 1683,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-11-07",
+          "sample_span_days": 16,
+          "sample_start": "2017-10-23",
+          "torrent_indices": 110
+        },
+        "required_collection_key": "walking-dead-801",
+        "required_day_products": 16,
+        "required_sample_days": 16,
+        "required_sample_end": "2017-11-07",
+        "required_sample_start": "2017-10-23",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "8",
+        "collection_name": "The Walking Dead",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 16,
+        "sample_end": "2017-11-07",
+        "sample_start": "2017-10-23",
+        "sha256": "ad6d4d342985d07845d4596017ed4182f5b6a48d108b2f39b152bfcf0037da04",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/walking-dead-801.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20171107.tar.xz",
+            "size": 314001236
+          }
+        ],
+        "expected_filename_date": "20171107"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20171218.tar.xz",
+        "filename_date": "20171218",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-807.cache/cache.20171218.tar.xz",
+        "sha256": "d9a8887e6c33ce48f8793b65c25e4b92b610404ef6c05bd90458f929db178976",
+        "size": 691713864
+      },
+      "collection_key": "walking-dead-807",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 15,
+          "cache_members": 1282,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2017-12-18",
+          "sample_span_days": 15,
+          "sample_start": "2017-12-04",
+          "torrent_indices": 89
+        },
+        "required_collection_key": "walking-dead-807",
+        "required_day_products": 15,
+        "required_sample_days": 15,
+        "required_sample_end": "2017-12-18",
+        "required_sample_start": "2017-12-04",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "807",
+        "collection_name": "The Walking Dead",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "7c808ed77ff3939c3e03c8f170a81ad69bd1691fd54b0fa5125bfa34eb468ba9",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 15,
+        "sample_end": "2017-12-18",
+        "sample_start": "2017-12-04",
+        "sha256": "3c5c246ff604157907426d55d732b14f5a42ce2f3022bad7481fc221cb6c5428",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/walking-dead-807.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20171218.tar.xz",
+            "size": 691713864
+          }
+        ],
+        "expected_filename_date": "20171218"
+      }
+    }
+  ],
+  "schema": "alpha60-year-cache-archive-map/1",
+  "selection_policy": "frozen-campaign-sample-end-or-explicit-override",
+  "status": "pass",
+  "year": "2017"
+}

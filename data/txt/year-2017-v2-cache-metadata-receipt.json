@@ -1,0 +1,5748 @@
+{
+  "counts": {
+    "cache_directories": 617,
+    "inventory_records": 44,
+    "nonterminal_records": 0,
+    "target_year_records": 44,
+    "unresolved_records": 0
+  },
+  "inventory": [
+    "americans-501",
+    "americans-513",
+    "blade-runner-2049",
+    "el-chapo-02",
+    "expanse-201",
+    "expanse-203",
+    "expanse-204",
+    "expanse-210",
+    "expanse-213",
+    "feud-101",
+    "feud-102",
+    "feud-108",
+    "game-of-thrones-701",
+    "game-of-thrones-702",
+    "game-of-thrones-703",
+    "game-of-thrones-705",
+    "game-of-thrones-706",
+    "game-of-thrones-707",
+    "good-fight-101",
+    "good-fight-105",
+    "good-fight-108",
+    "good-fight-110",
+    "handmaids-tale-101",
+    "handmaids-tale-105",
+    "house-of-cards-05",
+    "i-love-dick",
+    "into-the-badlands-203",
+    "narcos-03",
+    "screeners",
+    "sense8-02.1",
+    "star-trek-discovery-101",
+    "star-trek-discovery-104",
+    "star-trek-discovery-109",
+    "star-wars-last-jedi",
+    "stormy-daniels-2017",
+    "stranger-things-02",
+    "twin-peaks-310",
+    "twin-peaks-317",
+    "walking-dead-709",
+    "walking-dead-710",
+    "walking-dead-713",
+    "walking-dead-716",
+    "walking-dead-801",
+    "walking-dead-807"
+  ],
+  "nonterminal": [],
+  "policy": "canonical-directory-and-day-member-key/2",
+  "records": [
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/3-body-problem-01.cache",
+      "cache_key": "3-body-problem-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/3-percent-02.cache",
+      "cache_key": "3-percent-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/3d-guns.cache",
+      "cache_key": "3d-guns",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/abbott-elementary-113.cache",
+      "cache_key": "abbott-elementary-113",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/acolyte-101.cache",
+      "cache_key": "acolyte-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/acolyte-107.cache",
+      "cache_key": "acolyte-107",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/agatha-all-along-101.cache",
+      "cache_key": "agatha-all-along-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/agatha-all-along-107.cache",
+      "cache_key": "agatha-all-along-107",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/ahsoka-101.cache",
+      "cache_key": "ahsoka-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/ahsoka-108.cache",
+      "cache_key": "ahsoka-108",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/alien-earth-101.cache",
+      "cache_key": "alien-earth-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/alien-earth-106.cache",
+      "cache_key": "alien-earth-106",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/all-of-us-are-dead-01.cache",
+      "cache_key": "all-of-us-are-dead-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/all-the-old-knives.cache",
+      "cache_key": "all-the-old-knives",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/altered-carbon-01.cache",
+      "cache_key": "altered-carbon-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/altered-carbon-02.cache",
+      "cache_key": "altered-carbon-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/altered-carbon-resleeved.cache",
+      "cache_key": "altered-carbon-resleeved",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/american-born-chinese-01.cache",
+      "cache_key": "american-born-chinese-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/american-crime-story-201.cache",
+      "cache_key": "american-crime-story-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/american-crime-story-205.cache",
+      "cache_key": "american-crime-story-205",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/american-fiction.cache",
+      "cache_key": "american-fiction",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/american-primeval.cache",
+      "cache_key": "american-primeval",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/american-revolution-2025.cache",
+      "cache_key": "american-revolution-2025",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/americans-501.cache",
+      "cache_key": "americans-501",
+      "collection_key": "americans-501",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170312.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-03-08",
+        "first_observed_index": 2,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/americans-501.cache/cache.20170312.tar.xz",
+      "sample_days": 6,
+      "sample_end": "2017-03-12",
+      "sample_start": "2017-03-07",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/americans-513.cache",
+      "cache_key": "americans-513",
+      "collection_key": "americans-513",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170622.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-05-31",
+        "first_observed_index": 1,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/americans-513.cache/cache.20170622.tar.xz",
+      "sample_days": 23,
+      "sample_end": "2017-06-22",
+      "sample_start": "2017-05-31",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/and-just-like-that-201.cache",
+      "cache_key": "and-just-like-that-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/and-just-like-that-211.cache",
+      "cache_key": "and-just-like-that-211",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/andor-101.cache",
+      "cache_key": "andor-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/andor-112.cache",
+      "cache_key": "andor-112",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/andor-201.cache",
+      "cache_key": "andor-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/andor-210.cache",
+      "cache_key": "andor-210",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/andy-warhol-diaries-01.cache",
+      "cache_key": "andy-warhol-diaries-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/anora.cache",
+      "cache_key": "anora",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/apprentice-2024.cache",
+      "cache_key": "apprentice-2024",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/arcane-02.1.cache",
+      "cache_key": "arcane-02.1",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/arcane-02.2.cache",
+      "cache_key": "arcane-02.2",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/arcane-02.3.cache",
+      "cache_key": "arcane-02.3",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/archer-1201.cache",
+      "cache_key": "archer-1201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/archer-1308.cache",
+      "cache_key": "archer-1308",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/archer-1401.cache",
+      "cache_key": "archer-1401",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/archer-1408.cache",
+      "cache_key": "archer-1408",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/army-of-the-dead.cache",
+      "cache_key": "army-of-the-dead",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/atlanta-301.cache",
+      "cache_key": "atlanta-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/atlanta-310.cache",
+      "cache_key": "atlanta-310",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/atlanta-410.cache",
+      "cache_key": "atlanta-410",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/avatar-the-last-airbender-2024-01.cache",
+      "cache_key": "avatar-the-last-airbender-2024-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/avatar-the-way-of-water.cache",
+      "cache_key": "avatar-the-way-of-water",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/avenue-5-101.cache",
+      "cache_key": "avenue-5-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/away-01.cache",
+      "cache_key": "away-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/bachelors-23-and-01.cache",
+      "cache_key": "bachelors-23-and-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/bad-monkey-109.cache",
+      "cache_key": "bad-monkey-109",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/ballard-01.cache",
+      "cache_key": "ballard-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/barbie.cache",
+      "cache_key": "barbie",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/barry-401.cache",
+      "cache_key": "barry-401",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/beacon-23-101.cache",
+      "cache_key": "beacon-23-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/beacon-23-108.cache",
+      "cache_key": "beacon-23-108",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/bear-02.cache",
+      "cache_key": "bear-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/bear-03.cache",
+      "cache_key": "bear-03",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/bear-04.cache",
+      "cache_key": "bear-04",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/beastars-03.2.cache",
+      "cache_key": "beastars-03.2",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/beatles-anthology.cache",
+      "cache_key": "beatles-anthology",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/beatles-get-back.cache",
+      "cache_key": "beatles-get-back",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/beauty-108.cache",
+      "cache_key": "beauty-108",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/beef-02.cache",
+      "cache_key": "beef-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/better-call-saul-406.cache",
+      "cache_key": "better-call-saul-406",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/beverly-hills-cop-axel-f.cache",
+      "cache_key": "beverly-hills-cop-axel-f",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/big-bang-theory-1223.cache",
+      "cache_key": "big-bang-theory-1223",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/big-little-lies-201.cache",
+      "cache_key": "big-little-lies-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/big-little-lies-207.cache",
+      "cache_key": "big-little-lies-207",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/biohackers-01.cache",
+      "cache_key": "biohackers-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/black-bag-2025.cache",
+      "cache_key": "black-bag-2025",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/black-is-king.cache",
+      "cache_key": "black-is-king",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/black-mirror-06.cache",
+      "cache_key": "black-mirror-06",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/black-monday-106.cache",
+      "cache_key": "black-monday-106",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/black-monday-110.cache",
+      "cache_key": "black-monday-110",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/black-panther.cache",
+      "cache_key": "black-panther",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/black-panther-wakanda-forever.cache",
+      "cache_key": "black-panther-wakanda-forever",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/blackaf-01.cache",
+      "cache_key": "blackaf-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/blade-runner-2049.cache",
+      "cache_key": "blade-runner-2049",
+      "collection_key": "blade-runner-2049",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20180331.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-12-29",
+        "first_observed_index": 8,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/blade-runner-2049.cache/cache.20180331.tar.xz",
+      "sample_days": 100,
+      "sample_end": "2018-03-31",
+      "sample_start": "2017-12-22",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/blade-runner-black-lotus-101.cache",
+      "cache_key": "blade-runner-black-lotus-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/blink-twice.cache",
+      "cache_key": "blink-twice",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/bliss.cache",
+      "cache_key": "bliss",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/blue-eye-samurai-01.cache",
+      "cache_key": "blue-eye-samurai-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/bluff.cache",
+      "cache_key": "bluff",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/bojack-horseman-06.cache",
+      "cache_key": "bojack-horseman-06",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/book-of-boba-fett-107.cache",
+      "cache_key": "book-of-boba-fett-107",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/borats-american-lockdown.cache",
+      "cache_key": "borats-american-lockdown",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/boy-and-the-heron.cache",
+      "cache_key": "boy-and-the-heron",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/boys-201.cache",
+      "cache_key": "boys-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/boys-208.cache",
+      "cache_key": "boys-208",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/boys-301.cache",
+      "cache_key": "boys-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/boys-308.cache",
+      "cache_key": "boys-308",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/boys-401.cache",
+      "cache_key": "boys-401",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/boys-501.cache",
+      "cache_key": "boys-501",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/boys-presents-diabolical-01.cache",
+      "cache_key": "boys-presents-diabolical-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/bridgerton-02.cache",
+      "cache_key": "bridgerton-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/bridgerton-04.1.cache",
+      "cache_key": "bridgerton-04.1",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/bridgerton-04.2.cache",
+      "cache_key": "bridgerton-04.2",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/brothers-sun-01.cache",
+      "cache_key": "brothers-sun-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/changeling-108.cache",
+      "cache_key": "changeling-108",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/chief-of-war-101.cache",
+      "cache_key": "chief-of-war-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/chief-of-war-107.cache",
+      "cache_key": "chief-of-war-107",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/chilling-adventures-of-sabrina-01.cache",
+      "cache_key": "chilling-adventures-of-sabrina-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/cinderella-2021.cache",
+      "cache_key": "cinderella-2021",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/citadel-101.cache",
+      "cache_key": "citadel-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/citadel-106.cache",
+      "cache_key": "citadel-106",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/cobra-kai-02.cache",
+      "cache_key": "cobra-kai-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/cobra-kai-03.cache",
+      "cache_key": "cobra-kai-03",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/cobra-kai-06.3.cache",
+      "cache_key": "cobra-kai-06.3",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/cocaine-cowboys-the-kings-of-miami.cache",
+      "cache_key": "cocaine-cowboys-the-kings-of-miami",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/coming-2-america.cache",
+      "cache_key": "coming-2-america",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/common-side-effects-01.cache",
+      "cache_key": "common-side-effects-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/companion-2025.cache",
+      "cache_key": "companion-2025",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/consultant-01.cache",
+      "cache_key": "consultant-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/control-z-01.cache",
+      "cache_key": "control-z-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/cowboy-bebop-2021-01.cache",
+      "cache_key": "cowboy-bebop-2021-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/curse-01.cache",
+      "cache_key": "curse-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/da-5-bloods.cache",
+      "cache_key": "da-5-bloods",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/dan-da-dan-210.cache",
+      "cache_key": "dan-da-dan-210",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/dark-03.cache",
+      "cache_key": "dark-03",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/dark-winds-301.cache",
+      "cache_key": "dark-winds-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/dark-winds-401.cache",
+      "cache_key": "dark-winds-401",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/death-by-lightning.cache",
+      "cache_key": "death-by-lightning",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/debris-113.cache",
+      "cache_key": "debris-113",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle.cache",
+      "cache_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.cache",
+      "cache_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/detective-chinatown-3.cache",
+      "cache_key": "detective-chinatown-3",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/devs-108.cache",
+      "cache_key": "devs-108",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/dinosaurs-01.cache",
+      "cache_key": "dinosaurs-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/diplomat-02.cache",
+      "cache_key": "diplomat-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/distributed-denial-of-secrets-china.cache",
+      "cache_key": "distributed-denial-of-secrets-china",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/distributed-denial-of-secrets-corporate.cache",
+      "cache_key": "distributed-denial-of-secrets-corporate",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/distributed-denial-of-secrets-cyberwar-rus-ukr.cache",
+      "cache_key": "distributed-denial-of-secrets-cyberwar-rus-ukr",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/distributed-denial-of-secrets-iran.cache",
+      "cache_key": "distributed-denial-of-secrets-iran",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/doctor-who-1101.cache",
+      "cache_key": "doctor-who-1101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/doctor-who-1105.cache",
+      "cache_key": "doctor-who-1105",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/doctor-who-1200.cache",
+      "cache_key": "doctor-who-1200",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/dolemite-is-my-name.cache",
+      "cache_key": "dolemite-is-my-name",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/dont-look-up.cache",
+      "cache_key": "dont-look-up",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/doom-patrol-201.cache",
+      "cache_key": "doom-patrol-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/doom-patrol-301.cache",
+      "cache_key": "doom-patrol-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/doors.cache",
+      "cache_key": "doors",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/dope-thief-101.cache",
+      "cache_key": "dope-thief-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/down-cemetery-road-101.cache",
+      "cache_key": "down-cemetery-road-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/dune-2021.cache",
+      "cache_key": "dune-2021",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/dune-2024.cache",
+      "cache_key": "dune-2024",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/dungeons-and-dragons-honor-among-thieves.cache",
+      "cache_key": "dungeons-and-dragons-honor-among-thieves",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/duster-101.cache",
+      "cache_key": "duster-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/duster-106.cache",
+      "cache_key": "duster-106",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/echo-01.cache",
+      "cache_key": "echo-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/el-chapo-02.cache",
+      "cache_key": "el-chapo-02",
+      "collection_key": "el-chapo-02",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20171223.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-12-17",
+        "first_observed_index": 2,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/el-chapo-02.cache/cache.20171223.tar.xz",
+      "sample_days": 8,
+      "sample_end": "2017-12-23",
+      "sample_start": "2017-12-16",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/emilia-perez.cache",
+      "cache_key": "emilia-perez",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/enola-holmes-2.cache",
+      "cache_key": "enola-holmes-2",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/eoy-curiosities-leaks-2017-2018.cache",
+      "cache_key": "eoy-curiosities-leaks-2017-2018",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/eoy-screeners-2017-2018.cache",
+      "cache_key": "eoy-screeners-2017-2018",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/eternals.cache",
+      "cache_key": "eternals",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/euphoria-208.cache",
+      "cache_key": "euphoria-208",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/euphoria-301.cache",
+      "cache_key": "euphoria-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/euphoria-special.cache",
+      "cache_key": "euphoria-special",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/everything-everywhere-all-at-once.cache",
+      "cache_key": "everything-everywhere-all-at-once",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-04.cache",
+      "cache_key": "expanse-04",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-201.cache",
+      "cache_key": "expanse-201",
+      "collection_key": "expanse-201",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170219.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-02-04",
+        "first_observed_index": 4,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-201.cache/cache.20170219.tar.xz",
+      "sample_days": 19,
+      "sample_end": "2017-02-19",
+      "sample_start": "2017-02-01",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-203.cache",
+      "cache_key": "expanse-203",
+      "collection_key": "expanse-203",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170223.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-02-09",
+        "first_observed_index": 2,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-203.cache/cache.20170223.tar.xz",
+      "sample_days": 16,
+      "sample_end": "2017-02-23",
+      "sample_start": "2017-02-08",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-204.cache",
+      "cache_key": "expanse-204",
+      "collection_key": "expanse-204",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170219.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-02-17",
+        "first_observed_index": 2,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-204.cache/cache.20170219.tar.xz",
+      "sample_days": 4,
+      "sample_end": "2017-02-19",
+      "sample_start": "2017-02-16",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-210.cache",
+      "cache_key": "expanse-210",
+      "collection_key": "expanse-210",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170419.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-03-30",
+        "first_observed_index": 2,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-210.cache/cache.20170419.tar.xz",
+      "sample_days": 22,
+      "sample_end": "2017-04-19",
+      "sample_start": "2017-03-29",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-213.cache",
+      "cache_key": "expanse-213",
+      "collection_key": "expanse-213",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170511.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-04-24",
+        "first_observed_index": 6,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-213.cache/cache.20170511.tar.xz",
+      "sample_days": 23,
+      "sample_end": "2017-05-11",
+      "sample_start": "2017-04-19",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-301.cache",
+      "cache_key": "expanse-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-313.cache",
+      "cache_key": "expanse-313",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-501.cache",
+      "cache_key": "expanse-501",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-510.cache",
+      "cache_key": "expanse-510",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-601.cache",
+      "cache_key": "expanse-601",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-606.cache",
+      "cache_key": "expanse-606",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/eyes-of-wakanda-01.cache",
+      "cache_key": "eyes-of-wakanda-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/falcon-and-the-winter-soldier-101.cache",
+      "cache_key": "falcon-and-the-winter-soldier-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/falcon-and-the-winter-soldier-106.cache",
+      "cache_key": "falcon-and-the-winter-soldier-106",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/fallout-2024-01.cache",
+      "cache_key": "fallout-2024-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/fallout-2024-201.cache",
+      "cache_key": "fallout-2024-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/fallout-2024-206.cache",
+      "cache_key": "fallout-2024-206",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/fantasmas-01.cache",
+      "cache_key": "fantasmas-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/fargo-501.cache",
+      "cache_key": "fargo-501",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/fargo-510.cache",
+      "cache_key": "fargo-510",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/ferhat-ile-sirin.cache",
+      "cache_key": "ferhat-ile-sirin",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/feud-02.cache",
+      "cache_key": "feud-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/feud-101.cache",
+      "cache_key": "feud-101",
+      "collection_key": "feud-101",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170312.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-03-07",
+        "first_observed_index": 1,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/feud-101.cache/cache.20170312.tar.xz",
+      "sample_days": 6,
+      "sample_end": "2017-03-12",
+      "sample_start": "2017-03-07",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/feud-102.cache",
+      "cache_key": "feud-102",
+      "collection_key": "feud-102",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170328.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-03-12",
+        "first_observed_index": 1,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/feud-102.cache/cache.20170328.tar.xz",
+      "sample_days": 17,
+      "sample_end": "2017-03-28",
+      "sample_start": "2017-03-12",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/feud-108.cache",
+      "cache_key": "feud-108",
+      "collection_key": "feud-108",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170510.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-04-25",
+        "first_observed_index": 2,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/feud-108.cache/cache.20170510.tar.xz",
+      "sample_days": 17,
+      "sample_end": "2017-05-10",
+      "sample_start": "2017-04-24",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/fire-and-fury.cache",
+      "cache_key": "fire-and-fury",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/fistful-of-vengeance.cache",
+      "cache_key": "fistful-of-vengeance",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/flight-attendant-201.cache",
+      "cache_key": "flight-attendant-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/folklore.cache",
+      "cache_key": "folklore",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/for-all-mankind-201.cache",
+      "cache_key": "for-all-mankind-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/for-all-mankind-210.cache",
+      "cache_key": "for-all-mankind-210",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/for-all-mankind-301.cache",
+      "cache_key": "for-all-mankind-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/for-all-mankind-401.cache",
+      "cache_key": "for-all-mankind-401",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/for-all-mankind-410.cache",
+      "cache_key": "for-all-mankind-410",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/for-all-mankind-501.cache",
+      "cache_key": "for-all-mankind-501",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/foundation-101.cache",
+      "cache_key": "foundation-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/foundation-201.cache",
+      "cache_key": "foundation-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/frankenstein-2025.cache",
+      "cache_key": "frankenstein-2025",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/fubar-01.cache",
+      "cache_key": "fubar-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/full-circle-01.cache",
+      "cache_key": "full-circle-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-701.cache",
+      "cache_key": "game-of-thrones-701",
+      "collection_key": "game-of-thrones-701",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170901.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-07-23",
+        "first_observed_index": 8,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-701.cache/cache.20170901.tar.xz",
+      "sample_days": 48,
+      "sample_end": "2017-09-01",
+      "sample_start": "2017-07-16",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-702.cache",
+      "cache_key": "game-of-thrones-702",
+      "collection_key": "game-of-thrones-702",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170825.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-07-24",
+        "first_observed_index": 2,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-702.cache/cache.20170825.tar.xz",
+      "sample_days": 34,
+      "sample_end": "2017-08-25",
+      "sample_start": "2017-07-23",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-703.cache",
+      "cache_key": "game-of-thrones-703",
+      "collection_key": "game-of-thrones-703",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170901.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-07-30",
+        "first_observed_index": 1,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-703.cache/cache.20170901.tar.xz",
+      "sample_days": 34,
+      "sample_end": "2017-09-01",
+      "sample_start": "2017-07-30",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-705.cache",
+      "cache_key": "game-of-thrones-705",
+      "collection_key": "game-of-thrones-705",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170903.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-08-13",
+        "first_observed_index": 1,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-705.cache/cache.20170903.tar.xz",
+      "sample_days": 22,
+      "sample_end": "2017-09-03",
+      "sample_start": "2017-08-13",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-706.cache",
+      "cache_key": "game-of-thrones-706",
+      "collection_key": "game-of-thrones-706",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170924.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-08-21",
+        "first_observed_index": 1,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-706.cache/cache.20170924.tar.xz",
+      "sample_days": 35,
+      "sample_end": "2017-09-24",
+      "sample_start": "2017-08-21",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-707.cache",
+      "cache_key": "game-of-thrones-707",
+      "collection_key": "game-of-thrones-707",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20171130.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-09-22",
+        "first_observed_index": 26,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-707.cache/cache.20171130.tar.xz",
+      "sample_days": 95,
+      "sample_end": "2017-11-30",
+      "sample_start": "2017-08-28",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-801.cache",
+      "cache_key": "game-of-thrones-801",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-803.cache",
+      "cache_key": "game-of-thrones-803",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-806.cache",
+      "cache_key": "game-of-thrones-806",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/gen-v-101.cache",
+      "cache_key": "gen-v-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/gen-v-108.cache",
+      "cache_key": "gen-v-108",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/gen-v-201.cache",
+      "cache_key": "gen-v-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/gen-v-206.cache",
+      "cache_key": "gen-v-206",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/glass-onion.cache",
+      "cache_key": "glass-onion",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/glow-02.cache",
+      "cache_key": "glow-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/glow-03.cache",
+      "cache_key": "glow-03",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/goat-2026.cache",
+      "cache_key": "goat-2026",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/godzilla-minus-one.cache",
+      "cache_key": "godzilla-minus-one",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/godzilla-vs-kong.cache",
+      "cache_key": "godzilla-vs-kong",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/godzilla-x-kong-the-new-empire.cache",
+      "cache_key": "godzilla-x-kong-the-new-empire",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-101.cache",
+      "cache_key": "good-fight-101",
+      "collection_key": "good-fight-101",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170312.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-02-20",
+        "first_observed_index": 1,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-101.cache/cache.20170312.tar.xz",
+      "sample_days": 21,
+      "sample_end": "2017-03-12",
+      "sample_start": "2017-02-20",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-105.cache",
+      "cache_key": "good-fight-105",
+      "collection_key": "good-fight-105",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170326.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-03-12",
+        "first_observed_index": 1,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-105.cache/cache.20170326.tar.xz",
+      "sample_days": 15,
+      "sample_end": "2017-03-26",
+      "sample_start": "2017-03-12",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-108.cache",
+      "cache_key": "good-fight-108",
+      "collection_key": "good-fight-108",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170408.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-04-02",
+        "first_observed_index": 1,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-108.cache/cache.20170408.tar.xz",
+      "sample_days": 7,
+      "sample_end": "2017-04-08",
+      "sample_start": "2017-04-02",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-110.cache",
+      "cache_key": "good-fight-110",
+      "collection_key": "good-fight-110",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170505.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-04-24",
+        "first_observed_index": 9,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-110.cache/cache.20170505.tar.xz",
+      "sample_days": 20,
+      "sample_end": "2017-05-05",
+      "sample_start": "2017-04-16",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-202.cache",
+      "cache_key": "good-fight-202",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-205.cache",
+      "cache_key": "good-fight-205",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-210.cache",
+      "cache_key": "good-fight-210",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-213.cache",
+      "cache_key": "good-fight-213",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-301.cache",
+      "cache_key": "good-fight-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-310.cache",
+      "cache_key": "good-fight-310",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-407.cache",
+      "cache_key": "good-fight-407",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/gray-man.cache",
+      "cache_key": "gray-man",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/griselda-01.cache",
+      "cache_key": "griselda-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/guardians-of-the-galaxy-3.cache",
+      "cache_key": "guardians-of-the-galaxy-3",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/hacks-401.cache",
+      "cache_key": "hacks-401",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/hacks-408.cache",
+      "cache_key": "hacks-408",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/hacks-leaks-yandex.cache",
+      "cache_key": "hacks-leaks-yandex",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/halston-01.cache",
+      "cache_key": "halston-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/hamilton.cache",
+      "cache_key": "hamilton",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/handmaids-tale-101.cache",
+      "cache_key": "handmaids-tale-101",
+      "collection_key": "handmaids-tale-101",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170517.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-04-26",
+        "first_observed_index": 1,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/handmaids-tale-101.cache/cache.20170517.tar.xz",
+      "sample_days": 22,
+      "sample_end": "2017-05-17",
+      "sample_start": "2017-04-26",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/handmaids-tale-105.cache",
+      "cache_key": "handmaids-tale-105",
+      "collection_key": "handmaids-tale-105",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170530.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-05-10",
+        "first_observed_index": 1,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/handmaids-tale-105.cache/cache.20170530.tar.xz",
+      "sample_days": 21,
+      "sample_end": "2017-05-30",
+      "sample_start": "2017-05-10",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/handmaids-tale-201.cache",
+      "cache_key": "handmaids-tale-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/handmaids-tale-208.cache",
+      "cache_key": "handmaids-tale-208",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/handmaids-tale-213.cache",
+      "cache_key": "handmaids-tale-213",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/happiest-season.cache",
+      "cache_key": "happiest-season",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/harder-they-fall.cache",
+      "cache_key": "harder-they-fall",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/harley-quinn-301.cache",
+      "cache_key": "harley-quinn-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/high-fidelity-01.cache",
+      "cache_key": "high-fidelity-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/high-flying-bird.cache",
+      "cache_key": "high-flying-bird",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/highest-2-lowest.cache",
+      "cache_key": "highest-2-lowest",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/hijack-101.cache",
+      "cache_key": "hijack-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/hijack-107.cache",
+      "cache_key": "hijack-107",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/hijack-201.cache",
+      "cache_key": "hijack-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/his-and-hers-2026-01.cache",
+      "cache_key": "his-and-hers-2026-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/hit-man.cache",
+      "cache_key": "hit-man",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/hit-monkey-02.cache",
+      "cache_key": "hit-monkey-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/hoppers.cache",
+      "cache_key": "hoppers",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/house-of-cards-05.cache",
+      "cache_key": "house-of-cards-05",
+      "collection_key": "house-of-cards-05",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170827.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-05-30",
+        "first_observed_index": 1,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/house-of-cards-05.cache/cache.20170827.tar.xz",
+      "sample_days": 90,
+      "sample_end": "2017-08-27",
+      "sample_start": "2017-05-30",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/house-of-cards-06.cache",
+      "cache_key": "house-of-cards-06",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/house-of-the-dragon-101.cache",
+      "cache_key": "house-of-the-dragon-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/house-of-the-dragon-103.cache",
+      "cache_key": "house-of-the-dragon-103",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/house-of-the-dragon-110.cache",
+      "cache_key": "house-of-the-dragon-110",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/house-of-the-dragon-201.cache",
+      "cache_key": "house-of-the-dragon-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/house-of-the-dragon-207.cache",
+      "cache_key": "house-of-the-dragon-207",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/house-of-the-dragon-301.cache",
+      "cache_key": "house-of-the-dragon-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/human-flow.cache",
+      "cache_key": "human-flow",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/i-am-the-night-103.cache",
+      "cache_key": "i-am-the-night-103",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/i-am-the-night-106.cache",
+      "cache_key": "i-am-the-night-106",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/i-love-dick.cache",
+      "cache_key": "i-love-dick",
+      "collection_key": "i-love-dick",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170603.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-05-13",
+        "first_observed_index": 1,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/i-love-dick.cache/cache.20170603.tar.xz",
+      "sample_days": 22,
+      "sample_end": "2017-06-03",
+      "sample_start": "2017-05-13",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/idol-101.cache",
+      "cache_key": "idol-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/im-a-virgo-01.cache",
+      "cache_key": "im-a-virgo-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/industry-401.cache",
+      "cache_key": "industry-401",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/inside-out-2.cache",
+      "cache_key": "inside-out-2",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/intergalactic-01.cache",
+      "cache_key": "intergalactic-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/interior-chinatown-01.cache",
+      "cache_key": "interior-chinatown-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/into-the-badlands-203.cache",
+      "cache_key": "into-the-badlands-203",
+      "collection_key": "into-the-badlands-203",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170423.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-04-03",
+        "first_observed_index": 1,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/into-the-badlands-203.cache/cache.20170423.tar.xz",
+      "sample_days": 21,
+      "sample_end": "2017-04-23",
+      "sample_start": "2017-04-03",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/into-the-badlands-308.cache",
+      "cache_key": "into-the-badlands-308",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/invasion-101.cache",
+      "cache_key": "invasion-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/invasion-301.cache",
+      "cache_key": "invasion-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/inventing-anna-01.cache",
+      "cache_key": "inventing-anna-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/invincible-101.cache",
+      "cache_key": "invincible-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/invincible-201.cache",
+      "cache_key": "invincible-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/invincible-301.cache",
+      "cache_key": "invincible-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/invincible-401.cache",
+      "cache_key": "invincible-401",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/ironheart-01.cache",
+      "cache_key": "ironheart-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/jamtara-sabka-number-ayega.cache",
+      "cache_key": "jamtara-sabka-number-ayega",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/japan-sinks.cache",
+      "cache_key": "japan-sinks",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/jeen-yuhs-01.cache",
+      "cache_key": "jeen-yuhs-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/killer-2024.cache",
+      "cache_key": "killer-2024",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/killing-eve-201.cache",
+      "cache_key": "killing-eve-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/killing-eve-208.cache",
+      "cache_key": "killing-eve-208",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/kimi.cache",
+      "cache_key": "kimi",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/kindred-01.cache",
+      "cache_key": "kindred-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/king-of-the-hill-14.cache",
+      "cache_key": "king-of-the-hill-14",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/kingdom-of-the-planet-of-the-apes.cache",
+      "cache_key": "kingdom-of-the-planet-of-the-apes",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/knight-of-the-seven-kingdoms-106.cache",
+      "cache_key": "knight-of-the-seven-kingdoms-106",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/kung-fu-101.cache",
+      "cache_key": "kung-fu-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/kung-fu-113.cache",
+      "cache_key": "kung-fu-113",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/kurulus-osman-01.cache",
+      "cache_key": "kurulus-osman-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/laid-01.cache",
+      "cache_key": "laid-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/last-of-us-101.cache",
+      "cache_key": "last-of-us-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/last-of-us-109.cache",
+      "cache_key": "last-of-us-109",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/last-of-us-201.cache",
+      "cache_key": "last-of-us-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/last-of-us-206.cache",
+      "cache_key": "last-of-us-206",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/lazarus-101.cache",
+      "cache_key": "lazarus-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/lazarus-108.cache",
+      "cache_key": "lazarus-108",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/lazarus-111.cache",
+      "cache_key": "lazarus-111",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/legend-of-galactic-heroes-die-neue-these.cache",
+      "cache_key": "legend-of-galactic-heroes-die-neue-these",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/legend-of-vox-machina-410.cache",
+      "cache_key": "legend-of-vox-machina-410",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/lego-star-wars-holiday-special-2020.cache",
+      "cache_key": "lego-star-wars-holiday-special-2020",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/liaison-101.cache",
+      "cache_key": "liaison-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/loki-101.cache",
+      "cache_key": "loki-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/loki-106.cache",
+      "cache_key": "loki-106",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/loki-201.cache",
+      "cache_key": "loki-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/loki-206.cache",
+      "cache_key": "loki-206",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/long-story-short-01.cache",
+      "cache_key": "long-story-short-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/love-death-robots-01.cache",
+      "cache_key": "love-death-robots-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/love-death-robots-02.cache",
+      "cache_key": "love-death-robots-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/love-death-robots-04.cache",
+      "cache_key": "love-death-robots-04",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/love-story-2026-107.cache",
+      "cache_key": "love-story-2026-107",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/lovebirds.cache",
+      "cache_key": "lovebirds",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/lovecraft-country-101.cache",
+      "cache_key": "lovecraft-country-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/lovecraft-country-110.cache",
+      "cache_key": "lovecraft-country-110",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/lowdown-101.cache",
+      "cache_key": "lowdown-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/luke-cage-02.cache",
+      "cache_key": "luke-cage-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/lupin-02.cache",
+      "cache_key": "lupin-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/lupin-03.cache",
+      "cache_key": "lupin-03",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/madness-01.cache",
+      "cache_key": "madness-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/magic-mikes-last-dance.cache",
+      "cache_key": "magic-mikes-last-dance",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/malcolm-and-marie.cache",
+      "cache_key": "malcolm-and-marie",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/man-on-the-run.cache",
+      "cache_key": "man-on-the-run",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/mandalorian-101.cache",
+      "cache_key": "mandalorian-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/mandalorian-102.cache",
+      "cache_key": "mandalorian-102",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/mandalorian-108.cache",
+      "cache_key": "mandalorian-108",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/mandalorian-201.cache",
+      "cache_key": "mandalorian-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/mandalorian-208.cache",
+      "cache_key": "mandalorian-208",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/mandalorian-301.cache",
+      "cache_key": "mandalorian-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/mandalorian-308.cache",
+      "cache_key": "mandalorian-308",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/maniac-01.cache",
+      "cache_key": "maniac-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/marvelous-mrs-maisel-02.cache",
+      "cache_key": "marvelous-mrs-maisel-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/marvelous-mrs-maisel-03.cache",
+      "cache_key": "marvelous-mrs-maisel-03",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/marvelous-mrs-maisel-407.cache",
+      "cache_key": "marvelous-mrs-maisel-407",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/marvelous-mrs-maisel-501.cache",
+      "cache_key": "marvelous-mrs-maisel-501",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/masters-of-the-air-101.cache",
+      "cache_key": "masters-of-the-air-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/masters-of-the-air-108.cache",
+      "cache_key": "masters-of-the-air-108",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/mating-season-01.cache",
+      "cache_key": "mating-season-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/matrix-resurrections.cache",
+      "cache_key": "matrix-resurrections",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/maul-shadow-lord-101.cache",
+      "cache_key": "maul-shadow-lord-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/me-you-cant-see-01.cache",
+      "cache_key": "me-you-cant-see-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/mickey-17.cache",
+      "cache_key": "mickey-17",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/mid-century-modern-01.cache",
+      "cache_key": "mid-century-modern-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/minecraft-movie-2025.cache",
+      "cache_key": "minecraft-movie-2025",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/minx-02.cache",
+      "cache_key": "minx-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/mitchells-vs-the-machines.cache",
+      "cache_key": "mitchells-vs-the-machines",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/moana-2.cache",
+      "cache_key": "moana-2",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/monarch-legacy-of-monsters-101.cache",
+      "cache_key": "monarch-legacy-of-monsters-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/monarch-legacy-of-monsters-110.cache",
+      "cache_key": "monarch-legacy-of-monsters-110",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/monarch-legacy-of-monsters-201.cache",
+      "cache_key": "monarch-legacy-of-monsters-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/monarch-legacy-of-monsters-208.cache",
+      "cache_key": "monarch-legacy-of-monsters-208",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/money-heist-05.1.cache",
+      "cache_key": "money-heist-05.1",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/money-heist-05.2.cache",
+      "cache_key": "money-heist-05.2",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/monsieur-spade-01.cache",
+      "cache_key": "monsieur-spade-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/mother-android.cache",
+      "cache_key": "mother-android",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/mr-and-mrs-smith-2024-01.cache",
+      "cache_key": "mr-and-mrs-smith-2024-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/mulan.cache",
+      "cache_key": "mulan",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/murder-at-the-end-of-the-world-101.cache",
+      "cache_key": "murder-at-the-end-of-the-world-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/murder-at-the-end-of-the-world-107.cache",
+      "cache_key": "murder-at-the-end-of-the-world-107",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/narcos-03.cache",
+      "cache_key": "narcos-03",
+      "collection_key": "narcos-03",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20171001.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-09-02",
+        "first_observed_index": 2,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/narcos-03.cache/cache.20171001.tar.xz",
+      "sample_days": 31,
+      "sample_end": "2017-10-01",
+      "sample_start": "2017-09-01",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/narcos-mexico-01.cache",
+      "cache_key": "narcos-mexico-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/narcos-mexico-02.cache",
+      "cache_key": "narcos-mexico-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/narcos-mexico-03.cache",
+      "cache_key": "narcos-mexico-03",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/night-agent-02.cache",
+      "cache_key": "night-agent-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/night-agent-03.cache",
+      "cache_key": "night-agent-03",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/no-more-bets.cache",
+      "cache_key": "no-more-bets",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/no-sudden-move.cache",
+      "cache_key": "no-sudden-move",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/no-time-to-die.cache",
+      "cache_key": "no-time-to-die",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/nouvelle-vague.cache",
+      "cache_key": "nouvelle-vague",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/oa-01.cache",
+      "cache_key": "oa-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/oa-02.cache",
+      "cache_key": "oa-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/obi-wan-kenobi-101.cache",
+      "cache_key": "obi-wan-kenobi-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/obi-wan-kenobi-106.cache",
+      "cache_key": "obi-wan-kenobi-106",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/old-man-107.cache",
+      "cache_key": "old-man-107",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/old-man-201.cache",
+      "cache_key": "old-man-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/olympics-2026.cache",
+      "cache_key": "olympics-2026",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/one-battle-after-another.cache",
+      "cache_key": "one-battle-after-another",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/one-night-in-miami.cache",
+      "cache_key": "one-night-in-miami",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/one-piece-2023-02.cache",
+      "cache_key": "one-piece-2023-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/one-piece-95x.cache",
+      "cache_key": "one-piece-95x",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/one-piece-98x.cache",
+      "cache_key": "one-piece-98x",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/only-murders-in-the-building-110.cache",
+      "cache_key": "only-murders-in-the-building-110",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/only-murders-in-the-building-201.cache",
+      "cache_key": "only-murders-in-the-building-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/only-murders-in-the-building-210.cache",
+      "cache_key": "only-murders-in-the-building-210",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/only-murders-in-the-building-301.cache",
+      "cache_key": "only-murders-in-the-building-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/only-murders-in-the-building-310.cache",
+      "cache_key": "only-murders-in-the-building-310",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/only-murders-in-the-building-401.cache",
+      "cache_key": "only-murders-in-the-building-401",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/only-murders-in-the-building-409.cache",
+      "cache_key": "only-murders-in-the-building-409",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/only-murders-in-the-building-501.cache",
+      "cache_key": "only-murders-in-the-building-501",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/only-murders-in-the-building-508.cache",
+      "cache_key": "only-murders-in-the-building-508",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/oppenheimer.cache",
+      "cache_key": "oppenheimer",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/oprah-meghan-harry.cache",
+      "cache_key": "oprah-meghan-harry",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/orange-is-the-new-black-06.cache",
+      "cache_key": "orange-is-the-new-black-06",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/orange-is-the-new-black-07.cache",
+      "cache_key": "orange-is-the-new-black-07",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/orville-201.cache",
+      "cache_key": "orville-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/orville-206.cache",
+      "cache_key": "orville-206",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/orville-214.cache",
+      "cache_key": "orville-214",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/outer-banks-02.cache",
+      "cache_key": "outer-banks-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/outer-banks-03.cache",
+      "cache_key": "outer-banks-03",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/outer-range-02.cache",
+      "cache_key": "outer-range-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/outside-the-wire.cache",
+      "cache_key": "outside-the-wire",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/ozark-02.cache",
+      "cache_key": "ozark-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/pacific-rim-the-black.cache",
+      "cache_key": "pacific-rim-the-black",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/pantheon-108.cache",
+      "cache_key": "pantheon-108",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/paper-girls-01.cache",
+      "cache_key": "paper-girls-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/peacemaker-201.cache",
+      "cache_key": "peacemaker-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/penguin-101.cache",
+      "cache_key": "penguin-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/penguin-107.cache",
+      "cache_key": "penguin-107",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/peripheral-101.cache",
+      "cache_key": "peripheral-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/peripheral-108.cache",
+      "cache_key": "peripheral-108",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/permanent-record.cache",
+      "cache_key": "permanent-record",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/pitt-201.cache",
+      "cache_key": "pitt-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/pitt-213.cache",
+      "cache_key": "pitt-213",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/pluribus-107.cache",
+      "cache_key": "pluribus-107",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/polite-society.cache",
+      "cache_key": "polite-society",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/pose-307.cache",
+      "cache_key": "pose-307",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/power-105.cache",
+      "cache_key": "power-105",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/power-109.cache",
+      "cache_key": "power-109",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/predator-badlands.cache",
+      "cache_key": "predator-badlands",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/predator-killer-of-killers.cache",
+      "cache_key": "predator-killer-of-killers",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/prehistoric-planet-01.cache",
+      "cache_key": "prehistoric-planet-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/prehistoric-planet-02.cache",
+      "cache_key": "prehistoric-planet-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/prehistoric-planet-03.cache",
+      "cache_key": "prehistoric-planet-03",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/prey.cache",
+      "cache_key": "prey",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/princess-switch-3.cache",
+      "cache_key": "princess-switch-3",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/prisoners-of-the-ghostland.cache",
+      "cache_key": "prisoners-of-the-ghostland",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/q-force-01.cache",
+      "cache_key": "q-force-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/queen-charlotte-01.cache",
+      "cache_key": "queen-charlotte-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/queen-of-the-south-301.cache",
+      "cache_key": "queen-of-the-south-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/queen-of-the-south-311.cache",
+      "cache_key": "queen-of-the-south-311",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/queen-of-the-south-313.cache",
+      "cache_key": "queen-of-the-south-313",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/queen-of-the-south-407.cache",
+      "cache_key": "queen-of-the-south-407",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/queen-of-the-south-413.cache",
+      "cache_key": "queen-of-the-south-413",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/queen-of-the-south-510.cache",
+      "cache_key": "queen-of-the-south-510",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/queer-eye-2018-04.cache",
+      "cache_key": "queer-eye-2018-04",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/queer-eye-2018-05.cache",
+      "cache_key": "queer-eye-2018-05",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/queer-eye-2018-07.cache",
+      "cache_key": "queer-eye-2018-07",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/raised-by-wolves-110.cache",
+      "cache_key": "raised-by-wolves-110",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/raised-by-wolves-201.cache",
+      "cache_key": "raised-by-wolves-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/raised-by-wolves-208.cache",
+      "cache_key": "raised-by-wolves-208",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/random-acts-of-flyness-104.cache",
+      "cache_key": "random-acts-of-flyness-104",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/random-acts-of-flyness-106.cache",
+      "cache_key": "random-acts-of-flyness-106",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/raya-and-the-last-dragon.cache",
+      "cache_key": "raya-and-the-last-dragon",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/reacher-201.cache",
+      "cache_key": "reacher-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/reacher-208.cache",
+      "cache_key": "reacher-208",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/reacher-301.cache",
+      "cache_key": "reacher-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/reacher-307.cache",
+      "cache_key": "reacher-307",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/renaissance.cache",
+      "cache_key": "renaissance",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/reservation-dogs-101.cache",
+      "cache_key": "reservation-dogs-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/reservation-dogs-201.cache",
+      "cache_key": "reservation-dogs-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/reservation-dogs-301.cache",
+      "cache_key": "reservation-dogs-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/reservation-dogs-308.cache",
+      "cache_key": "reservation-dogs-308",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/reservation-dogs-310.cache",
+      "cache_key": "reservation-dogs-310",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/rings-of-power-101.cache",
+      "cache_key": "rings-of-power-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/rings-of-power-108.cache",
+      "cache_key": "rings-of-power-108",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/rings-of-power-201.cache",
+      "cache_key": "rings-of-power-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/rings-of-power-207.cache",
+      "cache_key": "rings-of-power-207",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/road-house-2024.cache",
+      "cache_key": "road-house-2024",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/roar-01.cache",
+      "cache_key": "roar-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/romanoffs-101.cache",
+      "cache_key": "romanoffs-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/romanoffs-104.cache",
+      "cache_key": "romanoffs-104",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/romanoffs-108.cache",
+      "cache_key": "romanoffs-108",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/russian-doll-02.cache",
+      "cache_key": "russian-doll-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/sandman-01.cache",
+      "cache_key": "sandman-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/screeners.cache",
+      "cache_key": "screeners",
+      "collection_key": "screeners",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20180331.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2018-02-04",
+        "first_observed_index": 45,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/screeners.cache/cache.20180331.tar.xz",
+      "sample_days": 100,
+      "sample_end": "2018-03-31",
+      "sample_start": "2017-12-22",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/sean-combs-the-reckoning.cache",
+      "cache_key": "sean-combs-the-reckoning",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/send-help.cache",
+      "cache_key": "send-help",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/sense8-02.1.cache",
+      "cache_key": "sense8-02.1",
+      "collection_key": "sense8-02.1",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170827.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-05-31",
+        "first_observed_index": 27,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/sense8-02.1.cache/cache.20170827.tar.xz",
+      "sample_days": 115,
+      "sample_end": "2017-08-27",
+      "sample_start": "2017-05-05",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/sense8-02.2.cache",
+      "cache_key": "sense8-02.2",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/severance-201.cache",
+      "cache_key": "severance-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/severance-209.cache",
+      "cache_key": "severance-209",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/shadow-and-bone-01.cache",
+      "cache_key": "shadow-and-bone-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/shang-chi-and-the-legend-of-the-ten-rings.cache",
+      "cache_key": "shang-chi-and-the-legend-of-the-ten-rings",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/she-ra-04.cache",
+      "cache_key": "she-ra-04",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/shogun-2024-101.cache",
+      "cache_key": "shogun-2024-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/shogun-2024-110.cache",
+      "cache_key": "shogun-2024-110",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/silo-201.cache",
+      "cache_key": "silo-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/sinners-2025.cache",
+      "cache_key": "sinners-2025",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/sly-lives.cache",
+      "cache_key": "sly-lives",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/snowpiercer-209.cache",
+      "cache_key": "snowpiercer-209",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/snowpiercer-401.cache",
+      "cache_key": "snowpiercer-401",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/solar-opposites-01.cache",
+      "cache_key": "solar-opposites-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/songbird.cache",
+      "cache_key": "songbird",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/south-park-27.cache",
+      "cache_key": "south-park-27",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/space-force-01.cache",
+      "cache_key": "space-force-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/space-sweepers.cache",
+      "cache_key": "space-sweepers",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/special-ops-lioness-201.cache",
+      "cache_key": "special-ops-lioness-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/spider-man-across-the-spider-verse.cache",
+      "cache_key": "spider-man-across-the-spider-verse",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/spider-man-no-way-home.cache",
+      "cache_key": "spider-man-no-way-home",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/spider-noir-01.cache",
+      "cache_key": "spider-noir-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/squid-game-02.cache",
+      "cache_key": "squid-game-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/squid-game-03.cache",
+      "cache_key": "squid-game-03",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-101.cache",
+      "cache_key": "star-trek-discovery-101",
+      "collection_key": "star-trek-discovery-101",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20171021.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-10-17",
+        "first_observed_index": 23,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-101.cache/cache.20171021.tar.xz",
+      "sample_days": 27,
+      "sample_end": "2017-10-21",
+      "sample_start": "2017-09-25",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-104.cache",
+      "cache_key": "star-trek-discovery-104",
+      "collection_key": "star-trek-discovery-104",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20171025.tar.xz",
+        "cache.20171027.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-10-10",
+        "first_observed_index": 2,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-104.cache/cache.20171027.tar.xz",
+      "sample_days": 19,
+      "sample_end": "2017-10-27",
+      "sample_start": "2017-10-09",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-109.cache",
+      "cache_key": "star-trek-discovery-109",
+      "collection_key": "star-trek-discovery-109",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20171211.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-11-15",
+        "first_observed_index": 3,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-109.cache/cache.20171211.tar.xz",
+      "sample_days": 29,
+      "sample_end": "2017-12-11",
+      "sample_start": "2017-11-13",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-110.cache",
+      "cache_key": "star-trek-discovery-110",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-115.cache",
+      "cache_key": "star-trek-discovery-115",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-201.cache",
+      "cache_key": "star-trek-discovery-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-206.cache",
+      "cache_key": "star-trek-discovery-206",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-214.cache",
+      "cache_key": "star-trek-discovery-214",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-lower-decks-101.cache",
+      "cache_key": "star-trek-lower-decks-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-picard-110.cache",
+      "cache_key": "star-trek-picard-110",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/star-wars-last-jedi.cache",
+      "cache_key": "star-wars-last-jedi",
+      "collection_key": "star-wars-last-jedi",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20180331.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2018-03-13",
+        "first_observed_index": 82,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/star-wars-last-jedi.cache/cache.20180331.tar.xz",
+      "sample_days": 100,
+      "sample_end": "2018-03-31",
+      "sample_start": "2017-12-22",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/star-wars-visions-01.cache",
+      "cache_key": "star-wars-visions-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/star-wars-visions-03.cache",
+      "cache_key": "star-wars-visions-03",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/stormy.cache",
+      "cache_key": "stormy",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/stormy-daniels-2017.cache",
+      "cache_key": "stormy-daniels-2017",
+      "collection_key": "stormy-daniels-2017",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20180331.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2018-03-26",
+        "first_observed_index": 95,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/stormy-daniels-2017.cache/cache.20180331.tar.xz",
+      "sample_days": 100,
+      "sample_end": "2018-03-31",
+      "sample_start": "2017-12-22",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/stranger-things-02.cache",
+      "cache_key": "stranger-things-02",
+      "collection_key": "stranger-things-02",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20171231.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-12-27",
+        "first_observed_index": 62,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/stranger-things-02.cache/cache.20171231.tar.xz",
+      "sample_days": 66,
+      "sample_end": "2017-12-31",
+      "sample_start": "2017-10-27",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/stranger-things-03.cache",
+      "cache_key": "stranger-things-03",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/stranger-things-04.1.cache",
+      "cache_key": "stranger-things-04.1",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/stranger-things-04.2.cache",
+      "cache_key": "stranger-things-04.2",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/stranger-things-05.1.cache",
+      "cache_key": "stranger-things-05.1",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/stranger-things-05.2.cache",
+      "cache_key": "stranger-things-05.2",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/stranger-things-05.3.cache",
+      "cache_key": "stranger-things-05.3",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/stranger-things-tales-from-85-01.cache",
+      "cache_key": "stranger-things-tales-from-85-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/studio-2025-101.cache",
+      "cache_key": "studio-2025-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/succession-210.cache",
+      "cache_key": "succession-210",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/succession-301.cache",
+      "cache_key": "succession-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/sugar-107.cache",
+      "cache_key": "sugar-107",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/suicide-squad-2021.cache",
+      "cache_key": "suicide-squad-2021",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/summer-i-turned-pretty-311.cache",
+      "cache_key": "summer-i-turned-pretty-311",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/summer-of-soul.cache",
+      "cache_key": "summer-of-soul",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/super-mario-brothers-movie.cache",
+      "cache_key": "super-mario-brothers-movie",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/super-mario-galaxy-movie.cache",
+      "cache_key": "super-mario-galaxy-movie",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/superman-2025.cache",
+      "cache_key": "superman-2025",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/tales-from-the-loop-01.cache",
+      "cache_key": "tales-from-the-loop-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/tales-of-the-city-2019.cache",
+      "cache_key": "tales-of-the-city-2019",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/tales-of-the-jedi-01.cache",
+      "cache_key": "tales-of-the-jedi-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/ted-lasso-201.cache",
+      "cache_key": "ted-lasso-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/tenet.cache",
+      "cache_key": "tenet",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/testaments-101.cache",
+      "cache_key": "testaments-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/they-cloned-tyrone.cache",
+      "cache_key": "they-cloned-tyrone",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/tiger-king-and-i.cache",
+      "cache_key": "tiger-king-and-i",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/tokyo-vice-101.cache",
+      "cache_key": "tokyo-vice-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/tokyo-vice-201.cache",
+      "cache_key": "tokyo-vice-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/tokyo-vice-209.cache",
+      "cache_key": "tokyo-vice-209",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/tomorrow-war.cache",
+      "cache_key": "tomorrow-war",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/trese-01.cache",
+      "cache_key": "trese-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/tron-ares.cache",
+      "cache_key": "tron-ares",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/true-detective-301.cache",
+      "cache_key": "true-detective-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/true-detective-308.cache",
+      "cache_key": "true-detective-308",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/turning-red.cache",
+      "cache_key": "turning-red",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/twin-peaks-310.cache",
+      "cache_key": "twin-peaks-310",
+      "collection_key": "twin-peaks-310",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170730.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-07-17",
+        "first_observed_index": 2,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/twin-peaks-310.cache/cache.20170730.tar.xz",
+      "sample_days": 15,
+      "sample_end": "2017-07-30",
+      "sample_start": "2017-07-16",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/twin-peaks-317.cache",
+      "cache_key": "twin-peaks-317",
+      "collection_key": "twin-peaks-317",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170918.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-09-04",
+        "first_observed_index": 2,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/twin-peaks-317.cache/cache.20170918.tar.xz",
+      "sample_days": 16,
+      "sample_end": "2017-09-18",
+      "sample_start": "2017-09-03",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/twisted-metal-01.cache",
+      "cache_key": "twisted-metal-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/ultra-city-smiths-106.cache",
+      "cache_key": "ultra-city-smiths-106",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/umbrella-academy-01.cache",
+      "cache_key": "umbrella-academy-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/umbrella-academy-02.cache",
+      "cache_key": "umbrella-academy-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/underground-railroad-01.cache",
+      "cache_key": "underground-railroad-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/undone-01.cache",
+      "cache_key": "undone-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/undone-02.cache",
+      "cache_key": "undone-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/upload-01.cache",
+      "cache_key": "upload-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/vanguard.cache",
+      "cache_key": "vanguard",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-1008.cache",
+      "cache_key": "walking-dead-1008",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-1124.cache",
+      "cache_key": "walking-dead-1124",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-709.cache",
+      "cache_key": "walking-dead-709",
+      "collection_key": "walking-dead-709",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170312.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-02-13",
+        "first_observed_index": 2,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-709.cache/cache.20170312.tar.xz",
+      "sample_days": 29,
+      "sample_end": "2017-03-12",
+      "sample_start": "2017-02-12",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-710.cache",
+      "cache_key": "walking-dead-710",
+      "collection_key": "walking-dead-710",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170306.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-02-20",
+        "first_observed_index": 2,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-710.cache/cache.20170306.tar.xz",
+      "sample_days": 16,
+      "sample_end": "2017-03-06",
+      "sample_start": "2017-02-19",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-713.cache",
+      "cache_key": "walking-dead-713",
+      "collection_key": "walking-dead-713",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170326.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-03-13",
+        "first_observed_index": 2,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-713.cache/cache.20170326.tar.xz",
+      "sample_days": 15,
+      "sample_end": "2017-03-26",
+      "sample_start": "2017-03-12",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-716.cache",
+      "cache_key": "walking-dead-716",
+      "collection_key": "walking-dead-716",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20170423.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-04-03",
+        "first_observed_index": 2,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-716.cache/cache.20170423.tar.xz",
+      "sample_days": 22,
+      "sample_end": "2017-04-23",
+      "sample_start": "2017-04-02",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-801.cache",
+      "cache_key": "walking-dead-801",
+      "collection_key": "walking-dead-801",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20171107.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-10-26",
+        "first_observed_index": 4,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-801.cache/cache.20171107.tar.xz",
+      "sample_days": 16,
+      "sample_end": "2017-11-07",
+      "sample_start": "2017-10-23",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-807.cache",
+      "cache_key": "walking-dead-807",
+      "collection_key": "walking-dead-807",
+      "contract_source": "frozen-campaign-reconciliation",
+      "eligible_archives": [
+        "cache.20171218.tar.xz"
+      ],
+      "probe": {
+        "first_observed_date": "2017-12-10",
+        "first_observed_index": 7,
+        "member_count": 1,
+        "probe_policy": "first-day-member-only",
+        "status": "ok"
+      },
+      "probe_archive": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-807.cache/cache.20171218.tar.xz",
+      "sample_days": 15,
+      "sample_end": "2017-12-18",
+      "sample_start": "2017-12-04",
+      "selection_note": null,
+      "status": "ok",
+      "target_year": true,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-811.cache",
+      "cache_key": "walking-dead-811",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-816.cache",
+      "cache_key": "walking-dead-816",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-908.cache",
+      "cache_key": "walking-dead-908",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-916.cache",
+      "cache_key": "walking-dead-916",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/wandavision-101.cache",
+      "cache_key": "wandavision-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/wandavision-109.cache",
+      "cache_key": "wandavision-109",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/warhol,andy.cache",
+      "cache_key": "warhol,andy",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/warrior-310.cache",
+      "cache_key": "warrior-310",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/watchmen-104.cache",
+      "cache_key": "watchmen-104",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/watchmen-109.cache",
+      "cache_key": "watchmen-109",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/we-are-lady-parts-02.cache",
+      "cache_key": "we-are-lady-parts-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/weapons-2025.cache",
+      "cache_key": "weapons-2025",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/wednesday-01.cache",
+      "cache_key": "wednesday-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/wednesday-02.1.cache",
+      "cache_key": "wednesday-02.1",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/wednesday-02.2.cache",
+      "cache_key": "wednesday-02.2",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/westworld-201.cache",
+      "cache_key": "westworld-201",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/westworld-203.cache",
+      "cache_key": "westworld-203",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/westworld-205.cache",
+      "cache_key": "westworld-205",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/westworld-207.cache",
+      "cache_key": "westworld-207",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/westworld-210.cache",
+      "cache_key": "westworld-210",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/westworld-301.cache",
+      "cache_key": "westworld-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/westworld-308.cache",
+      "cache_key": "westworld-308",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/westworld-401.cache",
+      "cache_key": "westworld-401",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/westworld-408.cache",
+      "cache_key": "westworld-408",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/what-if-2021-03.cache",
+      "cache_key": "what-if-2021-03",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/what-if-2021-101.cache",
+      "cache_key": "what-if-2021-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/what-we-do-in-the-shadows-210.cache",
+      "cache_key": "what-we-do-in-the-shadows-210",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/white-lotus-301.cache",
+      "cache_key": "white-lotus-301",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/white-lotus-307.cache",
+      "cache_key": "white-lotus-307",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/wicked-2024.cache",
+      "cache_key": "wicked-2024",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/wicked-for-good-2025.cache",
+      "cache_key": "wicked-for-good-2025",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/wild-robot.cache",
+      "cache_key": "wild-robot",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/witcher-02.cache",
+      "cache_key": "witcher-02",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/witcher-03.1.cache",
+      "cache_key": "witcher-03.1",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/witcher-03.2.cache",
+      "cache_key": "witcher-03.2",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/witcher-04.cache",
+      "cache_key": "witcher-04",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/witcher-blood-origin-01.cache",
+      "cache_key": "witcher-blood-origin-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/wonder-woman-1984.cache",
+      "cache_key": "wonder-woman-1984",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/wu-assassins-01.cache",
+      "cache_key": "wu-assassins-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/y-the-last-man-101.cache",
+      "cache_key": "y-the-last-man-101",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/yasuke-01.cache",
+      "cache_key": "yasuke-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/yellowjackets-110.cache",
+      "cache_key": "yellowjackets-110",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/yellowstone-210.cache",
+      "cache_key": "yellowstone-210",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/you-04.2.cache",
+      "cache_key": "you-04.2",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/your-friendly-neighborhood-spider-man-01.cache",
+      "cache_key": "your-friendly-neighborhood-spider-man-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/zero-day-01.cache",
+      "cache_key": "zero-day-01",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    },
+    {
+      "attempts": 1,
+      "cache_directory": "/mnt/gold/src/alpha60-samples-cache.gold/zootopia-2.cache",
+      "cache_key": "zootopia-2",
+      "status": "outside-frozen-cohort",
+      "target_year": false,
+      "terminal": true
+    }
+  ],
+  "schema": "alpha60-year-candidate-discovery/1",
+  "status": "pass",
+  "unresolved": [],
+  "year": "2017"
+}
