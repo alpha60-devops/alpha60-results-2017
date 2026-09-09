@@ -1,0 +1,2004 @@
+{
+    "collection_name": "The Walking Dead",
+    "collection_id": "716",
+    "collection_key": "walking-dead-716",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H.264-Cyphanix[ettv]",
+            "size_total": 2.548154931,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.548154762,
+                    "path": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H.264-Cyphanix[ettv]/The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H.264-Cyphanix[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.69e-7,
+                    "path": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H.264-Cyphanix[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+            "size_total": 2.553266744,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00058473,
+                    "path": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000619273,
+                    "path": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002023163,
+                    "path": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001881847,
+                    "path": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.548156276,
+                    "path": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-LiGaS/The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-LiGaS.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001455,
+                    "path": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-LiGaS/The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-LiGaS.nfo"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "size_total": 2.549387779,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3.1e-8,
+                    "path": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000055244,
+                    "path": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-RARBG/The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-RARBG-SDH.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 2.548271648,
+                    "path": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-RARBG/The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-RARBG.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000004305,
+                    "path": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-RARBG/The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-RARBG.nfo"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000039787,
+                    "path": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-RARBG/The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-RARBG.srt"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "The.Walking.Dead.S07E16.1080p.WEB-DL.X265-Snahp",
+            "size_total": 1.434790719,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.434790719,
+                    "path": "[snahp.it]The.Walking.Dead.S07E16.1080p.WEB-DL.X265-Snahp.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "The.Walking.Dead.S07E16.1080p.WEB.x264-FFN.mp4 [IPT]",
+            "size_total": 3.730160041,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.730160041,
+                    "path": "The.Walking.Dead.S07E16.1080p.WEB.x264-FFN.mp4"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "The.Walking.Dead.S07E16.720p.HDTV.x264-FLEET[eztv].mkv",
+            "size_total": 1.69893035,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.69893035,
+                    "path": "The.Walking.Dead.S07E16.720p.HDTV.x264-FLEET[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "The.Walking.Dead.S07E16.720p.HDTV.x264-FLEET[PRiME]",
+            "size_total": 1.698931097,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.32e-7,
+                    "path": "The.Walking.Dead.S07E16.720p.HDTV.x264-FLEET[PRiME]/Please Support!! Read More!!!.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.69893035,
+                    "path": "The.Walking.Dead.S07E16.720p.HDTV.x264-FLEET[PRiME]/The.Walking.Dead.S07E16.720p.HDTV.x264-FLEET[PRiME].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.9e-8,
+                    "path": "The.Walking.Dead.S07E16.720p.HDTV.x264-FLEET[PRiME]/Torrent Downloaded From 1337x.to.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.46e-7,
+                    "path": "The.Walking.Dead.S07E16.720p.HDTV.x264-FLEET[PRiME]/Torrent Downloaded From ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H.264-Cyphanix [IPT]",
+            "size_total": 2.038775841,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000297296,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H.264-Cyphanix/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000316338,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H.264-Cyphanix/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001053695,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H.264-Cyphanix/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000886902,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H.264-Cyphanix/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.036220154,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H.264-Cyphanix/The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H.264-Cyphanix.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001456,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H.264-Cyphanix/The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H.264-Cyphanix.nfo"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+            "size_total": 2.03877807,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000297296,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000316338,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001053695,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000886902,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.036222386,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-LiGaS/The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-LiGaS.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001453,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-LiGaS/The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-LiGaS.nfo"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "size_total": 2.037453844,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3.1e-8,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000055244,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-RARBG/The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-RARBG-SDH.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 2.036337716,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-RARBG/The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-RARBG.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000004302,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-RARBG/The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-RARBG.nfo"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000039787,
+                    "path": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-RARBG/The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-RARBG.srt"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS [IPT]",
+            "size_total": 0.793656401,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000010862,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.043644643,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.rar"
+                },
+                {
+                    "number": 18,
+                    "size": 8.96e-7,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS/the.walking.dead.s07e16.hdtv.x264-killers.sfv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS[ettv]",
+            "size_total": 0.793642908,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.793642739,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS[ettv]/The.Walking.Dead.S07E16.HDTV.x264-KILLERS[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.69e-7,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS[eztv].mkv",
+            "size_total": 0.793642739,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.793642739,
+                    "path": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "The.Walking.Dead.S07E16.HDTV.XviD-FUM[ettv]",
+            "size_total": 0.553446533,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.553446244,
+                    "path": "The.Walking.Dead.S07E16.HDTV.XviD-FUM[ettv]/The.Walking.Dead.S07E16.PROPER.HDTV.XviD-FUM[ettv].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 2.89e-7,
+                    "path": "The.Walking.Dead.S07E16.HDTV.XviD-FUM[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "The.Walking.Dead.S07E16.PROPER.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 4.348386885,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001177454,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000737214,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.003209273,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002782586,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 4.340479126,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.HEVC.x265-MeGusta/The.Walking.Dead.S07E16.PROPER.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001232,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.HEVC.x265-MeGusta/The.Walking.Dead.S07E16.PROPER.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE [IPT]",
+            "size_total": 7.169159335,
+            "files_total": 74,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.45e-7,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r45"
+                },
+                {
+                    "number": 48,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r46"
+                },
+                {
+                    "number": 49,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r47"
+                },
+                {
+                    "number": 50,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r48"
+                },
+                {
+                    "number": 51,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r49"
+                },
+                {
+                    "number": 52,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r50"
+                },
+                {
+                    "number": 53,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r51"
+                },
+                {
+                    "number": 54,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r52"
+                },
+                {
+                    "number": 55,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r53"
+                },
+                {
+                    "number": 56,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r54"
+                },
+                {
+                    "number": 57,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r55"
+                },
+                {
+                    "number": 58,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r56"
+                },
+                {
+                    "number": 59,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r57"
+                },
+                {
+                    "number": 60,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r58"
+                },
+                {
+                    "number": 61,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r59"
+                },
+                {
+                    "number": 62,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r60"
+                },
+                {
+                    "number": 63,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r61"
+                },
+                {
+                    "number": 64,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r62"
+                },
+                {
+                    "number": 65,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r63"
+                },
+                {
+                    "number": 66,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r64"
+                },
+                {
+                    "number": 67,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r65"
+                },
+                {
+                    "number": 68,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r66"
+                },
+                {
+                    "number": 69,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r67"
+                },
+                {
+                    "number": 70,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r68"
+                },
+                {
+                    "number": 71,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r69"
+                },
+                {
+                    "number": 72,
+                    "size": 0.069153578,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.r70"
+                },
+                {
+                    "number": 73,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.rar"
+                },
+                {
+                    "number": 74,
+                    "size": 0.000005112,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.sfv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE[rartv]-[rarbg.to]",
+            "size_total": 7.169144158,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 7.169143498,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE[rarbg]/The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.3e-7,
+                    "path": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE[rarbg]/the.walking.dead.s07e16.proper.1080p.webrip.x264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "The.Walking.Dead.S07E16.PROPER.480p.x264-mSD [IPT]",
+            "size_total": 0.421160513,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000061104,
+                    "path": "The.Walking.Dead.S07E16.PROPER.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000274877,
+                    "path": "The.Walking.Dead.S07E16.PROPER.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000316938,
+                    "path": "The.Walking.Dead.S07E16.PROPER.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000131058,
+                    "path": "The.Walking.Dead.S07E16.PROPER.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.420375334,
+                    "path": "The.Walking.Dead.S07E16.PROPER.480p.x264-mSD/The.Walking.Dead.S07E16.PROPER.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001202,
+                    "path": "The.Walking.Dead.S07E16.PROPER.480p.x264-mSD/The.Walking.Dead.S07E16.PROPER.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS [IPT]",
+            "size_total": 3.537334639,
+            "files_total": 73,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000010938,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r45"
+                },
+                {
+                    "number": 48,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r46"
+                },
+                {
+                    "number": 49,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r47"
+                },
+                {
+                    "number": 50,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r48"
+                },
+                {
+                    "number": 51,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r49"
+                },
+                {
+                    "number": 52,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r50"
+                },
+                {
+                    "number": 53,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r51"
+                },
+                {
+                    "number": 54,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r52"
+                },
+                {
+                    "number": 55,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r53"
+                },
+                {
+                    "number": 56,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r54"
+                },
+                {
+                    "number": 57,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r55"
+                },
+                {
+                    "number": 58,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r56"
+                },
+                {
+                    "number": 59,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r57"
+                },
+                {
+                    "number": 60,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r58"
+                },
+                {
+                    "number": 61,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r59"
+                },
+                {
+                    "number": 62,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r60"
+                },
+                {
+                    "number": 63,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r61"
+                },
+                {
+                    "number": 64,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r62"
+                },
+                {
+                    "number": 65,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r63"
+                },
+                {
+                    "number": 66,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r64"
+                },
+                {
+                    "number": 67,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r65"
+                },
+                {
+                    "number": 68,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r66"
+                },
+                {
+                    "number": 69,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r67"
+                },
+                {
+                    "number": 70,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r68"
+                },
+                {
+                    "number": 71,
+                    "size": 0.037318873,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.r69"
+                },
+                {
+                    "number": 72,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.rar"
+                },
+                {
+                    "number": 73,
+                    "size": 0.000004828,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS/the.walking.dead.s07e16.proper.720p.hdtv.x264-killers.sfv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS.[VTV]",
+            "size_total": 3.537309146,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.537309146,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS.[VTV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS[ettv]",
+            "size_total": 3.537309315,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.537309146,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS[ettv]/The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.69e-7,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS[eztv]",
+            "size_total": 3.537309146,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.537309146,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "The.Walking.Dead.S07E16.PROPER.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.885098701,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000270458,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000251242,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000894463,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000584131,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.883097201,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HEVC.x265-MeGusta/The.Walking.Dead.S07E16.PROPER.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001206,
+                    "path": "The.Walking.Dead.S07E16.PROPER.720p.HEVC.x265-MeGusta/The.Walking.Dead.S07E16.PROPER.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "The.Walking.Dead.S07E16.PROPER.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.338008842,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00006702,
+                    "path": "The.Walking.Dead.S07E16.PROPER.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000303037,
+                    "path": "The.Walking.Dead.S07E16.PROPER.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000351402,
+                    "path": "The.Walking.Dead.S07E16.PROPER.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000136688,
+                    "path": "The.Walking.Dead.S07E16.PROPER.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.337149394,
+                    "path": "The.Walking.Dead.S07E16.PROPER.AAC.MP4-Mobile/The.Walking.Dead.S07E16.PROPER.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001301,
+                    "path": "The.Walking.Dead.S07E16.PROPER.AAC.MP4-Mobile/The.Walking.Dead.S07E16.PROPER.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "The.Walking.Dead.S07E16.PROPER.HDTV.XviD-iFT [IPT]",
+            "size_total": 1.186439651,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.07e-7,
+                    "path": "The.Walking.Dead.S07E16.PROPER.HDTV.XviD-iFT/NFO-iFT.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.013471744,
+                    "path": "The.Walking.Dead.S07E16.PROPER.HDTV.XviD-iFT/Sample.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 1.1729672,
+                    "path": "The.Walking.Dead.S07E16.PROPER.HDTV.XviD-iFT/The.Walking.Dead.S07E16.PROPER.HDTV.XviD-iFT.avi"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "The.Walking.Dead.S07E16.PROPER.XviD-AFG [IPT]",
+            "size_total": 0.903371002,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00006682,
+                    "path": "The.Walking.Dead.S07E16.PROPER.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000334688,
+                    "path": "The.Walking.Dead.S07E16.PROPER.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000361095,
+                    "path": "The.Walking.Dead.S07E16.PROPER.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000163545,
+                    "path": "The.Walking.Dead.S07E16.PROPER.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.902443676,
+                    "path": "The.Walking.Dead.S07E16.PROPER.XviD-AFG/The.Walking.Dead.S07E16.PROPER.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001178,
+                    "path": "The.Walking.Dead.S07E16.PROPER.XviD-AFG/The.Walking.Dead.S07E16.PROPER.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "The.Walking.Dead.S07E16.The.First.Day.of.the.Rest.of.Your.Life.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]-[rarbg.to]",
+            "size_total": 6.959779516,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Walking.Dead.S07E16.The.First.Day.of.the.Rest.of.Your.Life.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.959775135,
+                    "path": "The.Walking.Dead.S07E16.The.First.Day.of.the.Rest.of.Your.Life.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]/The.Walking.Dead.S07E16.The.First.Day.of.the.Rest.of.Your.Life.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00000435,
+                    "path": "The.Walking.Dead.S07E16.The.First.Day.of.the.Rest.of.Your.Life.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]/The.Walking.Dead.S07E16.The.First.Day.of.the.Rest.of.Your.Life.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio.nfo"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "The.Walking.Dead.S07E16.The.First.Day.of.the.Rest.of.Your.Life.720p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]-[rarbg.to]",
+            "size_total": 4.097107612,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Walking.Dead.S07E16.The.First.Day.of.the.Rest.of.Your.Life.720p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 4.097103232,
+                    "path": "The.Walking.Dead.S07E16.The.First.Day.of.the.Rest.of.Your.Life.720p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]/The.Walking.Dead.S07E16.The.First.Day.of.the.Rest.of.Your.Life.720p.AMZN.WEBRip.DD5.1.x264-CasStudio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000004349,
+                    "path": "The.Walking.Dead.S07E16.The.First.Day.of.the.Rest.of.Your.Life.720p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]/The.Walking.Dead.S07E16.The.First.Day.of.the.Rest.of.Your.Life.720p.AMZN.WEBRip.DD5.1.x264-CasStudio.nfo"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "The.Walking.Dead.S07E16.WEB-DL.x264-RARBG-[rarbg.to]",
+            "size_total": 1.354426904,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Walking.Dead.S07E16.WEB-DL.x264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S07E16.WEB-DL.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000037151,
+                    "path": "The.Walking.Dead.S07E16.WEB-DL.x264-RARBG/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000051686,
+                    "path": "The.Walking.Dead.S07E16.WEB-DL.x264-RARBG/Subs/3_Eng.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 1.353317072,
+                    "path": "The.Walking.Dead.S07E16.WEB-DL.x264-RARBG/The.Walking.Dead.S07E16.WEB-DL.x264-RARBG.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000004201,
+                    "path": "The.Walking.Dead.S07E16.WEB-DL.x264-RARBG/The.Walking.Dead.S07E16.WEB-DL.x264-RARBG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "The.Walking.Dead.S07E16.WEBRip.x264-RARBG-[rarbg.to]",
+            "size_total": 0.552605754,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Walking.Dead.S07E16.WEBRip.x264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S07E16.WEBRip.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000050706,
+                    "path": "The.Walking.Dead.S07E16.WEBRip.x264-RARBG/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.551534034,
+                    "path": "The.Walking.Dead.S07E16.WEBRip.x264-RARBG/The.Walking.Dead.S07E16.WEBRip.x264-RARBG.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00000422,
+                    "path": "The.Walking.Dead.S07E16.WEBRip.x264-RARBG/The.Walking.Dead.S07E16.WEBRip.x264-RARBG.nfo"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 12,
+            "name": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS[ettv]",
+            "btih": "6d18b6e251d2fec49c650c2ea496f73f7f4bc2e9",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.793642908,
+            "creation": "2017-04-03T03:06:10.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 483135,
+            "uuploaders": 191785
+        },
+        {
+            "id": 13,
+            "name": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS[eztv].mkv",
+            "btih": "b7f2456cf9b237c024e8349410543c18dc40f7f3",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.793642739,
+            "creation": "2017-04-03T03:06:13.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 137437,
+            "uuploaders": 81519
+        },
+        {
+            "id": 14,
+            "name": "The.Walking.Dead.S07E16.HDTV.XviD-FUM[ettv]",
+            "btih": "2cde9424323c8601dc1a4049cf5ad449df0a0601",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.553446533,
+            "creation": "2017-04-03T04:26:09.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 136261,
+            "uuploaders": 78902
+        },
+        {
+            "id": 21,
+            "name": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS[ettv]",
+            "btih": "a729fb7aca81151c376f6d1c5a0405e3a57dd784",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 3.537309315,
+            "creation": "2017-04-03T02:52:16.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 96650,
+            "uuploaders": 57871
+        },
+        {
+            "id": 3,
+            "name": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "btih": "575b399938119e4de2703118e5ad8f8b3b32bd5e",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.549387779,
+            "creation": "2017-04-03T07:39:31.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53235,
+            "uuploaders": 30403
+        },
+        {
+            "id": 22,
+            "name": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS[eztv]",
+            "btih": "22e30b80129b5dc7bc9bb9bbd51afa465c012283",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 3.537309146,
+            "creation": "2017-04-03T02:59:42.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 49548,
+            "uuploaders": 32829
+        },
+        {
+            "id": 6,
+            "name": "The.Walking.Dead.S07E16.720p.HDTV.x264-FLEET[eztv].mkv",
+            "btih": "a1c14845a198a9726bf9ec43124dba68ef35e760",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.69893035,
+            "creation": "2017-04-03T02:10:24.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41798,
+            "uuploaders": 25992
+        },
+        {
+            "id": 1,
+            "name": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H.264-Cyphanix[ettv]",
+            "btih": "7d23c656cedca880bdbd6701a51210e40814c794",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.548154931,
+            "creation": "2017-04-03T08:36:44.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41487,
+            "uuploaders": 27740
+        },
+        {
+            "id": 10,
+            "name": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "btih": "6b6a2ad2d85ce525b5b48a519188344f961835ac",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.037453844,
+            "creation": "2017-04-03T07:23:36.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20065,
+            "uuploaders": 9485
+        },
+        {
+            "id": 19,
+            "name": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS [IPT]",
+            "btih": "bcf8e39f176ef217a45e3ea0ef47dc46df34d38b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 3.537334639,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 15580,
+            "uuploaders": 8406
+        },
+        {
+            "id": 30,
+            "name": "The.Walking.Dead.S07E16.WEBRip.x264-RARBG-[rarbg.to]",
+            "btih": "a069b4b9ee28ce472208ac2618f8051c8d26ce8f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.552605754,
+            "creation": "2017-04-03T14:30:01.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13340,
+            "uuploaders": 5440
+        },
+        {
+            "id": 26,
+            "name": "The.Walking.Dead.S07E16.PROPER.XviD-AFG [IPT]",
+            "btih": "e8ef5ba8018c9516e69374c96721ededd57f4149",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.903371002,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 10473,
+            "uuploaders": 5296
+        },
+        {
+            "id": 29,
+            "name": "The.Walking.Dead.S07E16.WEB-DL.x264-RARBG-[rarbg.to]",
+            "btih": "59bf9ed81b9a0c6c5bf82c1ebe0181355c51f269",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 1.354426904,
+            "creation": "2017-04-03T07:57:17.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10073,
+            "uuploaders": 4113
+        },
+        {
+            "id": 17,
+            "name": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE[rartv]-[rarbg.to]",
+            "btih": "6638e4dd7aa69cd6592952fa01e3ee07aa1d7cf3",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 7.169144158,
+            "creation": "2017-04-03T17:25:06.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6402,
+            "uuploaders": 2683
+        },
+        {
+            "id": 27,
+            "name": "The.Walking.Dead.S07E16.The.First.Day.of.the.Rest.of.Your.Life.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]-[rarbg.to]",
+            "btih": "08bd6236ce763cdab0cb5d4a50a304fdc89e1b4f",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.959779516,
+            "creation": "2017-04-03T14:05:17.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6353,
+            "uuploaders": 3021
+        },
+        {
+            "id": 7,
+            "name": "The.Walking.Dead.S07E16.720p.HDTV.x264-FLEET[PRiME]",
+            "btih": "ee4893d3ef18e333b186cafd6228f294f7b9d1ab",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.698931097,
+            "creation": "2017-04-03T02:09:20.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4922,
+            "uuploaders": 3518
+        },
+        {
+            "id": 28,
+            "name": "The.Walking.Dead.S07E16.The.First.Day.of.the.Rest.of.Your.Life.720p.AMZN.WEBRip.DD5.1.x264-CasStudio[rartv]-[rarbg.to]",
+            "btih": "478f2574e898d884de13c54882e9610c4fbe2801",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 4.097107612,
+            "creation": "2017-04-03T18:59:45.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3273,
+            "uuploaders": 1449
+        },
+        {
+            "id": 23,
+            "name": "The.Walking.Dead.S07E16.PROPER.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "a165ed7534fd974b0770119b8c17be9a375d74c2",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.885098701,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3268,
+            "uuploaders": 1438
+        },
+        {
+            "id": 20,
+            "name": "The.Walking.Dead.S07E16.PROPER.720p.HDTV.x264-KILLERS.[VTV]",
+            "btih": "6fe4580e819e987827768653a6e07e0710a4517f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 3.537309146,
+            "creation": "2017-04-03T03:08:38.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2712,
+            "uuploaders": 1600
+        },
+        {
+            "id": 18,
+            "name": "The.Walking.Dead.S07E16.PROPER.480p.x264-mSD [IPT]",
+            "btih": "aa8dd4a58d4ee8a09520f370f76148f58f8890e8",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.421160513,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2565,
+            "uuploaders": 939
+        },
+        {
+            "id": 24,
+            "name": "The.Walking.Dead.S07E16.PROPER.AAC.MP4-Mobile [IPT]",
+            "btih": "76e47bd2d421781af757f244ae103c5a867823b8",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.338008842,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2280,
+            "uuploaders": 852
+        },
+        {
+            "id": 11,
+            "name": "The.Walking.Dead.S07E16.HDTV.x264-KILLERS [IPT]",
+            "btih": "84e7ee48e71d8a6d63819374b215e15488ca195d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.793656401,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2000,
+            "uuploaders": 966
+        },
+        {
+            "id": 5,
+            "name": "The.Walking.Dead.S07E16.1080p.WEB.x264-FFN.mp4 [IPT]",
+            "btih": "79e98af395220d9deee5cc76bac30e3b78baa112",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.730160041,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1851,
+            "uuploaders": 833
+        },
+        {
+            "id": 25,
+            "name": "The.Walking.Dead.S07E16.PROPER.HDTV.XviD-iFT [IPT]",
+            "btih": "2a6763ae11cb86aad251a2f51ff821440c25ac76",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 1.186439651,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1727,
+            "uuploaders": 773
+        },
+        {
+            "id": 4,
+            "name": "The.Walking.Dead.S07E16.1080p.WEB-DL.X265-Snahp",
+            "btih": "b8bdb100ae9a03586f3b7f0b834123702b72d20f",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.434790719,
+            "creation": "2017-04-03T12:13:49.000000000Z,qBittorrent v3.3.11,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1483,
+            "uuploaders": 994
+        },
+        {
+            "id": 2,
+            "name": "The.Walking.Dead.S07E16.1080p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+            "btih": "1d1f1a0c0c618741d10109bc830789e79ecd658a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.553266744,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1357,
+            "uuploaders": 656
+        },
+        {
+            "id": 16,
+            "name": "The.Walking.Dead.S07E16.PROPER.1080p.WEBRip.X264-DEFLATE [IPT]",
+            "btih": "1dd8db3c20aebbc4dffd368570b5a7837932026d",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 7.169159335,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 912,
+            "uuploaders": 449
+        },
+        {
+            "id": 9,
+            "name": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+            "btih": "3df67acb348f1e900b3e42c4a81413fe25b8fe6e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.03877807,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 874,
+            "uuploaders": 543
+        },
+        {
+            "id": 8,
+            "name": "The.Walking.Dead.S07E16.720p.WEB-DL.DD5.1.H.264-Cyphanix [IPT]",
+            "btih": "83a95928edee008a0cd74539ce47e1748c90ed7a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.038775841,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 713,
+            "uuploaders": 334
+        },
+        {
+            "id": 15,
+            "name": "The.Walking.Dead.S07E16.PROPER.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "329812f03a5ec98d42ad172a2c72995140039459",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 4.348386885,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 221,
+            "uuploaders": 98
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+---
+layout: default
+title: "walking-dead-716 Sample Cache Audit"
+author: "Benjamin De Kosnik <bkoz@gnu.org>"
+description: "Cache coverage and visualization audit for one media object."
+---
+
+# walking-dead-716 sample cache audit
+
+## 1. Media object
+
+| Field | Value |
+| --- | --- |
+| Media object | The Walking Dead |
+| Collection key | `walking-dead-716` |
+| imdb_id | [tt1520211](https://www.imdb.com/title/tt1520211/) |
+| wikipedia_url | [The Walking Dead (TV series)](https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)) |
+| Sample dates | 2017-04-02-to-2017-04-23 |
+| Sample days | 22 |
+| BTIH count | 30 |
+| Unique BTIH count | 30 |
+| Downloaders total | 1,151,995 |
+| Uploaders total | 580,927 |
+| Data version | `2026-08-05` |
+| IP geolocation version | `6:1777968300` |
+
+## 2. Sample coverage report
+
+- Generated: 2026-09-09T01:10:36Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/walking-dead-716.xz`
+- Hour directories: 126
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 125 (377 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+- hourly gap: last `2017-04-02 21:00`, resumed `2017-04-03 01:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-03 01:00`, resumed `2017-04-03 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-03 05:00`, resumed `2017-04-03 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-03 09:00`, resumed `2017-04-03 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-03 13:00`, resumed `2017-04-03 21:00` — missing 7 hour(s)
+- hourly gap: last `2017-04-03 21:00`, resumed `2017-04-04 01:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-04 01:00`, resumed `2017-04-04 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-04 05:00`, resumed `2017-04-04 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-04 09:00`, resumed `2017-04-04 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-04 13:00`, resumed `2017-04-04 17:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-04 17:00`, resumed `2017-04-04 21:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-04 21:00`, resumed `2017-04-05 01:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-05 01:00`, resumed `2017-04-05 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-05 05:00`, resumed `2017-04-05 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-05 09:00`, resumed `2017-04-05 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-05 13:00`, resumed `2017-04-05 17:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-05 17:00`, resumed `2017-04-05 21:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-05 21:00`, resumed `2017-04-06 01:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-06 01:00`, resumed `2017-04-06 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-06 05:00`, resumed `2017-04-06 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-06 09:00`, resumed `2017-04-06 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-06 13:00`, resumed `2017-04-06 17:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-06 17:00`, resumed `2017-04-06 21:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-06 21:00`, resumed `2017-04-07 01:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-07 01:00`, resumed `2017-04-07 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-07 05:00`, resumed `2017-04-07 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-07 09:00`, resumed `2017-04-07 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-07 13:00`, resumed `2017-04-07 17:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-07 17:00`, resumed `2017-04-07 21:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-07 21:00`, resumed `2017-04-08 01:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-08 01:00`, resumed `2017-04-08 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-08 05:00`, resumed `2017-04-08 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-08 09:00`, resumed `2017-04-08 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-08 13:00`, resumed `2017-04-08 17:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-08 17:00`, resumed `2017-04-08 21:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-08 21:00`, resumed `2017-04-09 01:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-09 01:00`, resumed `2017-04-09 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-09 05:00`, resumed `2017-04-09 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-09 09:00`, resumed `2017-04-09 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-09 13:00`, resumed `2017-04-09 17:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-09 17:00`, resumed `2017-04-09 21:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-09 21:00`, resumed `2017-04-10 01:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-10 01:00`, resumed `2017-04-10 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-10 05:00`, resumed `2017-04-10 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-10 09:00`, resumed `2017-04-10 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-10 13:00`, resumed `2017-04-10 17:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-10 17:00`, resumed `2017-04-10 21:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-10 21:00`, resumed `2017-04-11 01:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-11 01:00`, resumed `2017-04-11 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-11 05:00`, resumed `2017-04-11 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-11 09:00`, resumed `2017-04-11 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-11 13:00`, resumed `2017-04-11 17:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-11 17:00`, resumed `2017-04-11 21:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-11 21:00`, resumed `2017-04-12 01:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-12 01:00`, resumed `2017-04-12 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-12 05:00`, resumed `2017-04-12 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-12 09:00`, resumed `2017-04-12 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-12 13:00`, resumed `2017-04-12 17:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-12 17:00`, resumed `2017-04-12 21:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-12 21:00`, resumed `2017-04-13 01:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-13 01:00`, resumed `2017-04-13 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-13 05:00`, resumed `2017-04-13 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-13 09:00`, resumed `2017-04-13 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-13 13:00`, resumed `2017-04-13 17:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-13 17:00`, resumed `2017-04-13 21:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-13 21:10`, resumed `2017-04-14 01:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-14 01:10`, resumed `2017-04-14 05:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-14 05:10`, resumed `2017-04-14 09:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-14 09:10`, resumed `2017-04-14 13:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-14 13:10`, resumed `2017-04-14 17:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-14 17:10`, resumed `2017-04-14 21:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-14 21:10`, resumed `2017-04-15 01:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-15 01:10`, resumed `2017-04-15 05:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-15 05:10`, resumed `2017-04-15 09:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-15 09:10`, resumed `2017-04-15 13:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-15 13:10`, resumed `2017-04-15 17:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-15 17:10`, resumed `2017-04-15 21:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-15 21:10`, resumed `2017-04-16 01:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-16 01:10`, resumed `2017-04-16 05:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-16 05:10`, resumed `2017-04-16 09:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-16 09:10`, resumed `2017-04-16 13:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-16 13:10`, resumed `2017-04-16 17:10` — missing 3 hour(s)
+- hourly gap: last `2017-04-16 17:10`, resumed `2017-04-16 21:00` — missing 2 hour(s)
+- hourly gap: last `2017-04-16 21:00`, resumed `2017-04-17 01:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-17 01:00`, resumed `2017-04-17 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-17 05:00`, resumed `2017-04-17 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-17 09:00`, resumed `2017-04-17 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-17 13:00`, resumed `2017-04-17 17:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-17 17:00`, resumed `2017-04-17 21:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-17 21:00`, resumed `2017-04-18 01:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-18 01:00`, resumed `2017-04-18 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-18 05:00`, resumed `2017-04-18 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-18 09:00`, resumed `2017-04-18 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-18 13:00`, resumed `2017-04-18 17:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-18 17:00`, resumed `2017-04-18 21:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-18 21:00`, resumed `2017-04-19 01:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-19 01:00`, resumed `2017-04-19 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-19 05:00`, resumed `2017-04-19 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-19 09:00`, resumed `2017-04-19 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-19 13:00`, resumed `2017-04-19 17:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-19 17:00`, resumed `2017-04-19 21:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-19 21:00`, resumed `2017-04-20 01:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-20 01:00`, resumed `2017-04-20 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-20 05:00`, resumed `2017-04-20 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-20 09:00`, resumed `2017-04-20 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-20 13:00`, resumed `2017-04-20 17:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-20 17:00`, resumed `2017-04-20 21:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-20 21:00`, resumed `2017-04-21 01:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-21 01:00`, resumed `2017-04-21 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-21 05:00`, resumed `2017-04-21 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-21 09:00`, resumed `2017-04-21 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-21 13:00`, resumed `2017-04-21 17:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-21 17:00`, resumed `2017-04-21 21:24` — missing 3 hour(s)
+- hourly gap: last `2017-04-21 21:24`, resumed `2017-04-22 01:00` — missing 2 hour(s)
+- hourly gap: last `2017-04-22 01:00`, resumed `2017-04-22 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-22 05:00`, resumed `2017-04-22 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-22 09:00`, resumed `2017-04-22 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-22 13:00`, resumed `2017-04-22 17:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-22 17:00`, resumed `2017-04-22 21:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-22 21:00`, resumed `2017-04-23 01:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-23 01:00`, resumed `2017-04-23 05:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-23 05:00`, resumed `2017-04-23 09:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-23 09:00`, resumed `2017-04-23 13:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-23 13:00`, resumed `2017-04-23 17:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-23 17:00`, resumed `2017-04-23 21:00` — missing 3 hour(s)
+
+## 3. Media objects file size histogram
+
+![The Walking Dead collection size histogram](figures/walking-dead-716-cumulative-detail-btiha-itemized-by-bytes.svg)
+
+## 4. Visualization pass — graphs
+
+### Downloads by week cumulative (normalized start)
+
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/walking-dead-716-downloads-by-week-walking-dead-716-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
+
+### Downloads by day, Saturday and Sunday in gray
+
+![walking-dead-716 downloads by day](figures/walking-dead-716-downloads-by-day-day.svg)
+
+## 5. Visualization pass — maps
+
+### Cumulative geographic slices
+
+| Africa | Americas | Asia | Europe | Oceania | Unknown |
+| --- | --- | --- | --- | --- | --- |
+| 2.37 | 18.75 | 13.70 | 18.26 | 4.62 | 0.36 |
+
+### Cumulative network infrastructure
+
+[![The Walking Dead cumulative map](figures/walking-dead-716-carto.png)](figures/walking-dead-716-carto-4k.webp){:target="_blank" rel="noopener"}
+
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+[![Cumulative >= 1080p](figures/walking-dead-716-data-ge-1080p.webp)](figures/walking-dead-716-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
+
+**Cumulative < 1080p**
+
+[![Cumulative < 1080p](figures/walking-dead-716-data-lt-1080p.webp)](figures/walking-dead-716-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
