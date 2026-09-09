@@ -1,0 +1,1339 @@
+{
+    "collection_name": "The Expanse",
+    "collection_id": "203",
+    "collection_key": "expanse-203",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+            "size_total": 1.697753605,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.002564184,
+                    "path": "The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00276561,
+                    "path": "The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001995196,
+                    "path": "The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002252823,
+                    "path": "The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.688174382,
+                    "path": "The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS/The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000141,
+                    "path": "The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS/The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS.nfo"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "size_total": 1.689413161,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3.1e-8,
+                    "path": "The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000053101,
+                    "path": "The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG/The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG-SDH.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 1.688287644,
+                    "path": "The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG/The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000004286,
+                    "path": "The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG/The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG.nfo"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000051335,
+                    "path": "The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG/The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG.srt"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "The.Expanse.S02E03.1080p.WEB.x264-HEAT [IPT]",
+            "size_total": 1.281223334,
+            "files_total": 28,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000001091,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.031220865,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.rar"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000001378,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT/the.expanse.s02e03.1080p.web.x264-heat.sfv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "The.Expanse.S02E03.1080p.WEB.x264-HEAT[rartv]-[rarbg.to]",
+            "size_total": 1.28121897,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.281217849,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT[rarbg]/the.expanse.s02e03.1080p.web.x264-heat.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000001091,
+                    "path": "The.Expanse.S02E03.1080p.WEB.x264-HEAT[rarbg]/the.expanse.s02e03.1080p.web.x264-heat.nfo"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "The.Expanse.S02E03.480p.x264-mSD [IPT]",
+            "size_total": 0.188147865,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000003203,
+                    "path": "The.Expanse.S02E03.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000233539,
+                    "path": "The.Expanse.S02E03.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000199622,
+                    "path": "The.Expanse.S02E03.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000218467,
+                    "path": "The.Expanse.S02E03.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.18749185300000001,
+                    "path": "The.Expanse.S02E03.480p.x264-mSD/The.Expanse.S02E03.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001181,
+                    "path": "The.Expanse.S02E03.480p.x264-mSD/The.Expanse.S02E03.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "The.Expanse.S02E03.720p.HDTV.x264-AVS [IPT]",
+            "size_total": 0.802553246,
+            "files_total": 19,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.9e-8,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.002552303,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.rar"
+                },
+                {
+                    "number": 19,
+                    "size": 8.84e-7,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS/the.expanse.s02e03.720p.hdtv.x264-avs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "The.Expanse.S02E03.720p.HDTV.x264-AVS[eztv]",
+            "size_total": 0.802550722,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.802550722,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "The.Expanse.S02E03.720p.HDTV.x264-AVS[PRiME]",
+            "size_total": 0.802551469,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.32e-7,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS[PRiME]/Please Support!! Read More!!!.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.802550722,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS[PRiME]/The.Expanse.S02E03.720p.HDTV.x264-AVS[PRiME].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.9e-8,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS[PRiME]/Torrent Downloaded From 1337x.to.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.46e-7,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS[PRiME]/Torrent Downloaded From ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "The.Expanse.S02E03.720p.HDTV.x264-AVS[rartv]-[rarbg.to]",
+            "size_total": 0.802550811,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.802550722,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS[rarbg]/The.Expanse.S02E03.720p.HDTV.x264-AVS.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.9e-8,
+                    "path": "The.Expanse.S02E03.720p.HDTV.x264-AVS[rarbg]/the.expanse.s02e03.720p.hdtv.x264-avs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "The.Expanse.S02E03.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.260756204,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001030581,
+                    "path": "The.Expanse.S02E03.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001291098,
+                    "path": "The.Expanse.S02E03.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000551825,
+                    "path": "The.Expanse.S02E03.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000623093,
+                    "path": "The.Expanse.S02E03.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.257258426,
+                    "path": "The.Expanse.S02E03.720p.HEVC.x265-MeGusta/The.Expanse.S02E03.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001181,
+                    "path": "The.Expanse.S02E03.720p.HEVC.x265-MeGusta/The.Expanse.S02E03.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "The.Expanse.S02E03.720p.WEB-DL.320MB.MkvCage",
+            "size_total": 0.337269754,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.337269754,
+                    "path": "The.Expanse.S02E03.720p.WEB-DL.320MB.MkvCage.mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+            "size_total": 1.347015079,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001320584,
+                    "path": "The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001424491,
+                    "path": "The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000971801,
+                    "path": "The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001052703,
+                    "path": "The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.342244093,
+                    "path": "The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS/The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001407,
+                    "path": "The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS/The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS.nfo"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "size_total": 1.343482866,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3.1e-8,
+                    "path": "The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000053101,
+                    "path": "The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-RARBG/The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-RARBG-SDH.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 1.342357352,
+                    "path": "The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-RARBG/The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-RARBG.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000004283,
+                    "path": "The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-RARBG/The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-RARBG.nfo"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000051335,
+                    "path": "The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-RARBG/The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-RARBG.srt"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "The.Expanse.S02E03.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.164230294,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00000497,
+                    "path": "The.Expanse.S02E03.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000264054,
+                    "path": "The.Expanse.S02E03.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00022376,
+                    "path": "The.Expanse.S02E03.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000241942,
+                    "path": "The.Expanse.S02E03.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.163494293,
+                    "path": "The.Expanse.S02E03.AAC.MP4-Mobile/The.Expanse.S02E03.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001275,
+                    "path": "The.Expanse.S02E03.AAC.MP4-Mobile/The.Expanse.S02E03.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "The.Expanse.S02E03.HDTV.x264-FLEET [IPT]",
+            "size_total": 0.257570445,
+            "files_total": 20,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.96e-7,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.002568867,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.015,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.rar"
+                },
+                {
+                    "number": 20,
+                    "size": 8.82e-7,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET/the.expanse.s02e03.hdtv.x264-fleet.sfv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "The.Expanse.S02E03.HDTV.x264-FLEET[eztv]",
+            "size_total": 0.257567103,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.257567103,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "The.Expanse.S02E03.HDTV.x264-FLEET[PRiME]",
+            "size_total": 0.25756785,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.32e-7,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET[PRiME]/Please Support!! Read More!!!.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.257567103,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET[PRiME]/The.Expanse.S02E03.HDTV.x264-FLEET[PRiME].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.9e-8,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET[PRiME]/Torrent Downloaded From 1337x.to.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.46e-7,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET[PRiME]/Torrent Downloaded From ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "The.Expanse.S02E03.HDTV.x264-FLEET[rartv]-[rarbg.to]",
+            "size_total": 0.257567829,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.257567103,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET[rarbg]/The.Expanse.S02E03.HDTV.x264-FLEET.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.96e-7,
+                    "path": "The.Expanse.S02E03.HDTV.x264-FLEET[rarbg]/the.expanse.s02e03.hdtv.x264-fleet.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "The.Expanse.S02E03.PROPER.HDTV.x264-KILLERS[ettv]",
+            "size_total": 0.255994742,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.255994573,
+                    "path": "The.Expanse.S02E03.PROPER.HDTV.x264-KILLERS[ettv]/The.Expanse.S02E03.PROPER.HDTV.x264-KILLERS[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.69e-7,
+                    "path": "The.Expanse.S02E03.PROPER.HDTV.x264-KILLERS[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "The.Expanse.S02E03.PROPER.HDTV.x264-KILLERS[eztv]",
+            "size_total": 0.255994573,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.255994573,
+                    "path": "The.Expanse.S02E03.PROPER.HDTV.x264-KILLERS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "The.Expanse.S02E03.PROPER.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+            "size_total": 0.256005534,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S02E03.PROPER.HDTV.x264-KILLERS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.255994573,
+                    "path": "The.Expanse.S02E03.PROPER.HDTV.x264-KILLERS[rarbg]/The.Expanse.S02E03.PROPER.HDTV.x264-KILLERS.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000010931,
+                    "path": "The.Expanse.S02E03.PROPER.HDTV.x264-KILLERS[rarbg]/the.expanse.s02e03.proper.hdtv.x264-killers.nfo"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "The.Expanse.S02E03.WEB-DL.x264-RARBG-[rarbg.to]",
+            "size_total": 0.265053491,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Expanse.S02E03.WEB-DL.x264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S02E03.WEB-DL.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00004838,
+                    "path": "The.Expanse.S02E03.WEB-DL.x264-RARBG/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000050018,
+                    "path": "The.Expanse.S02E03.WEB-DL.x264-RARBG/Subs/3_Eng.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.263934249,
+                    "path": "The.Expanse.S02E03.WEB-DL.x264-RARBG/The.Expanse.S02E03.WEB-DL.x264-RARBG.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000405,
+                    "path": "The.Expanse.S02E03.WEB-DL.x264-RARBG/The.Expanse.S02E03.WEB-DL.x264-RARBG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "The.Expanse.S02E03.WEB-DL.XviD-FUM [IPT]",
+            "size_total": 0.365640322,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000323132,
+                    "path": "The.Expanse.S02E03.WEB-DL.XviD-FUM/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000366544,
+                    "path": "The.Expanse.S02E03.WEB-DL.XviD-FUM/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.0001454,
+                    "path": "The.Expanse.S02E03.WEB-DL.XviD-FUM/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000202591,
+                    "path": "The.Expanse.S02E03.WEB-DL.XviD-FUM/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.364601308,
+                    "path": "The.Expanse.S02E03.WEB-DL.XviD-FUM/The.Expanse.S02E03.WEB-DL.XviD-FUM.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001347,
+                    "path": "The.Expanse.S02E03.WEB-DL.XviD-FUM/The.Expanse.S02E03.WEB-DL.XviD-FUM.nfo"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "The.Expanse.S02E03.WEB-DL.XviD-FUM[ettv]",
+            "size_total": 0.364601597,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.364601308,
+                    "path": "The.Expanse.S02E03.WEB-DL.XviD-FUM[ettv]/The.Expanse.S02E03.WEB-DL.XviD-FUM[ettv].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 2.89e-7,
+                    "path": "The.Expanse.S02E03.WEB-DL.XviD-FUM[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "The.Expanse.S02E03.XviD-AFG [IPT]",
+            "size_total": 0.412028268,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000003791,
+                    "path": "The.Expanse.S02E03.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000285991,
+                    "path": "The.Expanse.S02E03.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000212194,
+                    "path": "The.Expanse.S02E03.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000242791,
+                    "path": "The.Expanse.S02E03.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.411282346,
+                    "path": "The.Expanse.S02E03.XviD-AFG/The.Expanse.S02E03.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001155,
+                    "path": "The.Expanse.S02E03.XviD-AFG/The.Expanse.S02E03.XviD-AFG.nfo"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 19,
+            "name": "The.Expanse.S02E03.PROPER.HDTV.x264-KILLERS[ettv]",
+            "btih": "6f37c70d784f9832e2f8b3c50d9acef766523c8c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.255994742,
+            "creation": "2017-02-09T07:50:07.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 68126,
+            "uuploaders": 44887
+        },
+        {
+            "id": 7,
+            "name": "The.Expanse.S02E03.720p.HDTV.x264-AVS[eztv]",
+            "btih": "4821e6f251ad32453542c1ad8f5bb1c190a4985f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.802550722,
+            "creation": "2017-02-09T04:09:21.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20355,
+            "uuploaders": 11263
+        },
+        {
+            "id": 24,
+            "name": "The.Expanse.S02E03.WEB-DL.XviD-FUM[ettv]",
+            "btih": "c0f429c00e60d058cdb81e3bc78335530209bb25",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.364601597,
+            "creation": "2017-02-09T12:58:16.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19588,
+            "uuploaders": 11107
+        },
+        {
+            "id": 9,
+            "name": "The.Expanse.S02E03.720p.HDTV.x264-AVS[rartv]-[rarbg.to]",
+            "btih": "c4a0009813b8b120f94f45e5b93a8aee9b9738e7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.802550811,
+            "creation": "2017-02-09T03:49:11.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 18358,
+            "uuploaders": 9958
+        },
+        {
+            "id": 2,
+            "name": "The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "btih": "ae2350ddb39d29920959b396aa3d283799f429a6",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.689413161,
+            "creation": "2017-02-09T09:03:01.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12880,
+            "uuploaders": 5997
+        },
+        {
+            "id": 20,
+            "name": "The.Expanse.S02E03.PROPER.HDTV.x264-KILLERS[eztv]",
+            "btih": "43fe4c57a02599c8e3572a8e843dbcb13dddd2ab",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.255994573,
+            "creation": "2017-02-09T07:50:11.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11755,
+            "uuploaders": 6337
+        },
+        {
+            "id": 17,
+            "name": "The.Expanse.S02E03.HDTV.x264-FLEET[PRiME]",
+            "btih": "126660107cfec24bfe0a02e4152c55f9819944a5",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.25756785,
+            "creation": "2017-02-09T04:22:12.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11366,
+            "uuploaders": 5453
+        },
+        {
+            "id": 8,
+            "name": "The.Expanse.S02E03.720p.HDTV.x264-AVS[PRiME]",
+            "btih": "dfb8ca7ac56969c78f62fe2478724c3f71470020",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.802551469,
+            "creation": "2017-02-09T04:14:00.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9994,
+            "uuploaders": 5052
+        },
+        {
+            "id": 18,
+            "name": "The.Expanse.S02E03.HDTV.x264-FLEET[rartv]-[rarbg.to]",
+            "btih": "6472065dfce1c5ca9c43f9ed9d13a575bcae8e46",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.257567829,
+            "creation": "2017-02-09T03:57:42.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8911,
+            "uuploaders": 4074
+        },
+        {
+            "id": 16,
+            "name": "The.Expanse.S02E03.HDTV.x264-FLEET[eztv]",
+            "btih": "8245ad5eb2dc2e7be635c361f3a5c073ff5127e9",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.257567103,
+            "creation": "2017-02-09T09:26:05.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6436,
+            "uuploaders": 3197
+        },
+        {
+            "id": 13,
+            "name": "The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "btih": "7f3712dfe4aa2053f512ba14cd0c0f30e793cf81",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.343482866,
+            "creation": "2017-02-09T08:36:56.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5178,
+            "uuploaders": 2067
+        },
+        {
+            "id": 21,
+            "name": "The.Expanse.S02E03.PROPER.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+            "btih": "cb0372bcadc40a616edde807d28a0996f39babfe",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.256005534,
+            "creation": "2017-02-09T07:35:38.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4811,
+            "uuploaders": 1496
+        },
+        {
+            "id": 6,
+            "name": "The.Expanse.S02E03.720p.HDTV.x264-AVS [IPT]",
+            "btih": "f7eefef4c3dce447ae52b23d29906343a46e710a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.802553246,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4583,
+            "uuploaders": 2749
+        },
+        {
+            "id": 11,
+            "name": "The.Expanse.S02E03.720p.WEB-DL.320MB.MkvCage",
+            "btih": "426ad66270e5d7ac8bcead89188e3c68d61cadbf",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.337269754,
+            "creation": "2017-02-09T12:57:21.000000000Z,uTorrent/2210,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3381,
+            "uuploaders": 1818
+        },
+        {
+            "id": 4,
+            "name": "The.Expanse.S02E03.1080p.WEB.x264-HEAT[rartv]-[rarbg.to]",
+            "btih": "6fe8ce8748ba8e8f87bad73c42277e92316071b2",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.28121897,
+            "creation": "2017-02-09T13:15:10.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3224,
+            "uuploaders": 1294
+        },
+        {
+            "id": 22,
+            "name": "The.Expanse.S02E03.WEB-DL.x264-RARBG-[rarbg.to]",
+            "btih": "5c91536ab823a1d2d74f8cca99fbf50feb472bb4",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.265053491,
+            "creation": "2017-02-09T09:20:26.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2577,
+            "uuploaders": 909
+        },
+        {
+            "id": 1,
+            "name": "The.Expanse.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+            "btih": "93d429f4a2eed681aa748a4426edf3a9c0b59ae6",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.697753605,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1477,
+            "uuploaders": 482
+        },
+        {
+            "id": 25,
+            "name": "The.Expanse.S02E03.XviD-AFG [IPT]",
+            "btih": "9f8e343a7e104d181ee2f90547e3c3a78f943c61",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.412028268,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1234,
+            "uuploaders": 558
+        },
+        {
+            "id": 15,
+            "name": "The.Expanse.S02E03.HDTV.x264-FLEET [IPT]",
+            "btih": "433aa8b08e0e5109d8a3c514bc22ee0ebae4f2ad",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.257570445,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1086,
+            "uuploaders": 452
+        },
+        {
+            "id": 3,
+            "name": "The.Expanse.S02E03.1080p.WEB.x264-HEAT [IPT]",
+            "btih": "5194daa98712d18622dde734bb969760efd84757",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.281223334,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 821,
+            "uuploaders": 335
+        },
+        {
+            "id": 12,
+            "name": "The.Expanse.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+            "btih": "fff9e029e14ea269ddceccd3fcd206f5d651911b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.347015079,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 691,
+            "uuploaders": 262
+        },
+        {
+            "id": 10,
+            "name": "The.Expanse.S02E03.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "accbfbe4973d7eab6ed24a038265f58d8838be9f",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.260756204,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 670,
+            "uuploaders": 299
+        },
+        {
+            "id": 5,
+            "name": "The.Expanse.S02E03.480p.x264-mSD [IPT]",
+            "btih": "2aad1764164fa6a6563364cb3fb0cb5de7836e6d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.188147865,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 386,
+            "uuploaders": 189
+        },
+        {
+            "id": 23,
+            "name": "The.Expanse.S02E03.WEB-DL.XviD-FUM [IPT]",
+            "btih": "b407579ac3dd946268fdf61041bdca3cbd1a3ea2",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.365640322,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 242,
+            "uuploaders": 141
+        },
+        {
+            "id": 14,
+            "name": "The.Expanse.S02E03.AAC.MP4-Mobile [IPT]",
+            "btih": "8b3ee8b06523b83c7961c68d0a078537b5d170f6",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.164230294,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 173,
+            "uuploaders": 84
+        }
+    ]
+}
