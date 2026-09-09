@@ -1,0 +1,309 @@
+{
+    "collection_name": "The Good Fight",
+    "collection_id": "108",
+    "collection_key": "good-fight-108",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "sample_duration": "2017-04-02-to-2017-04-08",
+    "sample_days": 7,
+    "sample_year_start": 2017,
+    "sample_year_end": 2017,
+    "sample_day_year_start": 92,
+    "sample_day_year_end": 98,
+    "collection_week": [
+        {
+    "number": "week-00001",
+    "btiha_size": 13,
+    "udownloaders_total": 80810,
+    "uuploaders_total": 45887
+}
+    ],
+    "collection_week_by_btiha": [
+        [
+    {
+        "id": 8,
+        "name": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE[ettv]",
+        "btih": "82da3b5f2b6d2831f4210639c21a8abefe61ec17",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.379703124,
+        "creation": "2017-04-02T18:36:08.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 51254,
+        "uuploaders": 31748
+    },
+    {
+        "id": 4,
+        "name": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE[ettv]",
+        "btih": "9f2a8d87194b7eedc8bce37e3117609780cd242e",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.300099611,
+        "creation": "2017-04-02T18:34:12.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7963,
+        "uuploaders": 4889
+    },
+    {
+        "id": 5,
+        "name": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE[rartv]-[rarbg.to]",
+        "btih": "e3b730f33af65b2cfc4e717b8f86dd3617798ecf",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.300100022,
+        "creation": "2017-04-02T18:29:59.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7003,
+        "uuploaders": 2275
+    },
+    {
+        "id": 12,
+        "name": "The.Good.Fight.S01E08.WEBRip.XviD-FUM[ettv]-[rarbg.to]",
+        "btih": "641ec87635074ba96fdd899d7e2876a616d2adc1",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.418686503,
+        "creation": "2017-04-04T03:24:08.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6961,
+        "uuploaders": 3895
+    },
+    {
+        "id": 9,
+        "name": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE[rartv]-[rarbg.to]",
+        "btih": "d588fe6aeb2528670d6a87da9689d6ee2dd5d12e",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.379703525,
+        "creation": "2017-04-02T18:31:16.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4103,
+        "uuploaders": 1482
+    },
+    {
+        "id": 10,
+        "name": "The.Good.Fight.S01E08.WEBRip.X264-RARBG-[rarbg.to]",
+        "btih": "e077a294355e3e213846abfd6a8abb4c6923973c",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.44660649,
+        "creation": "2017-04-02T18:41:49.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1805,
+        "uuploaders": 728
+    },
+    {
+        "id": 3,
+        "name": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE [IPT]",
+        "btih": "8d86b7cbfa4289c681399007c6eeddc936b46d0e",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.300104918,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 624,
+        "uuploaders": 290
+    },
+    {
+        "id": 13,
+        "name": "The.Good.Fight.S01E08.XviD-AFG [IPT]",
+        "btih": "dbe3bb611b8869b41933b1410e01a0cf1adcb42e",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.36851357,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 443,
+        "uuploaders": 255
+    },
+    {
+        "id": 2,
+        "name": "The.Good.Fight.S01E08.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "d56878308985361565af0761ed1d8ad4799ca4c0",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.225238082,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 192,
+        "uuploaders": 90
+    },
+    {
+        "id": 1,
+        "name": "The.Good.Fight.S01E08.480p.x264-mSD [IPT]",
+        "btih": "262ec635fa3692aa9fe7f60987cb05e999627ec0",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.178707598,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 163,
+        "uuploaders": 73
+    },
+    {
+        "id": 6,
+        "name": "The.Good.Fight.S01E08.AAC.MP4-Mobile [IPT]",
+        "btih": "d9751ad1be7e4e8bc29583ab76baee601cce9c6c",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.143745262,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 117,
+        "uuploaders": 66
+    },
+    {
+        "id": 7,
+        "name": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE [IPT]",
+        "btih": "2bd51d720c8c8aec65c1601c1d4499a6cee72555",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.379707993,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 112,
+        "uuploaders": 57
+    },
+    {
+        "id": 11,
+        "name": "The.Good.Fight.S01E08.WEBRip.XviD-FUM [IPT]",
+        "btih": "c3788bd1450123e288a62b3c998c6a9dbc1e303e",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.419659078,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 70,
+        "uuploaders": 39
+    }
+]
+    ],
+    "collection_week_by_country": [
+        [
+    {
+        "number": "BRA_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 2929,
+        "uuploaders_total": 1830
+    },
+    {
+        "number": "CAN_week_1",
+        "btiha_size": 13,
+        "udownloaders_total": 4569,
+        "uuploaders_total": 2634
+    },
+    {
+        "number": "CHN_week_1",
+        "btiha_size": 8,
+        "udownloaders_total": 3170,
+        "uuploaders_total": 986
+    },
+    {
+        "number": "DEU_week_1",
+        "btiha_size": 10,
+        "udownloaders_total": 748,
+        "uuploaders_total": 410
+    },
+    {
+        "number": "ESP_week_1",
+        "btiha_size": 8,
+        "udownloaders_total": 3050,
+        "uuploaders_total": 1754
+    },
+    {
+        "number": "FRA_week_1",
+        "btiha_size": 13,
+        "udownloaders_total": 1659,
+        "uuploaders_total": 1067
+    },
+    {
+        "number": "HKG_week_1",
+        "btiha_size": 7,
+        "udownloaders_total": 608,
+        "uuploaders_total": 357
+    },
+    {
+        "number": "JPN_week_1",
+        "btiha_size": 8,
+        "udownloaders_total": 257,
+        "uuploaders_total": 128
+    },
+    {
+        "number": "KOR_week_1",
+        "btiha_size": 7,
+        "udownloaders_total": 1935,
+        "uuploaders_total": 899
+    },
+    {
+        "number": "MEX_week_1",
+        "btiha_size": 7,
+        "udownloaders_total": 467,
+        "uuploaders_total": 310
+    },
+    {
+        "number": "NLD_week_1",
+        "btiha_size": 13,
+        "udownloaders_total": 4087,
+        "uuploaders_total": 1797
+    },
+    {
+        "number": "RUS_week_1",
+        "btiha_size": 6,
+        "udownloaders_total": 488,
+        "uuploaders_total": 287
+    },
+    {
+        "number": "SWE_week_1",
+        "btiha_size": 11,
+        "udownloaders_total": 1038,
+        "uuploaders_total": 574
+    },
+    {
+        "number": "TUR_week_1",
+        "btiha_size": 8,
+        "udownloaders_total": 402,
+        "uuploaders_total": 247
+    },
+    {
+        "number": "UKR_week_1",
+        "btiha_size": 6,
+        "udownloaders_total": 130,
+        "uuploaders_total": 69
+    },
+    {
+        "number": "USA_week_1",
+        "btiha_size": 13,
+        "udownloaders_total": 10521,
+        "uuploaders_total": 5435
+    }
+]
+    ]
+}

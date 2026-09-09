@@ -1,0 +1,825 @@
+{
+    "collection_name": "The Good Fight",
+    "collection_id": "108",
+    "collection_key": "good-fight-108",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "The.Good.Fight.S01E08.480p.x264-mSD [IPT]",
+            "size_total": 0.178707598,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000140735,
+                    "path": "The.Good.Fight.S01E08.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000146377,
+                    "path": "The.Good.Fight.S01E08.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00021368,
+                    "path": "The.Good.Fight.S01E08.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000132228,
+                    "path": "The.Good.Fight.S01E08.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.178073393,
+                    "path": "The.Good.Fight.S01E08.480p.x264-mSD/The.Good.Fight.S01E08.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001185,
+                    "path": "The.Good.Fight.S01E08.480p.x264-mSD/The.Good.Fight.S01E08.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "The.Good.Fight.S01E08.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.225238082,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000479811,
+                    "path": "The.Good.Fight.S01E08.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001020549,
+                    "path": "The.Good.Fight.S01E08.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000649394,
+                    "path": "The.Good.Fight.S01E08.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001102179,
+                    "path": "The.Good.Fight.S01E08.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.22198496,
+                    "path": "The.Good.Fight.S01E08.720p.HEVC.x265-MeGusta/The.Good.Fight.S01E08.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001189,
+                    "path": "The.Good.Fight.S01E08.720p.HEVC.x265-MeGusta/The.Good.Fight.S01E08.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE [IPT]",
+            "size_total": 1.300104918,
+            "files_total": 29,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.35e-7,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000102736,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.rar"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000001647,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e08.720p.webrip.x264-deflate.sfv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE[ettv]",
+            "size_total": 1.300099611,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.300099442,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE[ettv]/The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.69e-7,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE[rartv]-[rarbg.to]",
+            "size_total": 1.300100022,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.300099442,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE[rarbg]/The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.5e-7,
+                    "path": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE[rarbg]/the.good.fight.s01e08.720p.webrip.x264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "The.Good.Fight.S01E08.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.143745262,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000146818,
+                    "path": "The.Good.Fight.S01E08.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000145269,
+                    "path": "The.Good.Fight.S01E08.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000216279,
+                    "path": "The.Good.Fight.S01E08.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000130159,
+                    "path": "The.Good.Fight.S01E08.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.143105461,
+                    "path": "The.Good.Fight.S01E08.AAC.MP4-Mobile/The.Good.Fight.S01E08.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001276,
+                    "path": "The.Good.Fight.S01E08.AAC.MP4-Mobile/The.Good.Fight.S01E08.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE [IPT]",
+            "size_total": 0.379707993,
+            "files_total": 28,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.4e-7,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.004705997,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.rar"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000001456,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE/the.good.fight.s01e08.webrip.x264-deflate.sfv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE[ettv]",
+            "size_total": 0.379703124,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.379702955,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE[ettv]/The.Good.Fight.S01E08.WEBRip.X264-DEFLATE[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.69e-7,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE[rartv]-[rarbg.to]",
+            "size_total": 0.379703525,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.379702955,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE[rarbg]/The.Good.Fight.S01E08.WEBRip.X264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.4e-7,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE[rarbg]/the.good.fight.s01e08.webrip.x264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "The.Good.Fight.S01E08.WEBRip.X264-RARBG-[rarbg.to]",
+            "size_total": 0.44660649,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000067039,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-RARBG/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000072713,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-RARBG/Subs/3_Eng.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.445445917,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-RARBG/The.Good.Fight.S01E08.WEBRip.X264-RARBG.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000004027,
+                    "path": "The.Good.Fight.S01E08.WEBRip.X264-RARBG/The.Good.Fight.S01E08.WEBRip.X264-RARBG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "The.Good.Fight.S01E08.WEBRip.XviD-FUM [IPT]",
+            "size_total": 0.419659078,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000125506,
+                    "path": "The.Good.Fight.S01E08.WEBRip.XviD-FUM/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000286847,
+                    "path": "The.Good.Fight.S01E08.WEBRip.XviD-FUM/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000213121,
+                    "path": "The.Good.Fight.S01E08.WEBRip.XviD-FUM/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000345844,
+                    "path": "The.Good.Fight.S01E08.WEBRip.XviD-FUM/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.418686214,
+                    "path": "The.Good.Fight.S01E08.WEBRip.XviD-FUM/The.Good.Fight.S01E08.WEBRip.XviD-FUM.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001546,
+                    "path": "The.Good.Fight.S01E08.WEBRip.XviD-FUM/The.Good.Fight.S01E08.WEBRip.XviD-FUM.nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "The.Good.Fight.S01E08.WEBRip.XviD-FUM[ettv]-[rarbg.to]",
+            "size_total": 0.418686503,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.418686214,
+                    "path": "The.Good.Fight.S01E08.WEBRip.XviD-FUM[ettv]/The.Good.Fight.S01E08.WEBRip.XviD-FUM[ettv].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 2.89e-7,
+                    "path": "The.Good.Fight.S01E08.WEBRip.XviD-FUM[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "The.Good.Fight.S01E08.XviD-AFG [IPT]",
+            "size_total": 0.36851357,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000146058,
+                    "path": "The.Good.Fight.S01E08.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000166163,
+                    "path": "The.Good.Fight.S01E08.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000233461,
+                    "path": "The.Good.Fight.S01E08.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000135861,
+                    "path": "The.Good.Fight.S01E08.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.36783087,
+                    "path": "The.Good.Fight.S01E08.XviD-AFG/The.Good.Fight.S01E08.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001157,
+                    "path": "The.Good.Fight.S01E08.XviD-AFG/The.Good.Fight.S01E08.XviD-AFG.nfo"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 8,
+            "name": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE[ettv]",
+            "btih": "82da3b5f2b6d2831f4210639c21a8abefe61ec17",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.379703124,
+            "creation": "2017-04-02T18:36:08.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 51254,
+            "uuploaders": 31748
+        },
+        {
+            "id": 4,
+            "name": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE[ettv]",
+            "btih": "9f2a8d87194b7eedc8bce37e3117609780cd242e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.300099611,
+            "creation": "2017-04-02T18:34:12.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7963,
+            "uuploaders": 4889
+        },
+        {
+            "id": 5,
+            "name": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE[rartv]-[rarbg.to]",
+            "btih": "e3b730f33af65b2cfc4e717b8f86dd3617798ecf",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.300100022,
+            "creation": "2017-04-02T18:29:59.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7003,
+            "uuploaders": 2275
+        },
+        {
+            "id": 12,
+            "name": "The.Good.Fight.S01E08.WEBRip.XviD-FUM[ettv]-[rarbg.to]",
+            "btih": "641ec87635074ba96fdd899d7e2876a616d2adc1",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.418686503,
+            "creation": "2017-04-04T03:24:08.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6961,
+            "uuploaders": 3895
+        },
+        {
+            "id": 9,
+            "name": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE[rartv]-[rarbg.to]",
+            "btih": "d588fe6aeb2528670d6a87da9689d6ee2dd5d12e",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.379703525,
+            "creation": "2017-04-02T18:31:16.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4103,
+            "uuploaders": 1482
+        },
+        {
+            "id": 10,
+            "name": "The.Good.Fight.S01E08.WEBRip.X264-RARBG-[rarbg.to]",
+            "btih": "e077a294355e3e213846abfd6a8abb4c6923973c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.44660649,
+            "creation": "2017-04-02T18:41:49.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1805,
+            "uuploaders": 728
+        },
+        {
+            "id": 3,
+            "name": "The.Good.Fight.S01E08.720p.WEBRip.X264-DEFLATE [IPT]",
+            "btih": "8d86b7cbfa4289c681399007c6eeddc936b46d0e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.300104918,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 624,
+            "uuploaders": 290
+        },
+        {
+            "id": 13,
+            "name": "The.Good.Fight.S01E08.XviD-AFG [IPT]",
+            "btih": "dbe3bb611b8869b41933b1410e01a0cf1adcb42e",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.36851357,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 443,
+            "uuploaders": 255
+        },
+        {
+            "id": 2,
+            "name": "The.Good.Fight.S01E08.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "d56878308985361565af0761ed1d8ad4799ca4c0",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.225238082,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 192,
+            "uuploaders": 90
+        },
+        {
+            "id": 1,
+            "name": "The.Good.Fight.S01E08.480p.x264-mSD [IPT]",
+            "btih": "262ec635fa3692aa9fe7f60987cb05e999627ec0",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.178707598,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 163,
+            "uuploaders": 73
+        },
+        {
+            "id": 6,
+            "name": "The.Good.Fight.S01E08.AAC.MP4-Mobile [IPT]",
+            "btih": "d9751ad1be7e4e8bc29583ab76baee601cce9c6c",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.143745262,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 117,
+            "uuploaders": 66
+        },
+        {
+            "id": 7,
+            "name": "The.Good.Fight.S01E08.WEBRip.X264-DEFLATE [IPT]",
+            "btih": "2bd51d720c8c8aec65c1601c1d4499a6cee72555",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.379707993,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 112,
+            "uuploaders": 57
+        },
+        {
+            "id": 11,
+            "name": "The.Good.Fight.S01E08.WEBRip.XviD-FUM [IPT]",
+            "btih": "c3788bd1450123e288a62b3c998c6a9dbc1e303e",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.419659078,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 70,
+            "uuploaders": 39
+        }
+    ]
+}

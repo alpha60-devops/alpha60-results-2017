@@ -1,0 +1,177 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt5853176",
+    "imdb_id": "tt5853176",
+    "revision": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec",
+    "wikidata_id": "Q28052823",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Good_Fight"
+  },
+  "coverage_sha256": "6602a277de7e4f611492028a28e0a6b2f360051236533917ee0a5ca1fa76af70",
+  "generated_at": "2026-09-09T02:11:05.235007+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/good-fight-108.cache/cache.20170408.tar.xz",
+      "sha256": "7ef27a70e96b7cdfcdeb85bd976ee5c9f7e455094effd3b7dfc5cfa497f0f04a",
+      "size": 4009248
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-coverage-evidence/good-fight-108.md",
+      "sha256": "fd54381389ce64692792efcfc2ef9d972a22b3f1d10dbe711e63749ac1cb3a66",
+      "size": 3528
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-cache-stream-receipts/good-fight-108.json",
+      "sha256": "01b37b111fbbef4eb8d98aac26b23c03abfd1b9153f8b065084f94b05c276c5a",
+      "size": 2019
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-product-receipts/good-fight-108.json",
+      "sha256": "96d975c352ac462d8cf8ff792fa1220f584bfef4d86f2b3cf7f1df4e5f0cb952",
+      "size": 364
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+      "sha256": "a8b61a3da60ab34c0dc9dbbddfdd3267e4c8461177e747c8ad4038d63e39c8f8",
+      "size": 57579
+    }
+  },
+  "media_object": "good-fight-108",
+  "published_files": {
+    "data/csv/bytes/good-fight-108-cumulative-detail.2017-btiha-itemized-by-bytes.csv": "977a3613b7e5c241d4664627c26b0b33b27c74340ec8ab02080716312ddd1415",
+    "docs/itemized/figures/good-fight-108-carto-4k.webp": "3c2ea6f0350f87fe93f7eb3e835c806328a87c0a0a8268ea50613c06aeb70f8d",
+    "docs/itemized/figures/good-fight-108-carto.png": "f5fd489361da65d15029761dbf015780686d04000a6176e108df56061e2663cf",
+    "docs/itemized/figures/good-fight-108-cumulative-detail-btiha-itemized-by-bytes.svg": "f023d1c30ca28151589f23c3c816df15d4f88a13e462ec7f047187b88e1924d3",
+    "docs/itemized/figures/good-fight-108-data-lt-1080p-4k.webp": "b60e11574b3e8f4c1199d512618e3607466168ae61991bc7fffe23ca3c24326e",
+    "docs/itemized/figures/good-fight-108-data-lt-1080p.webp": "a27c693e530cfed9c881f204a1b266539da99085240df36e99e578965b8bac25",
+    "docs/itemized/figures/good-fight-108-downloads-by-day-day.svg": "05519b6c169313c2b8bf61bf6e23443d83786ec3c5c8aac7cafbd9b652b18403",
+    "docs/itemized/figures/good-fight-108-downloads-by-week-good-fight-108-week.svg": "15da5908ded948610ca834cf58db65ff686a1cd6aa71cbf5ab5eced6c8f7119c",
+    "docs/itemized/good-fight-108-sample-cache-audit.md": "4321de8b8a72cb95c2503560604184ef612a85e38ef0286ff03d58dbf150da33",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c4cf3fa8e710f9727ab3f7110f6e55b0b8d74b61",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/good-fight-108/tmp/good-fight-108-cumulative-btiha.geojson",
+        "sha256": "fffe849011daf1d46083f8b7b98d4bf6170f16c4c798239c1751dd231772050c",
+        "size": 1617757
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/good-fight-108/tmp/good-fight-108-cumulative-btiha-media-objects.json",
+        "sha256": "e7a6e38f8443a9aa040d10bd1733154023f8b268a5b7d62e416b420b59899587",
+        "size": 33111
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "good-fight-108",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ab772c6b939273917d09e58bf50d549242f5a563ff3a1f62dc4d48f4407ae276",
+      "size": 595200
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "reason": "no collection members at 1080p or 2160 resolution",
+        "status": "skipped-empty-partition"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          55.0,
+          50.0,
+          33.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Lelystad",
+          "Seoul",
+          "Amsterdam",
+          "Toronto",
+          "Shanghai",
+          "Sydney",
+          "New York City",
+          "Melbourne",
+          "Cape Town"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 7,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 8,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 1,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c4cf3fa8e710f9727ab3f7110f6e55b0b8d74b61",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "9118dcee59582140eaf9b1224b053ff5bea0330d",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2017"
+}
