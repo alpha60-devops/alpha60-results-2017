@@ -1,0 +1,3961 @@
+{
+    "collection_name": "Game of Thrones",
+    "collection_id": "702",
+    "collection_key": "game-of-thrones-702",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "5d97a27e88f2ad5621fee52b694d5f10494159fe",
+            "duplicate_0_0": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS[rarbg]",
+            "duplicate_0_1": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "c004a147b4c87286bd914f08a46262e2032a19ca",
+            "duplicate_1_0": "Game.of.Thrones.S07E02.Stormborn-torrentcounter.cc",
+            "duplicate_1_1": "Game.of.Thrones.S07E02.Stormborn.[Torrentcounter.cc]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[rutor.is]Game.of.Thrones.S07.720p.SunshineStudio",
+            "size_total": 1.855934656,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.954087095,
+                    "path": "Game.of.Thrones.S07.720p.SunshineStudio/Game.of.Thrones.S07E01.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.901847561,
+                    "path": "Game.of.Thrones.S07.720p.SunshineStudio/Game.of.Thrones.S07E02.720p.SunshineStudio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]GOT_Season_07_DUB",
+            "size_total": 1.540904047,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000056497,
+                    "path": "GOT (Season 07) DUB/Subtitles/GOT.(S07E01).XviD.DUB.(qqss44).srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000047425,
+                    "path": "GOT (Season 07) DUB/Subtitles/GOT.(S07E01).XviD.DUB.(qqss44)_eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000060323,
+                    "path": "GOT (Season 07) DUB/Subtitles/GOT.(S07E02).XviD.DUB.(qqss44).srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00005193,
+                    "path": "GOT (Season 07) DUB/Subtitles/GOT.(S07E02).XviD.DUB.(qqss44)_eng.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.77728768,
+                    "path": "GOT (Season 07) DUB/GOT.(S07E01).XviD.DUB.(qqss44).avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.763400192,
+                    "path": "GOT (Season 07) DUB/GOT.(S07E02).XviD.DUB.(qqss44).avi"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]GOT_Season_07_DUB_1080",
+            "size_total": 7.309734941,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.584435515,
+                    "path": "GOT (Season 07) DUB 1080/GOT.(S07E01).HD1080.DUB.(qqss44).mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.725299426,
+                    "path": "GOT (Season 07) DUB 1080/GOT.(S07E02).HD1080.DUB.(qqss44).mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]GOT_Season_07_DUB_720.",
+            "size_total": 2.533086054,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.266734626,
+                    "path": "GOT (Season 07) DUB 720/GOT.(S07E01).HD720.DUB.(qqss44).mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.266351428,
+                    "path": "GOT (Season 07) DUB 720/GOT.(S07E02).HD720.DUB.(qqss44).mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Game of Thrones 2017 – S07E02 [1080p] [WEB-DL] WWW.BLUDV.COM",
+            "size_total": 1.761570916,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.56e-7,
+                    "path": "Game of Thrones 2017 – S07E02 [1080p] [WEB-DL] WWW.BLUDV.COM/Leia.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000045761,
+                    "path": "Game of Thrones 2017 – S07E02 [1080p] [WEB-DL] WWW.BLUDV.COM/Game.of.Thrones.S07E02.1080p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.018399062,
+                    "path": "Game of Thrones 2017 – S07E02 [1080p] [WEB-DL] WWW.BLUDV.COM/BLUDV.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 1.743125937,
+                    "path": "Game of Thrones 2017 – S07E02 [1080p] [WEB-DL] WWW.BLUDV.COM/Game.of.Thrones.S07E02.1080p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Game of Thrones 2017 – S07E02 [WEB-DL 1080p - MP4] WWW.BLUDV.COM",
+            "size_total": 1.648750857,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.56e-7,
+                    "path": "Game of Thrones 2017 – S07E02 [WEB-DL 1080p - MP4] WWW.BLUDV.COM/Leia.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.018399062,
+                    "path": "Game of Thrones 2017 – S07E02 [WEB-DL 1080p - MP4] WWW.BLUDV.COM/BLUDV.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 1.630351639,
+                    "path": "Game of Thrones 2017 – S07E02 [WEB-DL 1080p - MP4] WWW.BLUDV.COM/Game.of.Thrones.S07E02.1080p.WEB-DL.x264.DUBLADO-WWW.BLUDV.COM.mp4"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Game of Thrones 2017 – S07E02 [WEB-DL] WWW.BLUDV.COM12",
+            "size_total": 1.41238255,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.56e-7,
+                    "path": "Game of Thrones 2017 – S07E02 [WEB-DL] WWW.BLUDV.COM/Leia.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000045905,
+                    "path": "Game of Thrones 2017 – S07E02 [WEB-DL] WWW.BLUDV.COM/Game.of.Thrones.S07E02.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.018399062,
+                    "path": "Game of Thrones 2017 – S07E02 [WEB-DL] WWW.BLUDV.COM/BLUDV.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 1.393937427,
+                    "path": "Game of Thrones 2017 – S07E02 [WEB-DL] WWW.BLUDV.COM/Game.of.Thrones.S07E02.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Game of Thrones S07E02 1080p WEBRip DD 5.1-LOKI-M2Tv",
+            "size_total": 1.112274887,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.09354895,
+                    "path": "Game of Thrones S07E02 1080p WEBRip DD 5.1-LOKI-M2Tv/Game of Thrones S07E02 1080p WEBRip DD 5.1-LOKI-M2Tv.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.018725836,
+                    "path": "Game of Thrones S07E02 1080p WEBRip DD 5.1-LOKI-M2Tv/Sample.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.6e-8,
+                    "path": "Game of Thrones S07E02 1080p WEBRip DD 5.1-LOKI-M2Tv/Torrent downloaded from www.DNoid.me - Demonoid.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.5e-8,
+                    "path": "Game of Thrones S07E02 1080p WEBRip DD 5.1-LOKI-M2Tv/A M2Tv Exclusive Releases.txt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Game of Thrones S07E02 720p HDTV - 450MB - Zaeem",
+            "size_total": 0.471501527,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.471501527,
+                    "path": "Game of Thrones S07E02 720p HDTV - 450MB - Zaeem/Game of Thrones S07E02 720p HDTV - 450MB - Zaeem.mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Game of Thrones S07E02 HDTV 720p Sub Ita x264-NAHOM",
+            "size_total": 2.05878605,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.6e-8,
+                    "path": "Game of Thrones S07E02 HDTV 720p Sub Ita x264-NAHOM/Torrent Downloaded from icv-crew.org.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 3.56e-7,
+                    "path": "Game of Thrones S07E02 HDTV 720p Sub Ita x264-NAHOM/info.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000289174,
+                    "path": "Game of Thrones S07E02 HDTV 720p Sub Ita x264-NAHOM/NH.png"
+                },
+                {
+                    "number": 4,
+                    "size": 2.058496484,
+                    "path": "Game of Thrones S07E02 HDTV 720p Sub Ita x264-NAHOM/Game of Thrones S07E02 HDTV 720p Sub Ita x264-NAHOM.mp4"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.684876112,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.681077998,
+                    "path": "Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta/Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000121,
+                    "path": "Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta/Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000791041,
+                    "path": "Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001382911,
+                    "path": "Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001161735,
+                    "path": "Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000461217,
+                    "path": "Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta-torrenting.com",
+            "size_total": 0.684876196,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.681077998,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta/Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000121,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta/Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000791041,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001382911,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001161735,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000461217,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS [IPT]",
+            "size_total": 1.656595904,
+            "files_total": 36,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.2e-8,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.006593948,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.rar"
+                },
+                {
+                    "number": 36,
+                    "size": 0.000001904,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS/game.of.thrones.s07e02.1080p.web.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.656589984,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.656589902,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS[rarbg]/game.of.thrones.s07e02.1080p.web.h264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.2e-8,
+                    "path": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS[rarbg]/game.of.thrones.s07e02.1080p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Game.of.Thrones.S07E02.480p.x264-mSD [IPT]",
+            "size_total": 0.183107746,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.182597746,
+                    "path": "Game.of.Thrones.S07E02.480p.x264-mSD/Game.of.Thrones.S07E02.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001188,
+                    "path": "Game.of.Thrones.S07E02.480p.x264-mSD/Game.of.Thrones.S07E02.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000118519,
+                    "path": "Game.of.Thrones.S07E02.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000092612,
+                    "path": "Game.of.Thrones.S07E02.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00020672,
+                    "path": "Game.of.Thrones.S07E02.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000090961,
+                    "path": "Game.of.Thrones.S07E02.480p.x264-mSD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS [IPT]",
+            "size_total": 0.973213861,
+            "files_total": 22,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.3e-8,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.023212678,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.rar"
+                },
+                {
+                    "number": 22,
+                    "size": 0.00000112,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS/game.of.thrones.s07e02.720p.hdtv.x264-avs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS.[VTV]",
+            "size_total": 0.973210738,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.973210738,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS.[VTV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS[eztv].mkv",
+            "size_total": 0.973210738,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.973210738,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS[rartv]-[rarbg.to]",
+            "size_total": 0.973210831,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.973210738,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS[rarbg]/Game.of.Thrones.S07E02.720p.HDTV.x264-AVS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 6.3e-8,
+                    "path": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS[rarbg]/game.of.thrones.s07e02.720p.hdtv.x264-avs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Game.of.Thrones.S07E02.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.234243771,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.232311006,
+                    "path": "Game.of.Thrones.S07E02.720p.HEVC.x265-MeGusta/Game.of.Thrones.S07E02.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001189,
+                    "path": "Game.of.Thrones.S07E02.720p.HEVC.x265-MeGusta/Game.of.Thrones.S07E02.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001152454,
+                    "path": "Game.of.Thrones.S07E02.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000059734,
+                    "path": "Game.of.Thrones.S07E02.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00034844,
+                    "path": "Game.of.Thrones.S07E02.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000370948,
+                    "path": "Game.of.Thrones.S07E02.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS [IPT]",
+            "size_total": 1.091338836,
+            "files_total": 24,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.1e-8,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.041337575,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.rar"
+                },
+                {
+                    "number": 24,
+                    "size": 0.00000121,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS/game.of.thrones.s07e02.720p.web.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS[eztv].mkv",
+            "size_total": 1.091334979,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.091334979,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS[rarbg]",
+            "size_total": 1.09133506,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.091334979,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS[rarbg]/game.of.thrones.s07e02.720p.web.h264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.1e-8,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS[rarbg]/game.of.thrones.s07e02.720p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.09133506,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.091334979,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS[rarbg]/game.of.thrones.s07e02.720p.web.h264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.1e-8,
+                    "path": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS[rarbg]/game.of.thrones.s07e02.720p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Game.of.Thrones.S07E02.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.160777846,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.160208549,
+                    "path": "Game.of.Thrones.S07E02.AAC.MP4-Mobile/Game.of.Thrones.S07E02.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001279,
+                    "path": "Game.of.Thrones.S07E02.AAC.MP4-Mobile/Game.of.Thrones.S07E02.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000132148,
+                    "path": "Game.of.Thrones.S07E02.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000102733,
+                    "path": "Game.of.Thrones.S07E02.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000232391,
+                    "path": "Game.of.Thrones.S07E02.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000100746,
+                    "path": "Game.of.Thrones.S07E02.AAC.MP4-Mobile/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Game.of.Thrones.S07E02.FRENCH.720p.HDTV.x264-SH0W.T9",
+            "size_total": 0.947615367,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.947615367,
+                    "path": "[ Torrent9.tv ] Game.of.Thrones.S07E02.FRENCH.720p.HDTV.x264-SH0W.mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Game.of.Thrones.S07E02.FRENCH.HDTV.XviD-ZT.nexttorrent.pw",
+            "size_total": 0.577456682,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.577456682,
+                    "path": "[nextorrent.pw] Game.of.Thrones.S07E02.FRENCH.HDTV.XviD-ZT.avi"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Game.of.Thrones.S07E02.FRENCH.HDTV.XviD-ZT.T9",
+            "size_total": 0.577456682,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.577456682,
+                    "path": "[ Torrent9.tv ] Game.of.Thrones.S07E02.FRENCH.HDTV.XviD-ZT.avi"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Game.of.Thrones.S07E02.HDTV.x264-SVA [IPT]",
+            "size_total": 0.290537715,
+            "files_total": 22,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.9e-8,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.005536636,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.rar"
+                },
+                {
+                    "number": 22,
+                    "size": 0.00000102,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA/game.of.thrones.s07e02.hdtv.x264-sva.sfv"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Game.of.Thrones.S07E02.HDTV.x264-SVA[ettv]",
+            "size_total": 0.290534957,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.290534796,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA[ettv]/Game.of.Thrones.S07E02.HDTV.x264-SVA[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.61e-7,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA[ettv]/To keep us going please read.txt"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Game.of.Thrones.S07E02.HDTV.x264-SVA[eztv].mkv",
+            "size_total": 0.290534796,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.290534796,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Game.of.Thrones.S07E02.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "size_total": 0.290534885,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.290534796,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA[rarbg]/Game.of.Thrones.S07E02.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 5.9e-8,
+                    "path": "Game.of.Thrones.S07E02.HDTV.x264-SVA[rarbg]/game.of.thrones.s07e02.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Game.of.Thrones.S07E02.HDTV.XviD-iFT [IPT]",
+            "size_total": 0.854676121,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.841556008,
+                    "path": "Game.of.Thrones.S07E02.HDTV.XviD-iFT/Game.of.Thrones.S07E02.HDTV.XviD-iFT.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 6.25e-7,
+                    "path": "Game.of.Thrones.S07E02.HDTV.XviD-iFT/NFO-iFT.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.013119488,
+                    "path": "Game.of.Thrones.S07E02.HDTV.XviD-iFT/Sample.avi"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE [IPT]",
+            "size_total": 4.423085671,
+            "files_total": 47,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.21e-7,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.023082055,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.rar"
+                },
+                {
+                    "number": 47,
+                    "size": 0.000003195,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.sfv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "size_total": 4.423076206,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 4.423075755,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE[rarbg]/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.21e-7,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE[rarbg]/game.of.thrones.s07e02.internal.1080p.webrip.x264-morose.nfo"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.480p.x264-mSD [IPT]",
+            "size_total": 0.23649508,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.236123126,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.480p.x264-mSD/Game.of.Thrones.S07E02.iNTERNAL.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001206,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.480p.x264-mSD/Game.of.Thrones.S07E02.iNTERNAL.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000098691,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00011059,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000140358,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000021109,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.480p.x264-mSD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE [IPT]",
+            "size_total": 1.788548125,
+            "files_total": 38,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.19e-7,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.038545186,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.rar"
+                },
+                {
+                    "number": 38,
+                    "size": 0.00000252,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.sfv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "size_total": 1.788540847,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.788540398,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE[rarbg]/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.19e-7,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE[rarbg]/game.of.thrones.s07e02.internal.720p.webrip.x264-morose.nfo"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.204788231,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.204375247,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.AAC.MP4-Mobile/Game.of.Thrones.S07E02.iNTERNAL.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001299,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.AAC.MP4-Mobile/Game.of.Thrones.S07E02.iNTERNAL.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000109982,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000120825,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000157679,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000023199,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.AAC.MP4-Mobile/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 9.22e-7,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.0,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.HEVC.x265-MeGusta/Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.22e-7,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.HEVC.x265-MeGusta/Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS [IPT]",
+            "size_total": 1.307370412,
+            "files_total": 29,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.37e-7,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.007368358,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.rar"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000001917,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS[eztv].mkv",
+            "size_total": 1.307364794,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.307364794,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.307364961,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.307364794,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS[rarbg]/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.37e-7,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS[rarbg]/game.of.thrones.s07e02.internal.repack.720p.web.h264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.000001013,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.0,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.AAC.MP4-Mobile/Game.of.Thrones.S07E02.iNTERNAL.REPACK.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001013,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.AAC.MP4-Mobile/Game.of.Thrones.S07E02.iNTERNAL.REPACK.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.XviD-AFG [IPT]",
+            "size_total": 0.384181161,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.383785378,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.XviD-AFG/Game.of.Thrones.S07E02.iNTERNAL.REPACK.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000119,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.XviD-AFG/Game.of.Thrones.S07E02.iNTERNAL.REPACK.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000105642,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000104394,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000152846,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000031711,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG [IPT]",
+            "size_total": 0.393107734,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.392752344,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG/Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001175,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG/Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00009684,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000108043,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000135115,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000014217,
+                    "path": "Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG-torrenting.com",
+            "size_total": 0.393107818,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.392752344,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG/Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001175,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG/Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00009684,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000108043,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000135115,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000014217,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W [IPT]",
+            "size_total": 2.113576726,
+            "files_total": 24,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000002027,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.013573291,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.rar"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000001408,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e02.multi.1080p.hdtv.x264-sh0w.sfv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Game.of.Thrones.S07E02.MULTi.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.61602024,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.612681062,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HEVC.x265-MeGusta/Game.of.Thrones.S07E02.MULTi.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001217,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HEVC.x265-MeGusta/Game.of.Thrones.S07E02.MULTi.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000553138,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001277779,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000901324,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00060572,
+                    "path": "Game.of.Thrones.S07E02.MULTi.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Game.of.Thrones.S07E02.Stormborn-torrentcounter.cc",
+            "size_total": 0.566168773,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.43e-7,
+                    "path": "[Torrentcounter.cc]-Game.of.Thrones.S07E02.Stormborn/Downloaded from [torrentcounter.cc].txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002991006,
+                    "path": "[Torrentcounter.cc]-Game.of.Thrones.S07E02.Stormborn/[TorrentCounter.cc].mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.563177624,
+                    "path": "[Torrentcounter.cc]-Game.of.Thrones.S07E02.Stormborn/[Torrentcounter.cc]-Game.of.Thrones.S07E02.Stormborn.mkv"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Game.of.Thrones.S07E02.Stormborn.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA",
+            "size_total": 0.753535082,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.753535082,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD+5.1.H.264-GoT [IPT]",
+            "size_total": 3.843181922,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.833388576,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD+5.1.H.264-GoT/Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD+5.1.H.264-GoT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001474,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD+5.1.H.264-GoT/Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD+5.1.H.264-GoT.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002571924,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD+5.1.H.264-GoT/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002298479,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD+5.1.H.264-GoT/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.003455438,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD+5.1.H.264-GoT/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001466031,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD+5.1.H.264-GoT/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD+5.1.H.264-GoT.mkv [IPT]",
+            "size_total": 3.833388576,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.833388576,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD+5.1.H.264-GoT.mkv"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]",
+            "size_total": 3.83385222,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.833388576,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD+5.1.H.264-GoT[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000153858,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-001.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000086972,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-002.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00011314,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-003.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000109407,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-004.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 2.67e-7,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/To keep us going please read.txt.txt"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEBRip.DDP5.1.x264-GoT[rartv]-[rarbg.to]",
+            "size_total": 3.833388606,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.833388576,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEBRip.DDP5.1.x264-GoT[rarbg]/Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD+5.1.H.264-GoT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEBRip.DDP5.1.x264-GoT[rarbg]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEB-DL.470MB.MkvCage",
+            "size_total": 0.494949823,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.494949823,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEB-DL.470MB.MkvCage.mkv"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEB-DL.DD+5.1.H.264-GoT.mkv [IPT]",
+            "size_total": 1.30743706,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.30743706,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEB-DL.DD+5.1.H.264-GoT.mkv"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]",
+            "size_total": 1.307632169,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.30743706,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEB-DL.DD+5.1.H.264-GoT[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000058766,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-001.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000041484,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-002.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000047463,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-003.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000047129,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-004.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 2.67e-7,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/To keep us going please read.txt.txt"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEBRip.DDP5.1.x264-GoT[rartv]-[rarbg.to]",
+            "size_total": 1.30743709,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.30743706,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEBRip.DDP5.1.x264-GoT[rarbg]/Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEB-DL.DD+5.1.H.264-GoT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEBRip.DDP5.1.x264-GoT[rarbg]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Game.of.Thrones.S07E02.Stormborn.720p.torrentcounter.cc",
+            "size_total": 1.310428209,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.43e-7,
+                    "path": "[Torrentcounter.cc]-Game.of.Thrones.S07E02.Stormborn.720p/Downloaded from [torrentcounter.cc].txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002991006,
+                    "path": "[Torrentcounter.cc]-Game.of.Thrones.S07E02.Stormborn.720p/[TorrentCounter.cc].mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 1.30743706,
+                    "path": "[Torrentcounter.cc]-Game.of.Thrones.S07E02.Stormborn.720p/[Torrentcounter.cc]-Game.of.Thrones.S07E02.Stormborn.720p.mkv"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Game.of.Thrones.S07E02.Stormborn.[Torrentcounter.cc]",
+            "size_total": 0.566168773,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.43e-7,
+                    "path": "[Torrentcounter.cc]-Game.of.Thrones.S07E02.Stormborn/Downloaded from [torrentcounter.cc].txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002991006,
+                    "path": "[Torrentcounter.cc]-Game.of.Thrones.S07E02.Stormborn/[TorrentCounter.cc].mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.563177624,
+                    "path": "[Torrentcounter.cc]-Game.of.Thrones.S07E02.Stormborn/[Torrentcounter.cc]-Game.of.Thrones.S07E02.Stormborn.mkv"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Game.of.Thrones.S07E02.Stormborn.AMZN.WEBRip.DDP2.0.x264-GoT[rartv]-[rarbg.to]",
+            "size_total": 0.563177654,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.563177624,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.AMZN.WEBRip.DDP2.0.x264-GoT[rarbg]/Game.of.Thrones.S07E02.Stormborn.AMZN.WEB-DL.DD+2.0.H.264-GoT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E02.Stormborn.AMZN.WEBRip.DDP2.0.x264-GoT[rarbg]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Game.of.Thrones.S07E02.VOSTFR.720p.HDTV.x264-EXTREME.T9",
+            "size_total": 0.947660956,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.947660956,
+                    "path": "[ Torrent9.tv ] Game.of.Thrones.S07E02.VOSTFR.720p.HDTV.x264-EXTREME.mkv"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Game.of.Thrones.S07E02.VOSTFR.HDTV.XviD-ZT.nexttorrent.pw",
+            "size_total": 0.595571354,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.595571354,
+                    "path": "[nextorrent.pw] Game.of.Thrones.S07E02.VOSTFR.HDTV.XviD-ZT.avi"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Game.of.Thrones.S07E02.VOSTFR.HDTV.XviD-ZT.T9",
+            "size_total": 0.595571354,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.595571354,
+                    "path": "[ Torrent9.tv ] Game.of.Thrones.S07E02.VOSTFR.HDTV.XviD-ZT.avi"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Game.of.Thrones.S07E02.WEB.h264-TBS [IPT]",
+            "size_total": 0.786989077,
+            "files_total": 42,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.6e-8,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.006987031,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.rar"
+                },
+                {
+                    "number": 42,
+                    "size": 0.000002,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS/game.of.thrones.s07e02.web.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Game.of.Thrones.S07E02.WEB.h264-TBS[ettv]",
+            "size_total": 0.786982752,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.61e-7,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS[ettv]/To keep us going please read.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.786982591,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS[ettv]/game.of.thrones.s07e02.web.h264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Game.of.Thrones.S07E02.WEB.h264-TBS[eztv].mkv",
+            "size_total": 0.786982591,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.786982591,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Game.of.Thrones.S07E02.WEB.h264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.786982667,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.786982591,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS[rarbg]/game.of.thrones.s07e02.web.h264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.6e-8,
+                    "path": "Game.of.Thrones.S07E02.WEB.h264-TBS[rarbg]/game.of.thrones.s07e02.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Game.of.Thrones.S07E02.WEBRip.x264-RARBG-[rarbg.to]",
+            "size_total": 0.557091249,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.557035569,
+                    "path": "Game.of.Thrones.S07E02.WEBRip.x264-RARBG/Game.of.Thrones.S07E02.WEBRip.x264-RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E02.WEBRip.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00005565,
+                    "path": "Game.of.Thrones.S07E02.WEBRip.x264-RARBG/Subs/2_Eng.srt"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Game.of.Thrones.S07E02.XviD-AFG [IPT]",
+            "size_total": 0.295790045,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.295297946,
+                    "path": "Game.of.Thrones.S07E02.XviD-AFG/Game.of.Thrones.S07E02.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001159,
+                    "path": "Game.of.Thrones.S07E02.XviD-AFG/Game.of.Thrones.S07E02.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000118604,
+                    "path": "Game.of.Thrones.S07E02.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000089093,
+                    "path": "Game.of.Thrones.S07E02.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000200544,
+                    "path": "Game.of.Thrones.S07E02.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000082699,
+                    "path": "Game.of.Thrones.S07E02.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 68,
+            "name": "Game.of.Thrones.S07E02.WEB.h264-TBS[eztv].mkv",
+            "btih": "847c543dcee4040941e2ebe94ef5acf4216ee986",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.786982591,
+            "creation": "2017-07-24T01:17:12.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 596024,
+            "uuploaders": 120745
+        },
+        {
+            "id": 31,
+            "name": "Game.of.Thrones.S07E02.HDTV.x264-SVA[eztv].mkv",
+            "btih": "0a6a039d50acf8446b7d3719f2603e34745e761d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.290534796,
+            "creation": "2017-07-24T02:05:07.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 357979,
+            "uuploaders": 88715
+        },
+        {
+            "id": 19,
+            "name": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS[rartv]-[rarbg.to]",
+            "btih": "392c9d6e6477372dd64d73431537fc87f03357d0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.973210831,
+            "creation": "2017-07-24T02:01:11.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 356246,
+            "uuploaders": 93288
+        },
+        {
+            "id": 67,
+            "name": "Game.of.Thrones.S07E02.WEB.h264-TBS[ettv]",
+            "btih": "6a117117cdf8334f31a40d4915374fa5e6c29d3d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.786982752,
+            "creation": "2017-07-24T01:16:48.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 324038,
+            "uuploaders": 93998
+        },
+        {
+            "id": 28,
+            "name": "Game.of.Thrones.S07E02.FRENCH.HDTV.XviD-ZT.T9",
+            "btih": "4cf050bc9c81cb3ffd34ff8960b307a0941556a7",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.577456682,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 225308,
+            "uuploaders": 81128
+        },
+        {
+            "id": 14,
+            "name": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS[rartv]-[rarbg.to]",
+            "btih": "f1ae422a7fe4000606ff82dcc6b9c7a97aac9671",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.656589984,
+            "creation": "2017-07-24T01:24:32.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 220151,
+            "uuploaders": 71914
+        },
+        {
+            "id": 55,
+            "name": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEBRip.DDP5.1.x264-GoT[rartv]-[rarbg.to]",
+            "btih": "4d246a2d1741d50f3abb7bbc4c81718a6eba2bb1",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.833388606,
+            "creation": "2017-07-24T01:30:08.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 208338,
+            "uuploaders": 66234
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]GOT_Season_07_DUB_1080",
+            "btih": "044c07c4a66074d112518830378ace47822d06c5",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 7.309734941,
+            "creation": "2017-07-24T02:43:40.000000000Z,uTorrent/2210,http://rutor.is/torrent/577054",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 196504,
+            "uuploaders": 67201
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]GOT_Season_07_DUB",
+            "btih": "8e4f5e2a7c999d8c94ef3b326e0869f83f4bca4b",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.540904047,
+            "creation": "2017-07-24T03:35:24.000000000Z,uTorrent/2210,http://rutor.is/torrent/577053",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 182444,
+            "uuploaders": 60779
+        },
+        {
+            "id": 59,
+            "name": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEBRip.DDP5.1.x264-GoT[rartv]-[rarbg.to]",
+            "btih": "f5c2cd7eb3683242b9b15ca1f305f3932a4d777a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.30743709,
+            "creation": "2017-07-24T01:14:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 181982,
+            "uuploaders": 60345
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]GOT_Season_07_DUB_720.",
+            "btih": "aeebde83a005df6c42f0a6ad688791a4b2311e6a",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.533086054,
+            "creation": "2017-07-24T02:44:08.000000000Z,uTorrent/2210,http://rutor.is/torrent/577052",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 178073,
+            "uuploaders": 62895
+        },
+        {
+            "id": 32,
+            "name": "Game.of.Thrones.S07E02.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "btih": "56692f8216c403bc89a72437775cbf8c2c102f82",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.290534885,
+            "creation": "2017-07-24T02:01:27.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 174100,
+            "uuploaders": 58252
+        },
+        {
+            "id": 54,
+            "name": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]",
+            "btih": "2da51f154463548e4351dec26aaae73ad446be6b",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.83385222,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 164196,
+            "uuploaders": 62999
+        },
+        {
+            "id": 42,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS[eztv].mkv",
+            "btih": "be490889ed2503eb71bb9a3832c5af90880d9c2a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.307364794,
+            "creation": "2017-07-24T03:23:16.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 149513,
+            "uuploaders": 52058
+        },
+        {
+            "id": 7,
+            "name": "Game of Thrones 2017 – S07E02 [WEB-DL] WWW.BLUDV.COM12",
+            "btih": "33c8a42f35d531b71795b3151c25ebbf63b1ccbb",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.41238255,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 140837,
+            "uuploaders": 57000
+        },
+        {
+            "id": 18,
+            "name": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS[eztv].mkv",
+            "btih": "a00fef3775e2de2769f2dcef6efde20c302f1cce",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.973210738,
+            "creation": "2017-07-24T02:06:15.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 136630,
+            "uuploaders": 54213
+        },
+        {
+            "id": 73,
+            "name": "multi-btih-1-2-x-Game.of.Thrones.S07E02.Stormborn-torrentcounter.cc",
+            "btih": "c004a147b4c87286bd914f08a46262e2032a19ca",
+            "resolution": "4320",
+            "encoding": "none",
+            "gigabytes": 0.566168773,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 132393,
+            "uuploaders": 72025
+        },
+        {
+            "id": 62,
+            "name": "Game.of.Thrones.S07E02.Stormborn.AMZN.WEBRip.DDP2.0.x264-GoT[rartv]-[rarbg.to]",
+            "btih": "55ab44d3b40a84debaf4e572353bff22c20c4623",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.563177654,
+            "creation": "2017-07-24T01:10:10.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 124227,
+            "uuploaders": 49543
+        },
+        {
+            "id": 5,
+            "name": "Game of Thrones 2017 – S07E02 [1080p] [WEB-DL] WWW.BLUDV.COM",
+            "btih": "3522521555a7b52c0e63fc595dec581212a9c053",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.761570916,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 116649,
+            "uuploaders": 54235
+        },
+        {
+            "id": 58,
+            "name": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]",
+            "btih": "6c0d1db536d2afac954b4cb8d862cc4126cee73e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.307632169,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 101328,
+            "uuploaders": 48762
+        },
+        {
+            "id": 65,
+            "name": "Game.of.Thrones.S07E02.VOSTFR.HDTV.XviD-ZT.T9",
+            "btih": "3d5f4433d2e2067a226c79f558c4e6d2f9180fab",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.595571354,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 99911,
+            "uuploaders": 50065
+        },
+        {
+            "id": 30,
+            "name": "Game.of.Thrones.S07E02.HDTV.x264-SVA[ettv]",
+            "btih": "2d39f1216f281e54f68651e3aa6320d16d78a484",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.290534957,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 96474,
+            "uuploaders": 44709
+        },
+        {
+            "id": 70,
+            "name": "Game.of.Thrones.S07E02.WEBRip.x264-RARBG-[rarbg.to]",
+            "btih": "cd19d60e771644ba63a5d02d8c9c65f5796ef191",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.557091249,
+            "creation": "2017-07-24T01:30:16.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 91850,
+            "uuploaders": 36365
+        },
+        {
+            "id": 26,
+            "name": "Game.of.Thrones.S07E02.FRENCH.720p.HDTV.x264-SH0W.T9",
+            "btih": "411d3f7284341c4600e82932f4f2c60fbf926c9b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.947615367,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 81562,
+            "uuploaders": 43145
+        },
+        {
+            "id": 6,
+            "name": "Game of Thrones 2017 – S07E02 [WEB-DL 1080p - MP4] WWW.BLUDV.COM",
+            "btih": "23a0296a4a18ca966b076495f61109e0c4110a57",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.648750857,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 79071,
+            "uuploaders": 42693
+        },
+        {
+            "id": 63,
+            "name": "Game.of.Thrones.S07E02.VOSTFR.720p.HDTV.x264-EXTREME.T9",
+            "btih": "d99aff819e2cc69b43623c8363f7a8c30f64f87b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.947660956,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 73642,
+            "uuploaders": 40152
+        },
+        {
+            "id": 27,
+            "name": "Game.of.Thrones.S07E02.FRENCH.HDTV.XviD-ZT.nexttorrent.pw",
+            "btih": "b12533b8dec833b68078678006cb59ffb4f644c5",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.577456682,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 69836,
+            "uuploaders": 38522
+        },
+        {
+            "id": 35,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "btih": "52a427f0e914134796376eb8652ff98b3febba90",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.423076206,
+            "creation": "2017-07-24T13:02:29.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 57537,
+            "uuploaders": 26828
+        },
+        {
+            "id": 60,
+            "name": "Game.of.Thrones.S07E02.Stormborn.720p.torrentcounter.cc",
+            "btih": "2a8f2dd8738b86013f3712eb4379cbe222f14129",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.310428209,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 55798,
+            "uuploaders": 32750
+        },
+        {
+            "id": 43,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS[rartv]-[rarbg.to]",
+            "btih": "a367596f99c733147e85ae030d9d793d15d58968",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.307364961,
+            "creation": "2017-07-24T03:20:20.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 55200,
+            "uuploaders": 24625
+        },
+        {
+            "id": 64,
+            "name": "Game.of.Thrones.S07E02.VOSTFR.HDTV.XviD-ZT.nexttorrent.pw",
+            "btih": "aaa19b54142b9e950d9342a9541ef8a8159f5a0e",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.595571354,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53136,
+            "uuploaders": 32912
+        },
+        {
+            "id": 22,
+            "name": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS[eztv].mkv",
+            "btih": "2db962f509e19864a60442f3b714a195a69f1a60",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.091334979,
+            "creation": "2017-07-24T01:41:16.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 52104,
+            "uuploaders": 25016
+        },
+        {
+            "id": 72,
+            "name": "multi-btih-0-2-x-Game.of.Thrones.S07E02.720p.WEB.h264-TBS[rarbg]",
+            "btih": "5d97a27e88f2ad5621fee52b694d5f10494159fe",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.09133506,
+            "creation": "2017-07-24T01:38:50.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 48714,
+            "uuploaders": 24845
+        },
+        {
+            "id": 16,
+            "name": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS [IPT]",
+            "btih": "9325428f1a389b91ad9f47631825976b3fe74816",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.973213861,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 37018,
+            "uuploaders": 21836
+        },
+        {
+            "id": 38,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "btih": "56de2ae906c70a823ea1a82d763a0cd6ab7a72c8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.788540847,
+            "creation": "2017-07-24T14:00:18.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36074,
+            "uuploaders": 18360
+        },
+        {
+            "id": 69,
+            "name": "Game.of.Thrones.S07E02.WEB.h264-TBS[rartv]-[rarbg.to]",
+            "btih": "41634a9b80338acf423a8bae3901cfe29c8c5825",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.786982667,
+            "creation": "2017-07-24T01:14:33.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 30848,
+            "uuploaders": 13552
+        },
+        {
+            "id": 13,
+            "name": "Game.of.Thrones.S07E02.1080p.WEB.h264-TBS [IPT]",
+            "btih": "9658a8663fa7e3f8af285d412a03aef954593a51",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.656595904,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 26250,
+            "uuploaders": 16448
+        },
+        {
+            "id": 17,
+            "name": "Game.of.Thrones.S07E02.720p.HDTV.x264-AVS.[VTV]",
+            "btih": "c68d4ecb59f39613e5669f6857f74b4673be32ff",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.973210738,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25449,
+            "uuploaders": 18166
+        },
+        {
+            "id": 56,
+            "name": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEB-DL.470MB.MkvCage",
+            "btih": "6b5bfa3c0b3a246634262f05f802f1d4b5212668",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.494949823,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20524,
+            "uuploaders": 10011
+        },
+        {
+            "id": 51,
+            "name": "Game.of.Thrones.S07E02.Stormborn.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA",
+            "btih": "c3e1d392fa5187d7654c18827265249598b91b76",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.753535082,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19325,
+            "uuploaders": 11535
+        },
+        {
+            "id": 10,
+            "name": "Game of Thrones S07E02 HDTV 720p Sub Ita x264-NAHOM",
+            "btih": "9ded394ffce950edb7a3a47f8a596c53131c2964",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.05878605,
+            "creation": "2017-07-24T03:00:23.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17658,
+            "uuploaders": 9901
+        },
+        {
+            "id": 9,
+            "name": "Game of Thrones S07E02 720p HDTV - 450MB - Zaeem",
+            "btih": "f34fad28eb39b505d3b1f7dcfc37bd726ac83226",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.471501527,
+            "creation": "2017-07-24T19:21:15.000000000Z,uTorrent/3.5,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12278,
+            "uuploaders": 5837
+        },
+        {
+            "id": 45,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.XviD-AFG [IPT]",
+            "btih": "739892c2bff08a9ef9a2ec211ffe6b3e58338701",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.384181161,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 10551,
+            "uuploaders": 6684
+        },
+        {
+            "id": 1,
+            "name": "[rutor.is]Game.of.Thrones.S07.720p.SunshineStudio",
+            "btih": "b8308b599b738859881b00dda1a15fdb9b5772e3",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.855934656,
+            "creation": "2017-07-24T06:20:53.000000000Z,Sunny (koshara.co),http://rutor.is/torrent/577068",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10291,
+            "uuploaders": 6024
+        },
+        {
+            "id": 52,
+            "name": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD+5.1.H.264-GoT [IPT]",
+            "btih": "c17e53205935017a904d1ba2feb51e455152bd2a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.843181922,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 9448,
+            "uuploaders": 6217
+        },
+        {
+            "id": 47,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG-torrenting.com",
+            "btih": "cf3ee684aa4c6b0b778be678f77fa7241232adb7",
+            "resolution": "1080",
+            "encoding": "xvid",
+            "gigabytes": 0.393107818,
+            "creation": "2017-07-24T14:10:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8031,
+            "uuploaders": 4433
+        },
+        {
+            "id": 12,
+            "name": "Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta-torrenting.com",
+            "btih": "3ae52c0901e2cb49f4f8ac44c2de87c7aeebc4ec",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.684876196,
+            "creation": "2017-07-24T08:46:33.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7838,
+            "uuploaders": 3026
+        },
+        {
+            "id": 8,
+            "name": "Game of Thrones S07E02 1080p WEBRip DD 5.1-LOKI-M2Tv",
+            "btih": "e5df705a45e54fcb51e323503eeaf3a0a9f2148a",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.112274887,
+            "creation": "2017-07-24T12:07:16.000000000Z,uTorrent/2210,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5623,
+            "uuploaders": 3325
+        },
+        {
+            "id": 57,
+            "name": "Game.of.Thrones.S07E02.Stormborn.720p.AMZN.WEB-DL.DD+5.1.H.264-GoT.mkv [IPT]",
+            "btih": "2ef37b949a0ba70265b0c4d1da9d3bec6f0e75ed",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.30743706,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5602,
+            "uuploaders": 3813
+        },
+        {
+            "id": 46,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.XviD-AFG [IPT]",
+            "btih": "0d2e6de0c1d1a4e172ef6323d41faf2cd6d27d0e",
+            "resolution": "1080",
+            "encoding": "xvid",
+            "gigabytes": 0.393107734,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5311,
+            "uuploaders": 3819
+        },
+        {
+            "id": 11,
+            "name": "Game.of.Thrones.S07E02.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "3884061d986dfb2736e683bc71655c40570625d4",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.684876112,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4515,
+            "uuploaders": 3058
+        },
+        {
+            "id": 33,
+            "name": "Game.of.Thrones.S07E02.HDTV.XviD-iFT [IPT]",
+            "btih": "e18c8d25296c4ec2e1f21fe13879d453eb78c70d",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.854676121,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4470,
+            "uuploaders": 3361
+        },
+        {
+            "id": 66,
+            "name": "Game.of.Thrones.S07E02.WEB.h264-TBS [IPT]",
+            "btih": "964748ad75496632f05715e6769a616c062dc574",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.786989077,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4156,
+            "uuploaders": 2749
+        },
+        {
+            "id": 53,
+            "name": "Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD+5.1.H.264-GoT.mkv [IPT]",
+            "btih": "bf2210e625c37d40753b0994765fa9cc2f7d7ae9",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.833388576,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3758,
+            "uuploaders": 2586
+        },
+        {
+            "id": 20,
+            "name": "Game.of.Thrones.S07E02.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "1b14c84fb58bc53cec1de3624640ff75b081a9cb",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.234243771,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3735,
+            "uuploaders": 1567
+        },
+        {
+            "id": 41,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.WEB.h264-TBS [IPT]",
+            "btih": "5af5f45f92e92a8d1913d3bee30b7cc1306e417d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.307370412,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3572,
+            "uuploaders": 2728
+        },
+        {
+            "id": 34,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.1080p.WEBRip.x264-MOROSE [IPT]",
+            "btih": "e404009ceaaad7af888857cedd2fa69c59e95895",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.423085671,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2997,
+            "uuploaders": 1874
+        },
+        {
+            "id": 29,
+            "name": "Game.of.Thrones.S07E02.HDTV.x264-SVA [IPT]",
+            "btih": "55eba4384c6ff27011dca5a253e6d047ccbb7ab9",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.290537715,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2949,
+            "uuploaders": 1479
+        },
+        {
+            "id": 48,
+            "name": "Game.of.Thrones.S07E02.MULTi.1080p.HDTV.x264-SH0W [IPT]",
+            "btih": "c8e925e9c09e7417a2c3cdd53c897807e3de5808",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.113576726,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2603,
+            "uuploaders": 1685
+        },
+        {
+            "id": 36,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.480p.x264-mSD [IPT]",
+            "btih": "be1e4d9c71da3d45569b18007978b6b279db260d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.23649508,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2243,
+            "uuploaders": 935
+        },
+        {
+            "id": 37,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.720p.WEBRip.x264-MOROSE [IPT]",
+            "btih": "edd75dfd13790eaae2e3e1c5644dfafdd63e87b9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.788548125,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1661,
+            "uuploaders": 975
+        },
+        {
+            "id": 39,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.AAC.MP4-Mobile [IPT]",
+            "btih": "de16a9a48f9d43985cbf0c567be152405a4a6154",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.204788231,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1468,
+            "uuploaders": 606
+        },
+        {
+            "id": 71,
+            "name": "Game.of.Thrones.S07E02.XviD-AFG [IPT]",
+            "btih": "aca598dc9977e76b100e6a33467e8c225da66c3a",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.295790045,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1084,
+            "uuploaders": 740
+        },
+        {
+            "id": 21,
+            "name": "Game.of.Thrones.S07E02.720p.WEB.h264-TBS [IPT]",
+            "btih": "63432a7488bf9a9e1dca0bcfcecbfd59ff6446e2",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.091338836,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 883,
+            "uuploaders": 670
+        },
+        {
+            "id": 49,
+            "name": "Game.of.Thrones.S07E02.MULTi.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "280a9c7216c5d4ecb87f91f26760326853fb3b0f",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.61602024,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 677,
+            "uuploaders": 357
+        },
+        {
+            "id": 15,
+            "name": "Game.of.Thrones.S07E02.480p.x264-mSD [IPT]",
+            "btih": "70256b1858cc0107cbd84f1319fa16f53a6b6be6",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.183107746,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 287,
+            "uuploaders": 163
+        },
+        {
+            "id": 40,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "bb6a62eb52a665590f93167f667cc595e1b45066",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 9.22e-7,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 268,
+            "uuploaders": 181
+        },
+        {
+            "id": 25,
+            "name": "Game.of.Thrones.S07E02.AAC.MP4-Mobile [IPT]",
+            "btih": "871688c59e56b8d4107f932b37ee3beb8353bde8",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.160777846,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 210,
+            "uuploaders": 149
+        },
+        {
+            "id": 44,
+            "name": "Game.of.Thrones.S07E02.iNTERNAL.REPACK.AAC.MP4-Mobile [IPT]",
+            "btih": "b939a9c6ad787ca31d1111048b2255c158b691b0",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.000001013,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 120,
+            "uuploaders": 82
+        }
+    ]
+}
