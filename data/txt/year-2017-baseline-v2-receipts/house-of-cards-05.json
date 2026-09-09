@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt1856010",
+    "imdb_id": "tt1856010",
+    "revision": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec",
+    "wikidata_id": "Q3330940",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)"
+  },
+  "coverage_sha256": "08cb45c14226d06e8d360005185ffcd30a1d079604a6bcc4f59c17206b10801d",
+  "generated_at": "2026-09-09T01:53:33.776134+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/house-of-cards-05.cache/cache.20170827.tar.xz",
+      "sha256": "20c9c38c97cc511d826bb783984d839584e8f0e53a2f70691fe13e4c82a6eb89",
+      "size": 110209140
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-coverage-evidence/house-of-cards-05.md",
+      "sha256": "d20a292e9650ae84432a35cb8ab581f756bbc0a60818e97822b577e6693990d0",
+      "size": 10275
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-cache-stream-receipts/house-of-cards-05.json",
+      "sha256": "5310d845ab8e702a3796417f36859eba5286a535ef457197e18db9d193a94cb0",
+      "size": 2707
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-product-receipts/house-of-cards-05.json",
+      "sha256": "4486f6fc69b79f4a0b981ab0cfeca6f5ba586cfe3e3f9e34987788d793846b63",
+      "size": 368
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+      "sha256": "a8b61a3da60ab34c0dc9dbbddfdd3267e4c8461177e747c8ad4038d63e39c8f8",
+      "size": 57579
+    }
+  },
+  "media_object": "house-of-cards-05",
+  "published_files": {
+    "data/csv/bytes/house-of-cards-05-cumulative-detail.2017-btiha-itemized-by-bytes.csv": "44f8d94b4772cc62fe1a9aaf1fa09b17666f6e9f08564deecd5d888456ece3f6",
+    "docs/itemized/figures/house-of-cards-05-carto-4k.webp": "f17e853fe047c91b45563d12fd73aad79ae080f9ad0f6e693febf55185c221ea",
+    "docs/itemized/figures/house-of-cards-05-carto.png": "08a95b093534af3bf99e387e7307b94343e7ca11b82dd1abdc2d4f7c666ee87a",
+    "docs/itemized/figures/house-of-cards-05-cumulative-detail-btiha-itemized-by-bytes.svg": "abd8c76a0e1793af8092c071a7df58d6e352c5c01aca56889c5da4da3ab9659a",
+    "docs/itemized/figures/house-of-cards-05-data-ge-1080p-4k.webp": "2eb51aec2f9cd1b1faab07e9d4b18da8fb1240b47af189190b9b6c39eb8af872",
+    "docs/itemized/figures/house-of-cards-05-data-ge-1080p.webp": "34583b4e1d43856728a99be1dbc1d9b3fa61a2f388e5e8595b5db26cc658c89a",
+    "docs/itemized/figures/house-of-cards-05-data-lt-1080p-4k.webp": "91db4d020d5d6d16f3352b1f6f87e6c340eba16918e50f219b6f4e08a544fcaa",
+    "docs/itemized/figures/house-of-cards-05-data-lt-1080p.webp": "6c9db6343e966e2f1576187e27cb420577294dbfb16f6d3fec683fdee29cebc0",
+    "docs/itemized/figures/house-of-cards-05-downloads-by-day-day.svg": "028d839fce63f1f68ea4c4000be3e7537f8ec42423847cfaa3e77631e898edb3",
+    "docs/itemized/figures/house-of-cards-05-downloads-by-week-house-of-cards-05-week.svg": "652c280d9ff2c35b58c70700e7aec64124fa6ebb41fb427793a8b382d6219105",
+    "docs/itemized/house-of-cards-05-sample-cache-audit.md": "8607ab5a26221e0b6e944e2a8cfbe5505bb0b0885ccf08a65f9595b4616bdb33",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c4cf3fa8e710f9727ab3f7110f6e55b0b8d74b61",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/house-of-cards-05/tmp/house-of-cards-05-cumulative-btiha.geojson",
+        "sha256": "91db0e9b7c8d61e64bfa545aea35cfb02c403751af8499a9b96c0a1d7715c769",
+        "size": 39757023
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/house-of-cards-05/tmp/house-of-cards-05-cumulative-btiha-media-objects.json",
+        "sha256": "7973331b8af263fe2380a6dd0c84cc581458557451671a336cf5e455b3a6dc2c",
+        "size": 368887
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "house-of-cards-05",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          89.0,
+          88.0,
+          53.0,
+          51.0,
+          47.0,
+          46.0,
+          42.0,
+          37.0,
+          36.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Lelystad",
+          "Shanghai",
+          "Stockholm",
+          "Amsterdam",
+          "Shenzhen",
+          "Beijing",
+          "Frankfurt am Main",
+          "Roosendaal",
+          "New York City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          61.0,
+          45.0,
+          38.0,
+          38.0,
+          30.0,
+          28.0,
+          28.0,
+          28.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Mumbai",
+          "Warsaw",
+          "Sydney",
+          "Shanghai",
+          "Melbourne",
+          "Lelystad",
+          "Athens",
+          "Breda",
+          "Riyadh"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 16,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 18,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 3,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c4cf3fa8e710f9727ab3f7110f6e55b0b8d74b61",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "9118dcee59582140eaf9b1224b053ff5bea0330d",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2017"
+}
