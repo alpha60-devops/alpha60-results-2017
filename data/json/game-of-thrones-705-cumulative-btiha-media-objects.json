@@ -1,0 +1,4652 @@
+{
+    "collection_name": "Game of Thrones",
+    "collection_id": "705",
+    "collection_key": "game-of-thrones-705",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "27737f959b3b476099b4e9135c6b7b5500a0690a",
+            "duplicate_0_0": "Game of Thrones S07E05 XviD-AFG [www.bt-scene.cc]",
+            "duplicate_0_1": "Game.of.Thrones.S07E05.XviD-AFG"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "0d9f63a8f945bb995c1ff6359afce5d30c1c54fa",
+            "duplicate_1_0": "Game-of-Thrones-S07E05-Eastwatch-1080p-AMZN-WEB-DL-DDP5-1-H-2",
+            "duplicate_1_1": "game-of-thrones-s07e05-eastwatch-1080p-amzn-web-dl-ddp5-1-h-264-gotettv",
+            "duplicate_1_2": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "db66049d3202204363229cae2ea53a26696d4214",
+            "duplicate_2_0": "Game-of-Thrones-S07E05-Eastwatch-720p-AMZN-WEB-DL-DDP5-1-H-26",
+            "duplicate_2_1": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "9d501771c9a292012a79903978274732e44418ec",
+            "duplicate_3_0": "Game-of-Thrones-S07E05-Eastwatch-AMZN-WEB-DL-DDP2-0-H-264-GoT",
+            "duplicate_3_1": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT[ettv]"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "aa130b5fe1dda7767649e1f3b7c4e077508a0c4b",
+            "duplicate_4_0": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS",
+            "duplicate_4_1": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "72828f44f15d33b81116bb843b8c204ddba4b29b",
+            "duplicate_5_0": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.6CH.999MB.[limetorrents.cc]",
+            "duplicate_5_1": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.6CH.MkvCage.mkv"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "b196a2e629cc97f793933aba4d31332d7b54ed11",
+            "duplicate_6_0": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEBRip.DDP5.1.x264-GoT[rartv]-[rarbg.to]",
+            "duplicate_6_1": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEBRip.DDP5.1.x264.[limetorrents.cc]"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "d785e8a917f823a287849e39371824a5034602a1",
+            "duplicate_7_0": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-G.[limetorrents.cc]",
+            "duplicate_7_1": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEBRip.DDP5.1.x264-GoT[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "bd7d5f774be321d666e69f07626eb664f60a80d5",
+            "duplicate_8_0": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEBRip.DDP2.0.x264-GoT.[limetorrents.cc]",
+            "duplicate_8_1": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEBRip.DDP2.0.x264-GoT[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "c618ffd274494470b89bf02b42690555c5c7aabf",
+            "duplicate_9_0": "Game.of.Thrones.S07E05.HDTV.x264-SVA[eztv].[limetorrents.cc]",
+            "duplicate_9_1": "Game.of.Thrones.S07E05.HDTV.x264-SVA[eztv].mkv"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "e058a61da2025889043453c826a66092d31457a4",
+            "duplicate_10_0": "Game.of.Thrones.S07E05.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "duplicate_10_1": "gameofthroness07e05hdtvx264-sva"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "c17b3a5bc2216a137983b947c15bb9c9822a0125",
+            "duplicate_11_0": "Game.of.Thrones.S07E05.WEB.h264-TBS",
+            "duplicate_11_1": "Game.of.Thrones.S07E05.WEB.h264-TBS[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 12,
+            "duplicate_btih": "ad9b7f55876142395fec611ca327a3c9d1ff4de6",
+            "duplicate_12_0": "[rutor.is]GOT_Season_07_DUB_1080",
+            "duplicate_12_1": "GOT-(Season-07)-DUB-1080-rutracker.org"
+        },
+        {
+            "duplicate_id": 13,
+            "duplicate_btih": "b413269e97420d693e4670a7841f3e85d838787a",
+            "duplicate_13_0": "game-of-thrones-s07e05-720p-web-h264-tbs",
+            "duplicate_13_1": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS",
+            "duplicate_13_2": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS[rartv]-[rarbg.to]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[rutor.is]GOT_Season_07_DUB",
+            "size_total": 3.776943746,
+            "files_total": 15,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000056497,
+                    "path": "GOT (Season 07) DUB/Subtitles/GOT.(S07E01).XviD.DUB.(qqss44).srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000047425,
+                    "path": "GOT (Season 07) DUB/Subtitles/GOT.(S07E01).XviD.DUB.(qqss44)_eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000060323,
+                    "path": "GOT (Season 07) DUB/Subtitles/GOT.(S07E02).XviD.DUB.(qqss44).srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00005193,
+                    "path": "GOT (Season 07) DUB/Subtitles/GOT.(S07E02).XviD.DUB.(qqss44)_eng.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000082363,
+                    "path": "GOT (Season 07) DUB/Subtitles/GOT.(S07E03).XviD.DUB.(qqss44).srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000067802,
+                    "path": "GOT (Season 07) DUB/Subtitles/GOT.(S07E03).XviD.DUB.(qqss44)_eng.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.00004037,
+                    "path": "GOT (Season 07) DUB/Subtitles/GOT.(S07E04).XviD.DUB.(qqss44).srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000034736,
+                    "path": "GOT (Season 07) DUB/Subtitles/GOT.(S07E04).XviD.DUB.(qqss44)_eng.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.00006081,
+                    "path": "GOT (Season 07) DUB/Subtitles/GOT.(S07E05).XviD.DUB.(qqss44).srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000050322,
+                    "path": "GOT (Season 07) DUB/Subtitles/GOT.(S07E05).XviD.DUB.(qqss44)_eng.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.77728768,
+                    "path": "GOT (Season 07) DUB/GOT.(S07E01).XviD.DUB.(qqss44).avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.763400192,
+                    "path": "GOT (Season 07) DUB/GOT.(S07E02).XviD.DUB.(qqss44).avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.814465024,
+                    "path": "GOT (Season 07) DUB/GOT.(S07E03).XviD.DUB.(qqss44).avi"
+                },
+                {
+                    "number": 14,
+                    "size": 0.646057984,
+                    "path": "GOT (Season 07) DUB/GOT.(S07E04).XviD.DUB.(qqss44).avi"
+                },
+                {
+                    "number": 15,
+                    "size": 0.775180288,
+                    "path": "GOT (Season 07) DUB/GOT.(S07E05).XviD.DUB.(qqss44).avi"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]GOT_Season_07_DUB_1080",
+            "size_total": 18.217074617,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.584435515,
+                    "path": "GOT (Season 07) DUB 1080/GOT.(S07E01).HD1080.DUB.(qqss44).mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.725299426,
+                    "path": "GOT (Season 07) DUB 1080/GOT.(S07E02).HD1080.DUB.(qqss44).mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.417752097,
+                    "path": "GOT (Season 07) DUB 1080/GOT.(S07E03).HD1080.DUB.(qqss44).mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.135590646,
+                    "path": "GOT (Season 07) DUB 1080/GOT.(S07E04).HD1080.DUB.(qqss44).mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.353996933,
+                    "path": "GOT (Season 07) DUB 1080/GOT.(S07E05).HD1080.DUB.(qqss44).mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]GOT_Season_07_DUB_720",
+            "size_total": 6.454538727,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.266734626,
+                    "path": "GOT (Season 07) DUB 720/GOT.(S07E01).HD720.DUB.(qqss44).mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.266351428,
+                    "path": "GOT (Season 07) DUB 720/GOT.(S07E02).HD720.DUB.(qqss44).mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.427924406,
+                    "path": "GOT (Season 07) DUB 720/GOT.(S07E03).HD720.DUB.(qqss44).mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.243350926,
+                    "path": "GOT (Season 07) DUB 720/GOT.(S07E04).HD720.DUB.(qqss44).mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.250177341,
+                    "path": "GOT (Season 07) DUB 720/GOT.(S07E05).HD720.DUB.(qqss44).mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Game of Thrones 2017 – S07E05 [1080p] [WEB-DL] WWW.BLUDV.COM",
+            "size_total": 3.411399087,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.56e-7,
+                    "path": "Game of Thrones 2017 – S07E05 [1080p] [WEB-DL] WWW.BLUDV.COM/Leia.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00004644,
+                    "path": "Game of Thrones 2017 – S07E05 [1080p] [WEB-DL] WWW.BLUDV.COM/Game.of.Thrones.S07E05.1080p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.018399062,
+                    "path": "Game of Thrones 2017 – S07E05 [1080p] [WEB-DL] WWW.BLUDV.COM/BLUDV.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 3.392953429,
+                    "path": "Game of Thrones 2017 – S07E05 [1080p] [WEB-DL] WWW.BLUDV.COM/Game.of.Thrones.S07E05.1080p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Game of Thrones 2017 – S07E05 [WEB-DL] WWW.BLUDV.COM",
+            "size_total": 1.194865454,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.56e-7,
+                    "path": "Game of Thrones 2017 – S07E05 [WEB-DL] WWW.BLUDV.COM/Leia.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00004644,
+                    "path": "Game of Thrones 2017 – S07E05 [WEB-DL] WWW.BLUDV.COM/Game.of.Thrones.S07E05.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.018399062,
+                    "path": "Game of Thrones 2017 – S07E05 [WEB-DL] WWW.BLUDV.COM/BLUDV.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 1.176419796,
+                    "path": "Game of Thrones 2017 – S07E05 [WEB-DL] WWW.BLUDV.COM/Game.of.Thrones.S07E05.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Game of Thrones S07E05 XviD-AFG [www.bt-scene.cc]",
+            "size_total": 0.468329095,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000298621,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000208995,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000297405,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00008483,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.467438086,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Game.of.Thrones.S07E05.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001158,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Game.of.Thrones.S07E05.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "game-of-thrones-s07e05-720p-web-h264-tbs",
+            "size_total": 1.322267749,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.322267667,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS[rarbg]/game.of.thrones.s07e05.720p.web.h264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.2e-8,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS[rarbg]/game.of.thrones.s07e05.720p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Game-of-Thrones-S07E05-Eastwatch-1080p-AMZN-WEB-DL-DDP5-1-H-2",
+            "size_total": 3.538930309,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.538358063,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000155515,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-001.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000193389,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-002.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.0001091,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-003.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000113975,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-004.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 2.67e-7,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/To keep us going please read.txt.txt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "game-of-thrones-s07e05-eastwatch-1080p-amzn-web-dl-ddp5-1-h-264-gotettv",
+            "size_total": 3.538930309,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.538358063,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000155515,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-001.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000193389,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-002.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.0001091,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-003.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000113975,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-004.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 2.67e-7,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/To keep us going please read.txt.txt"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Game-of-Thrones-S07E05-Eastwatch-720p-AMZN-WEB-DL-DDP5-1-H-26",
+            "size_total": 1.322104815,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.321828468,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00008077,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-001.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000092531,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-002.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000057558,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-003.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000045221,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-004.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 2.67e-7,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/To keep us going please read.txt.txt"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Game-of-Thrones-S07E05-Eastwatch-AMZN-WEB-DL-DDP2-0-H-264-GoT",
+            "size_total": 0.59726101,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.597260744,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT[ettv]/Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.66e-7,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT[ettv]/To keep us going please read.txt"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Game-of-Thrones-S07E05-HDTV-WEB-DL-mkv",
+            "size_total": 0.474732189,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000002188,
+                    "path": "Game.of.Thrones.S07E05.HDTV.WEB-DL.mkv/Game.of.Thrones.S07E05.HDTV.WEB-DL.lnk"
+                },
+                {
+                    "number": 2,
+                    "size": 0.474730001,
+                    "path": "Game.of.Thrones.S07E05.HDTV.WEB-DL.mkv/Game.of.Thrones.S07E05.HDTV.WEB-DL.mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Game.of.Thrones.S07E05.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.[limetorrents.cc]",
+            "size_total": 0.786547496,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.786547496,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Game.of.Thrones.S07E05.1080p.1GB.WEB-DL.x264.torrentcounter.cc",
+            "size_total": 1.049017982,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.049017982,
+                    "path": "[TorrentCounter.cc].Game.of.Thrones.S07E05.1080p.1GB.WEB-DL.x264/[TorrentCounter.cc].Game.of.Thrones.S07E05.1080p.1GB.WEB-DL.x264.mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.724025279,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.716226144,
+                    "path": "Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta/Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001211,
+                    "path": "Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta/Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002281394,
+                    "path": "Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001969305,
+                    "path": "Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002426745,
+                    "path": "Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00112048,
+                    "path": "Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta.[limetorrents.cc]",
+            "size_total": 0.724025363,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.716226144,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta/Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001211,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta/Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002281394,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001969305,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002426745,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00112048,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Game.of.Thrones.S07E05.1080p.WEB.DL.x265.HEVC.10bit.EAC3.5.1.RZeroX.[limetorrents.cc]",
+            "size_total": 1.274418618,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.274418618,
+                    "path": "Game of Thrones S07E05 (1080p WEB-DL x265 HEVC 10bit EAC3 5.1 RZeroX)/Game of Thrones S07E05 (1080p WEB-DL x265 HEVC 10bit EAC3 5.1 RZeroX).mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS [IPT]",
+            "size_total": 1.674834416,
+            "files_total": 36,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.2e-8,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.02483246,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.rar"
+                },
+                {
+                    "number": 36,
+                    "size": 0.000001904,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS/game.of.thrones.s07e05.1080p.web.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.674828496,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.674828414,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS[rarbg]/game.of.thrones.s07e05.1080p.web.h264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.2e-8,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS[rarbg]/game.of.thrones.s07e05.1080p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Game.of.Thrones.S07E05.1080p.WEB.HEVC.x265.RMTeam.558MB.Shadow.[limetorrents.cc]",
+            "size_total": 0.586116555,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.585948456,
+                    "path": "Game of Thrones S07E05 1080p WEB HEVC x265-RMTeam (558MB) ●Shadow●/game.of.thrones.s07e05.1080p.web.hevc.x265.rmteam.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00016804,
+                    "path": "Game of Thrones S07E05 1080p WEB HEVC x265-RMTeam (558MB) ●Shadow●/WWW.DEMONOID.PW.png"
+                },
+                {
+                    "number": 3,
+                    "size": 5.9e-8,
+                    "path": "Game of Thrones S07E05 1080p WEB HEVC x265-RMTeam (558MB) ●Shadow●/Torrent_downloaded_from_Demonoid_-_www.demonoid.pw_.txt"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Game.of.Thrones.S07E05.1080p.WEBRip.x264.ENG.SoftSub.ITA-corey91.[limetorrents.cc]",
+            "size_total": 3.538410357,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000052294,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEBRip.x264.ENG.SoftSub.ITA-corey91/Game.of.Thrones.S07E05.1080p.WEBRip.x264.ENG.SoftSub.ITA-corey91.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 3.538358063,
+                    "path": "Game.of.Thrones.S07E05.1080p.WEBRip.x264.ENG.SoftSub.ITA-corey91/Game.of.Thrones.S07E05.1080p.WEBRip.x264.ENG.SoftSub.ITA-corey91.mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Game.of.Thrones.S07E05.480p.WEBRip.x264.HETeam.mkv",
+            "size_total": 0.220305174,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.220305174,
+                    "path": "Crazy4TV.com - Game.of.Thrones.S07E05.480p.WEBRip.x264-HETeam.mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Game.of.Thrones.S07E05.480p.x264-mSD [IPT]",
+            "size_total": 0.256076289,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.255179579,
+                    "path": "Game.of.Thrones.S07E05.480p.x264-mSD/Game.of.Thrones.S07E05.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001189,
+                    "path": "Game.of.Thrones.S07E05.480p.x264-mSD/Game.of.Thrones.S07E05.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000273468,
+                    "path": "Game.of.Thrones.S07E05.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000228884,
+                    "path": "Game.of.Thrones.S07E05.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000278601,
+                    "path": "Game.of.Thrones.S07E05.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000114568,
+                    "path": "Game.of.Thrones.S07E05.480p.x264-mSD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Game.of.Thrones.S07E05.480p.x264-mSD.[limetorrents.cc]",
+            "size_total": 0.256076289,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.255179579,
+                    "path": "Game.of.Thrones.S07.E05.480p.x264-mSD/Game.of.Thrones.S07E05.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001189,
+                    "path": "Game.of.Thrones.S07.E05.480p.x264-mSD/Game.of.Thrones.S07E05.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000273468,
+                    "path": "Game.of.Thrones.S07.E05.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000228884,
+                    "path": "Game.of.Thrones.S07.E05.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000278601,
+                    "path": "Game.of.Thrones.S07.E05.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000114568,
+                    "path": "Game.of.Thrones.S07.E05.480p.x264-mSD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Game.of.Thrones.S07E05.480p.x264-mSD",
+            "size_total": 0.256076373,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.255179579,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E05.480p.x264-mSD/Game.of.Thrones.S07E05.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001189,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E05.480p.x264-mSD/Game.of.Thrones.S07E05.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000273468,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E05.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000228884,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E05.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000278601,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E05.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000114568,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E05.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Game.of.Thrones.S07E05.480p.x264-mSD/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Game.of.Thrones.S07E05.720p.10bit.WEBRip.6CH.x265.HEVC-PSA.[limetorrents.cc]",
+            "size_total": 0.440659938,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.440659938,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Game.of.Thrones.S07E05.720p.HDTV.500MB.Zaeem.[limetorrents.cc]",
+            "size_total": 0.471326615,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.471326615,
+                    "path": "Game of Thrones S07E05 720p HDTV - 500MB - Zaeem/Game of Thrones S07E05 720p HDTV - 500MB - Zaeem.mkv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS [IPT]",
+            "size_total": 1.006602868,
+            "files_total": 23,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.3e-8,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.00660165,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.rar"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000001155,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS.[limetorrents.cc]",
+            "size_total": 1.006599676,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.006599613,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/Game.of.Thrones.S07E05.720p.HDTV.x264-AVS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.3e-8,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS/game.of.thrones.s07e05.720p.hdtv.x264-avs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS",
+            "size_total": 1.006599706,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.006599613,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS[rarbg]/Game.of.Thrones.S07E05.720p.HDTV.x264-AVS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 6.3e-8,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS[rarbg]/game.of.thrones.s07e05.720p.hdtv.x264-avs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS[ettv]",
+            "size_total": 1.00659976,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.006599613,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS[ettv]/Game.of.Thrones.S07E05.720p.HDTV.x264-AVS[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.47e-7,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS[ettv]/To keep us going please read.txt"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS[rartv]-[rarbg.to]",
+            "size_total": 1.006599706,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.006599613,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS[rarbg]/Game.of.Thrones.S07E05.720p.HDTV.x264-AVS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 6.3e-8,
+                    "path": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS[rarbg]/game.of.thrones.s07e05.720p.hdtv.x264-avs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS [IPT]",
+            "size_total": 1.322272336,
+            "files_total": 29,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.2e-8,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.022270799,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.rar"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000001485,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS",
+            "size_total": 1.322267749,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.322267667,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS[rarbg]/game.of.thrones.s07e05.720p.web.h264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.2e-8,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS[rarbg]/game.of.thrones.s07e05.720p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS[eztv].mkv",
+            "size_total": 1.322267667,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.322267667,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.322267749,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.322267667,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS[rarbg]/game.of.thrones.s07e05.720p.web.h264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.2e-8,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS[rarbg]/game.of.thrones.s07e05.720p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Game.of.Thrones.S07E05.720p.WEB.H264.[TorrentCounter].Season.7.Ep.[limetorrents.cc]",
+            "size_total": 1.32525905,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.08e-7,
+                    "path": "[TorrentCounter.cc]-Game.of.Thrones.S07E05.720p/Downloaded from [torrentcounter.cc].txt"
+                },
+                {
+                    "number": 2,
+                    "size": 5.9e-8,
+                    "path": "[TorrentCounter.cc]-Game.of.Thrones.S07E05.720p/Imgcouch.com - Free Image Hosting Website.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4e-8,
+                    "path": "[TorrentCounter.cc]-Game.of.Thrones.S07E05.720p/Like us on Facebook.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 7e-8,
+                    "path": "[TorrentCounter.cc]-Game.of.Thrones.S07E05.720p/Skidrowgamesocean.net - Download Free PC Games on single click.txt"
+                },
+                {
+                    "number": 5,
+                    "size": 1.322267667,
+                    "path": "[TorrentCounter.cc]-Game.of.Thrones.S07E05.720p/[TorrentCounter.cc]-Game.of.Thrones.S07E05.720p.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.002991006,
+                    "path": "[TorrentCounter.cc]-Game.of.Thrones.S07E05.720p/[TorrentCounter.cc].mp4"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Game.of.Thrones.S07E05.720p.WEB.h264.TBS.[limetorrents.cc]",
+            "size_total": 1.3444093560000001,
+            "files_total": 30,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.02213702,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/Sample/sample-game.of.thrones.s07e05.720p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.2e-8,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r00"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r01"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r02"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r03"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r04"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r05"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r06"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r07"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r08"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r09"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r10"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r11"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r12"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r13"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r14"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r15"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r16"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r17"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r18"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r19"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r20"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r21"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r22"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r23"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r24"
+                },
+                {
+                    "number": 28,
+                    "size": 0.022270799,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.r25"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.rar"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000001485,
+                    "path": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS/game.of.thrones.s07e05.720p.web.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Game.of.Thrones.S07E05.720p.WEBRip.2CH.x265.HEVC-PSA.[limetorrents.cc]",
+            "size_total": 0.346241884,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.346241884,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Game.of.Thrones.S07E05.720p.WEBRip.DD.5.1-LOKI-M2Tv.[limetorrents.cc]",
+            "size_total": 0.650281252,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.635565393,
+                    "path": "Game of Thrones S07E05 720p WEBRip DD 5.1-LOKI-M2Tv/Game of Thrones S07E05 720p WEBRip DD 5.1-LOKI-M2Tv.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.014715803,
+                    "path": "Game of Thrones S07E05 720p WEBRip DD 5.1-LOKI-M2Tv/Sample.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.6e-8,
+                    "path": "Game of Thrones S07E05 720p WEBRip DD 5.1-LOKI-M2Tv/Torrent downloaded from www.DNoid.me - Demonoid.txt"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Game.of.Thrones.S07E05.720p.WEBRip.HEVC.x265-RMTeam.252MB.Shadow.[limetorrents.cc]",
+            "size_total": 0.264639573,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.264471474,
+                    "path": "Game of Thrones S07E05 720p WEBRip HEVC x265-RMTeam (252MB) ●Shadow●/game.of.thrones.s07e05.eastwatch.720p.webrip.hevc.x265.rmteam.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00016804,
+                    "path": "Game of Thrones S07E05 720p WEBRip HEVC x265-RMTeam (252MB) ●Shadow●/WWW.DEMONOID.PW.png"
+                },
+                {
+                    "number": 3,
+                    "size": 5.9e-8,
+                    "path": "Game of Thrones S07E05 720p WEBRip HEVC x265-RMTeam (252MB) ●Shadow●/Torrent_downloaded_from_Demonoid_-_www.demonoid.pw_.txt"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Game.Of.Thrones.S07E05.720P.X264.AAC-OkFreeMovies.[limetorrents.cc]",
+            "size_total": 0.663060236,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.663060236,
+                    "path": "Game.Of.Thrones.S07E05.X264.AAC-OkFreeMovies.mp4"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Game.of.Thrones.S07E05.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.223486787,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.222506283,
+                    "path": "Game.of.Thrones.S07E05.AAC.MP4-Mobile/Game.of.Thrones.S07E05.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001279,
+                    "path": "Game.of.Thrones.S07E05.AAC.MP4-Mobile/Game.of.Thrones.S07E05.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00030703,
+                    "path": "Game.of.Thrones.S07E05.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000247675,
+                    "path": "Game.of.Thrones.S07E05.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000306681,
+                    "path": "Game.of.Thrones.S07E05.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000117839,
+                    "path": "Game.of.Thrones.S07E05.AAC.MP4-Mobile/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH.MRN.[limetorrents.cc]",
+            "size_total": 0.745198881,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.745198881,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Game.Of.Thrones.S07E05.Eastwatch.1080p.6CH.AMZN.WEB.DL.x265.HETeam.[limetorrents.cc]",
+            "size_total": 0.451961716,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.451960975,
+                    "path": "Game Of Thrones S07E05 Eastwatch 1080p 6CH AMZN WEB-DL x265-HETeam/Crazy4TV.com - Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.x265-HETeam.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.41e-7,
+                    "path": "Game Of Thrones S07E05 Eastwatch 1080p 6CH AMZN WEB-DL x265-HETeam/Read Me.txt"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.Amazon.WEB.DL.DD5.1.x264.PSYPHER.[limetorrents.cc]",
+            "size_total": 1.621043386,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.60022874,
+                    "path": "Game of Thrones S07E05 Eastwatch 1080p Amazon WEB-DL DD5.1 x264-PSYPHER/Game of Thrones S07E05 Eastwatch 1080p Amazon WEB-DL DD5.1 x264-PSYPHER.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.0,
+                    "path": "Game of Thrones S07E05 Eastwatch 1080p Amazon WEB-DL DD5.1 x264-PSYPHER/Torrent is Downloaded From evolutionworld.pw..txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.0,
+                    "path": "Game of Thrones S07E05 Eastwatch 1080p Amazon WEB-DL DD5.1 x264-PSYPHER/Torrent is Seeded From evo-host.pw.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.020814646,
+                    "path": "Game of Thrones S07E05 Eastwatch 1080p Amazon WEB-DL DD5.1 x264-PSYPHER/sample.mkv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.6CH.999MB.[limetorrents.cc]",
+            "size_total": 1.049017982,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.049017982,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.6CH.MkvCage.mkv"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.6CH.MkvCage.mkv",
+            "size_total": 1.049017982,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.049017982,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.6CH.MkvCage.mkv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-G.[limetorrents.cc]",
+            "size_total": 3.538358063,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.538358063,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]",
+            "size_total": 3.538930309,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.538358063,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000155515,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-001.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000193389,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-002.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.0001091,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-003.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000113975,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-004.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 2.67e-7,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/To keep us going please read.txt.txt"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEBRip.DDP5.1.x264-Go.[limetorrents.cc]",
+            "size_total": 3.547943056,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.002873478,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Screens/screen0003.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002758038,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Screens/screen0004.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00208064,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Screens/screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001871275,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Screens/screen0001.png"
+                },
+                {
+                    "number": 5,
+                    "size": 3.538358063,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001562,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.nfo"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEBRip.DDP5.1.x264-GoT[rartv]-[rarbg.to]",
+            "size_total": 3.538358094,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.538358063,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.x264-GoT[rartv]/Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.1e-8,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.x264-GoT[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEBRip.DDP5.1.x264.[limetorrents.cc]",
+            "size_total": 3.538358094,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.538358063,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.x264-GoT[rartv]/Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.1e-8,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.x264-GoT[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.WEB.DL.DUB.Eng.Subs.CasStudio.TV.[limetorrents.cc]",
+            "size_total": 3.626345424,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.626345424,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.1080p.WEB-DL.DUB.Eng.Subs.CasStudio.TV.mkv"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.WEB.DL.H264.[limetorrents.cc]",
+            "size_total": 3.541349446,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.08e-7,
+                    "path": "[TorrentCounter.cc].Game.of.Thrones.S07E05.Eastwatch.1080p.WEB-DL.H264/Downloaded from [torrentcounter.cc].txt"
+                },
+                {
+                    "number": 2,
+                    "size": 5.9e-8,
+                    "path": "[TorrentCounter.cc].Game.of.Thrones.S07E05.Eastwatch.1080p.WEB-DL.H264/Imgcouch.com - Free Image Hosting Website.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4e-8,
+                    "path": "[TorrentCounter.cc].Game.of.Thrones.S07E05.Eastwatch.1080p.WEB-DL.H264/Like us on Facebook.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 7e-8,
+                    "path": "[TorrentCounter.cc].Game.of.Thrones.S07E05.Eastwatch.1080p.WEB-DL.H264/Skidrowgamesocean.net - Download Free PC Games on single click.txt"
+                },
+                {
+                    "number": 5,
+                    "size": 3.538358063,
+                    "path": "[TorrentCounter.cc].Game.of.Thrones.S07E05.Eastwatch.1080p.WEB-DL.H264/[TorrentCounter.cc].Game.of.Thrones.S07E05.Eastwatch.1080p.WEB-DL.H264.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.002991006,
+                    "path": "[TorrentCounter.cc].Game.of.Thrones.S07E05.Eastwatch.1080p.WEB-DL.H264/[TorrentCounter.cc].mp4"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.x264.Phun.Psyz.[limetorrents.cc]",
+            "size_total": 0.514343614,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.514343614,
+                    "path": "Game of Thrones S07E05 Eastwatch 1080p x264 Phun Psyz.mp4"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.Amazon.WEB-DL.DD5.1.x264-PSYPHER.[limetorrents.cc]",
+            "size_total": 0.946248075,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.937067408,
+                    "path": "Game of Thrones S07E05 Eastwatch 720p Amazon WEB-DL DD5.1 x264-PSYPHER/Game of Thrones S07E05 Eastwatch 720p Amazon WEB-DL DD5.1 x264-PSYPHER.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.009180667,
+                    "path": "Game of Thrones S07E05 Eastwatch 720p Amazon WEB-DL DD5.1 x264-PSYPHER/Sample.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.0,
+                    "path": "Game of Thrones S07E05 Eastwatch 720p Amazon WEB-DL DD5.1 x264-PSYPHER/Torrent is Downloaded From evolutionworld.pw..txt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.0,
+                    "path": "Game of Thrones S07E05 Eastwatch 720p Amazon WEB-DL DD5.1 x264-PSYPHER/Torrent is Seeded From evo-host.pw.txt"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.490MB.MkvCage.mkv",
+            "size_total": 0.515843906,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.515843906,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.490MB.MkvCage.mkv"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-G.[limetorrents.cc]",
+            "size_total": 1.321828499,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.321828468,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.x264-GoT[rartv]/Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.1e-8,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.x264-GoT[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-Go.[limetorrents.cc]",
+            "size_total": 1.321830025,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.321828468,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001557,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.nfo"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT [IPT]",
+            "size_total": 1.326128898,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.321828468,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001557,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000885333,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000914295,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001248274,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001250971,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]",
+            "size_total": 1.322104815,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.321828468,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00008077,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-001.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000092531,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-002.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000057558,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-003.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000045221,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/Screenshot-004.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 2.67e-7,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[ettv]/To keep us going please read.txt.txt"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEBRip.DDP5.1.x264-GoT.[limetorrents.cc]",
+            "size_total": 1.326128898,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001250971,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Screens/screen0004.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001248274,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Screens/screen0003.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000914295,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Screens/screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000885333,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Screens/screen0001.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.321828468,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001557,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT/Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.nfo"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEBRip.DDP5.1.x264-GoT[rartv]-[rarbg.to]",
+            "size_total": 1.321828499,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.321828468,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.x264-GoT[rartv]/Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.1e-8,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.x264-GoT[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEBRip.H264-Rapta.[limetorrents.cc]",
+            "size_total": 0.53961495,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.53961495,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEBRip.H264-Rapta.mkv"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEBRip.x265.HEVC.2CH-M.[limetorrents.cc]",
+            "size_total": 0.395471793,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.395471793,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEBRip.x265.HEVC.2CH-MRN.mkv"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WERip.DDP5.1.x264-GoT[eztv].mkv",
+            "size_total": 1.321828468,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.321828468,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WERip.DDP5.1.x264-GoT[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT [IPT]",
+            "size_total": 0.599813256,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.597260744,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT/Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001548,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT/Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000511266,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000529153,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000753306,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000757239,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT[ettv]",
+            "size_total": 0.59726101,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.597260744,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT[ettv]/Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.66e-7,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT[ettv]/To keep us going please read.txt"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Game.Of.Thrones.S07E05.Eastwatch.AMZN.WEB.DL.DDP2.0.H.264.GoT.limetorrents.cc",
+            "size_total": 0.597260805,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.1e-8,
+                    "path": "Game.Of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT/Game.Of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.597260744,
+                    "path": "Game.Of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT/Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT.mkv"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEBRip.DDP2.0.x264-GoT.[limetorrents.cc]",
+            "size_total": 0.597260774,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.597260744,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEBRip.DDP2.0.x264-GoT[rarbg]/Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEBRip.DDP2.0.x264-GoT[rarbg]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEBRip.DDP2.0.x264-GoT[rartv]-[rarbg.to]",
+            "size_total": 0.597260774,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.597260744,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEBRip.DDP2.0.x264-GoT[rarbg]/Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEBRip.DDP2.0.x264-GoT[rarbg]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Game.of.Thrones.S07E05.FRENCH.720p.HDTV.x264-SH0W.mkv.T9",
+            "size_total": 0.99292212,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.99292212,
+                    "path": "[ Torrent9.tv ] Game.of.Thrones.S07E05.FRENCH.720p.HDTV.x264-SH0W.mkv"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Game.of.Thrones.S07E05.FRENCH.HDTV.XviD-ZT.avi",
+            "size_total": 0.578080316,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.578080316,
+                    "path": "[ Torrent9.tv ] Game.of.Thrones.S07E05.FRENCH.HDTV.XviD-ZT.avi"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Game.of.Thrones.S07E05.FRENCH.HDTV.XviD.ZT.[limetorrents.cc]",
+            "size_total": 0.578080316,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.578080316,
+                    "path": "Game.of.Thrones.S07E05.FRENCH.HDTV.XviD-ZT/Game.of.Thrones.S07E05.FRENCH.HDTV.XviD-ZT.avi"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Game.of.Thrones.S07E05.HDTV.x264-SVA [IPT]",
+            "size_total": 0.307160565,
+            "files_total": 23,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.9e-8,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.007159435,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.015,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.rar"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000001071,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.sfv"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Game.of.Thrones.S07E05.HDTV.x264-SVA.[limetorrents.cc]",
+            "size_total": 0.307157562,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.307157503,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/Game.of.Thrones.S07E05.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.9e-8,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA/game.of.thrones.s07e05.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Game.of.Thrones.S07E05.HDTV.x264-SVA[ettv]",
+            "size_total": 0.307157664,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.307157503,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA[ettv]/Game.of.Thrones.S07E05.HDTV.x264-SVA[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.61e-7,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA[ettv]/To keep us going please read.txt"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Game.of.Thrones.S07E05.HDTV.x264-SVA[eztv].[limetorrents.cc]",
+            "size_total": 0.307157503,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.307157503,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Game.of.Thrones.S07E05.HDTV.x264-SVA[eztv].mkv",
+            "size_total": 0.307157503,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.307157503,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "Game.of.Thrones.S07E05.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "size_total": 0.307157592,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.307157503,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA[rarbg]/Game.of.Thrones.S07E05.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 5.9e-8,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA[rarbg]/game.of.thrones.s07e05.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W [IPT]",
+            "size_total": 2.233538284,
+            "files_total": 26,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r15"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r16"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r14"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r13"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r12"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r17"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r18"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.rar"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000001449,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.sfv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.00334312,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r21"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r20"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r19"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r10"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r02"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r03"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r01"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r00"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000002026,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.nfo"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r04"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r05"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r09"
+                },
+                {
+                    "number": 23,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r08"
+                },
+                {
+                    "number": 24,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r07"
+                },
+                {
+                    "number": 25,
+                    "size": 0.1,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.r06"
+                },
+                {
+                    "number": 26,
+                    "size": 0.030191689,
+                    "path": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W/Sample/game.of.thrones.s07e05.multi.1080p.hdtv.x264-sh0w.sample.mkv"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "name": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS [IPT]",
+            "size_total": 0.795751564,
+            "files_total": 42,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.3e-8,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.015749231,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.rar"
+                },
+                {
+                    "number": 42,
+                    "size": 0.00000228,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS/game.of.thrones.s07e05.repack.web.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "name": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS.[limetorrents.cc]",
+            "size_total": 0.795744511,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.795744511,
+                    "path": "Game.of.Thrones.S07.E05.REPACK.WEB.h264-TBS[rarbg]/game.of.thrones.s07e05.repack.web.h264-tbs.mkv"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "name": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS[ettv]",
+            "size_total": 0.795744672,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.61e-7,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS[ettv]/To keep us going please read.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.795744511,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS[ettv]/game.of.thrones.s07e05.repack.web.h264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "name": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS[eztv].mkv",
+            "size_total": 0.795744511,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.795744511,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "name": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.795744594,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.795744511,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS[rarbg]/game.of.thrones.s07e05.repack.web.h264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.3e-8,
+                    "path": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS[rarbg]/game.of.thrones.s07e05.repack.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "name": "Game.of.Thrones.S07E05.VOSTFR.720p.AMZN.WEB-DL.DDP5.1.H264-ARK01.mkv",
+            "size_total": 1.321868183,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.321868183,
+                    "path": "[ Torrent9.tv ] Game.of.Thrones.S07E05.VOSTFR.720p.AMZN.WEB-DL.DDP5.1.H264-ARK01.mkv"
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "name": "Game.of.Thrones.S07E05.VOSTFR.HDTV.XviD-ZT.avi.T9",
+            "size_total": 0.577603986,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.577603986,
+                    "path": "[ Torrent9.tv ] Game.of.Thrones.S07E05.VOSTFR.HDTV.XviD-ZT.avi"
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "name": "Game.of.Thrones.S07E05.WEB.h264-TBS",
+            "size_total": 0.264409906,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.013299426,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS[rarbg]/Sample/sample-game.of.thrones.s07e05.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.251110403,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS[rarbg]/game.of.thrones.s07e05.web.h264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.7e-8,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS[rarbg]/game.of.thrones.s07e05.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "name": "Game.of.Thrones.S07E05.WEB.h264-TBS[eztv].mkv",
+            "size_total": 0.251110403,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.251110403,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "name": "Game.of.Thrones.S07E05.WEB.h264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.264409906,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.013299426,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS[rarbg]/Sample/sample-game.of.thrones.s07e05.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.251110403,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS[rarbg]/game.of.thrones.s07e05.web.h264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.7e-8,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS[rarbg]/game.of.thrones.s07e05.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "name": "Game.of.Thrones.S07E05.WEB.h264.TBS.[limetorrents.cc]",
+            "size_total": 0.264411969,
+            "files_total": 16,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.013299426,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS/Sample/sample-game.of.thrones.s07e05.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.7e-8,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS/game.of.thrones.s07e05.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS/game.of.thrones.s07e05.web.x264-tbs.r00"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS/game.of.thrones.s07e05.web.x264-tbs.r01"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS/game.of.thrones.s07e05.web.x264-tbs.r02"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS/game.of.thrones.s07e05.web.x264-tbs.r03"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS/game.of.thrones.s07e05.web.x264-tbs.r04"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS/game.of.thrones.s07e05.web.x264-tbs.r05"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS/game.of.thrones.s07e05.web.x264-tbs.r06"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS/game.of.thrones.s07e05.web.x264-tbs.r07"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS/game.of.thrones.s07e05.web.x264-tbs.r08"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS/game.of.thrones.s07e05.web.x264-tbs.r09"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS/game.of.thrones.s07e05.web.x264-tbs.r10"
+                },
+                {
+                    "number": 14,
+                    "size": 0.011111846,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS/game.of.thrones.s07e05.web.x264-tbs.r11"
+                },
+                {
+                    "number": 15,
+                    "size": 0.02,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS/game.of.thrones.s07e05.web.x264-tbs.rar"
+                },
+                {
+                    "number": 16,
+                    "size": 6.5e-7,
+                    "path": "Game.of.Thrones.S07E05.WEB.h264-TBS/game.of.thrones.s07e05.web.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "name": "Game.of.Thrones.S07E05.WEBRip.x264-RARBG-[rarbg.to]",
+            "size_total": 0.565499994,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.565446717,
+                    "path": "Game.of.Thrones.S07E05.WEBRip.x264-RARBG/Game.of.Thrones.S07E05.WEBRip.x264-RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E05.WEBRip.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000053247,
+                    "path": "Game.of.Thrones.S07E05.WEBRip.x264-RARBG/Subs/2_Eng.srt"
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "name": "Game.of.Thrones.S07E05.XviD-AFG [IPT]",
+            "size_total": 0.468329095,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.467438086,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Game.of.Thrones.S07E05.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001158,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Game.of.Thrones.S07E05.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000298621,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000208995,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000297405,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00008483,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 96,
+            "name": "Game.of.Thrones.S07E05.XviD-AFG",
+            "size_total": 0.468329095,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000298621,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000208995,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000297405,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00008483,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.467438086,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Game.of.Thrones.S07E05.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001158,
+                    "path": "Game.of.Thrones.S07E05.XviD-AFG/Game.of.Thrones.S07E05.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "name": "gameofthroness07e05hdtvx264-sva",
+            "size_total": 0.307157592,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.307157503,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA[rarbg]/Game.of.Thrones.S07E05.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 5.9e-8,
+                    "path": "Game.of.Thrones.S07E05.HDTV.x264-SVA[rarbg]/game.of.thrones.s07e05.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 98,
+            "name": "GOT-(Season-07)-DUB-1080-rutracker.org",
+            "size_total": 18.217074617,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.584435515,
+                    "path": "GOT (Season 07) DUB 1080/GOT.(S07E01).HD1080.DUB.(qqss44).mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.725299426,
+                    "path": "GOT (Season 07) DUB 1080/GOT.(S07E02).HD1080.DUB.(qqss44).mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.417752097,
+                    "path": "GOT (Season 07) DUB 1080/GOT.(S07E03).HD1080.DUB.(qqss44).mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.135590646,
+                    "path": "GOT (Season 07) DUB 1080/GOT.(S07E04).HD1080.DUB.(qqss44).mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.353996933,
+                    "path": "GOT (Season 07) DUB 1080/GOT.(S07E05).HD1080.DUB.(qqss44).mkv"
+                }
+            ]
+        },
+        {
+            "id": 99,
+            "name": "权L的游戏.Game.of.Thrones.S07E05.中英字幕.WEB.HR.1280X720.[limetorrents.cc]",
+            "size_total": 1.601353866,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.601353866,
+                    "path": "权L的游戏.Game.of.Thrones.S07E05.中英字幕.WEB-HR.1280X720.mp4"
+                }
+            ]
+        },
+        {
+            "id": 100,
+            "name": "权力的游戏.Game.of.Thrones.S07E05.1080p精校版-天天美剧字幕组.mp4",
+            "size_total": 1.779718162,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.779718162,
+                    "path": "权力的游戏.Game.of.Thrones.S07E05.1080p精校版-天天美剧字幕组.mp4"
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "name": "权力的游戏.Game.of.Thrones.S07E05.720p-天天美剧字幕组.mp4",
+            "size_total": 0.782149309,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.782149309,
+                    "path": "权力的游戏.Game.of.Thrones.S07E05.720p-天天美剧字幕组.mp4"
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "name": "权力的游戏.Game.of.Thrones.S07E05.720p精校版-天天美剧字幕组.mp4",
+            "size_total": 0.780543995,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.780543995,
+                    "path": "权力的游戏.Game.of.Thrones.S07E05.720p精校版-天天美剧字幕组.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 35,
+            "name": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS[eztv].mkv",
+            "btih": "0af692d308eb5d2789d16cfdce6cf2d5693e5b1f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.322267667,
+            "creation": "2017-08-14T01:19:18.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 829947,
+            "uuploaders": 186946
+        },
+        {
+            "id": 116,
+            "name": "multi-btih-13-3-x-game-of-thrones-s07e05-720p-web-h264-tbs",
+            "btih": "b413269e97420d693e4670a7841f3e85d838787a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.322267749,
+            "creation": "2017-08-14T01:15:49.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 470650,
+            "uuploaders": 162783
+        },
+        {
+            "id": 112,
+            "name": "multi-btih-9-2-x-Game.of.Thrones.S07E05.HDTV.x264-SVA[eztv].[limetorrents.cc]",
+            "btih": "c618ffd274494470b89bf02b42690555c5c7aabf",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.307157503,
+            "creation": "2017-08-14T02:05:07.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 427182,
+            "uuploaders": 163663
+        },
+        {
+            "id": 104,
+            "name": "multi-btih-1-3-x-Game-of-Thrones-S07E05-Eastwatch-1080p-AMZN-WEB-DL-DDP5-1-H-2",
+            "btih": "0d9f63a8f945bb995c1ff6359afce5d30c1c54fa",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.538930309,
+            "creation": "2017-08-14T01:20:57.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 391488,
+            "uuploaders": 162788
+        },
+        {
+            "id": 85,
+            "name": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS[ettv]",
+            "btih": "005a9604d4b622acf1e06cdb8008aa217051cd51",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.795744672,
+            "creation": "2017-08-14T01:58:11.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 336168,
+            "uuploaders": 105349
+        },
+        {
+            "id": 115,
+            "name": "multi-btih-12-2-x-[rutor.is]GOT_Season_07_DUB_1080",
+            "btih": "ad9b7f55876142395fec611ca327a3c9d1ff4de6",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 18.217074617,
+            "creation": "2017-08-14T02:28:50.000000000Z,uTorrent/2210,http://rutor.is/torrent/577054",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 308446,
+            "uuploaders": 142414
+        },
+        {
+            "id": 19,
+            "name": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS[rartv]-[rarbg.to]",
+            "btih": "08b137fc957ba05e4ca09325a6b5256d720eff96",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.674828496,
+            "creation": "2017-08-14T03:23:13.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 287464,
+            "uuploaders": 101829
+        },
+        {
+            "id": 107,
+            "name": "multi-btih-4-2-x-Game.of.Thrones.S07E05.720p.HDTV.x264-AVS",
+            "btih": "aa130b5fe1dda7767649e1f3b7c4e077508a0c4b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.006599706,
+            "creation": "2017-08-14T02:01:07.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 270567,
+            "uuploaders": 116293
+        },
+        {
+            "id": 109,
+            "name": "multi-btih-6-2-x-Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEBRip.DDP5.1.x264-GoT[rartv]-[rarbg.to]",
+            "btih": "b196a2e629cc97f793933aba4d31332d7b54ed11",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.538358094,
+            "creation": "2017-08-14T02:53:15.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 251687,
+            "uuploaders": 105009
+        },
+        {
+            "id": 78,
+            "name": "Game.of.Thrones.S07E05.HDTV.x264-SVA[ettv]",
+            "btih": "c2c2475f9a6258bc72443266560fe64f9bb5506d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.307157664,
+            "creation": "2017-08-14T02:04:18.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 251412,
+            "uuploaders": 99144
+        },
+        {
+            "id": 74,
+            "name": "Game.of.Thrones.S07E05.FRENCH.HDTV.XviD-ZT.avi",
+            "btih": "6145785bb7eca7006b21986b0e6e680080816afd",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.578080316,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 249871,
+            "uuploaders": 109461
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]GOT_Season_07_DUB_720",
+            "btih": "88c2447ab05939fb31634043e06c0f53f5a9a285",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 6.454538727,
+            "creation": "2017-08-14T02:26:28.000000000Z,uTorrent/2210,http://rutor.is/torrent/577052",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 243755,
+            "uuploaders": 88147
+        },
+        {
+            "id": 1,
+            "name": "[rutor.is]GOT_Season_07_DUB",
+            "btih": "a3aa63a42d01c20d1e3ea8d1c5a213ee0e488033",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 3.776943746,
+            "creation": "2017-08-14T03:10:27.000000000Z,uTorrent/2210,http://rutor.is/torrent/577053",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 232232,
+            "uuploaders": 85018
+        },
+        {
+            "id": 86,
+            "name": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS[eztv].mkv",
+            "btih": "8127301a309cdc900f50270f2e953f3d067f4d55",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.795744511,
+            "creation": "2017-08-14T01:55:11.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 201801,
+            "uuploaders": 75943
+        },
+        {
+            "id": 5,
+            "name": "Game of Thrones 2017 – S07E05 [WEB-DL] WWW.BLUDV.COM",
+            "btih": "2843367512fb8b0552114bc55516dbf6c0adcfa3",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.194865454,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 173342,
+            "uuploaders": 77088
+        },
+        {
+            "id": 106,
+            "name": "multi-btih-3-2-x-Game-of-Thrones-S07E05-Eastwatch-AMZN-WEB-DL-DDP2-0-H-264-GoT",
+            "btih": "9d501771c9a292012a79903978274732e44418ec",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.59726101,
+            "creation": "2017-08-14T01:10:51.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 146258,
+            "uuploaders": 71194
+        },
+        {
+            "id": 87,
+            "name": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS[rartv]-[rarbg.to]",
+            "btih": "ece101acc68c08d90ad6af3ed59d8ea1b6d1f128",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.795744594,
+            "creation": "2017-08-14T01:52:42.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 143040,
+            "uuploaders": 59192
+        },
+        {
+            "id": 67,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WERip.DDP5.1.x264-GoT[eztv].mkv",
+            "btih": "b6761d08901a30b7aae0df21e23afd954735c2b4",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.321828468,
+            "creation": "2017-08-14T14:47:20.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 136411,
+            "uuploaders": 56651
+        },
+        {
+            "id": 37,
+            "name": "Game.of.Thrones.S07E05.720p.WEB.H264.[TorrentCounter].Season.7.Ep.[limetorrents.cc]",
+            "btih": "a291c8cd0c0c2e8725de02996011bcc0f0453622",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.32525905,
+            "creation": "2017-08-14T01:37:44.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 135479,
+            "uuploaders": 57205
+        },
+        {
+            "id": 4,
+            "name": "Game of Thrones 2017 – S07E05 [1080p] [WEB-DL] WWW.BLUDV.COM",
+            "btih": "ef82f99b0131dbe14c25a4ef76616d31cd209d2a",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.411399087,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 127045,
+            "uuploaders": 64438
+        },
+        {
+            "id": 113,
+            "name": "multi-btih-10-2-x-Game.of.Thrones.S07E05.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "btih": "e058a61da2025889043453c826a66092d31457a4",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.307157592,
+            "creation": "2017-08-14T02:01:22.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 126997,
+            "uuploaders": 54792
+        },
+        {
+            "id": 110,
+            "name": "multi-btih-7-2-x-Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-G.[limetorrents.cc]",
+            "btih": "d785e8a917f823a287849e39371824a5034602a1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.321828499,
+            "creation": "2017-08-14T02:53:08.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 122032,
+            "uuploaders": 57223
+        },
+        {
+            "id": 114,
+            "name": "multi-btih-11-2-x-Game.of.Thrones.S07E05.WEB.h264-TBS",
+            "btih": "c17b3a5bc2216a137983b947c15bb9c9822a0125",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.264409906,
+            "creation": "2017-08-14T01:08:08.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 117366,
+            "uuploaders": 51406
+        },
+        {
+            "id": 91,
+            "name": "Game.of.Thrones.S07E05.WEB.h264-TBS[eztv].mkv",
+            "btih": "8bc8f9d3ad1ae2a34fc8136521ccf2f8439b907c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.251110403,
+            "creation": "2017-08-14T01:11:07.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 116426,
+            "uuploaders": 48970
+        },
+        {
+            "id": 94,
+            "name": "Game.of.Thrones.S07E05.WEBRip.x264-RARBG-[rarbg.to]",
+            "btih": "f6ce96826b2173007213b660faf8553e21abd9ad",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.565499994,
+            "creation": "2017-08-14T03:13:30.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 112899,
+            "uuploaders": 50371
+        },
+        {
+            "id": 89,
+            "name": "Game.of.Thrones.S07E05.VOSTFR.HDTV.XviD-ZT.avi.T9",
+            "btih": "6e74129eb37ba57dd18c339caebcd6278474affb",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.577603986,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 111800,
+            "uuploaders": 61911
+        },
+        {
+            "id": 73,
+            "name": "Game.of.Thrones.S07E05.FRENCH.720p.HDTV.x264-SH0W.mkv.T9",
+            "btih": "1a4a62b6bf41781b5a17869a3bfa0f916dbc94e0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.99292212,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 99627,
+            "uuploaders": 56734
+        },
+        {
+            "id": 105,
+            "name": "multi-btih-2-2-x-Game-of-Thrones-S07E05-Eastwatch-720p-AMZN-WEB-DL-DDP5-1-H-26",
+            "btih": "db66049d3202204363229cae2ea53a26696d4214",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.322104815,
+            "creation": "2017-08-14T01:22:23.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 95192,
+            "uuploaders": 46868
+        },
+        {
+            "id": 111,
+            "name": "multi-btih-8-2-x-Game.of.Thrones.S07E05.Eastwatch.AMZN.WEBRip.DDP2.0.x264-GoT.[limetorrents.cc]",
+            "btih": "bd7d5f774be321d666e69f07626eb664f60a80d5",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.597260774,
+            "creation": "2017-08-14T05:08:23.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 78750,
+            "uuploaders": 45458
+        },
+        {
+            "id": 88,
+            "name": "Game.of.Thrones.S07E05.VOSTFR.720p.AMZN.WEB-DL.DDP5.1.H264-ARK01.mkv",
+            "btih": "4b0390699843de9170455e9cc633445aa79319ba",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.321868183,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 74270,
+            "uuploaders": 45380
+        },
+        {
+            "id": 14,
+            "name": "Game.of.Thrones.S07E05.1080p.1GB.WEB-DL.x264.torrentcounter.cc",
+            "btih": "e78561edbe20ac916ab49703c279ac9db62fb96a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.049017982,
+            "creation": "2017-08-14T07:18:02.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 66989,
+            "uuploaders": 39162
+        },
+        {
+            "id": 39,
+            "name": "Game.of.Thrones.S07E05.720p.WEBRip.2CH.x265.HEVC-PSA.[limetorrents.cc]",
+            "btih": "3d30b5e348ff671a71f51e980ec9ad3b2d70d3e5",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.346241884,
+            "creation": "2017-08-14T05:11:35.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 64520,
+            "uuploaders": 26399
+        },
+        {
+            "id": 31,
+            "name": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS[ettv]",
+            "btih": "9578c658f0ac369547fcc454eead4457c728b2af",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.00659976,
+            "creation": "2017-08-14T02:04:47.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 51999,
+            "uuploaders": 25622
+        },
+        {
+            "id": 55,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.WEB.DL.H264.[limetorrents.cc]",
+            "btih": "251916f20a789bc430a9b725a93ab2cc10db0c7e",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.541349446,
+            "creation": "2017-08-14T03:37:00.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 48176,
+            "uuploaders": 27597
+        },
+        {
+            "id": 13,
+            "name": "Game.of.Thrones.S07E05.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.[limetorrents.cc]",
+            "btih": "b6eb63c105e1737426677d9aa564ac50b09fde4e",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.786547496,
+            "creation": "2017-08-14T04:06:19.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 40679,
+            "uuploaders": 17514
+        },
+        {
+            "id": 60,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-Go.[limetorrents.cc]",
+            "btih": "542f3d5fb50a8de19a1a9d8cfc11d175b9ef3ad8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.321830025,
+            "creation": "2017-08-14T01:28:32.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 38868,
+            "uuploaders": 14842
+        },
+        {
+            "id": 58,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.490MB.MkvCage.mkv",
+            "btih": "c6e4189c386e1115a33fd59e75369c95ad827c8d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.515843906,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37636,
+            "uuploaders": 18889
+        },
+        {
+            "id": 33,
+            "name": "Game.of.Thrones.S07E05.720p.WEB.h264-TBS [IPT]",
+            "btih": "772b2c94b6e5bced1b573def53f002005762e159",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.322272336,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 36052,
+            "uuploaders": 23711
+        },
+        {
+            "id": 108,
+            "name": "multi-btih-5-2-x-Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.6CH.999MB.[limetorrents.cc]",
+            "btih": "72828f44f15d33b81116bb843b8c204ddba4b29b",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.049017982,
+            "creation": "2017-08-14T02:51:11.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33164,
+            "uuploaders": 17756
+        },
+        {
+            "id": 103,
+            "name": "multi-btih-0-2-x-Game of Thrones S07E05 XviD-AFG [www.bt-scene.cc]",
+            "btih": "27737f959b3b476099b4e9135c6b7b5500a0690a",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.468329095,
+            "creation": "2017-08-14T01:42:43.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),Torrent downloaded from http://www.bt-scene.cc",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26351,
+            "uuploaders": 13034
+        },
+        {
+            "id": 26,
+            "name": "Game.of.Thrones.S07E05.720p.10bit.WEBRip.6CH.x265.HEVC-PSA.[limetorrents.cc]",
+            "btih": "e8549fbcbee7a6215c380f22f1cb9cbd73e39bc5",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.440659938,
+            "creation": "2017-08-14T03:00:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21481,
+            "uuploaders": 9890
+        },
+        {
+            "id": 95,
+            "name": "Game.of.Thrones.S07E05.XviD-AFG [IPT]",
+            "btih": "f9e5aa1bba4740493343658fa2260b51f485278c",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.468329095,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 18114,
+            "uuploaders": 12184
+        },
+        {
+            "id": 100,
+            "name": "权力的游戏.Game.of.Thrones.S07E05.1080p精校版-天天美剧字幕组.mp4",
+            "btih": "8fee1d104a08217de64fe0c5acd26e028844989b",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.779718162,
+            "creation": "2017-08-16T04:06:42.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16673,
+            "uuploaders": 6346
+        },
+        {
+            "id": 25,
+            "name": "Game.of.Thrones.S07E05.480p.x264-mSD",
+            "btih": "23fdbafc9f2e1420399ca0488b4451143eea4f08",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.256076373,
+            "creation": "2017-08-14T01:23:53.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15916,
+            "uuploaders": 7155
+        },
+        {
+            "id": 28,
+            "name": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS [IPT]",
+            "btih": "cfdb67101f8c3548e45b7ddc19bba79e4a4027e2",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.006602868,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 15418,
+            "uuploaders": 10677
+        },
+        {
+            "id": 16,
+            "name": "Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta.[limetorrents.cc]",
+            "btih": "e12942f55be824c221031f6aed7e957ecf8c5cc7",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.724025363,
+            "creation": "2017-08-14T04:40:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15127,
+            "uuploaders": 7727
+        },
+        {
+            "id": 24,
+            "name": "Game.of.Thrones.S07E05.480p.x264-mSD.[limetorrents.cc]",
+            "btih": "80807486d25fb3f574dabb02697dc927abdd7799",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.256076289,
+            "creation": "2017-08-14T01:30:05.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13514,
+            "uuploaders": 5591
+        },
+        {
+            "id": 45,
+            "name": "Game.Of.Thrones.S07E05.Eastwatch.1080p.6CH.AMZN.WEB.DL.x265.HETeam.[limetorrents.cc]",
+            "btih": "8deb0821200a518e34b8a9275b6f6c35be229ee6",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.451961716,
+            "creation": "2017-08-15T03:52:18.000000000Z,qBittorrent v3.3.7,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13246,
+            "uuploaders": 5923
+        },
+        {
+            "id": 27,
+            "name": "Game.of.Thrones.S07E05.720p.HDTV.500MB.Zaeem.[limetorrents.cc]",
+            "btih": "fe7756b8d384894fbb1633a04439418eab8d2d6f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.471326615,
+            "creation": "2017-08-14T18:03:24.000000000Z,uTorrent/3.5,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13235,
+            "uuploaders": 6129
+        },
+        {
+            "id": 15,
+            "name": "Game.of.Thrones.S07E05.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "351f40ee291a3dab1812160b167a89f1c80b9be0",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.724025279,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 12794,
+            "uuploaders": 8554
+        },
+        {
+            "id": 41,
+            "name": "Game.of.Thrones.S07E05.720p.WEBRip.HEVC.x265-RMTeam.252MB.Shadow.[limetorrents.cc]",
+            "btih": "cf995543fb529cdfac2b365a7f0a9fb431402a8c",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.264639573,
+            "creation": "2017-08-14T13:36:51.000000000Z,uTorrent/2210,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12343,
+            "uuploaders": 4548
+        },
+        {
+            "id": 46,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.Amazon.WEB.DL.DD5.1.x264.PSYPHER.[limetorrents.cc]",
+            "btih": "0084a1302962ecf3b8b61b5cc625455a60cfd5bc",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.621043386,
+            "creation": "2017-08-14T04:59:28.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11066,
+            "uuploaders": 6159
+        },
+        {
+            "id": 66,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEBRip.x265.HEVC.2CH-M.[limetorrents.cc]",
+            "btih": "8aba93ef36825616ee71c1840c31a72642e884a4",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.395471793,
+            "creation": "2017-08-14T02:07:01.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10898,
+            "uuploaders": 5378
+        },
+        {
+            "id": 17,
+            "name": "Game.of.Thrones.S07E05.1080p.WEB.DL.x265.HEVC.10bit.EAC3.5.1.RZeroX.[limetorrents.cc]",
+            "btih": "ebcbc56849f3cb0857ec82fa453b3de1af191c42",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.274418618,
+            "creation": "2017-08-14T07:20:35.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10500,
+            "uuploaders": 6451
+        },
+        {
+            "id": 84,
+            "name": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS.[limetorrents.cc]",
+            "btih": "aabb0626252b440a4ee4c13e802e67cb2410c653",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.795744511,
+            "creation": "2017-08-14T01:56:47.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10233,
+            "uuploaders": 5410
+        },
+        {
+            "id": 51,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEBRip.DDP5.1.x264-Go.[limetorrents.cc]",
+            "btih": "baed8fa1046860c664487084e093aebae8dceea1",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.547943056,
+            "creation": "2017-08-14T01:56:54.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9585,
+            "uuploaders": 5294
+        },
+        {
+            "id": 18,
+            "name": "Game.of.Thrones.S07E05.1080p.WEB.h264-TBS [IPT]",
+            "btih": "92e6005e8ee978d00a2e2f689bf12dd58d45b98c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.674834416,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 9179,
+            "uuploaders": 6583
+        },
+        {
+            "id": 40,
+            "name": "Game.of.Thrones.S07E05.720p.WEBRip.DD.5.1-LOKI-M2Tv.[limetorrents.cc]",
+            "btih": "266712cc2ae681fa058f0d17edac55c0d7734fc4",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.650281252,
+            "creation": "2017-08-14T12:42:49.000000000Z,uTorrent/2210,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8266,
+            "uuploaders": 3838
+        },
+        {
+            "id": 57,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.Amazon.WEB-DL.DD5.1.x264-PSYPHER.[limetorrents.cc]",
+            "btih": "766557f5d07ddb60ec17e3f927435ad83ade561a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.946248075,
+            "creation": "2017-08-14T03:49:21.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7828,
+            "uuploaders": 3857
+        },
+        {
+            "id": 99,
+            "name": "权L的游戏.Game.of.Thrones.S07E05.中英字幕.WEB.HR.1280X720.[limetorrents.cc]",
+            "btih": "75fcffea344e8ae1fa476c56436547f76584ccb1",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.601353866,
+            "creation": "2017-08-14T23:40:05.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7105,
+            "uuploaders": 1744
+        },
+        {
+            "id": 77,
+            "name": "Game.of.Thrones.S07E05.HDTV.x264-SVA.[limetorrents.cc]",
+            "btih": "83bbfd3c02c4bfcd1a9de8d72bf08fde00ca9f89",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.307157562,
+            "creation": "2017-08-14T02:05:08.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6016,
+            "uuploaders": 2756
+        },
+        {
+            "id": 29,
+            "name": "Game.of.Thrones.S07E05.720p.HDTV.x264-AVS.[limetorrents.cc]",
+            "btih": "f9e9ec568a61f4475bdb8f2d83edbc5c7bf35fc0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.006599676,
+            "creation": "2017-08-14T02:05:29.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5721,
+            "uuploaders": 3061
+        },
+        {
+            "id": 75,
+            "name": "Game.of.Thrones.S07E05.FRENCH.HDTV.XviD.ZT.[limetorrents.cc]",
+            "btih": "e383c391ee467a71c1c154ce162b9128d70a279d",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.578080316,
+            "creation": "2017-08-14T06:50:25.000000000Z,uTorrent/3.5,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5618,
+            "uuploaders": 3639
+        },
+        {
+            "id": 22,
+            "name": "Game.of.Thrones.S07E05.480p.WEBRip.x264.HETeam.mkv",
+            "btih": "f15fdb061e271b57e3ac86a45d8db4ee3a42b752",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.220305174,
+            "creation": "2017-08-14T01:21:23.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5562,
+            "uuploaders": 1730
+        },
+        {
+            "id": 61,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT [IPT]",
+            "btih": "497c4dba39c55ff6fc649eaf1257bdf4a15d6abb",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.326128898,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5299,
+            "uuploaders": 3897
+        },
+        {
+            "id": 20,
+            "name": "Game.of.Thrones.S07E05.1080p.WEB.HEVC.x265.RMTeam.558MB.Shadow.[limetorrents.cc]",
+            "btih": "5d4809a54672f828fdad94fbf1d2953754a89282",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.586116555,
+            "creation": "2017-08-14T13:12:08.000000000Z,uTorrent/2210,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4860,
+            "uuploaders": 2545
+        },
+        {
+            "id": 23,
+            "name": "Game.of.Thrones.S07E05.480p.x264-mSD [IPT]",
+            "btih": "c704423f2b2752bd2a5fab29d111a6c6e8266096",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.256076289,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4667,
+            "uuploaders": 2529
+        },
+        {
+            "id": 76,
+            "name": "Game.of.Thrones.S07E05.HDTV.x264-SVA [IPT]",
+            "btih": "2e75c581b61f7c65694ffed3ce3b2acccfdef79c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.307160565,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4624,
+            "uuploaders": 3044
+        },
+        {
+            "id": 65,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEBRip.H264-Rapta.[limetorrents.cc]",
+            "btih": "7a2b1f11f4c01b4d57e80b1364004b51f452f53d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.53961495,
+            "creation": "2017-08-14T04:52:48.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4575,
+            "uuploaders": 1558
+        },
+        {
+            "id": 56,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.x264.Phun.Psyz.[limetorrents.cc]",
+            "btih": "88d7e1f9280ff0d925c515fc89a0a619882838aa",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.514343614,
+            "creation": "2017-08-14T05:17:18.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4496,
+            "uuploaders": 1750
+        },
+        {
+            "id": 101,
+            "name": "权力的游戏.Game.of.Thrones.S07E05.720p-天天美剧字幕组.mp4",
+            "btih": "7a17b48a3cb985ec04e3da7aa831ee499e3f763f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.782149309,
+            "creation": "2017-08-14T07:19:34.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4410,
+            "uuploaders": 1458
+        },
+        {
+            "id": 102,
+            "name": "权力的游戏.Game.of.Thrones.S07E05.720p精校版-天天美剧字幕组.mp4",
+            "btih": "91e988d59a924836338e12b85180009de17acde2",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.780543995,
+            "creation": "2017-08-16T01:30:29.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4355,
+            "uuploaders": 1151
+        },
+        {
+            "id": 21,
+            "name": "Game.of.Thrones.S07E05.1080p.WEBRip.x264.ENG.SoftSub.ITA-corey91.[limetorrents.cc]",
+            "btih": "7e4a5e7120fba209d0b4e0d8245f8ac94eb9df29",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.538410357,
+            "creation": "2017-08-14T14:07:05.000000000Z,uTorrent/3.5,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4208,
+            "uuploaders": 2665
+        },
+        {
+            "id": 44,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH.MRN.[limetorrents.cc]",
+            "btih": "6ce742a144264c177aa3a500125916f28fbde06d",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.745198881,
+            "creation": "2017-08-14T03:38:51.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4107,
+            "uuploaders": 1717
+        },
+        {
+            "id": 63,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.720p.AMZN.WEBRip.DDP5.1.x264-GoT.[limetorrents.cc]",
+            "btih": "f8a02ca031b1dc80cf4728f7e818c1f8e980ce8c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.326128898,
+            "creation": "2017-08-14T01:57:44.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3719,
+            "uuploaders": 1496
+        },
+        {
+            "id": 42,
+            "name": "Game.Of.Thrones.S07E05.720P.X264.AAC-OkFreeMovies.[limetorrents.cc]",
+            "btih": "04f45537043e4b5dd9786ce9e3a24a8249c2e716",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.663060236,
+            "creation": "2017-08-14T02:00:56.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3068,
+            "uuploaders": 1031
+        },
+        {
+            "id": 12,
+            "name": "Game-of-Thrones-S07E05-HDTV-WEB-DL-mkv",
+            "btih": "fe84774b3699e61fdd76b74050662d7168c73def",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.474732189,
+            "creation": "2017-08-08T21:08:00.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2910,
+            "uuploaders": 909
+        },
+        {
+            "id": 43,
+            "name": "Game.of.Thrones.S07E05.AAC.MP4-Mobile [IPT]",
+            "btih": "caf4616aca2f7a7aa5822a31dfb27500a3eecb8c",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.223486787,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2635,
+            "uuploaders": 1411
+        },
+        {
+            "id": 82,
+            "name": "Game.of.Thrones.S07E05.MULTi.1080p.HDTV.x264-SH0W [IPT]",
+            "btih": "65ce30d9a2a22e150682379320a84184bc70882c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.233538284,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1994,
+            "uuploaders": 1302
+        },
+        {
+            "id": 70,
+            "name": "Game.Of.Thrones.S07E05.Eastwatch.AMZN.WEB.DL.DDP2.0.H.264.GoT.limetorrents.cc",
+            "btih": "5e27b380dc8d490003f5e535c064caa10f2718f7",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.597260805,
+            "creation": "2017-08-14T01:15:17.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1876,
+            "uuploaders": 1190
+        },
+        {
+            "id": 49,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-G.[limetorrents.cc]",
+            "btih": "1e6fa3144d41b0a32bb38706f3946dbaeb2b03fe",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.538358063,
+            "creation": "2017-08-14T01:18:13.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1767,
+            "uuploaders": 1148
+        },
+        {
+            "id": 68,
+            "name": "Game.of.Thrones.S07E05.Eastwatch.AMZN.WEB-DL.DDP2.0.H.264-GoT [IPT]",
+            "btih": "1135c76bb87d8b0690d08a3a1b9d6d7fbebeac0b",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.599813256,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1717,
+            "uuploaders": 835
+        },
+        {
+            "id": 83,
+            "name": "Game.of.Thrones.S07E05.REPACK.WEB.h264-TBS [IPT]",
+            "btih": "9ac10935d411cd7ffc919d244c1d715cc205f1b8",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.795751564,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1447,
+            "uuploaders": 930
+        },
+        {
+            "id": 38,
+            "name": "Game.of.Thrones.S07E05.720p.WEB.h264.TBS.[limetorrents.cc]",
+            "btih": "f087c85d0d4f58ea748ff2f4d7419a0e924f647c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.3444093560000001,
+            "creation": "2017-08-14T01:12:12.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1142,
+            "uuploaders": 751
+        },
+        {
+            "id": 93,
+            "name": "Game.of.Thrones.S07E05.WEB.h264.TBS.[limetorrents.cc]",
+            "btih": "510d894bfd186ae4a21569e372410739feb3adb9",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.264411969,
+            "creation": "2017-08-14T01:06:41.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 528,
+            "uuploaders": 345
+        }
+    ]
+}
