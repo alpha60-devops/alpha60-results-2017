@@ -1,0 +1,717 @@
+{
+    "collection_name": "Feud",
+    "collection_id": "102",
+    "collection_key": "feud-102",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "sample_duration": "2017-03-12-to-2017-03-28",
+    "sample_days": 17,
+    "sample_year_start": 2017,
+    "sample_year_end": 2017,
+    "sample_day_year_start": 71,
+    "sample_day_year_end": 87,
+    "collection_week": [
+        {
+    "number": "week-00001",
+    "btiha_size": 9,
+    "udownloaders_total": 19924,
+    "uuploaders_total": 11421
+},
+        {
+    "number": "week-00002",
+    "btiha_size": 9,
+    "udownloaders_total": 29390,
+    "uuploaders_total": 17159
+},
+        {
+    "number": "week-00003",
+    "btiha_size": 9,
+    "udownloaders_total": 37442,
+    "uuploaders_total": 19001
+}
+    ],
+    "collection_week_by_btiha": [
+        [
+    {
+        "id": 8,
+        "name": "Feud.S01E02.HDTV.x264-FLEET[PRiME]",
+        "btih": "190641f8de3a2c777192fac07c659319a0f202e7",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332532104,
+        "creation": "2017-03-13T03:15:10.000000000Z,mktorrent 1.0",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7419,
+        "uuploaders": 3974
+    },
+    {
+        "id": 7,
+        "name": "Feud.S01E02.HDTV.x264-FLEET[eztv]",
+        "btih": "c879fb55ff95a247e0776df3d4f41fe58f39d3c7",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332531357,
+        "creation": "2017-03-13T03:14:11.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6835,
+        "uuploaders": 4042
+    },
+    {
+        "id": 3,
+        "name": "Feud.S01E02.720p.HDTV.x264-FLEET[PRiME]",
+        "btih": "a94deb9cd57212d6859b74bc7db4c6186ad029c7",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.677084187,
+        "creation": "2017-03-13T03:12:20.000000000Z,mktorrent 1.0",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2925,
+        "uuploaders": 1782
+    },
+    {
+        "id": 2,
+        "name": "Feud.S01E02.720p.HDTV.x264-FLEET[eztv]",
+        "btih": "48b438eba2e626ebdcb1dd3eea920197febbf681",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.67708344,
+        "creation": "2017-03-13T03:15:22.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1921,
+        "uuploaders": 1152
+    },
+    {
+        "id": 1,
+        "name": "Feud.S01E02.720p.HDTV.x264-FLEET [IPT]",
+        "btih": "d71570a492f3f4db88bd2684f0a3c985c41a2b6e",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.677088998,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 385,
+        "uuploaders": 208
+    },
+    {
+        "id": 9,
+        "name": "Feud.S01E02.XviD-AFG [IPT]",
+        "btih": "f872487e2ae355a4e4515919fd125dd74559bded",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.417538414,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 223,
+        "uuploaders": 134
+    },
+    {
+        "id": 6,
+        "name": "Feud.S01E02.HDTV.x264-FLEET [IPT]",
+        "btih": "45ccd45482400ee75e797299bebaad9eb52946df",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.339603279,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 96,
+        "uuploaders": 59
+    },
+    {
+        "id": 4,
+        "name": "Feud.S01E02.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "05c5eeee773792f2ce7fcb6638097ac16f8cb17d",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.282310871,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 61,
+        "uuploaders": 38
+    },
+    {
+        "id": 5,
+        "name": "Feud.S01E02.AAC.MP4-Mobile [IPT]",
+        "btih": "41301e4d4d0940cb89445f6fad5eb3b62d90abd8",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.191123988,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 59,
+        "uuploaders": 32
+    }
+],
+        [
+    {
+        "id": 7,
+        "name": "Feud.S01E02.HDTV.x264-FLEET[eztv]",
+        "btih": "c879fb55ff95a247e0776df3d4f41fe58f39d3c7",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332531357,
+        "creation": "2017-03-13T03:14:11.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10984,
+        "uuploaders": 6759
+    },
+    {
+        "id": 8,
+        "name": "Feud.S01E02.HDTV.x264-FLEET[PRiME]",
+        "btih": "190641f8de3a2c777192fac07c659319a0f202e7",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332532104,
+        "creation": "2017-03-13T03:15:10.000000000Z,mktorrent 1.0",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10168,
+        "uuploaders": 5540
+    },
+    {
+        "id": 3,
+        "name": "Feud.S01E02.720p.HDTV.x264-FLEET[PRiME]",
+        "btih": "a94deb9cd57212d6859b74bc7db4c6186ad029c7",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.677084187,
+        "creation": "2017-03-13T03:12:20.000000000Z,mktorrent 1.0",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3839,
+        "uuploaders": 2335
+    },
+    {
+        "id": 2,
+        "name": "Feud.S01E02.720p.HDTV.x264-FLEET[eztv]",
+        "btih": "48b438eba2e626ebdcb1dd3eea920197febbf681",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.67708344,
+        "creation": "2017-03-13T03:15:22.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3168,
+        "uuploaders": 1889
+    },
+    {
+        "id": 1,
+        "name": "Feud.S01E02.720p.HDTV.x264-FLEET [IPT]",
+        "btih": "d71570a492f3f4db88bd2684f0a3c985c41a2b6e",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.677088998,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 581,
+        "uuploaders": 247
+    },
+    {
+        "id": 9,
+        "name": "Feud.S01E02.XviD-AFG [IPT]",
+        "btih": "f872487e2ae355a4e4515919fd125dd74559bded",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.417538414,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 347,
+        "uuploaders": 208
+    },
+    {
+        "id": 6,
+        "name": "Feud.S01E02.HDTV.x264-FLEET [IPT]",
+        "btih": "45ccd45482400ee75e797299bebaad9eb52946df",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.339603279,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 141,
+        "uuploaders": 83
+    },
+    {
+        "id": 4,
+        "name": "Feud.S01E02.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "05c5eeee773792f2ce7fcb6638097ac16f8cb17d",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.282310871,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 88,
+        "uuploaders": 56
+    },
+    {
+        "id": 5,
+        "name": "Feud.S01E02.AAC.MP4-Mobile [IPT]",
+        "btih": "41301e4d4d0940cb89445f6fad5eb3b62d90abd8",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.191123988,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 74,
+        "uuploaders": 42
+    }
+],
+        [
+    {
+        "id": 7,
+        "name": "Feud.S01E02.HDTV.x264-FLEET[eztv]",
+        "btih": "c879fb55ff95a247e0776df3d4f41fe58f39d3c7",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332531357,
+        "creation": "2017-03-13T03:14:11.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12904,
+        "uuploaders": 7608
+    },
+    {
+        "id": 8,
+        "name": "Feud.S01E02.HDTV.x264-FLEET[PRiME]",
+        "btih": "190641f8de3a2c777192fac07c659319a0f202e7",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.332532104,
+        "creation": "2017-03-13T03:15:10.000000000Z,mktorrent 1.0",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12214,
+        "uuploaders": 6033
+    },
+    {
+        "id": 3,
+        "name": "Feud.S01E02.720p.HDTV.x264-FLEET[PRiME]",
+        "btih": "a94deb9cd57212d6859b74bc7db4c6186ad029c7",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.677084187,
+        "creation": "2017-03-13T03:12:20.000000000Z,mktorrent 1.0",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5854,
+        "uuploaders": 2532
+    },
+    {
+        "id": 2,
+        "name": "Feud.S01E02.720p.HDTV.x264-FLEET[eztv]",
+        "btih": "48b438eba2e626ebdcb1dd3eea920197febbf681",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.67708344,
+        "creation": "2017-03-13T03:15:22.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5103,
+        "uuploaders": 2145
+    },
+    {
+        "id": 1,
+        "name": "Feud.S01E02.720p.HDTV.x264-FLEET [IPT]",
+        "btih": "d71570a492f3f4db88bd2684f0a3c985c41a2b6e",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.677088998,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 651,
+        "uuploaders": 260
+    },
+    {
+        "id": 9,
+        "name": "Feud.S01E02.XviD-AFG [IPT]",
+        "btih": "f872487e2ae355a4e4515919fd125dd74559bded",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.417538414,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 376,
+        "uuploaders": 224
+    },
+    {
+        "id": 6,
+        "name": "Feud.S01E02.HDTV.x264-FLEET [IPT]",
+        "btih": "45ccd45482400ee75e797299bebaad9eb52946df",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.339603279,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 153,
+        "uuploaders": 89
+    },
+    {
+        "id": 4,
+        "name": "Feud.S01E02.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "05c5eeee773792f2ce7fcb6638097ac16f8cb17d",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.282310871,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 101,
+        "uuploaders": 66
+    },
+    {
+        "id": 5,
+        "name": "Feud.S01E02.AAC.MP4-Mobile [IPT]",
+        "btih": "41301e4d4d0940cb89445f6fad5eb3b62d90abd8",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.191123988,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 86,
+        "uuploaders": 44
+    }
+]
+    ],
+    "collection_week_by_country": [
+        [
+    {
+        "number": "BRA_week_1",
+        "btiha_size": 5,
+        "udownloaders_total": 1167,
+        "uuploaders_total": 731
+    },
+    {
+        "number": "CAN_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 1007,
+        "uuploaders_total": 562
+    },
+    {
+        "number": "CHN_week_1",
+        "btiha_size": 4,
+        "udownloaders_total": 247,
+        "uuploaders_total": 125
+    },
+    {
+        "number": "DEU_week_1",
+        "btiha_size": 7,
+        "udownloaders_total": 184,
+        "uuploaders_total": 93
+    },
+    {
+        "number": "ESP_week_1",
+        "btiha_size": 6,
+        "udownloaders_total": 582,
+        "uuploaders_total": 361
+    },
+    {
+        "number": "FRA_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 404,
+        "uuploaders_total": 287
+    },
+    {
+        "number": "HKG_week_1",
+        "btiha_size": 4,
+        "udownloaders_total": 82,
+        "uuploaders_total": 47
+    },
+    {
+        "number": "JPN_week_1",
+        "btiha_size": 5,
+        "udownloaders_total": 105,
+        "uuploaders_total": 57
+    },
+    {
+        "number": "KOR_week_1",
+        "btiha_size": 4,
+        "udownloaders_total": 248,
+        "uuploaders_total": 136
+    },
+    {
+        "number": "MEX_week_1",
+        "btiha_size": 5,
+        "udownloaders_total": 156,
+        "uuploaders_total": 97
+    },
+    {
+        "number": "NLD_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 1511,
+        "uuploaders_total": 431
+    },
+    {
+        "number": "RUS_week_1",
+        "btiha_size": 4,
+        "udownloaders_total": 101,
+        "uuploaders_total": 48
+    },
+    {
+        "number": "SWE_week_1",
+        "btiha_size": 6,
+        "udownloaders_total": 268,
+        "uuploaders_total": 125
+    },
+    {
+        "number": "TUR_week_1",
+        "btiha_size": 5,
+        "udownloaders_total": 108,
+        "uuploaders_total": 75
+    },
+    {
+        "number": "UKR_week_1",
+        "btiha_size": 4,
+        "udownloaders_total": 14,
+        "uuploaders_total": 10
+    },
+    {
+        "number": "USA_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 3601,
+        "uuploaders_total": 1956
+    }
+],
+        [
+    {
+        "number": "BRA_week_2",
+        "btiha_size": 7,
+        "udownloaders_total": 2007,
+        "uuploaders_total": 1293
+    },
+    {
+        "number": "CAN_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 1390,
+        "uuploaders_total": 786
+    },
+    {
+        "number": "CHN_week_2",
+        "btiha_size": 5,
+        "udownloaders_total": 471,
+        "uuploaders_total": 179
+    },
+    {
+        "number": "DEU_week_2",
+        "btiha_size": 7,
+        "udownloaders_total": 255,
+        "uuploaders_total": 134
+    },
+    {
+        "number": "ESP_week_2",
+        "btiha_size": 6,
+        "udownloaders_total": 883,
+        "uuploaders_total": 561
+    },
+    {
+        "number": "FRA_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 581,
+        "uuploaders_total": 400
+    },
+    {
+        "number": "HKG_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 121,
+        "uuploaders_total": 69
+    },
+    {
+        "number": "JPN_week_2",
+        "btiha_size": 5,
+        "udownloaders_total": 155,
+        "uuploaders_total": 91
+    },
+    {
+        "number": "KOR_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 449,
+        "uuploaders_total": 307
+    },
+    {
+        "number": "MEX_week_2",
+        "btiha_size": 5,
+        "udownloaders_total": 287,
+        "uuploaders_total": 185
+    },
+    {
+        "number": "NLD_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 1963,
+        "uuploaders_total": 603
+    },
+    {
+        "number": "RUS_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 182,
+        "uuploaders_total": 87
+    },
+    {
+        "number": "SWE_week_2",
+        "btiha_size": 7,
+        "udownloaders_total": 351,
+        "uuploaders_total": 174
+    },
+    {
+        "number": "TUR_week_2",
+        "btiha_size": 5,
+        "udownloaders_total": 173,
+        "uuploaders_total": 109
+    },
+    {
+        "number": "UKR_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 27,
+        "uuploaders_total": 17
+    },
+    {
+        "number": "USA_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 4785,
+        "uuploaders_total": 2654
+    }
+],
+        [
+    {
+        "number": "BRA_week_3",
+        "btiha_size": 7,
+        "udownloaders_total": 2373,
+        "uuploaders_total": 1461
+    },
+    {
+        "number": "CAN_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 1612,
+        "uuploaders_total": 856
+    },
+    {
+        "number": "CHN_week_3",
+        "btiha_size": 5,
+        "udownloaders_total": 951,
+        "uuploaders_total": 199
+    },
+    {
+        "number": "DEU_week_3",
+        "btiha_size": 7,
+        "udownloaders_total": 458,
+        "uuploaders_total": 148
+    },
+    {
+        "number": "ESP_week_3",
+        "btiha_size": 6,
+        "udownloaders_total": 1046,
+        "uuploaders_total": 633
+    },
+    {
+        "number": "FRA_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 752,
+        "uuploaders_total": 444
+    },
+    {
+        "number": "HKG_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 154,
+        "uuploaders_total": 79
+    },
+    {
+        "number": "JPN_week_3",
+        "btiha_size": 5,
+        "udownloaders_total": 435,
+        "uuploaders_total": 116
+    },
+    {
+        "number": "KOR_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 597,
+        "uuploaders_total": 327
+    },
+    {
+        "number": "MEX_week_3",
+        "btiha_size": 5,
+        "udownloaders_total": 341,
+        "uuploaders_total": 207
+    },
+    {
+        "number": "NLD_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 2144,
+        "uuploaders_total": 650
+    },
+    {
+        "number": "RUS_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 250,
+        "uuploaders_total": 96
+    },
+    {
+        "number": "SWE_week_3",
+        "btiha_size": 7,
+        "udownloaders_total": 429,
+        "uuploaders_total": 189
+    },
+    {
+        "number": "TUR_week_3",
+        "btiha_size": 5,
+        "udownloaders_total": 214,
+        "uuploaders_total": 133
+    },
+    {
+        "number": "UKR_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 37,
+        "uuploaders_total": 17
+    },
+    {
+        "number": "USA_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 7032,
+        "uuploaders_total": 2888
+    }
+]
+    ]
+}

@@ -1,0 +1,177 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt1984119",
+    "imdb_id": "tt1984119",
+    "revision": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec",
+    "wikidata_id": "Q25207414",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Feud_(TV_series)"
+  },
+  "coverage_sha256": "698ed84fac46545a14e91d86a59793447a2fa86a5236147171e3eaf8cd387a88",
+  "generated_at": "2026-09-09T01:49:02.993820+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/feud-102.cache/cache.20170328.tar.xz",
+      "sha256": "639ca54973a3eaad870f2571a8a1fe58c1b5441292253cd4a25eda0bc419f626",
+      "size": 2011084
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-coverage-evidence/feud-102.md",
+      "sha256": "eb36e2a3055dd0fa3ed9a8e8008984696dfad1587c128a01d14818c5aa41f1c2",
+      "size": 8621
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-cache-stream-receipts/feud-102.json",
+      "sha256": "d958a352b809579e93d1355132b299286a9749cdca18fe257e8fae873b8a0340",
+      "size": 2080
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-product-receipts/feud-102.json",
+      "sha256": "863436c2ca31925d01c3d56a5132e9a2daff508edff46450fb6837db6245a931",
+      "size": 360
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+      "sha256": "545757136e399cdd72c619c9f9ffaa4fe15317554642b14efc0f9c41d4307bca",
+      "size": 59066
+    }
+  },
+  "media_object": "feud-102",
+  "published_files": {
+    "data/csv/bytes/feud-102-cumulative-detail.2017-btiha-itemized-by-bytes.csv": "08926cf640a9ff0de011c55c9e5a95a175780b369d80d7aa0e354680e5f534ec",
+    "docs/itemized/feud-102-sample-cache-audit.md": "b6c10da0d5b33d77b39cd0c996139849b0e3e740c161e9ea24090db27cc1eb1b",
+    "docs/itemized/figures/feud-102-carto-4k.webp": "6ca3803edab5bbe601724470de70442a2ee252ef3e00b34927e956bd01154fb7",
+    "docs/itemized/figures/feud-102-carto.png": "387ddb0c51f2ecd8333e66e0f309d2b6091b47635b33692268b57627aba2846c",
+    "docs/itemized/figures/feud-102-cumulative-detail-btiha-itemized-by-bytes.svg": "0beb93d09767d0d397c8829c848697e2379a877177119d25765658174efde762",
+    "docs/itemized/figures/feud-102-data-lt-1080p-4k.webp": "eac5c099b66e44fbb8d7efa22659a3ca8b5e11fffe3de5be94ce3392a5a71806",
+    "docs/itemized/figures/feud-102-data-lt-1080p.webp": "027150ea3d3432a617e36d265c44dfb9352c4219ba65a0ae235dc99fe49a9757",
+    "docs/itemized/figures/feud-102-downloads-by-day-day.svg": "66b69c71f3df3288f405b5c52a96061f9739d2477ac78096ea8a49d1cd12aac3",
+    "docs/itemized/figures/feud-102-downloads-by-week-feud-102-week.svg": "69cb03137d38d4cbeca71ebe56068a424a824eca75ed638311c2169409583424",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "d17262f5de025dd0b99973b5f8648f02304732f6",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/feud-102/tmp/feud-102-cumulative-btiha.geojson",
+        "sha256": "b5399f8fc45f7dabec771dedf766f3f58f8b3fc3e7f042b72040acaf0f763caf",
+        "size": 874725
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/feud-102/tmp/feud-102-cumulative-btiha-media-objects.json",
+        "sha256": "619b9d11e655e67bbd3e0e9768be2a89c5620f01ad4b61ddc6af74914715ef6e",
+        "size": 24675
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "feud-102",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "reason": "no collection members at 1080p or 2160 resolution",
+        "status": "skipped-empty-partition"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          56.0,
+          48.0,
+          40.0,
+          38.0,
+          35.0,
+          33.0,
+          32.0,
+          32.0,
+          31.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Lelystad",
+          "Sydney",
+          "Amsterdam",
+          "Melbourne",
+          "New York City",
+          "Seattle",
+          "Toronto",
+          "Seoul",
+          "S\u00e3o Paulo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 17,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 5,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 3,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "d17262f5de025dd0b99973b5f8648f02304732f6",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "9118dcee59582140eaf9b1224b053ff5bea0330d",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2017"
+}

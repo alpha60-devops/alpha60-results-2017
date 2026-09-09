@@ -1,0 +1,89 @@
+{
+  "allow_leading_sparse": false,
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "available_day_products": 17,
+  "cache_members": 150,
+  "collection_key": "feud-102",
+  "downstream_cache_synthesis": {
+    "cache_members": {
+      "cumulative": 9,
+      "week": 27
+    },
+    "derived_durations": [
+      "week",
+      "cumulative"
+    ],
+    "producer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-cache-samples.exe",
+      "sha256": "d16a9108e845c27574005e58d13e7e2336f3ad8b4feae9beab895567df5acbee",
+      "size": 28903456
+    },
+    "sample_anchor": {
+      "directories": [
+        "2017-03-12-at-00-00",
+        "2017-03-28-at-00-00"
+      ],
+      "keys": [
+        "feud-102"
+      ],
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017/feud-102/tmp/feud-102-released-day-sample-anchor",
+      "raw_samples_opened": false,
+      "synthetic": true
+    },
+    "schema": "alpha60-released-day-downstream-cache/1",
+    "source_duration": "day",
+    "status": "pass"
+  },
+  "first_date": "2017-03-12",
+  "first_index": 1,
+  "indices": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "last_date": "2017-03-28",
+  "last_index": 17,
+  "missing_indices": [],
+  "sample_span_days": 17,
+  "schema": "alpha60-day-cache-stream-contract/1",
+  "selection": {
+    "admitted_cache_members": 150,
+    "archive_mutated": false,
+    "excluded_cache_members": 0,
+    "policy": "released-sample-endpoints-in-place",
+    "required_first_date": "2017-03-12",
+    "required_last_date": "2017-03-28",
+    "required_span_days": 17,
+    "schema": "alpha60-released-day-cache-window/1",
+    "source_cache_members": 150,
+    "source_first_date": "2017-03-12",
+    "source_first_index": 1,
+    "source_last_date": "2017-03-28",
+    "source_last_index": 17
+  },
+  "sparse": false,
+  "status": "pass"
+}

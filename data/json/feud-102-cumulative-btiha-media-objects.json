@@ -1,0 +1,662 @@
+{
+    "collection_name": "Feud",
+    "collection_id": "102",
+    "collection_key": "feud-102",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "Feud.S01E02.720p.HDTV.x264-FLEET [IPT]",
+            "size_total": 1.677088998,
+            "files_total": 36,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.96e-7,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.027086704,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.rar"
+                },
+                {
+                    "number": 36,
+                    "size": 0.000001598,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET/feud.s01e02.720p.hdtv.x264-fleet.sfv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Feud.S01E02.720p.HDTV.x264-FLEET[eztv]",
+            "size_total": 1.67708344,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.67708344,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Feud.S01E02.720p.HDTV.x264-FLEET[PRiME]",
+            "size_total": 1.677084187,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.67708344,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET[PRiME]/Feud.S01E02.720p.HDTV.x264-FLEET[PRiME].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.32e-7,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET[PRiME]/Please Support!! Read More!!!.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 6.9e-8,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET[PRiME]/Torrent Downloaded From 1337x.to.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.46e-7,
+                    "path": "Feud.S01E02.720p.HDTV.x264-FLEET[PRiME]/Torrent Downloaded From ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Feud.S01E02.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.282310871,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.278536788,
+                    "path": "Feud.S01E02.720p.HEVC.x265-MeGusta/Feud.S01E02.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001166,
+                    "path": "Feud.S01E02.720p.HEVC.x265-MeGusta/Feud.S01E02.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001100736,
+                    "path": "Feud.S01E02.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000863602,
+                    "path": "Feud.S01E02.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000841288,
+                    "path": "Feud.S01E02.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000967291,
+                    "path": "Feud.S01E02.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Feud.S01E02.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.191123988,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.19010343,
+                    "path": "Feud.S01E02.AAC.MP4-Mobile/Feud.S01E02.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001259,
+                    "path": "Feud.S01E02.AAC.MP4-Mobile/Feud.S01E02.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00037789,
+                    "path": "Feud.S01E02.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000160687,
+                    "path": "Feud.S01E02.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000239691,
+                    "path": "Feud.S01E02.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000241031,
+                    "path": "Feud.S01E02.AAC.MP4-Mobile/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Feud.S01E02.HDTV.x264-FLEET [IPT]",
+            "size_total": 0.339603279,
+            "files_total": 26,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.96e-7,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.00253345,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.015,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.rar"
+                },
+                {
+                    "number": 25,
+                    "size": 9.66e-7,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/feud.s01e02.hdtv.x264-fleet.sfv"
+                },
+                {
+                    "number": 26,
+                    "size": 0.007068167,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET/Sample/feud.s01e02.hdtv.x264-fleet.sample.mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Feud.S01E02.HDTV.x264-FLEET[eztv]",
+            "size_total": 0.332531357,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.332531357,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Feud.S01E02.HDTV.x264-FLEET[PRiME]",
+            "size_total": 0.332532104,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.332531357,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET[PRiME]/Feud.S01E02.HDTV.x264-FLEET[PRiME].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.32e-7,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET[PRiME]/Please Support!! Read More!!!.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 6.9e-8,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET[PRiME]/Torrent Downloaded From 1337x.to.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.46e-7,
+                    "path": "Feud.S01E02.HDTV.x264-FLEET[PRiME]/Torrent Downloaded From ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Feud.S01E02.XviD-AFG [IPT]",
+            "size_total": 0.417538414,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.416553408,
+                    "path": "Feud.S01E02.XviD-AFG/Feud.S01E02.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001134,
+                    "path": "Feud.S01E02.XviD-AFG/Feud.S01E02.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000386425,
+                    "path": "Feud.S01E02.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000156078,
+                    "path": "Feud.S01E02.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000233153,
+                    "path": "Feud.S01E02.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000208216,
+                    "path": "Feud.S01E02.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 7,
+            "name": "Feud.S01E02.HDTV.x264-FLEET[eztv]",
+            "btih": "c879fb55ff95a247e0776df3d4f41fe58f39d3c7",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.332531357,
+            "creation": "2017-03-13T03:14:11.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12904,
+            "uuploaders": 7608
+        },
+        {
+            "id": 8,
+            "name": "Feud.S01E02.HDTV.x264-FLEET[PRiME]",
+            "btih": "190641f8de3a2c777192fac07c659319a0f202e7",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.332532104,
+            "creation": "2017-03-13T03:15:10.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12214,
+            "uuploaders": 6033
+        },
+        {
+            "id": 3,
+            "name": "Feud.S01E02.720p.HDTV.x264-FLEET[PRiME]",
+            "btih": "a94deb9cd57212d6859b74bc7db4c6186ad029c7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.677084187,
+            "creation": "2017-03-13T03:12:20.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5854,
+            "uuploaders": 2532
+        },
+        {
+            "id": 2,
+            "name": "Feud.S01E02.720p.HDTV.x264-FLEET[eztv]",
+            "btih": "48b438eba2e626ebdcb1dd3eea920197febbf681",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.67708344,
+            "creation": "2017-03-13T03:15:22.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5103,
+            "uuploaders": 2145
+        },
+        {
+            "id": 1,
+            "name": "Feud.S01E02.720p.HDTV.x264-FLEET [IPT]",
+            "btih": "d71570a492f3f4db88bd2684f0a3c985c41a2b6e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.677088998,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 651,
+            "uuploaders": 260
+        },
+        {
+            "id": 9,
+            "name": "Feud.S01E02.XviD-AFG [IPT]",
+            "btih": "f872487e2ae355a4e4515919fd125dd74559bded",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.417538414,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 376,
+            "uuploaders": 224
+        },
+        {
+            "id": 6,
+            "name": "Feud.S01E02.HDTV.x264-FLEET [IPT]",
+            "btih": "45ccd45482400ee75e797299bebaad9eb52946df",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.339603279,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 153,
+            "uuploaders": 89
+        },
+        {
+            "id": 4,
+            "name": "Feud.S01E02.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "05c5eeee773792f2ce7fcb6638097ac16f8cb17d",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.282310871,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 101,
+            "uuploaders": 66
+        },
+        {
+            "id": 5,
+            "name": "Feud.S01E02.AAC.MP4-Mobile [IPT]",
+            "btih": "41301e4d4d0940cb89445f6fad5eb3b62d90abd8",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.191123988,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 86,
+            "uuploaders": 44
+        }
+    ]
+}
