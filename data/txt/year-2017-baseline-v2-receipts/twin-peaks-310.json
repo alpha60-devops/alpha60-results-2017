@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt4093826",
+    "imdb_id": "tt4093826",
+    "revision": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec",
+    "wikidata_id": "Q23971551",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Twin_Peaks"
+  },
+  "coverage_sha256": "30c505d99a879007a00367d2bdbf7cbba38aa856b45ddf1f72c62366ce2f5972",
+  "generated_at": "2026-09-09T02:07:05.852191+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/twin-peaks-310.cache/cache.20170730.tar.xz",
+      "sha256": "1207b2e031392557adeeda42aabb1322234f5a1eb0bcdb274bbcebcbc9d926d9",
+      "size": 10480068
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-coverage-evidence/twin-peaks-310.md",
+      "sha256": "7938299d8e61249f9a22bb7914806a077cd00921050a0155beb9d16a2555f8e0",
+      "size": 7752
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-cache-stream-receipts/twin-peaks-310.json",
+      "sha256": "502d3176de00c323bf62eeca0127eee3d45714cd350dc3827bad05df9e9ce6a1",
+      "size": 2089
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-product-receipts/twin-peaks-310.json",
+      "sha256": "243fce52bd3e06924be9edeb3a13e60f0162301de9460ef74f1cc7c35df23a0b",
+      "size": 366
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+      "sha256": "545757136e399cdd72c619c9f9ffaa4fe15317554642b14efc0f9c41d4307bca",
+      "size": 59066
+    }
+  },
+  "media_object": "twin-peaks-310",
+  "published_files": {
+    "data/csv/bytes/twin-peaks-310-cumulative-detail.2017-btiha-itemized-by-bytes.csv": "3f92f36675ca3473d69da43e061dad669d5dec9f440e8d1f3bc7af5bbfbca113",
+    "docs/itemized/figures/twin-peaks-310-carto-4k.webp": "fbc7a2715707e28104958ab7ca1752b7a05bf9c73cb789d8ae5cab8427c11105",
+    "docs/itemized/figures/twin-peaks-310-carto.png": "6b4e7f718b9035e4fb3469a3f2d5d8dcf551cd98fbd3559bc7fb73ace462be99",
+    "docs/itemized/figures/twin-peaks-310-cumulative-detail-btiha-itemized-by-bytes.svg": "e0e002c00f2ad4d623e409302b9fd0ebd35e030d7b3fa34c888ce81a30648855",
+    "docs/itemized/figures/twin-peaks-310-data-ge-1080p-4k.webp": "4da6b517c8d0f8415bd639de0aa6012bb6b4916e471af0e76db0045357b3728f",
+    "docs/itemized/figures/twin-peaks-310-data-ge-1080p.webp": "36766fc8d7ef81d3319be264d9ff5b3f138b9ed4bbf6306365ce077ee03c2612",
+    "docs/itemized/figures/twin-peaks-310-data-lt-1080p-4k.webp": "46f46ac338e4c399f390b0e530501c043c74f2c53590a198a63b3361fb055be2",
+    "docs/itemized/figures/twin-peaks-310-data-lt-1080p.webp": "f59639b74f546c5159bc48f10b953b8ef7be586eeddb2af1bb27d21e46c7c016",
+    "docs/itemized/figures/twin-peaks-310-downloads-by-day-day.svg": "12209e7d894bba7690a3ed25def771706631c743d59094ef76b750de9125c637",
+    "docs/itemized/figures/twin-peaks-310-downloads-by-week-twin-peaks-310-week.svg": "a0ea9a11b5bff760b2dd30c813c0685d68e77b81eb1a4ad405c091ac6e660ff1",
+    "docs/itemized/twin-peaks-310-sample-cache-audit.md": "d0d304385f613639310840d46ea7273adebc45a9874e4d68bc36d1341b9cab3c",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "d17262f5de025dd0b99973b5f8648f02304732f6",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/twin-peaks-310/tmp/twin-peaks-310-cumulative-btiha.geojson",
+        "sha256": "a2152b659a68e99be3c0018c78c04b216d0ac14334b9e8081d8067bd9fd30585",
+        "size": 3207011
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/twin-peaks-310/tmp/twin-peaks-310-cumulative-btiha-media-objects.json",
+        "sha256": "025b5f1420c8daaeaac8ffd0511c563e3a31630b9cc60aa3df2a356d378335fc",
+        "size": 58247
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "twin-peaks-310",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          89.0,
+          55.0,
+          52.0,
+          49.0,
+          49.0,
+          49.0,
+          44.0,
+          39.0,
+          33.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Breda",
+          "Lelystad",
+          "Frankfurt am Main",
+          "Paris",
+          "Roosendaal",
+          "Seoul",
+          "Rome",
+          "Warsaw",
+          "Amsterdam"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          35.0,
+          34.0,
+          34.0,
+          30.0,
+          28.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Lelystad",
+          "Breda",
+          "Stockholm",
+          "Sydney",
+          "Frankfurt am Main",
+          "New York City",
+          "Seoul",
+          "Warsaw",
+          "Roosendaal"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 10,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 3,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "d17262f5de025dd0b99973b5f8648f02304732f6",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "9118dcee59582140eaf9b1224b053ff5bea0330d",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2017"
+}

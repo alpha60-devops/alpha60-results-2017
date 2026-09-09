@@ -1,0 +1,1441 @@
+{
+    "collection_name": "Twin Peaks",
+    "collection_id": "310",
+    "collection_key": "twin-peaks-310",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "7ff45347e12d78fe16616a917bd56f29330547ae",
+            "duplicate_0_0": "Twin.Peaks.S03E10.720p.HDTV.x264-FLEET[rarbg]",
+            "duplicate_0_1": "Twin.Peaks.S03E10.720p.HDTV.x264-FLEET[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "8d75a2828aa40e2cf12636573e5b27347eab0857",
+            "duplicate_1_0": "Twin.Peaks.S03E10.The.Return.Part.10.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "duplicate_1_1": "Twin.Peaks.S03E10.The.Return.Part.10.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "6615f727fb43c7a6ad481ad7551443d31faa5dea",
+            "duplicate_2_0": "Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "duplicate_2_1": "Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "e2b9da5897a5d05b0c33beaa86ce2832265bdda9",
+            "duplicate_3_0": "Twin.Peaks.S03E10.WEBRip.x264-RARBG-[rarbg.to]",
+            "duplicate_3_1": "Twin.Peaks.S03E10.WEBRip.x264-RARBG"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "Twin.Peaks.S03E10.1080p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "size_total": 4.66350604,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E10.1080p.WEBRip.x264-MOROSE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 4.663505604,
+                    "path": "Twin.Peaks.S03E10.1080p.WEBRip.x264-MOROSE[rarbg]/twin.peaks.s03e10.1080p.webrip.x264-morose.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.06e-7,
+                    "path": "Twin.Peaks.S03E10.1080p.WEBRip.x264-MOROSE[rarbg]/twin.peaks.s03e10.1080p.webrip.x264-morose.nfo"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Twin.Peaks.S03E10.720p.HDTV.x264-FLEET",
+            "size_total": 1.018445528,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.018444832,
+                    "path": "Twin.Peaks.S03E10.720p.HDTV.x264-FLEET/Twin.Peaks.S03E10.720p.HDTV.x264-FLEET.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.96e-7,
+                    "path": "Twin.Peaks.S03E10.720p.HDTV.x264-FLEET/twin.peaks.s03e10.720p.hdtv.x264-fleet.nfo"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Twin.Peaks.S03E10.720p.HDTV.x264-FLEET[rarbg]",
+            "size_total": 1.018445558,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E10.720p.HDTV.x264-FLEET[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.018444832,
+                    "path": "Twin.Peaks.S03E10.720p.HDTV.x264-FLEET[rarbg]/Twin.Peaks.S03E10.720p.HDTV.x264-FLEET.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.96e-7,
+                    "path": "Twin.Peaks.S03E10.720p.HDTV.x264-FLEET[rarbg]/twin.peaks.s03e10.720p.hdtv.x264-fleet.nfo"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Twin.Peaks.S03E10.720p.HDTV.x264-FLEET[rartv]-[rarbg.to]",
+            "size_total": 1.018445558,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E10.720p.HDTV.x264-FLEET[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.018444832,
+                    "path": "Twin.Peaks.S03E10.720p.HDTV.x264-FLEET[rarbg]/Twin.Peaks.S03E10.720p.HDTV.x264-FLEET.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.96e-7,
+                    "path": "Twin.Peaks.S03E10.720p.HDTV.x264-FLEET[rarbg]/twin.peaks.s03e10.720p.hdtv.x264-fleet.nfo"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Twin.Peaks.S03E10.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.274085066,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000870191,
+                    "path": "Twin.Peaks.S03E10.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002265772,
+                    "path": "Twin.Peaks.S03E10.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001093498,
+                    "path": "Twin.Peaks.S03E10.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00142581,
+                    "path": "Twin.Peaks.S03E10.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.268428614,
+                    "path": "Twin.Peaks.S03E10.720p.HEVC.x265-MeGusta/Twin.Peaks.S03E10.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001181,
+                    "path": "Twin.Peaks.S03E10.720p.HEVC.x265-MeGusta/Twin.Peaks.S03E10.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Twin.Peaks.S03E10.iNTERNAL.480p.x264-mSD [IPT]",
+            "size_total": 0.213019772,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000298334,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000198065,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000246148,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00010756,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.212168476,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.480p.x264-mSD/Twin.Peaks.S03E10.iNTERNAL.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001189,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.480p.x264-mSD/Twin.Peaks.S03E10.iNTERNAL.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Twin.Peaks.S03E10.iNTERNAL.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.347568699,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001057538,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002406764,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001244444,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001602929,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.34125583,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.HEVC.x265-MeGusta/Twin.Peaks.S03E10.iNTERNAL.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001194,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.HEVC.x265-MeGusta/Twin.Peaks.S03E10.iNTERNAL.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE [IPT]",
+            "size_total": 1.92518907,
+            "files_total": 41,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.14e-7,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.025186121,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.rar"
+                },
+                {
+                    "number": 41,
+                    "size": 0.000002535,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE/twin.peaks.s03e10.internal.720p.webrip.x264-morose.sfv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "size_total": 1.925181573,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.925181129,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE[rarbg]/twin.peaks.s03e10.internal.720p.webrip.x264-morose.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.14e-7,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE[rarbg]/twin.peaks.s03e10.internal.720p.webrip.x264-morose.nfo"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Twin.Peaks.S03E10.iNTERNAL.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.185433936,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000335046,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000209856,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000277259,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000115422,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.184495063,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.AAC.MP4-Mobile/Twin.Peaks.S03E10.iNTERNAL.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000129,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.AAC.MP4-Mobile/Twin.Peaks.S03E10.iNTERNAL.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Twin.Peaks.S03E10.iNTERNAL.XviD-AFG [IPT]",
+            "size_total": 0.52885,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000350626,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000194024,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000263256,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000111008,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.527929918,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.XviD-AFG/Twin.Peaks.S03E10.iNTERNAL.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001168,
+                    "path": "Twin.Peaks.S03E10.iNTERNAL.XviD-AFG/Twin.Peaks.S03E10.iNTERNAL.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Twin.Peaks.S03E10.PROPER.480p.x264-mSD [IPT]",
+            "size_total": 0.194243621,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000273648,
+                    "path": "Twin.Peaks.S03E10.PROPER.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000187693,
+                    "path": "Twin.Peaks.S03E10.PROPER.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000240351,
+                    "path": "Twin.Peaks.S03E10.PROPER.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000103923,
+                    "path": "Twin.Peaks.S03E10.PROPER.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.193436812,
+                    "path": "Twin.Peaks.S03E10.PROPER.480p.x264-mSD/Twin.Peaks.S03E10.PROPER.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001194,
+                    "path": "Twin.Peaks.S03E10.PROPER.480p.x264-mSD/Twin.Peaks.S03E10.PROPER.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS [IPT]",
+            "size_total": 1.015944037,
+            "files_total": 23,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.64e-7,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.015942655,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.rar"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000001218,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS.[VTV]",
+            "size_total": 1.015940576,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.015940576,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS.[VTV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS[ettv]",
+            "size_total": 1.015940723,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.47e-7,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS[ettv]/To keep us going please read.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.015940576,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS[ettv]/Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS[rartv]-[rarbg.to]",
+            "size_total": 1.01594077,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.015940576,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS[rarbg]/Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.64e-7,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS[rarbg]/twin.peaks.s03e10.proper.720p.hdtv.x264-avs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Twin.Peaks.S03E10.PROPER.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.273721487,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000875873,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002262331,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00108599,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001424316,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.268071784,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HEVC.x265-MeGusta/Twin.Peaks.S03E10.PROPER.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001193,
+                    "path": "Twin.Peaks.S03E10.PROPER.720p.HEVC.x265-MeGusta/Twin.Peaks.S03E10.PROPER.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Twin.Peaks.S03E10.PROPER.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.171914438,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000301038,
+                    "path": "Twin.Peaks.S03E10.PROPER.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00019836,
+                    "path": "Twin.Peaks.S03E10.PROPER.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000269261,
+                    "path": "Twin.Peaks.S03E10.PROPER.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000111816,
+                    "path": "Twin.Peaks.S03E10.PROPER.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.171032674,
+                    "path": "Twin.Peaks.S03E10.PROPER.AAC.MP4-Mobile/Twin.Peaks.S03E10.PROPER.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001289,
+                    "path": "Twin.Peaks.S03E10.PROPER.AAC.MP4-Mobile/Twin.Peaks.S03E10.PROPER.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Twin.Peaks.S03E10.PROPER.HDTV.x264-SVA[ettv]",
+            "size_total": 0.291743049,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.61e-7,
+                    "path": "Twin.Peaks.S03E10.PROPER.HDTV.x264-SVA[ettv]/To keep us going please read.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.291742888,
+                    "path": "Twin.Peaks.S03E10.PROPER.HDTV.x264-SVA[ettv]/Twin.Peaks.S03E10.PROPER.HDTV.x264-SVA[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Twin.Peaks.S03E10.PROPER.HDTV.x264-SVA[eztv]",
+            "size_total": 0.291742888,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.291742888,
+                    "path": "Twin.Peaks.S03E10.PROPER.HDTV.x264-SVA[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Twin.Peaks.S03E10.PROPER.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "size_total": 0.291742978,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E10.PROPER.HDTV.x264-SVA[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.291742888,
+                    "path": "Twin.Peaks.S03E10.PROPER.HDTV.x264-SVA[rarbg]/Twin.Peaks.S03E10.PROPER.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6e-8,
+                    "path": "Twin.Peaks.S03E10.PROPER.HDTV.x264-SVA[rarbg]/twin.peaks.s03e10.proper.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Twin.Peaks.S03E10.PROPER.XviD-AFG [IPT]",
+            "size_total": 0.44381135,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000316165,
+                    "path": "Twin.Peaks.S03E10.PROPER.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00019733,
+                    "path": "Twin.Peaks.S03E10.PROPER.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000256456,
+                    "path": "Twin.Peaks.S03E10.PROPER.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000109904,
+                    "path": "Twin.Peaks.S03E10.PROPER.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.44293033,
+                    "path": "Twin.Peaks.S03E10.PROPER.XviD-AFG/Twin.Peaks.S03E10.PROPER.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001165,
+                    "path": "Twin.Peaks.S03E10.PROPER.XviD-AFG/Twin.Peaks.S03E10.PROPER.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Twin.Peaks.S03E10.The.Return.Part.10.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "size_total": 4.618483831,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E10.The.Return.Part.10.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 4.618483801,
+                    "path": "Twin.Peaks.S03E10.The.Return.Part.10.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Twin.Peaks.S03E10.The.Return.Part.10.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Twin.Peaks.S03E10.The.Return.Part.10.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 4.618483831,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E10.The.Return.Part.10.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 4.618483801,
+                    "path": "Twin.Peaks.S03E10.The.Return.Part.10.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Twin.Peaks.S03E10.The.Return.Part.10.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[ettv]",
+            "size_total": 1.40816941,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000151988,
+                    "path": "Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[ettv]/Screenshot-001.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000064711,
+                    "path": "Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[ettv]/Screenshot-002.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000096844,
+                    "path": "Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[ettv]/Screenshot-003.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000135412,
+                    "path": "Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[ettv]/Screenshot-004.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 2.67e-7,
+                    "path": "Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[ettv]/To keep us going please read.txt.txt"
+                },
+                {
+                    "number": 6,
+                    "size": 1.407720188,
+                    "path": "Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[ettv]/Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "size_total": 1.407720218,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.407720188,
+                    "path": "Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.407720218,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.407720188,
+                    "path": "Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Twin.Peaks.S03E10.WEBRip.x264-RARBG-[rarbg.to]",
+            "size_total": 0.496871614,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E10.WEBRip.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000044378,
+                    "path": "Twin.Peaks.S03E10.WEBRip.x264-RARBG/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.496827206,
+                    "path": "Twin.Peaks.S03E10.WEBRip.x264-RARBG/Twin.Peaks.S03E10.WEBRip.x264-RARBG.mp4"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Twin.Peaks.S03E10.WEBRip.x264-RARBG",
+            "size_total": 0.496871614,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E10.WEBRip.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000044378,
+                    "path": "Twin.Peaks.S03E10.WEBRip.x264-RARBG/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.496827206,
+                    "path": "Twin.Peaks.S03E10.WEBRip.x264-RARBG/Twin.Peaks.S03E10.WEBRip.x264-RARBG.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 25,
+            "name": "Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[ettv]",
+            "btih": "1f66018dd01613de929ee55102b2386d3ba7c3fb",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.40816941,
+            "creation": "2017-07-17T01:34:09.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 47340,
+            "uuploaders": 27806
+        },
+        {
+            "id": 20,
+            "name": "Twin.Peaks.S03E10.PROPER.HDTV.x264-SVA[eztv]",
+            "btih": "a5bf392f9098830da167f94596b6eefeb001d0b3",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.291742888,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21073,
+            "uuploaders": 14374
+        },
+        {
+            "id": 15,
+            "name": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS[ettv]",
+            "btih": "088502ed756b5e907fcfc976acacc654059b4f34",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.015940723,
+            "creation": "2017-07-17T02:22:10.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12468,
+            "uuploaders": 7608
+        },
+        {
+            "id": 32,
+            "name": "multi-btih-2-2-x-Twin.Peaks.S03E10.The.Return.Part.10.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "btih": "6615f727fb43c7a6ad481ad7551443d31faa5dea",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.407720218,
+            "creation": "2017-07-17T01:41:34.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9989,
+            "uuploaders": 6724
+        },
+        {
+            "id": 33,
+            "name": "multi-btih-3-2-x-Twin.Peaks.S03E10.WEBRip.x264-RARBG-[rarbg.to]",
+            "btih": "e2b9da5897a5d05b0c33beaa86ce2832265bdda9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.496871614,
+            "creation": "2017-07-17T01:56:33.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9701,
+            "uuploaders": 6428
+        },
+        {
+            "id": 21,
+            "name": "Twin.Peaks.S03E10.PROPER.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "btih": "3f669adf93187a43e696689f645cdb8a063670be",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.291742978,
+            "creation": "2017-07-17T02:12:07.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9450,
+            "uuploaders": 4702
+        },
+        {
+            "id": 31,
+            "name": "multi-btih-1-2-x-Twin.Peaks.S03E10.The.Return.Part.10.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "btih": "8d75a2828aa40e2cf12636573e5b27347eab0857",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.618483831,
+            "creation": "2017-07-17T01:51:05.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9274,
+            "uuploaders": 6434
+        },
+        {
+            "id": 16,
+            "name": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS[rartv]-[rarbg.to]",
+            "btih": "b553c85092b7c1ecde033a5a20dceb817be3404d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.01594077,
+            "creation": "2017-07-17T02:11:12.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7357,
+            "uuploaders": 3677
+        },
+        {
+            "id": 19,
+            "name": "Twin.Peaks.S03E10.PROPER.HDTV.x264-SVA[ettv]",
+            "btih": "e02371eb23c538fcafb911f79624224c655419de",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.291743049,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5475,
+            "uuploaders": 3205
+        },
+        {
+            "id": 1,
+            "name": "Twin.Peaks.S03E10.1080p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "btih": "4f12b3148244e40d09cf89f25eb8578b9dc343b6",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.66350604,
+            "creation": "2017-07-17T04:32:28.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4401,
+            "uuploaders": 1952
+        },
+        {
+            "id": 9,
+            "name": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "btih": "3f52c07d6367595bb24f55d90ba7e6fd332b333d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.925181573,
+            "creation": "2017-07-17T07:33:39.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4294,
+            "uuploaders": 1921
+        },
+        {
+            "id": 13,
+            "name": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS [IPT]",
+            "btih": "9bda5695101082027f42074c8c78a82074092880",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.015944037,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1964,
+            "uuploaders": 984
+        },
+        {
+            "id": 30,
+            "name": "multi-btih-0-2-x-Twin.Peaks.S03E10.720p.HDTV.x264-FLEET[rarbg]",
+            "btih": "7ff45347e12d78fe16616a917bd56f29330547ae",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.018445558,
+            "creation": "2017-07-17T01:57:26.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1685,
+            "uuploaders": 1059
+        },
+        {
+            "id": 14,
+            "name": "Twin.Peaks.S03E10.PROPER.720p.HDTV.x264-AVS.[VTV]",
+            "btih": "7442ce0162902d0af4768aab9a376c8c0f931021",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.015940576,
+            "creation": "2017-07-17T02:40:08.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1596,
+            "uuploaders": 1037
+        },
+        {
+            "id": 2,
+            "name": "Twin.Peaks.S03E10.720p.HDTV.x264-FLEET",
+            "btih": "a01c6af652af927ea447b3d261c6a1e803c341c8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.018445528,
+            "creation": "2017-07-17T02:00:12.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1005,
+            "uuploaders": 649
+        },
+        {
+            "id": 11,
+            "name": "Twin.Peaks.S03E10.iNTERNAL.XviD-AFG [IPT]",
+            "btih": "2b9be934081a39eb3ca3009e04e371f4ac2620b5",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.52885,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 287,
+            "uuploaders": 145
+        },
+        {
+            "id": 12,
+            "name": "Twin.Peaks.S03E10.PROPER.480p.x264-mSD [IPT]",
+            "btih": "b74ff9a9e6a28e8897967dddc97a00bcd757d5f9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.194243621,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 260,
+            "uuploaders": 122
+        },
+        {
+            "id": 22,
+            "name": "Twin.Peaks.S03E10.PROPER.XviD-AFG [IPT]",
+            "btih": "542b1ad98e480d059b485022ef796984de8c0c0f",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.44381135,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 252,
+            "uuploaders": 158
+        },
+        {
+            "id": 8,
+            "name": "Twin.Peaks.S03E10.iNTERNAL.720p.WEBRip.x264-MOROSE [IPT]",
+            "btih": "a9d5ff97307587d9e1eaad9136f7d28b98b5dcd9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.92518907,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 223,
+            "uuploaders": 141
+        },
+        {
+            "id": 17,
+            "name": "Twin.Peaks.S03E10.PROPER.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "dda2f6edcc989eedaeef43fceca182b84a7e7c1f",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.273721487,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 215,
+            "uuploaders": 117
+        },
+        {
+            "id": 7,
+            "name": "Twin.Peaks.S03E10.iNTERNAL.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "3a938960f8fb1080f3906a25da1f55ac468192f2",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.347568699,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 202,
+            "uuploaders": 132
+        },
+        {
+            "id": 5,
+            "name": "Twin.Peaks.S03E10.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "21bc897f42d28328847f04662cc392a800d40bc9",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.274085066,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 181,
+            "uuploaders": 72
+        },
+        {
+            "id": 6,
+            "name": "Twin.Peaks.S03E10.iNTERNAL.480p.x264-mSD [IPT]",
+            "btih": "6d108c728806d06956fdcfa15c61049eda6b9fd7",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.213019772,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 97,
+            "uuploaders": 49
+        },
+        {
+            "id": 18,
+            "name": "Twin.Peaks.S03E10.PROPER.AAC.MP4-Mobile [IPT]",
+            "btih": "8b539557124302244b84199adffcf0319097e0d5",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.171914438,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 73,
+            "uuploaders": 26
+        },
+        {
+            "id": 10,
+            "name": "Twin.Peaks.S03E10.iNTERNAL.AAC.MP4-Mobile [IPT]",
+            "btih": "e2b442b9f384ce94fb7fbdddd3cf38a62f4123e6",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.185433936,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 54,
+            "uuploaders": 30
+        }
+    ]
+}
