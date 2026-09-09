@@ -1,0 +1,214 @@
+---
+layout: default
+title: "expanse-213 Sample Cache Audit"
+author: "Benjamin De Kosnik <bkoz@gnu.org>"
+description: "Cache coverage and visualization audit for one media object."
+---
+
+# expanse-213 sample cache audit
+
+## 1. Media object
+
+| Field | Value |
+| --- | --- |
+| Media object | The Expanse |
+| Collection key | `expanse-213` |
+| imdb_id | [tt3230854](https://www.imdb.com/title/tt3230854/) |
+| wikipedia_url | [The Expanse (TV series)](https://en.wikipedia.org/wiki/The_Expanse_(TV_series)) |
+| Sample dates | 2017-04-19-to-2017-05-11 |
+| Sample days | 23 |
+| BTIH count | 32 |
+| Unique BTIH count | 30 |
+| Downloaders total | 292,172 |
+| Uploaders total | 160,862 |
+| Data version | `2026-08-05` |
+| IP geolocation version | `6:1777968300` |
+
+## 2. Sample coverage report
+
+- Generated: 2026-09-09T01:10:35Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/expanse-213.xz`
+- Hour directories: 128
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 127 (387 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+- hourly gap: last `2017-04-19 22:04`, resumed `2017-04-20 06:00` — missing 6 hour(s)
+- hourly gap: last `2017-04-20 06:00`, resumed `2017-04-20 10:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-20 10:00`, resumed `2017-04-20 14:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-20 14:00`, resumed `2017-04-20 18:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-20 18:00`, resumed `2017-04-20 22:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-20 22:00`, resumed `2017-04-21 02:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-21 02:00`, resumed `2017-04-21 06:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-21 06:00`, resumed `2017-04-21 10:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-21 10:00`, resumed `2017-04-21 14:00` — missing 3 hour(s)
+- hourly gap: last `2017-04-21 14:00`, resumed `2017-04-21 22:01` — missing 7 hour(s)
+- hourly gap: last `2017-04-21 22:01`, resumed `2017-04-22 02:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-22 02:01`, resumed `2017-04-22 06:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-22 06:01`, resumed `2017-04-22 10:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-22 10:01`, resumed `2017-04-22 14:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-22 14:01`, resumed `2017-04-22 18:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-22 18:01`, resumed `2017-04-22 22:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-22 22:01`, resumed `2017-04-23 02:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-23 02:01`, resumed `2017-04-23 06:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-23 06:01`, resumed `2017-04-23 10:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-23 10:01`, resumed `2017-04-23 14:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-23 14:01`, resumed `2017-04-23 18:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-23 18:01`, resumed `2017-04-23 22:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-23 22:01`, resumed `2017-04-24 02:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-24 02:01`, resumed `2017-04-24 06:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-24 06:01`, resumed `2017-04-24 10:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-24 10:01`, resumed `2017-04-24 14:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-24 14:01`, resumed `2017-04-24 18:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-24 18:01`, resumed `2017-04-24 22:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-24 22:01`, resumed `2017-04-25 02:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-25 02:01`, resumed `2017-04-25 06:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-25 06:01`, resumed `2017-04-25 10:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-25 10:01`, resumed `2017-04-25 14:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-25 14:01`, resumed `2017-04-25 18:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-25 18:01`, resumed `2017-04-25 22:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-25 22:01`, resumed `2017-04-26 02:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-26 02:01`, resumed `2017-04-26 06:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-26 06:01`, resumed `2017-04-26 10:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-26 10:01`, resumed `2017-04-26 14:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-26 14:01`, resumed `2017-04-26 18:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-26 18:01`, resumed `2017-04-26 22:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-26 22:01`, resumed `2017-04-27 02:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-27 02:01`, resumed `2017-04-27 06:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-27 06:01`, resumed `2017-04-27 10:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-27 10:01`, resumed `2017-04-27 14:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-27 14:01`, resumed `2017-04-27 18:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-27 18:01`, resumed `2017-04-27 22:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-27 22:01`, resumed `2017-04-28 02:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-28 02:01`, resumed `2017-04-28 06:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-28 06:01`, resumed `2017-04-28 10:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-28 10:01`, resumed `2017-04-28 14:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-28 14:01`, resumed `2017-04-28 18:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-28 18:01`, resumed `2017-04-28 22:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-28 22:01`, resumed `2017-04-29 02:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-29 02:01`, resumed `2017-04-29 06:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-29 06:01`, resumed `2017-04-29 10:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-29 10:01`, resumed `2017-04-29 14:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-29 14:01`, resumed `2017-04-29 18:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-29 18:01`, resumed `2017-04-29 22:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-29 22:01`, resumed `2017-04-30 02:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-30 02:01`, resumed `2017-04-30 06:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-30 06:01`, resumed `2017-04-30 10:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-30 10:01`, resumed `2017-04-30 14:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-30 14:01`, resumed `2017-04-30 18:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-30 18:01`, resumed `2017-04-30 22:01` — missing 3 hour(s)
+- hourly gap: last `2017-04-30 22:01`, resumed `2017-05-01 02:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-01 02:01`, resumed `2017-05-01 06:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-01 06:01`, resumed `2017-05-01 10:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-01 10:01`, resumed `2017-05-01 14:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-01 14:01`, resumed `2017-05-01 18:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-01 18:01`, resumed `2017-05-01 22:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-01 22:01`, resumed `2017-05-02 02:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-02 02:01`, resumed `2017-05-02 06:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-02 06:01`, resumed `2017-05-02 10:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-02 10:01`, resumed `2017-05-02 14:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-02 14:01`, resumed `2017-05-02 18:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-02 18:01`, resumed `2017-05-02 22:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-02 22:01`, resumed `2017-05-03 02:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-03 02:01`, resumed `2017-05-03 06:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-03 06:01`, resumed `2017-05-03 10:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-03 10:01`, resumed `2017-05-03 14:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-03 14:01`, resumed `2017-05-03 18:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-03 18:01`, resumed `2017-05-03 22:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-03 22:01`, resumed `2017-05-04 02:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-04 02:01`, resumed `2017-05-04 06:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-04 06:01`, resumed `2017-05-04 10:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-04 10:01`, resumed `2017-05-04 14:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-04 14:01`, resumed `2017-05-04 18:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-04 18:01`, resumed `2017-05-04 22:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-04 22:01`, resumed `2017-05-05 02:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-05 02:01`, resumed `2017-05-05 06:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-05 06:01`, resumed `2017-05-05 10:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-05 10:01`, resumed `2017-05-05 14:01` — missing 3 hour(s)
+- hourly gap: last `2017-05-05 14:01`, resumed `2017-05-05 18:00` — missing 2 hour(s)
+- hourly gap: last `2017-05-05 18:00`, resumed `2017-05-05 22:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-05 22:00`, resumed `2017-05-06 02:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-06 02:00`, resumed `2017-05-06 06:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-06 06:00`, resumed `2017-05-06 10:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-06 10:00`, resumed `2017-05-06 14:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-06 14:00`, resumed `2017-05-06 18:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-06 18:00`, resumed `2017-05-06 22:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-06 22:00`, resumed `2017-05-07 02:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-07 02:00`, resumed `2017-05-07 06:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-07 06:00`, resumed `2017-05-07 10:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-07 10:00`, resumed `2017-05-07 14:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-07 14:00`, resumed `2017-05-07 18:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-07 18:00`, resumed `2017-05-07 22:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-07 22:00`, resumed `2017-05-08 02:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-08 02:00`, resumed `2017-05-08 06:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-08 06:00`, resumed `2017-05-08 10:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-08 10:00`, resumed `2017-05-08 14:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-08 14:00`, resumed `2017-05-08 18:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-08 18:00`, resumed `2017-05-08 22:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-08 22:00`, resumed `2017-05-09 02:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-09 02:00`, resumed `2017-05-09 06:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-09 06:00`, resumed `2017-05-09 10:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-09 10:00`, resumed `2017-05-09 14:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-09 14:00`, resumed `2017-05-09 18:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-09 18:00`, resumed `2017-05-09 22:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-09 22:00`, resumed `2017-05-10 02:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-10 02:00`, resumed `2017-05-10 06:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-10 06:00`, resumed `2017-05-10 10:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-10 10:00`, resumed `2017-05-10 14:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-10 14:00`, resumed `2017-05-10 18:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-10 18:00`, resumed `2017-05-10 22:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-10 22:00`, resumed `2017-05-11 02:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-11 02:00`, resumed `2017-05-11 06:00` — missing 3 hour(s)
+- hourly gap: last `2017-05-11 06:00`, resumed `2017-05-11 10:00` — missing 3 hour(s)
+
+## 3. Media objects file size histogram
+
+![The Expanse collection size histogram](figures/expanse-213-cumulative-detail-btiha-itemized-by-bytes.svg)
+
+## 4. Visualization pass — graphs
+
+### Downloads by week cumulative (normalized start)
+
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/expanse-213-downloads-by-week-expanse-213-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
+
+### Downloads by day, Saturday and Sunday in gray
+
+![expanse-213 downloads by day](figures/expanse-213-downloads-by-day-day.svg)
+
+## 5. Visualization pass — maps
+
+### Cumulative geographic slices
+
+| Africa | Americas | Asia | Europe | Oceania | Unknown |
+| --- | --- | --- | --- | --- | --- |
+| 2.01 | 20.33 | 11.21 | 33.39 | 4.64 | 1.10 |
+
+### Cumulative network infrastructure
+
+[![The Expanse cumulative map](figures/expanse-213-carto.png)](figures/expanse-213-carto-4k.webp){:target="_blank" rel="noopener"}
+
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+[![Cumulative >= 1080p](figures/expanse-213-data-ge-1080p.webp)](figures/expanse-213-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
+
+**Cumulative < 1080p**
+
+[![Cumulative < 1080p](figures/expanse-213-data-lt-1080p.webp)](figures/expanse-213-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
