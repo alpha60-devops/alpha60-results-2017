@@ -1,39 +1,45 @@
 {
   "archive_verification": {
-    "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/blade-runner-2049-closure-archive-verification.json",
-    "sha256": "1668f8b59aa7a10bce343e30b6f43d24e3d9bf488e8a84ccc4cbd300099a8d1f",
-    "size": 1288
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/archive-verification.json",
+    "sha256": "9eda38e9a993d6d17428e5e99493a05bfb2c616a81b4322f4af1a6c91c7ef8b6",
+    "size": 13742
   },
   "counts": {
     "errors": 0,
     "passed": 1,
     "records": 1
   },
-  "executor": "ord",
-  "finished_at": "2026-09-08T19:08:10.391269+00:00",
-  "owner": "ord",
+  "executor": "eureka",
+  "finished_at": "2026-09-09T02:11:07.362925+00:00",
+  "owner": "eureka",
   "records": [
     {
       "aggregate": "pass",
-      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/blade-runner-2049.cache/cache.20180331.tar.xz",
-      "collection_key": "blade-runner-2049",
-      "executor": "ord",
-      "finished_at": "2026-09-08T19:08:10.390820+00:00",
-      "owner": "ord",
-      "results_revision": "0dac52ccb65dd11bf203e6cb932681a9d54b90e3",
-      "started_at": "2026-09-08T19:00:19.593219+00:00",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/good-fight-108.cache/cache.20170408.tar.xz",
+      "collection_key": "good-fight-108",
+      "executor": "eureka",
+      "finished_at": "2026-09-09T02:11:07.362288+00:00",
+      "owner": "eureka",
+      "results_revision": "6106f5d4b7bf80b4ea3ee2fe23a2d2f83af6c2d3",
+      "started_at": "2026-09-09T02:10:54.244723+00:00",
       "status": "pass",
       "visualizations": "pass"
     }
   ],
   "schema": "alpha60-year-baseline-v2-worker-run/1",
-  "started_at": "2026-09-08T19:00:19.592667+00:00",
+  "started_at": "2026-09-09T02:10:54.243762+00:00",
   "status": "pass",
   "stolen": false,
   "worker_map": {
     "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
-    "sha256": "65ed919417a03f37ed44f3ba34a85cb198608306c221e5a323602ce2253e5fa4",
-    "size": 20522
+    "sha256": "a8b61a3da60ab34c0dc9dbbddfdd3267e4c8461177e747c8ad4038d63e39c8f8",
+    "size": 57579
   },
-  "year": "2017"
+  "year": "2017",
+  "repair_bundle": {
+    "reason": "single-point week graph axes and markers",
+    "launch_izzi_revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "repair_izzi_revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "renderer_sha256": "ab772c6b939273917d09e58bf50d549242f5a563ff3a1f62dc4d48f4407ae276"
+  }
 }

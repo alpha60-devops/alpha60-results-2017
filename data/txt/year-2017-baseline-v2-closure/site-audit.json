@@ -3,15 +3,25 @@
   "year": "2017",
   "status": "pass",
   "counts": {
-    "passed": 12,
+    "passed": 44,
     "absent": 0,
     "old": 0,
     "failed": 0,
-    "inventory": 12,
-    "unique": 12
+    "inventory": 44,
+    "unique": 44
   },
   "duplicate_keys": [],
   "records": [
+    {
+      "collection_key": "americans-501",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "americans-513",
+      "status": "passed",
+      "issues": []
+    },
     {
       "collection_key": "blade-runner-2049",
       "status": "passed",
@@ -23,12 +33,117 @@
       "issues": []
     },
     {
+      "collection_key": "expanse-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-203",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-204",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-210",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-213",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "feud-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "feud-102",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "feud-108",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "game-of-thrones-701",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "game-of-thrones-702",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "game-of-thrones-703",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "game-of-thrones-705",
+      "status": "passed",
+      "issues": []
+    },
+    {
       "collection_key": "game-of-thrones-706",
       "status": "passed",
       "issues": []
     },
     {
       "collection_key": "game-of-thrones-707",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-105",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-108",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-110",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "handmaids-tale-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "handmaids-tale-105",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "house-of-cards-05",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "i-love-dick",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "into-the-badlands-203",
       "status": "passed",
       "issues": []
     },
@@ -53,6 +168,16 @@
       "issues": []
     },
     {
+      "collection_key": "star-trek-discovery-104",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "star-trek-discovery-109",
+      "status": "passed",
+      "issues": []
+    },
+    {
       "collection_key": "star-wars-last-jedi",
       "status": "passed",
       "issues": []
@@ -64,6 +189,41 @@
     },
     {
       "collection_key": "stranger-things-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "twin-peaks-310",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "twin-peaks-317",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-709",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-710",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-713",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-716",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-801",
       "status": "passed",
       "issues": []
     },

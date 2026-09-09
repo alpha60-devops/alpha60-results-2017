@@ -1,7 +1,7 @@
 {
   "schema": "alpha60-year-media-object-metadata-readiness/1",
   "year": "2017",
-  "inventory": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-0-media-objects.txt",
+  "inventory": "/home/bkoz/src/alpha60/config/year-cache-campaigns/raw-discovery/year-2017-cohort.txt",
   "metadata_directory": "/home/bkoz/src/alpha60-swarm-metadata/metadata",
   "approved_empty_collection_ids": [
     "blade-runner-2049",
@@ -13,17 +13,28 @@
     "screeners",
     "stormy-daniels-2017"
   ],
+  "campaign_sample_contracts": 44,
   "status": "pass",
   "counts": {
-    "inventory_entries": 12,
-    "unique_keys": 12,
-    "ready_records": 12,
+    "inventory_entries": 44,
+    "unique_keys": 44,
+    "ready_records": 44,
     "error_records": 0,
     "errors": 0
   },
   "inventory_issues": [],
   "duplicate_keys": [],
   "records": [
+    {
+      "collection_key": "americans-501",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "americans-513",
+      "status": "ready",
+      "issues": []
+    },
     {
       "collection_key": "blade-runner-2049",
       "status": "ready",
@@ -35,12 +46,117 @@
       "issues": []
     },
     {
+      "collection_key": "expanse-201",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-203",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-204",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-210",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-213",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "feud-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "feud-102",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "feud-108",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "game-of-thrones-701",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "game-of-thrones-702",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "game-of-thrones-703",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "game-of-thrones-705",
+      "status": "ready",
+      "issues": []
+    },
+    {
       "collection_key": "game-of-thrones-706",
       "status": "ready",
       "issues": []
     },
     {
       "collection_key": "game-of-thrones-707",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-105",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-108",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-110",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "handmaids-tale-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "handmaids-tale-105",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "house-of-cards-05",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "i-love-dick",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "into-the-badlands-203",
       "status": "ready",
       "issues": []
     },
@@ -65,6 +181,16 @@
       "issues": []
     },
     {
+      "collection_key": "star-trek-discovery-104",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "star-trek-discovery-109",
+      "status": "ready",
+      "issues": []
+    },
+    {
       "collection_key": "star-wars-last-jedi",
       "status": "ready",
       "issues": []
@@ -76,6 +202,41 @@
     },
     {
       "collection_key": "stranger-things-02",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "twin-peaks-310",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "twin-peaks-317",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-709",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-710",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-713",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-716",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-801",
       "status": "ready",
       "issues": []
     },

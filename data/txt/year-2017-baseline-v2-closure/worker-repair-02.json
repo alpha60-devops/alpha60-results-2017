@@ -1,39 +1,69 @@
 {
   "archive_verification": {
-    "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/star-wars-last-jedi-rerun-archive-verification.json",
-    "sha256": "0f37422f31d674a56e0dcfe21177b2f591de5d756d27410b492e4105c687f028",
-    "size": 1292
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/archive-verification.json",
+    "sha256": "ac1700b5db90ae77689ec4277ffd952877c06581807056305476f666af5ad49d",
+    "size": 13773
   },
   "counts": {
     "errors": 0,
-    "passed": 1,
-    "records": 1
+    "passed": 3,
+    "records": 3
   },
   "executor": "ord",
-  "finished_at": "2026-09-08T17:20:56.520255+00:00",
+  "finished_at": "2026-09-09T02:14:03.482063+00:00",
   "owner": "ord",
   "records": [
     {
       "aggregate": "pass",
-      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/star-wars-last-jedi.cache/cache.20180331.tar.xz",
-      "collection_key": "star-wars-last-jedi",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/americans-501.cache/cache.20170312.tar.xz",
+      "collection_key": "americans-501",
       "executor": "ord",
-      "finished_at": "2026-09-08T17:20:56.519860+00:00",
+      "finished_at": "2026-09-09T02:13:35.529642+00:00",
       "owner": "ord",
-      "results_revision": "3aa405463c1af35d154c0a9e0b8e9d9ae669d224",
-      "started_at": "2026-09-08T17:15:19.206124+00:00",
+      "results_revision": "e3de6afdb9dfd7fac66e967ee1df41c1a303f9ca",
+      "started_at": "2026-09-09T02:13:21.252455+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/expanse-204.cache/cache.20170219.tar.xz",
+      "collection_key": "expanse-204",
+      "executor": "ord",
+      "finished_at": "2026-09-09T02:13:50.067472+00:00",
+      "owner": "ord",
+      "results_revision": "02d10e17c5289077cdf4e04eac41efd24da79e5e",
+      "started_at": "2026-09-09T02:13:35.530284+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/feud-101.cache/cache.20170312.tar.xz",
+      "collection_key": "feud-101",
+      "executor": "ord",
+      "finished_at": "2026-09-09T02:14:03.481533+00:00",
+      "owner": "ord",
+      "results_revision": "39c0eedb59996942824de5fd887887170f3cca19",
+      "started_at": "2026-09-09T02:13:50.068075+00:00",
       "status": "pass",
       "visualizations": "pass"
     }
   ],
   "schema": "alpha60-year-baseline-v2-worker-run/1",
-  "started_at": "2026-09-08T17:15:19.205290+00:00",
+  "started_at": "2026-09-09T02:13:21.251551+00:00",
   "status": "pass",
   "stolen": false,
   "worker_map": {
     "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
-    "sha256": "65ed919417a03f37ed44f3ba34a85cb198608306c221e5a323602ce2253e5fa4",
-    "size": 20522
+    "sha256": "545757136e399cdd72c619c9f9ffaa4fe15317554642b14efc0f9c41d4307bca",
+    "size": 59066
   },
-  "year": "2017"
+  "year": "2017",
+  "repair_bundle": {
+    "reason": "single-point week graph axes and markers",
+    "launch_izzi_revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "repair_izzi_revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "renderer_sha256": "e38ad865d97233607528beb67400c16ff733ade9875011dc51d6cd724911d011"
+  }
 }
