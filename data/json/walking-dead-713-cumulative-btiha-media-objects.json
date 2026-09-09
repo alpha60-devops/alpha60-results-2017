@@ -1,0 +1,1955 @@
+{
+    "collection_name": "The Walking Dead",
+    "collection_id": "713",
+    "collection_key": "walking-dead-713",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "d4d2754b7a1ffb4f6ba2323c28c2b2648f282279",
+            "duplicate_0_0": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT[PRiME].l33tx",
+            "duplicate_0_1": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT[PRiME]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "The.Walking.Dead.S07E12.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 1.913189066,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003328711,
+                    "path": "The.Walking.Dead.S07E12.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001834391,
+                    "path": "The.Walking.Dead.S07E12.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00369079,
+                    "path": "The.Walking.Dead.S07E12.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.004008016,
+                    "path": "The.Walking.Dead.S07E12.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.900325946,
+                    "path": "The.Walking.Dead.S07E12.1080p.HEVC.x265-MeGusta/The.Walking.Dead.S07E12.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001212,
+                    "path": "The.Walking.Dead.S07E12.1080p.HEVC.x265-MeGusta/The.Walking.Dead.S07E12.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H.264-Cyphanix [IPT]",
+            "size_total": 2.020468134,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.002700144,
+                    "path": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H.264-Cyphanix/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001044941,
+                    "path": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H.264-Cyphanix/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.003117479,
+                    "path": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H.264-Cyphanix/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002412117,
+                    "path": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H.264-Cyphanix/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.011191965,
+                    "path": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H.264-Cyphanix/The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H.264-Cyphanix.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001488,
+                    "path": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H.264-Cyphanix/The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H.264-Cyphanix.nfo"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H.264-Cyphanix[ettv]",
+            "size_total": 2.011192134,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.011191965,
+                    "path": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H.264-Cyphanix[ettv]/The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H.264-Cyphanix[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.69e-7,
+                    "path": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H.264-Cyphanix[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+            "size_total": 2.010322957,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.002914306,
+                    "path": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001239377,
+                    "path": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002581503,
+                    "path": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002968569,
+                    "path": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.000617713,
+                    "path": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H264-LiGaS/The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H264-LiGaS.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001489,
+                    "path": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H264-LiGaS/The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H264-LiGaS.nfo"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "The.Walking.Dead.S07E13.1080p.WEBDL.5.1.opus.x265.bluury",
+            "size_total": 0.312224134,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.3e-8,
+                    "path": "The.Walking.Dead.S07E13.1080p.WEBDL.5.1.opus.x265.bluury/Torrent Downloaded From Katcr.co - Kickasstorrents.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.312224061,
+                    "path": "The.Walking.Dead.S07E13.1080p.WEBDL.5.1.opus.x265.bluury/The.Walking.Dead.S07E13.1080p.WEBDL.5.1.opus.x265.bluury.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS [IPT]",
+            "size_total": 2.689080181,
+            "files_total": 56,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.5e-8,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r45"
+                },
+                {
+                    "number": 48,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r46"
+                },
+                {
+                    "number": 49,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r47"
+                },
+                {
+                    "number": 50,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r48"
+                },
+                {
+                    "number": 51,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r49"
+                },
+                {
+                    "number": 52,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r50"
+                },
+                {
+                    "number": 53,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r51"
+                },
+                {
+                    "number": 54,
+                    "size": 0.039077038,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.r52"
+                },
+                {
+                    "number": 55,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.rar"
+                },
+                {
+                    "number": 56,
+                    "size": 0.000003078,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS/the.walking.dead.s07e13.720p.hdtv.x264-avs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS.[VTV]",
+            "size_total": 2.689071746,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.689071746,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS.[VTV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS[eztv].mkv",
+            "size_total": 2.689071746,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.689071746,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS[PRiME]",
+            "size_total": 2.689072493,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.32e-7,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS[PRiME]/Please Support!! Read More!!!.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.689071746,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS[PRiME]/The.Walking.Dead.S07E13.720p.HDTV.x264-AVS[PRiME].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.9e-8,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS[PRiME]/Torrent Downloaded From 1337x.to.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.46e-7,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS[PRiME]/Torrent Downloaded From ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS[rartv]-[rarbg.to]",
+            "size_total": 2.690761657,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001689816,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS[rarbg]/Sample/sample-the.walking.dead.s07e13.720p.hdtv.x264-avs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.689071746,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS[rarbg]/The.Walking.Dead.S07E13.720p.HDTV.x264-AVS.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.5e-8,
+                    "path": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS[rarbg]/the.walking.dead.s07e13.720p.hdtv.x264-avs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "The.Walking.Dead.S07E13.720p.WEB-DL.380MB.MkvCage",
+            "size_total": 0.399583124,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.399583124,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.380MB.MkvCage.mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H.264-Cyphanix [IPT]",
+            "size_total": 1.610451655,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001138457,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H.264-Cyphanix/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000526498,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H.264-Cyphanix/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00147535,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H.264-Cyphanix/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001154707,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H.264-Cyphanix/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.606155155,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H.264-Cyphanix/The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H.264-Cyphanix.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001488,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H.264-Cyphanix/The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H.264-Cyphanix.nfo"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+            "size_total": 1.600985934,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001411889,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000642567,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001163019,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001374928,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.596392045,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H264-LiGaS/The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H264-LiGaS.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001486,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H264-LiGaS/The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H264-LiGaS.nfo"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "The.Walking.Dead.S07E13.720p.WEB-DL.H264-FUM [IPT]",
+            "size_total": 1.610469761,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001138457,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.H264-FUM/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000526498,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.H264-FUM/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00147535,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.H264-FUM/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001154707,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.H264-FUM/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.60617323,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.H264-FUM/The.Walking.Dead.S07E13.720p.WEB-DL.H264-FUM.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001519,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.H264-FUM/The.Walking.Dead.S07E13.720p.WEB-DL.H264-FUM.nfo"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "The.Walking.Dead.S07E13.720p.WEB-DL.H264-FUM[ettv]",
+            "size_total": 1.606173399,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.60617323,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.H264-FUM[ettv]/The.Walking.Dead.S07E13.720p.WEB-DL.H264-FUM[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.69e-7,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.H264-FUM[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "The.Walking.Dead.S07E13.720p.WEB-DL.x264-NoGRP.mp4",
+            "size_total": 0.495651563,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.495651563,
+                    "path": "The.Walking.Dead.S07E13.720p.WEB-DL.x264-NoGRP.mp4"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "The.Walking.Dead.S07E13.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.229917624,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000161445,
+                    "path": "The.Walking.Dead.S07E13.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000356802,
+                    "path": "The.Walking.Dead.S07E13.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00012347,
+                    "path": "The.Walking.Dead.S07E13.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000329104,
+                    "path": "The.Walking.Dead.S07E13.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.228945516,
+                    "path": "The.Walking.Dead.S07E13.AAC.MP4-Mobile/The.Walking.Dead.S07E13.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001287,
+                    "path": "The.Walking.Dead.S07E13.AAC.MP4-Mobile/The.Walking.Dead.S07E13.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.AMZN.WEBRip.DD+5.1.x264 [IPT]",
+            "size_total": 5.552603338,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003614077,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.AMZN.WEBRip.DD+5.1.x264/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002344953,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.AMZN.WEBRip.DD+5.1.x264/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.003598429,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.AMZN.WEBRip.DD+5.1.x264/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.003778763,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.AMZN.WEBRip.DD+5.1.x264/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 5.539265574,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.AMZN.WEBRip.DD+5.1.x264/The.Walking.Dead.S07E13.Bury.Me.Here.1080p.AMZN.WEBRip.DD+5.1.x264.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001542,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.AMZN.WEBRip.DD+5.1.x264/The.Walking.Dead.S07E13.Bury.Me.Here.1080p.AMZN.WEBRip.DD+5.1.x264.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT [IPT]",
+            "size_total": 2.819900796,
+            "files_total": 31,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000001141,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.019897509,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.rar"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000002146,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat.sfv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT[PRiME].l33tx",
+            "size_total": 2.819894051,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.32e-7,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT[PRiME]/Please Support!! Read More!!!.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.9e-8,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT[PRiME]/Torrent Downloaded From 1337x.to.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.46e-7,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT[PRiME]/Torrent Downloaded From ExtraTorrent.cc.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 2.819893304,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT[PRiME]/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat[PRiME].mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT[PRiME]",
+            "size_total": 2.819894051,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.32e-7,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT[PRiME]/Please Support!! Read More!!!.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.9e-8,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT[PRiME]/Torrent Downloaded From 1337x.to.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.46e-7,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT[PRiME]/Torrent Downloaded From ExtraTorrent.cc.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 2.819893304,
+                    "path": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT[PRiME]/the.walking.dead.s07e13.bury.me.here.1080p.webrip.h264-heat[PRiME].mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "The.Walking.Dead.S07E13.HDTV.x264-SVA [IPT]",
+            "size_total": 0.551166373,
+            "files_total": 39,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6e-8,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.011164389,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.rar"
+                },
+                {
+                    "number": 39,
+                    "size": 0.000001924,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA/the.walking.dead.s07e13.hdtv.x264-sva.sfv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "The.Walking.Dead.S07E13.HDTV.x264-SVA[eztv]",
+            "size_total": 0.551160948,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.551160948,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "The.Walking.Dead.S07E13.HDTV.x264-SVA[PRiME]",
+            "size_total": 0.551161695,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.32e-7,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA[PRiME]/Please Support!! Read More!!!.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.551160948,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA[PRiME]/The.Walking.Dead.S07E13.HDTV.x264-SVA[PRiME].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.9e-8,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA[PRiME]/Torrent Downloaded From 1337x.to.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.46e-7,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA[PRiME]/Torrent Downloaded From ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "The.Walking.Dead.S07E13.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "size_total": 0.551161038,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.551160948,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA[rarbg]/The.Walking.Dead.S07E13.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6e-8,
+                    "path": "The.Walking.Dead.S07E13.HDTV.x264-SVA[rarbg]/the.walking.dead.s07e13.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "The.Walking.Dead.S07E13.REPACK.720p.HDTV.x264-AVS[eztv]",
+            "size_total": 2.27515016,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.27515016,
+                    "path": "The.Walking.Dead.S07E13.REPACK.720p.HDTV.x264-AVS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "The.Walking.Dead.S07E13.REPACK.720p.HDTV.x264-AVS[PRiME]",
+            "size_total": 2.275150907,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.32e-7,
+                    "path": "The.Walking.Dead.S07E13.REPACK.720p.HDTV.x264-AVS[PRiME]/Please Support!! Read More!!!.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.27515016,
+                    "path": "The.Walking.Dead.S07E13.REPACK.720p.HDTV.x264-AVS[PRiME]/The.Walking.Dead.S07E13.REPACK.720p.HDTV.x264-SSVA[PRiME].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.9e-8,
+                    "path": "The.Walking.Dead.S07E13.REPACK.720p.HDTV.x264-AVS[PRiME]/Torrent Downloaded From 1337x.to.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.46e-7,
+                    "path": "The.Walking.Dead.S07E13.REPACK.720p.HDTV.x264-AVS[PRiME]/Torrent Downloaded From ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "The.Walking.Dead.S07E13.REPACK.HDTV.x264-SVA[eztv].mk",
+            "size_total": 0.49809381,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.49809381,
+                    "path": "The.Walking.Dead.S07E13.REPACK.HDTV.x264-SVA[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "The.Walking.Dead.S07E13.REPACK.HDTV.x264-SVA[PRiME]",
+            "size_total": 0.498094557,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.32e-7,
+                    "path": "The.Walking.Dead.S07E13.REPACK.HDTV.x264-SVA[PRiME]/Please Support!! Read More!!!.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.49809381,
+                    "path": "The.Walking.Dead.S07E13.REPACK.HDTV.x264-SVA[PRiME]/The.Walking.Dead.S07E13.REPACK.HDTV.x264-AVSS[PRiME].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.9e-8,
+                    "path": "The.Walking.Dead.S07E13.REPACK.HDTV.x264-SVA[PRiME]/Torrent Downloaded From 1337x.to.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.46e-7,
+                    "path": "The.Walking.Dead.S07E13.REPACK.HDTV.x264-SVA[PRiME]/Torrent Downloaded From ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "The.Walking.Dead.S07E13.WEB-DL.x264-FUM [IPT]",
+            "size_total": 0.5666593,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000435529,
+                    "path": "The.Walking.Dead.S07E13.WEB-DL.x264-FUM/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000198232,
+                    "path": "The.Walking.Dead.S07E13.WEB-DL.x264-FUM/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000515123,
+                    "path": "The.Walking.Dead.S07E13.WEB-DL.x264-FUM/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000395705,
+                    "path": "The.Walking.Dead.S07E13.WEB-DL.x264-FUM/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.565113202,
+                    "path": "The.Walking.Dead.S07E13.WEB-DL.x264-FUM/The.Walking.Dead.S07E13.WEB-DL.x264-FUM.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001509,
+                    "path": "The.Walking.Dead.S07E13.WEB-DL.x264-FUM/The.Walking.Dead.S07E13.WEB-DL.x264-FUM.nfo"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "The.Walking.Dead.S07E13.WEB-DL.x264-FUM[ettv]",
+            "size_total": 0.565113491,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.565113202,
+                    "path": "The.Walking.Dead.S07E13.WEB-DL.x264-FUM[ettv]/The.Walking.Dead.S07E13.WEB-DL.x264-FUM[ettv].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 2.89e-7,
+                    "path": "The.Walking.Dead.S07E13.WEB-DL.x264-FUM[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "The.Walking.Dead.S07E13.WEB-DL.XviD-FUM [IPT]",
+            "size_total": 0.41792186,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000302446,
+                    "path": "The.Walking.Dead.S07E13.WEB-DL.XviD-FUM/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00013282,
+                    "path": "The.Walking.Dead.S07E13.WEB-DL.XviD-FUM/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000363954,
+                    "path": "The.Walking.Dead.S07E13.WEB-DL.XviD-FUM/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000253886,
+                    "path": "The.Walking.Dead.S07E13.WEB-DL.XviD-FUM/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.416867274,
+                    "path": "The.Walking.Dead.S07E13.WEB-DL.XviD-FUM/The.Walking.Dead.S07E13.WEB-DL.XviD-FUM.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000148,
+                    "path": "The.Walking.Dead.S07E13.WEB-DL.XviD-FUM/The.Walking.Dead.S07E13.WEB-DL.XviD-FUM.nfo"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "The.Walking.Dead.S07E13.WEB-DL.XviD-FUM[ettv]",
+            "size_total": 0.416867563,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.416867274,
+                    "path": "The.Walking.Dead.S07E13.WEB-DL.XviD-FUM[ettv]/The.Walking.Dead.S07E13.WEB-DL.XviD-FUM[ettv].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 2.89e-7,
+                    "path": "The.Walking.Dead.S07E13.WEB-DL.XviD-FUM[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "The.Walking.Dead.S07E13.XviD-AFG [IPT]",
+            "size_total": 0.632960558,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000165874,
+                    "path": "The.Walking.Dead.S07E13.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000336711,
+                    "path": "The.Walking.Dead.S07E13.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000114758,
+                    "path": "The.Walking.Dead.S07E13.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000323519,
+                    "path": "The.Walking.Dead.S07E13.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.632018532,
+                    "path": "The.Walking.Dead.S07E13.XviD-AFG/The.Walking.Dead.S07E13.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001164,
+                    "path": "The.Walking.Dead.S07E13.XviD-AFG/The.Walking.Dead.S07E13.XviD-AFG.nfo"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 23,
+            "name": "The.Walking.Dead.S07E13.HDTV.x264-SVA[eztv]",
+            "btih": "ed920c249dd960997ef10761b20f0fcb9f737498",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.551160948,
+            "creation": "2017-03-13T02:14:13.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 257911,
+            "uuploaders": 108904
+        },
+        {
+            "id": 31,
+            "name": "The.Walking.Dead.S07E13.WEB-DL.x264-FUM[ettv]",
+            "btih": "21c49afe8dfeb0e56c959b313668d6e236c41dbc",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.565113491,
+            "creation": "2017-03-13T08:00:16.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 247907,
+            "uuploaders": 114327
+        },
+        {
+            "id": 10,
+            "name": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS[rartv]-[rarbg.to]",
+            "btih": "1fce8b06f4c2e9118d6f06749651af1ea773dc49",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.690761657,
+            "creation": "2017-03-13T02:12:49.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 83859,
+            "uuploaders": 47572
+        },
+        {
+            "id": 25,
+            "name": "The.Walking.Dead.S07E13.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "btih": "6769086c7b7aad9a93806c24e2aa19ea026ab5e2",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.551161038,
+            "creation": "2017-03-13T02:08:10.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 62097,
+            "uuploaders": 35874
+        },
+        {
+            "id": 33,
+            "name": "The.Walking.Dead.S07E13.WEB-DL.XviD-FUM[ettv]",
+            "btih": "d4180b4cbcea3cdd44b5fbd19454f844014aaa03",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.416867563,
+            "creation": "2017-03-13T08:02:08.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 60142,
+            "uuploaders": 37993
+        },
+        {
+            "id": 3,
+            "name": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H.264-Cyphanix[ettv]",
+            "btih": "e3e236d6c2503a757bb5ea26065db14c71214bdc",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.011192134,
+            "creation": "2017-03-13T09:08:32.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 57208,
+            "uuploaders": 40280
+        },
+        {
+            "id": 28,
+            "name": "The.Walking.Dead.S07E13.REPACK.HDTV.x264-SVA[eztv].mk",
+            "btih": "8bf32c8c33eb40953aa0b856d2ea086b1e8ce42c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.49809381,
+            "creation": "2017-03-14T00:20:13.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 44051,
+            "uuploaders": 29586
+        },
+        {
+            "id": 15,
+            "name": "The.Walking.Dead.S07E13.720p.WEB-DL.H264-FUM[ettv]",
+            "btih": "eaed9a4f06bb92874d7b77e400fc6b86804239a0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.606173399,
+            "creation": "2017-03-13T07:34:31.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 31409,
+            "uuploaders": 19564
+        },
+        {
+            "id": 26,
+            "name": "The.Walking.Dead.S07E13.REPACK.720p.HDTV.x264-AVS[eztv]",
+            "btih": "94fba94107c83efa0011f4ea16cacd8a606c8798",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.27515016,
+            "creation": "2017-03-14T00:22:28.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23632,
+            "uuploaders": 14478
+        },
+        {
+            "id": 11,
+            "name": "The.Walking.Dead.S07E13.720p.WEB-DL.380MB.MkvCage",
+            "btih": "2cfddca84ff630387f797290bb926f9ca1aa6c0a",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.399583124,
+            "creation": "2017-03-13T11:24:25.000000000Z,uTorrent/2210",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20189,
+            "uuploaders": 12946
+        },
+        {
+            "id": 8,
+            "name": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS[eztv].mkv",
+            "btih": "e6d495e69c6c142523337eeb8247cc419caa6e5a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.689071746,
+            "creation": "2017-03-13T12:04:38.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19471,
+            "uuploaders": 14147
+        },
+        {
+            "id": 6,
+            "name": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS [IPT]",
+            "btih": "0e14206c70b002eb2678b170c3efde688b7577ee",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.689080181,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 15064,
+            "uuploaders": 8619
+        },
+        {
+            "id": 16,
+            "name": "The.Walking.Dead.S07E13.720p.WEB-DL.x264-NoGRP.mp4",
+            "btih": "156ddab8fd9f064923e5d96b68a26f3de3e82b6f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.495651563,
+            "creation": "2017-03-13T09:52:31.000000000Z,qBittorrent v3.2.4",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8676,
+            "uuploaders": 5294
+        },
+        {
+            "id": 34,
+            "name": "The.Walking.Dead.S07E13.XviD-AFG [IPT]",
+            "btih": "90423cfa688a1ffd8b458b96c072c89ac8fafe51",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.632960558,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 8189,
+            "uuploaders": 4216
+        },
+        {
+            "id": 24,
+            "name": "The.Walking.Dead.S07E13.HDTV.x264-SVA[PRiME]",
+            "btih": "79067b0876bfa85b31c5945c2366d94e075db235",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.551161695,
+            "creation": "2017-03-13T02:13:10.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8093,
+            "uuploaders": 5748
+        },
+        {
+            "id": 5,
+            "name": "The.Walking.Dead.S07E13.1080p.WEBDL.5.1.opus.x265.bluury",
+            "btih": "82505f46f7f1e42356ac769c320d3e68d3411eaf",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.312224134,
+            "creation": "2017-03-13T16:56:18.000000000Z,uTorrent/3.4.9,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7473,
+            "uuploaders": 4679
+        },
+        {
+            "id": 9,
+            "name": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS[PRiME]",
+            "btih": "b909be5a958a86e41b83dd9db907431b6063b5ba",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.689072493,
+            "creation": "2017-03-13T02:18:43.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6346,
+            "uuploaders": 4900
+        },
+        {
+            "id": 35,
+            "name": "multi-btih-0-2-x-The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT[PRiME].l33tx",
+            "btih": "d4d2754b7a1ffb4f6ba2323c28c2b2648f282279",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.819894051,
+            "creation": "2017-03-13T08:40:35.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5944,
+            "uuploaders": 3594
+        },
+        {
+            "id": 22,
+            "name": "The.Walking.Dead.S07E13.HDTV.x264-SVA [IPT]",
+            "btih": "2ddad900572797113fd17e61c6f6f62c06eaf144",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.551166373,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2840,
+            "uuploaders": 1516
+        },
+        {
+            "id": 7,
+            "name": "The.Walking.Dead.S07E13.720p.HDTV.x264-AVS.[VTV]",
+            "btih": "5901986692fa07246e3be29067f3fa34784e8579",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.689071746,
+            "creation": "2017-03-13T03:50:43.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2737,
+            "uuploaders": 1522
+        },
+        {
+            "id": 17,
+            "name": "The.Walking.Dead.S07E13.AAC.MP4-Mobile [IPT]",
+            "btih": "51a90932d501316892ec288d7786a397842a22ed",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.229917624,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1684,
+            "uuploaders": 675
+        },
+        {
+            "id": 19,
+            "name": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.WEBRip.h264-HEAT [IPT]",
+            "btih": "98def15f794287b50e18d49692fd7952009d1d45",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.819900796,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1317,
+            "uuploaders": 464
+        },
+        {
+            "id": 29,
+            "name": "The.Walking.Dead.S07E13.REPACK.HDTV.x264-SVA[PRiME]",
+            "btih": "5c689bd6b66d14404d072d79c46025a7bab085ce",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.498094557,
+            "creation": "2017-03-14T00:22:08.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1310,
+            "uuploaders": 759
+        },
+        {
+            "id": 2,
+            "name": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H.264-Cyphanix [IPT]",
+            "btih": "10db460d74d3e9e82be321930586e8d603fc5f0b",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.020468134,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 978,
+            "uuploaders": 513
+        },
+        {
+            "id": 27,
+            "name": "The.Walking.Dead.S07E13.REPACK.720p.HDTV.x264-AVS[PRiME]",
+            "btih": "9b36869732a056ecb694384292e68668481c7d57",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.275150907,
+            "creation": "2017-03-14T00:19:29.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 897,
+            "uuploaders": 572
+        },
+        {
+            "id": 32,
+            "name": "The.Walking.Dead.S07E13.WEB-DL.XviD-FUM [IPT]",
+            "btih": "cb9a78194bd0125e83979c1bc0cbc74841b749e9",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.41792186,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 878,
+            "uuploaders": 370
+        },
+        {
+            "id": 4,
+            "name": "The.Walking.Dead.S07E13.1080p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+            "btih": "d182db4422c5ba2ae75b9575a0e1bfbfd581c44b",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.010322957,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 701,
+            "uuploaders": 351
+        },
+        {
+            "id": 14,
+            "name": "The.Walking.Dead.S07E13.720p.WEB-DL.H264-FUM [IPT]",
+            "btih": "a87b855562344c303cf87516cccb92670334f0c2",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.610469761,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 549,
+            "uuploaders": 276
+        },
+        {
+            "id": 1,
+            "name": "The.Walking.Dead.S07E12.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "ca647ecbed20ca79f8ed998d870b77765d9efe72",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.913189066,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 469,
+            "uuploaders": 151
+        },
+        {
+            "id": 12,
+            "name": "The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H.264-Cyphanix [IPT]",
+            "btih": "3f5b034c7406f703b22518ae314212b2fb74301b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.610451655,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 409,
+            "uuploaders": 192
+        },
+        {
+            "id": 18,
+            "name": "The.Walking.Dead.S07E13.Bury.Me.Here.1080p.AMZN.WEBRip.DD+5.1.x264 [IPT]",
+            "btih": "693975ba585be6b11367dfc541ea7af7e80de8b7",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.552603338,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 391,
+            "uuploaders": 235
+        },
+        {
+            "id": 30,
+            "name": "The.Walking.Dead.S07E13.WEB-DL.x264-FUM [IPT]",
+            "btih": "7ed1171d238438ca6a7f50c5ed02b28a50e12e9f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.5666593,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 329,
+            "uuploaders": 118
+        },
+        {
+            "id": 13,
+            "name": "The.Walking.Dead.S07E13.720p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+            "btih": "7b81da4255df690a4f8bbd2ba54ccebadaa5946f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.600985934,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 150,
+            "uuploaders": 112
+        }
+    ]
+}
