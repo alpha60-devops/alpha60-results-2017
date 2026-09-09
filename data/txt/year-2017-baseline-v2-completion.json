@@ -1,45 +1,46 @@
 {
+  "campaign": {
+    "inventory_count": 44,
+    "inventory_sha256": "ff1c69725cfb7ba0edfd30a3e118106cd8919a8dc5bda733b6e4d48a0793623c",
+    "version": 2
+  },
   "campaign_counts": {
-    "archive_records": 12,
-    "baseline_v2_pages": 12,
-    "day_complete": 12,
-    "day_product_pairs": 656,
-    "excluded_records": 2,
-    "index_links": 12,
-    "inventory": 12,
+    "archive_records": 44,
+    "baseline_v2_pages": 44,
+    "day_complete": 44,
+    "day_product_pairs": 1249,
+    "excluded_records": 0,
+    "index_links": 44,
+    "inventory": 44,
     "worker_failed": 0,
-    "worker_passed": 12
+    "worker_passed": 44
   },
   "counts": {
     "absent": 0,
     "failed": 0,
-    "inventory": 12,
+    "inventory": 44,
     "old": 0,
-    "passed": 12,
-    "unique": 12
+    "passed": 44,
+    "unique": 44
   },
   "evidence_sha256": {
-    "campaign_audit": "ab450bae7029f2127a015b8a5d90ec61a936da1e690eb5b4a14e5de5904d1311",
-    "metadata-audit.json": "4e1897f1d88ff69ba736fd69936204ceb7d42fc653f4550da2794c9a914e6d23",
-    "site-audit.json": "c4c31f8e9a95074d7cda42fefb5a953d7df42ce7445fe7297bba574cd6dba68e",
-    "worker-original-01.json": "ee6c966632fde5cef9c16557ee062dead0dae39cddeb562a33993d41f1a5e2d3",
-    "worker-original-02.json": "0e69a6eb3f7cd38dc060abbef73bc03ad49fd5b0b1b6827441f209d8de8c62af",
-    "worker-repair-01.json": "6ff2c9e21f5e22f707b7953eb5ff325bcde09dcb3c165ffc3f0557c440298bb8",
-    "worker-repair-02.json": "613f3247965facb2ea03bfa96fc4d278ae40fcfff7560e8a4aa0e935b5e943be",
-    "worker-repair-03.json": "14b742ece0143f2deef8ebb4ca2b6ed3afd73728e2738a27d52208ef4adc4ac7",
-    "worker-repair-04.json": "f1ff3e3b04939eff7e8e931ad8888adfe165334836fea9f6a6bac62de2f44045",
-    "worker-repair-05.json": "21326f82d9a22e0a9e5de46d064cfd49b8812bc682edc5ced16366fb77e48e02",
-    "worker-repair-06.json": "eb5d59feff5a0c7ded5c3d1ff0f33cfa75df24a0866be9026e407f5da9fe1871"
+    "campaign_audit": "5504d32b5a1ff528feb985f973a73b84204c170017c35391ab5a49ac378db12a",
+    "metadata-audit.json": "cda0b48a431d677048fe1aeb13e2fda3114d5f734b916c0af7b466e355a2e828",
+    "site-audit.json": "13eb21232da1cfe1eebf07810d099baddf4c2e9c65b585fc7e9f0cbcf80db1bf",
+    "worker-original-01.json": "0a5b364f35dbe0914849900b825ecee0ac234d815c51c7bd6a96a27c40556268",
+    "worker-original-02.json": "9841d88b48f8c9a0b0cc83603009b9ddcf4fded6969e7c89df02325bb2e0df10",
+    "worker-repair-01.json": "55c7508e6b18ab1495f0b05b5cd599760c34401d053d28d7c8ce153c3ff3bb4d",
+    "worker-repair-02.json": "9c0ca7800f8b35a6461f03e179c226d8e59e1cff1d8af37c076b5b6e5a007e57"
   },
-  "generated_at": "2026-09-08T19:14:02.954144+00:00",
+  "generated_at": "2026-09-09T02:25:12.004824+00:00",
   "schema": "alpha60-year-baseline-v2-completion/1",
   "source_revisions": {
-    "alpha60": "67ba1d7489ab95d806b2b97e2834e26cfa8c9291",
+    "alpha60": "a963d36e9ad67c723a2dfecf890c3931fc6c4436",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "a106b9528c6f444032ab6551adbc582767d33c9e",
+    "data": "9118dcee59582140eaf9b1224b053ff5bea0330d",
     "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "db302b1a9a3749405ab2010a380ff932d468e2e4",
-    "results": "fff38cc23ad480b648de1be1b61421fb17686a8f"
+    "metadata": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec",
+    "results": "e960ac2b417805442a40176037502572575ba3f3"
   },
   "status": "passed",
   "year": "2017"
