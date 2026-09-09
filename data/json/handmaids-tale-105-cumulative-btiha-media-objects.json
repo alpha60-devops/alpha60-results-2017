@@ -1,0 +1,1023 @@
+{
+    "collection_name": "The Handmaid's Tale",
+    "collection_id": "105",
+    "collection_key": "handmaids-tale-105",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.584135217,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001649881,
+                    "path": "The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001741569,
+                    "path": "The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001002992,
+                    "path": "The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001392773,
+                    "path": "The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.578346788,
+                    "path": "The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta/The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001214,
+                    "path": "The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta/The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta-torrenting.com",
+            "size_total": 0.584135301,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001649881,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001741569,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001002992,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001392773,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.578346788,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta/The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001214,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta/The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "The.Handmaids.Tale.S01E05.1080p.WEBRip.ColdFilm.Ru",
+            "size_total": 2.07368956,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.07368956,
+                    "path": "The.Handmaids.Tale.S01E05.1080p.WEBRip.ColdFilm.Ru.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "The.Handmaids.Tale.S01E05.1080p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "size_total": 1.86352183,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S01E05.1080p.WEBRip.x264-MOROSE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.863521274,
+                    "path": "The.Handmaids.Tale.S01E05.1080p.WEBRip.x264-MOROSE[rarbg]/the.handmaids.tale.s01e05.1080p.webrip.x264-morose.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.26e-7,
+                    "path": "The.Handmaids.Tale.S01E05.1080p.WEBRip.x264-MOROSE[rarbg]/the.handmaids.tale.s01e05.1080p.webrip.x264-morose.nfo"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "The.Handmaids.Tale.S01E05.400p.WEBRip.ColdFilm.Ru",
+            "size_total": 0.451801088,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.451801088,
+                    "path": "The.Handmaids.Tale.S01E05.400p.WEBRip.ColdFilm.Ru.avi"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.230297618,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000324913,
+                    "path": "The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000492297,
+                    "path": "The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000271451,
+                    "path": "The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000446013,
+                    "path": "The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.228761751,
+                    "path": "The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001193,
+                    "path": "The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta-torrenting.com",
+            "size_total": 0.230297702,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000324913,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000492297,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000271451,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000446013,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.228761751,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001193,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "The.Handmaids.Tale.S01E05.720p.WEBRip.ColdFilm.Ru",
+            "size_total": 1.67134607,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.67134607,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.ColdFilm.Ru.mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "the.handmaids.tale.s01e05.720p.webrip.hevc.x265.rmteam.mkv",
+            "size_total": 0.189257765,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.189257765,
+                    "path": "the.handmaids.tale.s01e05.720p.webrip.hevc.x265.rmteam.mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE [IPT]",
+            "size_total": 1.006199402,
+            "files_total": 23,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.09e-7,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.006197649,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.rar"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000001344,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e05.720p.webrip.x264-morose.sfv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "size_total": 1.006195421,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.006194982,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE[rarbg]/the.handmaids.tale.s01e05.720p.webrip.x264-morose.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.09e-7,
+                    "path": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE[rarbg]/the.handmaids.tale.s01e05.720p.webrip.x264-morose.nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "The.Handmaids.Tale.S01E05.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.156996185,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000248915,
+                    "path": "The.Handmaids.Tale.S01E05.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000236099,
+                    "path": "The.Handmaids.Tale.S01E05.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000139633,
+                    "path": "The.Handmaids.Tale.S01E05.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000210437,
+                    "path": "The.Handmaids.Tale.S01E05.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.156159816,
+                    "path": "The.Handmaids.Tale.S01E05.AAC.MP4-Mobile/The.Handmaids.Tale.S01E05.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001285,
+                    "path": "The.Handmaids.Tale.S01E05.AAC.MP4-Mobile/The.Handmaids.Tale.S01E05.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "The.Handmaids.Tale.S01E05.Faithful.1080p.HULU.WEBRip.AAC2.0.H.264-NTb [IPT]",
+            "size_total": 1.994115012,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000867052,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.1080p.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001329896,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.1080p.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000992462,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.1080p.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001503789,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.1080p.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.989420425,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.1080p.HULU.WEBRip.AAC2.0.H.264-NTb/The.Handmaids.Tale.S01E05.Faithful.1080p.HULU.WEBRip.AAC2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001388,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.1080p.HULU.WEBRip.AAC2.0.H.264-NTb/The.Handmaids.Tale.S01E05.Faithful.1080p.HULU.WEBRip.AAC2.0.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "The.Handmaids.Tale.S01E05.Faithful.720p.HULU.WEBRip.AAC2.0.H.264-NTb [IPT]",
+            "size_total": 0.695867925,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000370294,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.720p.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000571516,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.720p.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000380993,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.720p.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000581515,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.720p.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.693962216,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.720p.HULU.WEBRip.AAC2.0.H.264-NTb/The.Handmaids.Tale.S01E05.Faithful.720p.HULU.WEBRip.AAC2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001391,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.720p.HULU.WEBRip.AAC2.0.H.264-NTb/The.Handmaids.Tale.S01E05.Faithful.720p.HULU.WEBRip.AAC2.0.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "The.Handmaids.Tale.S01E05.Faithful.720p.WEBRip.2CH.x265.HEVC-PSA",
+            "size_total": 0.248718095,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.248718095,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.720p.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "The.Handmaids.Tale.S01E05.Faithful.HULU.WEBRip.AAC2.0.H.264-LoTV [IPT]",
+            "size_total": 0.2142902,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000148225,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.HULU.WEBRip.AAC2.0.H.264-LoTV/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000190182,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.HULU.WEBRip.AAC2.0.H.264-LoTV/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000122689,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.HULU.WEBRip.AAC2.0.H.264-LoTV/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000175122,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.HULU.WEBRip.AAC2.0.H.264-LoTV/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.213652598,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.HULU.WEBRip.AAC2.0.H.264-LoTV/The.Handmaids.Tale.S01E05.Faithful.HULU.WEBRip.AAC2.0.H.264-LoTV.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001384,
+                    "path": "The.Handmaids.Tale.S01E05.Faithful.HULU.WEBRip.AAC2.0.H.264-LoTV/The.Handmaids.Tale.S01E05.Faithful.HULU.WEBRip.AAC2.0.H.264-LoTV.nfo"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "The.Handmaids.Tale.S01E05.FASTSUB.VOSTFR.WEBRip.XviD-T9",
+            "size_total": 0.472194552,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.472194552,
+                    "path": "[ Torrent9.info ] The.Handmaids.Tale.S01E05.FASTSUB.VOSTFR.WEBRip.XviD-T9.avi"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "The.Handmaids.Tale.S01E05.SWESUB.720p.WEBRip.x264-FiLMANTA",
+            "size_total": 0.929316647,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.929316647,
+                    "path": "The.Handmaids.Tale.S01E05.SWESUB.720p.WEBRip.x264-FiLMANTA/The.Handmaids.Tale.S01E05.SWESUB.720p.WEBRip.x264-FiLMANTA.mp4"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "The.Handmaids.Tale.S01E05.WEBrip.720p.china",
+            "size_total": 0.604840879,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.604840879,
+                    "path": "侍女的故事.The.Handmaids.Tale.S01E05.中英字幕.WEBrip.720P-人人影视.mp4"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "The.Handmaids.Tale.S01E05.WEBRip.x264-RARBG-[rarbg.to]",
+            "size_total": 0.486419857,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Handmaids.Tale.S01E05.WEBRip.x264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S01E05.WEBRip.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000039225,
+                    "path": "The.Handmaids.Tale.S01E05.WEBRip.x264-RARBG/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.485359711,
+                    "path": "The.Handmaids.Tale.S01E05.WEBRip.x264-RARBG/The.Handmaids.Tale.S01E05.WEBRip.x264-RARBG.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000004127,
+                    "path": "The.Handmaids.Tale.S01E05.WEBRip.x264-RARBG/The.Handmaids.Tale.S01E05.WEBRip.x264-RARBG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "The.Handmaids.Tale.S01E05.XviD-AFG [IPT]",
+            "size_total": 0.366083284,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000231256,
+                    "path": "The.Handmaids.Tale.S01E05.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000236747,
+                    "path": "The.Handmaids.Tale.S01E05.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000151579,
+                    "path": "The.Handmaids.Tale.S01E05.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000238322,
+                    "path": "The.Handmaids.Tale.S01E05.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.365224214,
+                    "path": "The.Handmaids.Tale.S01E05.XviD-AFG/The.Handmaids.Tale.S01E05.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001166,
+                    "path": "The.Handmaids.Tale.S01E05.XviD-AFG/The.Handmaids.Tale.S01E05.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "The.Handmaids.Tale.S01E05.XviD-AFG-torrenting.com",
+            "size_total": 0.366083368,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000231256,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000236747,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000151579,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000238322,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.365224214,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.XviD-AFG/The.Handmaids.Tale.S01E05.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001166,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.XviD-AFG/The.Handmaids.Tale.S01E05.XviD-AFG.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S01E05.XviD-AFG/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 22,
+            "name": "The.Handmaids.Tale.S01E05.XviD-AFG-torrenting.com",
+            "btih": "a5d6a5e5a8fa1fc3c7afeab83a3ed3f0ea1e8d61",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.366083368,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 44182,
+            "uuploaders": 25550
+        },
+        {
+            "id": 20,
+            "name": "The.Handmaids.Tale.S01E05.WEBRip.x264-RARBG-[rarbg.to]",
+            "btih": "aee6a5d0c5b1b416cc32a5350fc51c1fbe107873",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.486419857,
+            "creation": "2017-05-10T13:16:35.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25123,
+            "uuploaders": 9805
+        },
+        {
+            "id": 11,
+            "name": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "btih": "f8e4d07f499bc6853e19eea94845653d843ace49",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.006195421,
+            "creation": "2017-05-10T13:02:54.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20369,
+            "uuploaders": 8430
+        },
+        {
+            "id": 4,
+            "name": "The.Handmaids.Tale.S01E05.1080p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "btih": "bf948172fe6eec043e5c24952ef53e18ac7222b9",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.86352183,
+            "creation": "2017-05-10T14:45:16.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14734,
+            "uuploaders": 6304
+        },
+        {
+            "id": 17,
+            "name": "The.Handmaids.Tale.S01E05.FASTSUB.VOSTFR.WEBRip.XviD-T9",
+            "btih": "2d1bfbada9083819f8820ba0a62af2743d1d2417",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.472194552,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12810,
+            "uuploaders": 8635
+        },
+        {
+            "id": 9,
+            "name": "the.handmaids.tale.s01e05.720p.webrip.hevc.x265.rmteam.mkv",
+            "btih": "7a359a873798dca90f1d317d498dd1e79ba03d3f",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.189257765,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5948,
+            "uuploaders": 3217
+        },
+        {
+            "id": 19,
+            "name": "The.Handmaids.Tale.S01E05.WEBrip.720p.china",
+            "btih": "7ccf8fa8b5a5396a0dc479f737ac1d811b24f3ca",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.604840879,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5325,
+            "uuploaders": 1642
+        },
+        {
+            "id": 15,
+            "name": "The.Handmaids.Tale.S01E05.Faithful.720p.WEBRip.2CH.x265.HEVC-PSA",
+            "btih": "c5688785d6394819c49e344851a1e6620f2dbdbb",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.248718095,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4294,
+            "uuploaders": 2337
+        },
+        {
+            "id": 7,
+            "name": "The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta-torrenting.com",
+            "btih": "5473b0869d3e15f88e9b7109abd569651bb61926",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.230297702,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2748,
+            "uuploaders": 1286
+        },
+        {
+            "id": 2,
+            "name": "The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta-torrenting.com",
+            "btih": "4fa2861f1844f6205d1da943b6f93477eb943f30",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.584135301,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2669,
+            "uuploaders": 1428
+        },
+        {
+            "id": 18,
+            "name": "The.Handmaids.Tale.S01E05.SWESUB.720p.WEBRip.x264-FiLMANTA",
+            "btih": "4930ed9e9721ef4df79381fd677479b052492465",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.929316647,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2557,
+            "uuploaders": 1339
+        },
+        {
+            "id": 10,
+            "name": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE [IPT]",
+            "btih": "8b70c02c310bf083fb971cbf43727a14147d7bf2",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.006199402,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1732,
+            "uuploaders": 702
+        },
+        {
+            "id": 21,
+            "name": "The.Handmaids.Tale.S01E05.XviD-AFG [IPT]",
+            "btih": "a16903f4ef8b51f3b1a1dead424f9c54d2755c17",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.366083284,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1179,
+            "uuploaders": 741
+        },
+        {
+            "id": 5,
+            "name": "The.Handmaids.Tale.S01E05.400p.WEBRip.ColdFilm.Ru",
+            "btih": "289b2b6d5e37da4bc865fef6fbee08f59e66a666",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.451801088,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1140,
+            "uuploaders": 326
+        },
+        {
+            "id": 8,
+            "name": "The.Handmaids.Tale.S01E05.720p.WEBRip.ColdFilm.Ru",
+            "btih": "5bd487b7ccf39653b08d378c5365944566e2b2ef",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.67134607,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 808,
+            "uuploaders": 377
+        },
+        {
+            "id": 6,
+            "name": "The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "4a90d177c916b6ed6d6d37358e769a2e81abd24c",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.230297618,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 624,
+            "uuploaders": 244
+        },
+        {
+            "id": 3,
+            "name": "The.Handmaids.Tale.S01E05.1080p.WEBRip.ColdFilm.Ru",
+            "btih": "4394620db4e9df646841068769b9996c4c1d5da8",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.07368956,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 561,
+            "uuploaders": 169
+        },
+        {
+            "id": 14,
+            "name": "The.Handmaids.Tale.S01E05.Faithful.720p.HULU.WEBRip.AAC2.0.H.264-NTb [IPT]",
+            "btih": "4caaaf557bbeac630a72a11db4bb945e8213f60d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.695867925,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 387,
+            "uuploaders": 190
+        },
+        {
+            "id": 12,
+            "name": "The.Handmaids.Tale.S01E05.AAC.MP4-Mobile [IPT]",
+            "btih": "8d3a58cb9314ee84206df5f3e86e91977a38b6b8",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.156996185,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 366,
+            "uuploaders": 137
+        },
+        {
+            "id": 1,
+            "name": "The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "3db3c8df589ef2080c2d23a7f8c1958cdec96523",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.584135217,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 351,
+            "uuploaders": 195
+        },
+        {
+            "id": 13,
+            "name": "The.Handmaids.Tale.S01E05.Faithful.1080p.HULU.WEBRip.AAC2.0.H.264-NTb [IPT]",
+            "btih": "07812f528bf71629dd32137f7e5ff07a5d78248e",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.994115012,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 304,
+            "uuploaders": 133
+        },
+        {
+            "id": 16,
+            "name": "The.Handmaids.Tale.S01E05.Faithful.HULU.WEBRip.AAC2.0.H.264-LoTV [IPT]",
+            "btih": "436b1ac308910f5a3240ca8e45e2c55081b64af0",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.2142902,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 226,
+            "uuploaders": 169
+        }
+    ]
+}

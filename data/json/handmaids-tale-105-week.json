@@ -1,0 +1,1263 @@
+{
+    "collection_name": "The Handmaid's Tale",
+    "collection_id": "105",
+    "collection_key": "handmaids-tale-105",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "sample_duration": "2017-05-10-to-2017-05-30",
+    "sample_days": 21,
+    "sample_year_start": 2017,
+    "sample_year_end": 2017,
+    "sample_day_year_start": 130,
+    "sample_day_year_end": 150,
+    "collection_week": [
+        {
+    "number": "week-00001",
+    "btiha_size": 22,
+    "udownloaders_total": 73068,
+    "uuploaders_total": 33640
+},
+        {
+    "number": "week-00002",
+    "btiha_size": 22,
+    "udownloaders_total": 115205,
+    "uuploaders_total": 55520
+},
+        {
+    "number": "week-00003",
+    "btiha_size": 22,
+    "udownloaders_total": 148437,
+    "uuploaders_total": 73356
+}
+    ],
+    "collection_week_by_btiha": [
+        [
+    {
+        "id": 22,
+        "name": "The.Handmaids.Tale.S01E05.XviD-AFG-torrenting.com",
+        "btih": "a5d6a5e5a8fa1fc3c7afeab83a3ed3f0ea1e8d61",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.366083368,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 20354,
+        "uuploaders": 10842
+    },
+    {
+        "id": 20,
+        "name": "The.Handmaids.Tale.S01E05.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "aee6a5d0c5b1b416cc32a5350fc51c1fbe107873",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.486419857,
+        "creation": "2017-05-10T13:16:35.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12508,
+        "uuploaders": 4146
+    },
+    {
+        "id": 11,
+        "name": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+        "btih": "f8e4d07f499bc6853e19eea94845653d843ace49",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.006195421,
+        "creation": "2017-05-10T13:02:54.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10213,
+        "uuploaders": 3769
+    },
+    {
+        "id": 4,
+        "name": "The.Handmaids.Tale.S01E05.1080p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+        "btih": "bf948172fe6eec043e5c24952ef53e18ac7222b9",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.86352183,
+        "creation": "2017-05-10T14:45:16.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7701,
+        "uuploaders": 3096
+    },
+    {
+        "id": 17,
+        "name": "The.Handmaids.Tale.S01E05.FASTSUB.VOSTFR.WEBRip.XviD-T9",
+        "btih": "2d1bfbada9083819f8820ba0a62af2743d1d2417",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.472194552,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6954,
+        "uuploaders": 4703
+    },
+    {
+        "id": 9,
+        "name": "the.handmaids.tale.s01e05.720p.webrip.hevc.x265.rmteam.mkv",
+        "btih": "7a359a873798dca90f1d317d498dd1e79ba03d3f",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.189257765,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2751,
+        "uuploaders": 1400
+    },
+    {
+        "id": 19,
+        "name": "The.Handmaids.Tale.S01E05.WEBrip.720p.china",
+        "btih": "7ccf8fa8b5a5396a0dc479f737ac1d811b24f3ca",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.604840879,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2686,
+        "uuploaders": 823
+    },
+    {
+        "id": 15,
+        "name": "The.Handmaids.Tale.S01E05.Faithful.720p.WEBRip.2CH.x265.HEVC-PSA",
+        "btih": "c5688785d6394819c49e344851a1e6620f2dbdbb",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.248718095,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2038,
+        "uuploaders": 1049
+    },
+    {
+        "id": 7,
+        "name": "The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta-torrenting.com",
+        "btih": "5473b0869d3e15f88e9b7109abd569651bb61926",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.230297702,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1528,
+        "uuploaders": 766
+    },
+    {
+        "id": 18,
+        "name": "The.Handmaids.Tale.S01E05.SWESUB.720p.WEBRip.x264-FiLMANTA",
+        "btih": "4930ed9e9721ef4df79381fd677479b052492465",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.929316647,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1297,
+        "uuploaders": 652
+    },
+    {
+        "id": 2,
+        "name": "The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta-torrenting.com",
+        "btih": "4fa2861f1844f6205d1da943b6f93477eb943f30",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.584135301,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1193,
+        "uuploaders": 671
+    },
+    {
+        "id": 10,
+        "name": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE [IPT]",
+        "btih": "8b70c02c310bf083fb971cbf43727a14147d7bf2",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.006199402,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1007,
+        "uuploaders": 401
+    },
+    {
+        "id": 5,
+        "name": "The.Handmaids.Tale.S01E05.400p.WEBRip.ColdFilm.Ru",
+        "btih": "289b2b6d5e37da4bc865fef6fbee08f59e66a666",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.451801088,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 575,
+        "uuploaders": 197
+    },
+    {
+        "id": 21,
+        "name": "The.Handmaids.Tale.S01E05.XviD-AFG [IPT]",
+        "btih": "a16903f4ef8b51f3b1a1dead424f9c54d2755c17",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.366083284,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 559,
+        "uuploaders": 326
+    },
+    {
+        "id": 6,
+        "name": "The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "4a90d177c916b6ed6d6d37358e769a2e81abd24c",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.230297618,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 365,
+        "uuploaders": 150
+    },
+    {
+        "id": 8,
+        "name": "The.Handmaids.Tale.S01E05.720p.WEBRip.ColdFilm.Ru",
+        "btih": "5bd487b7ccf39653b08d378c5365944566e2b2ef",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.67134607,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 347,
+        "uuploaders": 172
+    },
+    {
+        "id": 3,
+        "name": "The.Handmaids.Tale.S01E05.1080p.WEBRip.ColdFilm.Ru",
+        "btih": "4394620db4e9df646841068769b9996c4c1d5da8",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 2.07368956,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 218,
+        "uuploaders": 83
+    },
+    {
+        "id": 14,
+        "name": "The.Handmaids.Tale.S01E05.Faithful.720p.HULU.WEBRip.AAC2.0.H.264-NTb [IPT]",
+        "btih": "4caaaf557bbeac630a72a11db4bb945e8213f60d",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.695867925,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 214,
+        "uuploaders": 105
+    },
+    {
+        "id": 1,
+        "name": "The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta [IPT]",
+        "btih": "3db3c8df589ef2080c2d23a7f8c1958cdec96523",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.584135217,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 174,
+        "uuploaders": 102
+    },
+    {
+        "id": 12,
+        "name": "The.Handmaids.Tale.S01E05.AAC.MP4-Mobile [IPT]",
+        "btih": "8d3a58cb9314ee84206df5f3e86e91977a38b6b8",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.156996185,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 160,
+        "uuploaders": 76
+    },
+    {
+        "id": 13,
+        "name": "The.Handmaids.Tale.S01E05.Faithful.1080p.HULU.WEBRip.AAC2.0.H.264-NTb [IPT]",
+        "btih": "07812f528bf71629dd32137f7e5ff07a5d78248e",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.994115012,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 157,
+        "uuploaders": 72
+    },
+    {
+        "id": 16,
+        "name": "The.Handmaids.Tale.S01E05.Faithful.HULU.WEBRip.AAC2.0.H.264-LoTV [IPT]",
+        "btih": "436b1ac308910f5a3240ca8e45e2c55081b64af0",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.2142902,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 69,
+        "uuploaders": 39
+    }
+],
+        [
+    {
+        "id": 22,
+        "name": "The.Handmaids.Tale.S01E05.XviD-AFG-torrenting.com",
+        "btih": "a5d6a5e5a8fa1fc3c7afeab83a3ed3f0ea1e8d61",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.366083368,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 32599,
+        "uuploaders": 18350
+    },
+    {
+        "id": 20,
+        "name": "The.Handmaids.Tale.S01E05.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "aee6a5d0c5b1b416cc32a5350fc51c1fbe107873",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.486419857,
+        "creation": "2017-05-10T13:16:35.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 19656,
+        "uuploaders": 7296
+    },
+    {
+        "id": 11,
+        "name": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+        "btih": "f8e4d07f499bc6853e19eea94845653d843ace49",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.006195421,
+        "creation": "2017-05-10T13:02:54.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 16304,
+        "uuploaders": 6537
+    },
+    {
+        "id": 4,
+        "name": "The.Handmaids.Tale.S01E05.1080p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+        "btih": "bf948172fe6eec043e5c24952ef53e18ac7222b9",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.86352183,
+        "creation": "2017-05-10T14:45:16.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12326,
+        "uuploaders": 5195
+    },
+    {
+        "id": 17,
+        "name": "The.Handmaids.Tale.S01E05.FASTSUB.VOSTFR.WEBRip.XviD-T9",
+        "btih": "2d1bfbada9083819f8820ba0a62af2743d1d2417",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.472194552,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10371,
+        "uuploaders": 7014
+    },
+    {
+        "id": 9,
+        "name": "the.handmaids.tale.s01e05.720p.webrip.hevc.x265.rmteam.mkv",
+        "btih": "7a359a873798dca90f1d317d498dd1e79ba03d3f",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.189257765,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4446,
+        "uuploaders": 2340
+    },
+    {
+        "id": 19,
+        "name": "The.Handmaids.Tale.S01E05.WEBrip.720p.china",
+        "btih": "7ccf8fa8b5a5396a0dc479f737ac1d811b24f3ca",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.604840879,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4178,
+        "uuploaders": 1293
+    },
+    {
+        "id": 15,
+        "name": "The.Handmaids.Tale.S01E05.Faithful.720p.WEBRip.2CH.x265.HEVC-PSA",
+        "btih": "c5688785d6394819c49e344851a1e6620f2dbdbb",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.248718095,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3106,
+        "uuploaders": 1747
+    },
+    {
+        "id": 7,
+        "name": "The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta-torrenting.com",
+        "btih": "5473b0869d3e15f88e9b7109abd569651bb61926",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.230297702,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2355,
+        "uuploaders": 1096
+    },
+    {
+        "id": 2,
+        "name": "The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta-torrenting.com",
+        "btih": "4fa2861f1844f6205d1da943b6f93477eb943f30",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.584135301,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1975,
+        "uuploaders": 1082
+    },
+    {
+        "id": 18,
+        "name": "The.Handmaids.Tale.S01E05.SWESUB.720p.WEBRip.x264-FiLMANTA",
+        "btih": "4930ed9e9721ef4df79381fd677479b052492465",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.929316647,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1949,
+        "uuploaders": 1032
+    },
+    {
+        "id": 10,
+        "name": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE [IPT]",
+        "btih": "8b70c02c310bf083fb971cbf43727a14147d7bf2",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.006199402,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1392,
+        "uuploaders": 526
+    },
+    {
+        "id": 5,
+        "name": "The.Handmaids.Tale.S01E05.400p.WEBRip.ColdFilm.Ru",
+        "btih": "289b2b6d5e37da4bc865fef6fbee08f59e66a666",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.451801088,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1019,
+        "uuploaders": 289
+    },
+    {
+        "id": 21,
+        "name": "The.Handmaids.Tale.S01E05.XviD-AFG [IPT]",
+        "btih": "a16903f4ef8b51f3b1a1dead424f9c54d2755c17",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.366083284,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 842,
+        "uuploaders": 518
+    },
+    {
+        "id": 8,
+        "name": "The.Handmaids.Tale.S01E05.720p.WEBRip.ColdFilm.Ru",
+        "btih": "5bd487b7ccf39653b08d378c5365944566e2b2ef",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.67134607,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 603,
+        "uuploaders": 278
+    },
+    {
+        "id": 6,
+        "name": "The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "4a90d177c916b6ed6d6d37358e769a2e81abd24c",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.230297618,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 524,
+        "uuploaders": 197
+    },
+    {
+        "id": 3,
+        "name": "The.Handmaids.Tale.S01E05.1080p.WEBRip.ColdFilm.Ru",
+        "btih": "4394620db4e9df646841068769b9996c4c1d5da8",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 2.07368956,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 389,
+        "uuploaders": 128
+    },
+    {
+        "id": 14,
+        "name": "The.Handmaids.Tale.S01E05.Faithful.720p.HULU.WEBRip.AAC2.0.H.264-NTb [IPT]",
+        "btih": "4caaaf557bbeac630a72a11db4bb945e8213f60d",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.695867925,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 295,
+        "uuploaders": 143
+    },
+    {
+        "id": 1,
+        "name": "The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta [IPT]",
+        "btih": "3db3c8df589ef2080c2d23a7f8c1958cdec96523",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.584135217,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 265,
+        "uuploaders": 154
+    },
+    {
+        "id": 12,
+        "name": "The.Handmaids.Tale.S01E05.AAC.MP4-Mobile [IPT]",
+        "btih": "8d3a58cb9314ee84206df5f3e86e91977a38b6b8",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.156996185,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 261,
+        "uuploaders": 106
+    },
+    {
+        "id": 13,
+        "name": "The.Handmaids.Tale.S01E05.Faithful.1080p.HULU.WEBRip.AAC2.0.H.264-NTb [IPT]",
+        "btih": "07812f528bf71629dd32137f7e5ff07a5d78248e",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.994115012,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 225,
+        "uuploaders": 107
+    },
+    {
+        "id": 16,
+        "name": "The.Handmaids.Tale.S01E05.Faithful.HULU.WEBRip.AAC2.0.H.264-LoTV [IPT]",
+        "btih": "436b1ac308910f5a3240ca8e45e2c55081b64af0",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.2142902,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 125,
+        "uuploaders": 92
+    }
+],
+        [
+    {
+        "id": 22,
+        "name": "The.Handmaids.Tale.S01E05.XviD-AFG-torrenting.com",
+        "btih": "a5d6a5e5a8fa1fc3c7afeab83a3ed3f0ea1e8d61",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.366083368,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 44182,
+        "uuploaders": 25550
+    },
+    {
+        "id": 20,
+        "name": "The.Handmaids.Tale.S01E05.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "aee6a5d0c5b1b416cc32a5350fc51c1fbe107873",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.486419857,
+        "creation": "2017-05-10T13:16:35.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 25123,
+        "uuploaders": 9805
+    },
+    {
+        "id": 11,
+        "name": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+        "btih": "f8e4d07f499bc6853e19eea94845653d843ace49",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.006195421,
+        "creation": "2017-05-10T13:02:54.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 20369,
+        "uuploaders": 8430
+    },
+    {
+        "id": 4,
+        "name": "The.Handmaids.Tale.S01E05.1080p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+        "btih": "bf948172fe6eec043e5c24952ef53e18ac7222b9",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.86352183,
+        "creation": "2017-05-10T14:45:16.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 14734,
+        "uuploaders": 6304
+    },
+    {
+        "id": 17,
+        "name": "The.Handmaids.Tale.S01E05.FASTSUB.VOSTFR.WEBRip.XviD-T9",
+        "btih": "2d1bfbada9083819f8820ba0a62af2743d1d2417",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.472194552,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12810,
+        "uuploaders": 8635
+    },
+    {
+        "id": 9,
+        "name": "the.handmaids.tale.s01e05.720p.webrip.hevc.x265.rmteam.mkv",
+        "btih": "7a359a873798dca90f1d317d498dd1e79ba03d3f",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.189257765,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5948,
+        "uuploaders": 3217
+    },
+    {
+        "id": 19,
+        "name": "The.Handmaids.Tale.S01E05.WEBrip.720p.china",
+        "btih": "7ccf8fa8b5a5396a0dc479f737ac1d811b24f3ca",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.604840879,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5325,
+        "uuploaders": 1642
+    },
+    {
+        "id": 15,
+        "name": "The.Handmaids.Tale.S01E05.Faithful.720p.WEBRip.2CH.x265.HEVC-PSA",
+        "btih": "c5688785d6394819c49e344851a1e6620f2dbdbb",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.248718095,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4294,
+        "uuploaders": 2337
+    },
+    {
+        "id": 7,
+        "name": "The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta-torrenting.com",
+        "btih": "5473b0869d3e15f88e9b7109abd569651bb61926",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.230297702,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2748,
+        "uuploaders": 1286
+    },
+    {
+        "id": 2,
+        "name": "The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta-torrenting.com",
+        "btih": "4fa2861f1844f6205d1da943b6f93477eb943f30",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.584135301,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2669,
+        "uuploaders": 1428
+    },
+    {
+        "id": 18,
+        "name": "The.Handmaids.Tale.S01E05.SWESUB.720p.WEBRip.x264-FiLMANTA",
+        "btih": "4930ed9e9721ef4df79381fd677479b052492465",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.929316647,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2557,
+        "uuploaders": 1339
+    },
+    {
+        "id": 10,
+        "name": "The.Handmaids.Tale.S01E05.720p.WEBRip.x264-MOROSE [IPT]",
+        "btih": "8b70c02c310bf083fb971cbf43727a14147d7bf2",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.006199402,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1732,
+        "uuploaders": 702
+    },
+    {
+        "id": 21,
+        "name": "The.Handmaids.Tale.S01E05.XviD-AFG [IPT]",
+        "btih": "a16903f4ef8b51f3b1a1dead424f9c54d2755c17",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.366083284,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1179,
+        "uuploaders": 741
+    },
+    {
+        "id": 5,
+        "name": "The.Handmaids.Tale.S01E05.400p.WEBRip.ColdFilm.Ru",
+        "btih": "289b2b6d5e37da4bc865fef6fbee08f59e66a666",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.451801088,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1140,
+        "uuploaders": 326
+    },
+    {
+        "id": 8,
+        "name": "The.Handmaids.Tale.S01E05.720p.WEBRip.ColdFilm.Ru",
+        "btih": "5bd487b7ccf39653b08d378c5365944566e2b2ef",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.67134607,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 808,
+        "uuploaders": 377
+    },
+    {
+        "id": 6,
+        "name": "The.Handmaids.Tale.S01E05.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "4a90d177c916b6ed6d6d37358e769a2e81abd24c",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.230297618,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 624,
+        "uuploaders": 244
+    },
+    {
+        "id": 3,
+        "name": "The.Handmaids.Tale.S01E05.1080p.WEBRip.ColdFilm.Ru",
+        "btih": "4394620db4e9df646841068769b9996c4c1d5da8",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 2.07368956,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 561,
+        "uuploaders": 169
+    },
+    {
+        "id": 14,
+        "name": "The.Handmaids.Tale.S01E05.Faithful.720p.HULU.WEBRip.AAC2.0.H.264-NTb [IPT]",
+        "btih": "4caaaf557bbeac630a72a11db4bb945e8213f60d",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.695867925,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 387,
+        "uuploaders": 190
+    },
+    {
+        "id": 12,
+        "name": "The.Handmaids.Tale.S01E05.AAC.MP4-Mobile [IPT]",
+        "btih": "8d3a58cb9314ee84206df5f3e86e91977a38b6b8",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.156996185,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 366,
+        "uuploaders": 137
+    },
+    {
+        "id": 1,
+        "name": "The.Handmaids.Tale.S01E05.1080p.HEVC.x265-MeGusta [IPT]",
+        "btih": "3db3c8df589ef2080c2d23a7f8c1958cdec96523",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.584135217,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 351,
+        "uuploaders": 195
+    },
+    {
+        "id": 13,
+        "name": "The.Handmaids.Tale.S01E05.Faithful.1080p.HULU.WEBRip.AAC2.0.H.264-NTb [IPT]",
+        "btih": "07812f528bf71629dd32137f7e5ff07a5d78248e",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.994115012,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 304,
+        "uuploaders": 133
+    },
+    {
+        "id": 16,
+        "name": "The.Handmaids.Tale.S01E05.Faithful.HULU.WEBRip.AAC2.0.H.264-LoTV [IPT]",
+        "btih": "436b1ac308910f5a3240ca8e45e2c55081b64af0",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.2142902,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 226,
+        "uuploaders": 169
+    }
+]
+    ],
+    "collection_week_by_country": [
+        [
+    {
+        "number": "BRA_week_1",
+        "btiha_size": 15,
+        "udownloaders_total": 5376,
+        "uuploaders_total": 2549
+    },
+    {
+        "number": "CAN_week_1",
+        "btiha_size": 22,
+        "udownloaders_total": 4971,
+        "uuploaders_total": 2642
+    },
+    {
+        "number": "CHN_week_1",
+        "btiha_size": 16,
+        "udownloaders_total": 3393,
+        "uuploaders_total": 743
+    },
+    {
+        "number": "DEU_week_1",
+        "btiha_size": 22,
+        "udownloaders_total": 1132,
+        "uuploaders_total": 495
+    },
+    {
+        "number": "ESP_week_1",
+        "btiha_size": 17,
+        "udownloaders_total": 2253,
+        "uuploaders_total": 977
+    },
+    {
+        "number": "FRA_week_1",
+        "btiha_size": 22,
+        "udownloaders_total": 4121,
+        "uuploaders_total": 2821
+    },
+    {
+        "number": "HKG_week_1",
+        "btiha_size": 15,
+        "udownloaders_total": 495,
+        "uuploaders_total": 236
+    },
+    {
+        "number": "JPN_week_1",
+        "btiha_size": 17,
+        "udownloaders_total": 315,
+        "uuploaders_total": 147
+    },
+    {
+        "number": "KOR_week_1",
+        "btiha_size": 19,
+        "udownloaders_total": 805,
+        "uuploaders_total": 256
+    },
+    {
+        "number": "MEX_week_1",
+        "btiha_size": 12,
+        "udownloaders_total": 435,
+        "uuploaders_total": 211
+    },
+    {
+        "number": "NLD_week_1",
+        "btiha_size": 22,
+        "udownloaders_total": 4598,
+        "uuploaders_total": 1269
+    },
+    {
+        "number": "RUS_week_1",
+        "btiha_size": 17,
+        "udownloaders_total": 808,
+        "uuploaders_total": 349
+    },
+    {
+        "number": "SWE_week_1",
+        "btiha_size": 21,
+        "udownloaders_total": 2125,
+        "uuploaders_total": 1010
+    },
+    {
+        "number": "TUR_week_1",
+        "btiha_size": 13,
+        "udownloaders_total": 351,
+        "uuploaders_total": 195
+    },
+    {
+        "number": "UKR_week_1",
+        "btiha_size": 15,
+        "udownloaders_total": 148,
+        "uuploaders_total": 58
+    },
+    {
+        "number": "USA_week_1",
+        "btiha_size": 22,
+        "udownloaders_total": 9612,
+        "uuploaders_total": 3925
+    }
+],
+        [
+    {
+        "number": "BRA_week_2",
+        "btiha_size": 15,
+        "udownloaders_total": 9112,
+        "uuploaders_total": 4466
+    },
+    {
+        "number": "CAN_week_2",
+        "btiha_size": 22,
+        "udownloaders_total": 7452,
+        "uuploaders_total": 4125
+    },
+    {
+        "number": "CHN_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 5613,
+        "uuploaders_total": 1238
+    },
+    {
+        "number": "DEU_week_2",
+        "btiha_size": 22,
+        "udownloaders_total": 1761,
+        "uuploaders_total": 876
+    },
+    {
+        "number": "ESP_week_2",
+        "btiha_size": 18,
+        "udownloaders_total": 3757,
+        "uuploaders_total": 1676
+    },
+    {
+        "number": "FRA_week_2",
+        "btiha_size": 22,
+        "udownloaders_total": 5982,
+        "uuploaders_total": 4110
+    },
+    {
+        "number": "HKG_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 819,
+        "uuploaders_total": 404
+    },
+    {
+        "number": "JPN_week_2",
+        "btiha_size": 18,
+        "udownloaders_total": 673,
+        "uuploaders_total": 294
+    },
+    {
+        "number": "KOR_week_2",
+        "btiha_size": 19,
+        "udownloaders_total": 1262,
+        "uuploaders_total": 476
+    },
+    {
+        "number": "MEX_week_2",
+        "btiha_size": 15,
+        "udownloaders_total": 650,
+        "uuploaders_total": 339
+    },
+    {
+        "number": "NLD_week_2",
+        "btiha_size": 22,
+        "udownloaders_total": 6080,
+        "uuploaders_total": 1907
+    },
+    {
+        "number": "RUS_week_2",
+        "btiha_size": 17,
+        "udownloaders_total": 1172,
+        "uuploaders_total": 506
+    },
+    {
+        "number": "SWE_week_2",
+        "btiha_size": 21,
+        "udownloaders_total": 3372,
+        "uuploaders_total": 1582
+    },
+    {
+        "number": "TUR_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 593,
+        "uuploaders_total": 345
+    },
+    {
+        "number": "UKR_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 208,
+        "uuploaders_total": 83
+    },
+    {
+        "number": "USA_week_2",
+        "btiha_size": 22,
+        "udownloaders_total": 15159,
+        "uuploaders_total": 6622
+    }
+],
+        [
+    {
+        "number": "BRA_week_3",
+        "btiha_size": 16,
+        "udownloaders_total": 12289,
+        "uuploaders_total": 6147
+    },
+    {
+        "number": "CAN_week_3",
+        "btiha_size": 22,
+        "udownloaders_total": 9115,
+        "uuploaders_total": 5159
+    },
+    {
+        "number": "CHN_week_3",
+        "btiha_size": 16,
+        "udownloaders_total": 7349,
+        "uuploaders_total": 1631
+    },
+    {
+        "number": "DEU_week_3",
+        "btiha_size": 22,
+        "udownloaders_total": 2300,
+        "uuploaders_total": 1233
+    },
+    {
+        "number": "ESP_week_3",
+        "btiha_size": 18,
+        "udownloaders_total": 4627,
+        "uuploaders_total": 2094
+    },
+    {
+        "number": "FRA_week_3",
+        "btiha_size": 22,
+        "udownloaders_total": 7236,
+        "uuploaders_total": 4999
+    },
+    {
+        "number": "HKG_week_3",
+        "btiha_size": 16,
+        "udownloaders_total": 1090,
+        "uuploaders_total": 544
+    },
+    {
+        "number": "JPN_week_3",
+        "btiha_size": 18,
+        "udownloaders_total": 867,
+        "uuploaders_total": 375
+    },
+    {
+        "number": "KOR_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 1566,
+        "uuploaders_total": 571
+    },
+    {
+        "number": "MEX_week_3",
+        "btiha_size": 15,
+        "udownloaders_total": 841,
+        "uuploaders_total": 444
+    },
+    {
+        "number": "NLD_week_3",
+        "btiha_size": 22,
+        "udownloaders_total": 6948,
+        "uuploaders_total": 2311
+    },
+    {
+        "number": "RUS_week_3",
+        "btiha_size": 17,
+        "udownloaders_total": 1448,
+        "uuploaders_total": 620
+    },
+    {
+        "number": "SWE_week_3",
+        "btiha_size": 21,
+        "udownloaders_total": 4386,
+        "uuploaders_total": 1990
+    },
+    {
+        "number": "TUR_week_3",
+        "btiha_size": 17,
+        "udownloaders_total": 761,
+        "uuploaders_total": 463
+    },
+    {
+        "number": "UKR_week_3",
+        "btiha_size": 16,
+        "udownloaders_total": 240,
+        "uuploaders_total": 96
+    },
+    {
+        "number": "USA_week_3",
+        "btiha_size": 22,
+        "udownloaders_total": 19309,
+        "uuploaders_total": 8796
+    }
+]
+    ]
+}
