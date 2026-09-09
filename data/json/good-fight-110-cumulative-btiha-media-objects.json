@@ -1,0 +1,1154 @@
+{
+    "collection_name": "The Good Fight",
+    "collection_id": "110",
+    "collection_key": "good-fight-110",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "The.Good.Fight.S01E10.1080p.WEB-DL.DD5.1.H.264-ViSUM [IPT]",
+            "size_total": 1.850567367,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000874094,
+                    "path": "The.Good.Fight.S01E10.1080p.WEB-DL.DD5.1.H.264-ViSUM/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002030699,
+                    "path": "The.Good.Fight.S01E10.1080p.WEB-DL.DD5.1.H.264-ViSUM/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002372682,
+                    "path": "The.Good.Fight.S01E10.1080p.WEB-DL.DD5.1.H.264-ViSUM/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001228541,
+                    "path": "The.Good.Fight.S01E10.1080p.WEB-DL.DD5.1.H.264-ViSUM/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.84405979,
+                    "path": "The.Good.Fight.S01E10.1080p.WEB-DL.DD5.1.H.264-ViSUM/The.Good.Fight.S01E10.1080p.WEB-DL.DD5.1.H.264-ViSUM.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001561,
+                    "path": "The.Good.Fight.S01E10.1080p.WEB-DL.DD5.1.H.264-ViSUM/The.Good.Fight.S01E10.1080p.WEB-DL.DD5.1.H.264-ViSUM.nfo"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "The.Good.Fight.S01E10.1080p.WEB-DL.DD5.1.H264-ViSUM[rartv]-[rarbg.to]",
+            "size_total": 1.84418646,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S01E10.1080p.WEB-DL.DD5.1.H264-ViSUM[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.844121904,
+                    "path": "The.Good.Fight.S01E10.1080p.WEB-DL.DD5.1.H264-ViSUM[rarbg]/The.Good.Fight.S01E10.1080p.WEB-DL.DD5.1.H264-ViSUM.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000064526,
+                    "path": "The.Good.Fight.S01E10.1080p.WEB-DL.DD5.1.H264-ViSUM[rarbg]/The.Good.Fight.S01E10.1080p.WEB-DL.DD5.1.H264-ViSUM.srt"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "The.Good.Fight.S01E10.480p.x264-mSD [IPT]",
+            "size_total": 0.193871296,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000146256,
+                    "path": "The.Good.Fight.S01E10.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000266607,
+                    "path": "The.Good.Fight.S01E10.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000119413,
+                    "path": "The.Good.Fight.S01E10.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00009008,
+                    "path": "The.Good.Fight.S01E10.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.193247757,
+                    "path": "The.Good.Fight.S01E10.480p.x264-mSD/The.Good.Fight.S01E10.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001183,
+                    "path": "The.Good.Fight.S01E10.480p.x264-mSD/The.Good.Fight.S01E10.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "The.Good.Fight.S01E10.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.242999281,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000230181,
+                    "path": "The.Good.Fight.S01E10.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000981133,
+                    "path": "The.Good.Fight.S01E10.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000913326,
+                    "path": "The.Good.Fight.S01E10.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000595591,
+                    "path": "The.Good.Fight.S01E10.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.240277863,
+                    "path": "The.Good.Fight.S01E10.720p.HEVC.x265-MeGusta/The.Good.Fight.S01E10.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001187,
+                    "path": "The.Good.Fight.S01E10.720p.HEVC.x265-MeGusta/The.Good.Fight.S01E10.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "The.Good.Fight.S01E10.720p.WEB-DL.DD5.1.H264-ViSUM[rartv]-[rarbg.to]",
+            "size_total": 1.666664824,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S01E10.720p.WEB-DL.DD5.1.H264-ViSUM[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.666600268,
+                    "path": "The.Good.Fight.S01E10.720p.WEB-DL.DD5.1.H264-ViSUM[rarbg]/The.Good.Fight.S01E10.720p.WEB-DL.DD5.1.H264-ViSUM.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000064526,
+                    "path": "The.Good.Fight.S01E10.720p.WEB-DL.DD5.1.H264-ViSUM[rarbg]/The.Good.Fight.S01E10.720p.WEB-DL.DD5.1.H264-ViSUM.srt"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "The.Good.Fight.S01E10.720p.webrip.hevc.x265 [IPT]",
+            "size_total": 0.193877529,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00021714,
+                    "path": "the.good.fight.s01e10.720p.webrip.hevc.x265/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000882594,
+                    "path": "the.good.fight.s01e10.720p.webrip.hevc.x265/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000812925,
+                    "path": "the.good.fight.s01e10.720p.webrip.hevc.x265/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000623293,
+                    "path": "the.good.fight.s01e10.720p.webrip.hevc.x265/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.191340174,
+                    "path": "the.good.fight.s01e10.720p.webrip.hevc.x265/the.good.fight.s01e10.720p.webrip.hevc.x265.rmteam.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001403,
+                    "path": "the.good.fight.s01e10.720p.webrip.hevc.x265/the.good.fight.s01e10.720p.webrip.hevc.x265.rmteam.nfo"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "The.Good.Fight.S01E10.720p.webrip.hevc.x265.[xtra]",
+            "size_total": 0.191340302,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.191340174,
+                    "path": "the.good.fight.s01e10.720p.webrip.hevc.x265/the.good.fight.s01e10.720p.webrip.hevc.x265.rmteam.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7e-8,
+                    "path": "the.good.fight.s01e10.720p.webrip.hevc.x265/My Forum - ShadowHD.info.htm"
+                },
+                {
+                    "number": 3,
+                    "size": 5.8e-8,
+                    "path": "the.good.fight.s01e10.720p.webrip.hevc.x265/Torrent downloaded from www.Demonoid.pw - Demonoid .txt"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE [IPT]",
+            "size_total": 1.384665933,
+            "files_total": 30,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.27e-7,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.034663698,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.rar"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000001708,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE/the.good.fight.s01e10.720p.webrip.x264-deflate.sfv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE[ettv]",
+            "size_total": 1.384660451,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.384660282,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE[ettv]/The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.69e-7,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE[rartv]-[rarbg.to]",
+            "size_total": 1.384660839,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.384660282,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE[rarbg]/The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.27e-7,
+                    "path": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE[rarbg]/the.good.fight.s01e10.720p.webrip.x264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "The.Good.Fight.S01E10.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.155003461,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00014846,
+                    "path": "The.Good.Fight.S01E10.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000275571,
+                    "path": "The.Good.Fight.S01E10.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000119964,
+                    "path": "The.Good.Fight.S01E10.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000092258,
+                    "path": "The.Good.Fight.S01E10.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.154365929,
+                    "path": "The.Good.Fight.S01E10.AAC.MP4-Mobile/The.Good.Fight.S01E10.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001279,
+                    "path": "The.Good.Fight.S01E10.AAC.MP4-Mobile/The.Good.Fight.S01E10.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "The.Good.Fight.S01E10.HC.Spanish.Subs.1080i.HDTV.DD2.0.H.264-ViSUM [IPT]",
+            "size_total": 1.207250866,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001176064,
+                    "path": "The.Good.Fight.S01E10.HC.Spanish.Subs.1080i.HDTV.DD2.0.H.264-ViSUM/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001222254,
+                    "path": "The.Good.Fight.S01E10.HC.Spanish.Subs.1080i.HDTV.DD2.0.H.264-ViSUM/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001531568,
+                    "path": "The.Good.Fight.S01E10.HC.Spanish.Subs.1080i.HDTV.DD2.0.H.264-ViSUM/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001253017,
+                    "path": "The.Good.Fight.S01E10.HC.Spanish.Subs.1080i.HDTV.DD2.0.H.264-ViSUM/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001415,
+                    "path": "The.Good.Fight.S01E10.HC.Spanish.Subs.1080i.HDTV.DD2.0.H.264-ViSUM/The.Good.Fight.S01E10.HC.Spanish.Subs.1080i.HDTV.DD2.0.H.264-ViSUM.nfo"
+                },
+                {
+                    "number": 6,
+                    "size": 1.202066548,
+                    "path": "The.Good.Fight.S01E10.HC.Spanish.Subs.1080i.HDTV.DD2.0.H.264-ViSUM/The.Good.Fight.S01E10.HC.Spanish.Subs.1080i.HDTV.DD2.0.H.264-ViSUM.ts"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "The.Good.Fight.S01E10.WEB-DL.x264-RARBG-[rarbg.to]",
+            "size_total": 0.258781319,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Good.Fight.S01E10.WEB-DL.x264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S01E10.WEB-DL.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000064938,
+                    "path": "The.Good.Fight.S01E10.WEB-DL.x264-RARBG/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.25769558,
+                    "path": "The.Good.Fight.S01E10.WEB-DL.x264-RARBG/The.Good.Fight.S01E10.WEB-DL.x264-RARBG.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000004007,
+                    "path": "The.Good.Fight.S01E10.WEB-DL.x264-RARBG/The.Good.Fight.S01E10.WEB-DL.x264-RARBG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE [IPT]",
+            "size_total": 0.406843285,
+            "files_total": 30,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.02e-7,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.001841215,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.rar"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000001568,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE/the.good.fight.s01e10.webrip.x264-deflate.sfv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE[ettv]",
+            "size_total": 0.406838108,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.406837939,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE[ettv]/The.Good.Fight.S01E10.WEBRip.X264-DEFLATE[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.69e-7,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE[rartv]-[rarbg.to]",
+            "size_total": 0.406838471,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.406837939,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE[rarbg]/The.Good.Fight.S01E10.WEBRip.X264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.02e-7,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE[rarbg]/the.good.fight.s01e10.webrip.x264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "The.Good.Fight.S01E10.WEBRip.X264-RARBG-[rarbg.to]",
+            "size_total": 0.457578648,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000064938,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-RARBG/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00007111,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-RARBG/Subs/3_Eng.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.456421779,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-RARBG/The.Good.Fight.S01E10.WEBRip.X264-RARBG.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000004027,
+                    "path": "The.Good.Fight.S01E10.WEBRip.X264-RARBG/The.Good.Fight.S01E10.WEBRip.X264-RARBG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "The.Good.Fight.S01E10.WEBRip.XviD-FUM [IPT]",
+            "size_total": 0.419776995,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000075489,
+                    "path": "The.Good.Fight.S01E10.WEBRip.XviD-FUM/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000332959,
+                    "path": "The.Good.Fight.S01E10.WEBRip.XviD-FUM/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000269337,
+                    "path": "The.Good.Fight.S01E10.WEBRip.XviD-FUM/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000200903,
+                    "path": "The.Good.Fight.S01E10.WEBRip.XviD-FUM/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.418896948,
+                    "path": "The.Good.Fight.S01E10.WEBRip.XviD-FUM/The.Good.Fight.S01E10.WEBRip.XviD-FUM.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001359,
+                    "path": "The.Good.Fight.S01E10.WEBRip.XviD-FUM/The.Good.Fight.S01E10.WEBRip.XviD-FUM.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "The.Good.Fight.S01E10.WEBRip.XviD-FUM[ettv]-[rarbg.to]",
+            "size_total": 0.418897237,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.418896948,
+                    "path": "The.Good.Fight.S01E10.WEBRip.XviD-FUM[ettv]/The.Good.Fight.S01E10.WEBRip.XviD-FUM[ettv].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 2.89e-7,
+                    "path": "The.Good.Fight.S01E10.WEBRip.XviD-FUM[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "The.Good.Fight.S01E10.XviD-AFG [IPT]",
+            "size_total": 0.381725493,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000153351,
+                    "path": "The.Good.Fight.S01E10.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000288117,
+                    "path": "The.Good.Fight.S01E10.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000145789,
+                    "path": "The.Good.Fight.S01E10.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000079147,
+                    "path": "The.Good.Fight.S01E10.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.381057934,
+                    "path": "The.Good.Fight.S01E10.XviD-AFG/The.Good.Fight.S01E10.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001155,
+                    "path": "The.Good.Fight.S01E10.XviD-AFG/The.Good.Fight.S01E10.XviD-AFG.nfo"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 15,
+            "name": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE[ettv]",
+            "btih": "9ffe9fc4a93756470e58f98f99ecddb587d2d2f4",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.406838108,
+            "creation": "2017-04-16T16:52:08.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 65684,
+            "uuploaders": 42524
+        },
+        {
+            "id": 19,
+            "name": "The.Good.Fight.S01E10.WEBRip.XviD-FUM[ettv]-[rarbg.to]",
+            "btih": "016fd0c7b14873b106478df5e2ace70af7ab10df",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.418897237,
+            "creation": "2017-04-17T06:04:09.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17405,
+            "uuploaders": 9819
+        },
+        {
+            "id": 9,
+            "name": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE[ettv]",
+            "btih": "4ea6a8d3e7a76615ad97bcc589e6b4ec533415df",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.384660451,
+            "creation": "2017-04-16T16:50:11.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10301,
+            "uuploaders": 6544
+        },
+        {
+            "id": 10,
+            "name": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE[rartv]-[rarbg.to]",
+            "btih": "92ab5702b4e089138e364d52bfa983f718407af7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.384660839,
+            "creation": "2017-04-16T16:47:23.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10164,
+            "uuploaders": 3338
+        },
+        {
+            "id": 16,
+            "name": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE[rartv]-[rarbg.to]",
+            "btih": "a7048368cead06c772f40beaee72fa0adc7ef2c8",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.406838471,
+            "creation": "2017-04-16T16:48:12.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4796,
+            "uuploaders": 1560
+        },
+        {
+            "id": 7,
+            "name": "The.Good.Fight.S01E10.720p.webrip.hevc.x265.[xtra]",
+            "btih": "c44f46750c2432eef08450049a351cd6bc615c16",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.191340302,
+            "creation": "2017-04-16T23:10:20.000000000Z,uTorrent/2210",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2130,
+            "uuploaders": 1110
+        },
+        {
+            "id": 17,
+            "name": "The.Good.Fight.S01E10.WEBRip.X264-RARBG-[rarbg.to]",
+            "btih": "b76b45a1cda826590ae586e2ab1ccea2ab701042",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.457578648,
+            "creation": "2017-04-16T17:00:28.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1922,
+            "uuploaders": 763
+        },
+        {
+            "id": 13,
+            "name": "The.Good.Fight.S01E10.WEB-DL.x264-RARBG-[rarbg.to]",
+            "btih": "419d3ec5434a60d9e7f43eacb5203275e35af640",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.258781319,
+            "creation": "2017-04-24T18:23:33.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1733,
+            "uuploaders": 608
+        },
+        {
+            "id": 2,
+            "name": "The.Good.Fight.S01E10.1080p.WEB-DL.DD5.1.H264-ViSUM[rartv]-[rarbg.to]",
+            "btih": "d1dd51b95d33816eacca5457b8c9e7bfdbebc75a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.84418646,
+            "creation": "2017-04-24T18:07:43.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1514,
+            "uuploaders": 523
+        },
+        {
+            "id": 5,
+            "name": "The.Good.Fight.S01E10.720p.WEB-DL.DD5.1.H264-ViSUM[rartv]-[rarbg.to]",
+            "btih": "14abb1b3b57d782a4cfdaf86182e28b79ae95ff2",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.666664824,
+            "creation": "2017-04-24T18:15:44.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 958,
+            "uuploaders": 327
+        },
+        {
+            "id": 8,
+            "name": "The.Good.Fight.S01E10.720p.WEBRip.X264-DEFLATE [IPT]",
+            "btih": "d5801b4f2c69dd6d486cecd28a8eb715e6039c4f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.384665933,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 886,
+            "uuploaders": 395
+        },
+        {
+            "id": 20,
+            "name": "The.Good.Fight.S01E10.XviD-AFG [IPT]",
+            "btih": "0724a1813d6b1a8781c941b0dc15c7ea6d9ca2cb",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.381725493,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 807,
+            "uuploaders": 352
+        },
+        {
+            "id": 3,
+            "name": "The.Good.Fight.S01E10.480p.x264-mSD [IPT]",
+            "btih": "5b27fdb3c28407217e715900dd6a84a7cf306db0",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.193871296,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 318,
+            "uuploaders": 164
+        },
+        {
+            "id": 4,
+            "name": "The.Good.Fight.S01E10.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "cfa9ade16552f1c3ac3c9375b5625fd677c51a27",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.242999281,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 240,
+            "uuploaders": 110
+        },
+        {
+            "id": 11,
+            "name": "The.Good.Fight.S01E10.AAC.MP4-Mobile [IPT]",
+            "btih": "8a194b2cb4c108c615542f3b092b29e8b304646d",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.155003461,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 191,
+            "uuploaders": 96
+        },
+        {
+            "id": 18,
+            "name": "The.Good.Fight.S01E10.WEBRip.XviD-FUM [IPT]",
+            "btih": "1ea2cef7e83c81ea0ed3fee1c01fb95538e6d26c",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.419776995,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 172,
+            "uuploaders": 95
+        },
+        {
+            "id": 14,
+            "name": "The.Good.Fight.S01E10.WEBRip.X264-DEFLATE [IPT]",
+            "btih": "940d987aeebbab275045ff634c326ca526e88a1f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.406843285,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 134,
+            "uuploaders": 81
+        },
+        {
+            "id": 6,
+            "name": "The.Good.Fight.S01E10.720p.webrip.hevc.x265 [IPT]",
+            "btih": "e2ed53ae1a64768a4d059877ff342eef1229863d",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.193877529,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 82,
+            "uuploaders": 36
+        },
+        {
+            "id": 12,
+            "name": "The.Good.Fight.S01E10.HC.Spanish.Subs.1080i.HDTV.DD2.0.H.264-ViSUM [IPT]",
+            "btih": "7516306f97790716298717cc16e439abb0f59cdf",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.207250866,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 73,
+            "uuploaders": 31
+        },
+        {
+            "id": 1,
+            "name": "The.Good.Fight.S01E10.1080p.WEB-DL.DD5.1.H.264-ViSUM [IPT]",
+            "btih": "d2437b43b61ec728d8d6a211e0ea121517f821a9",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.850567367,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 53,
+            "uuploaders": 30
+        }
+    ]
+}
