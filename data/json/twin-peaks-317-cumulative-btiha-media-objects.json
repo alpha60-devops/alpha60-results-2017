@@ -1,0 +1,4774 @@
+{
+    "collection_name": "Twin Peaks",
+    "collection_id": "317",
+    "collection_key": "twin-peaks-317",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "015694df41a23dd9a3d383f8cf58308818c09c93",
+            "duplicate_0_0": "[limetorrents.cc]Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[eztv].mkv",
+            "duplicate_0_1": "Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[eztv].mkv"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "17b7b07d796a28e6c693bd5bef23d7979e1afebf",
+            "duplicate_1_0": "[limetorrents.cc]Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[rarbg]",
+            "duplicate_1_1": "Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "036ba6541de32f0352cdfffc10ff084a999ea117",
+            "duplicate_2_0": "[limetorrents.cc]Twin.Peaks.S03E17.The.Return.Part.17.720p.AMZN.WEBRip.DDP5.1.x264",
+            "duplicate_2_1": "Twin.Peaks.S03E17.The.Return.Part.17.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "85c93a04a9356273538c80903da0d0b8d11dbbb0",
+            "duplicate_3_0": "[limetorrents.cc]Twin.Peaks.S03E17.WEB.H264-STRiFE.[rarbg]",
+            "duplicate_3_1": "Twin.Peaks.S03E17.WEB.H264-STRiFE[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "864410c58744b7d2f45c4db878a42069d79dad46",
+            "duplicate_4_0": "[limetorrents.cc]Twin.Peaks.S03E17.WEB.H264-STRiFE[eztv].mkv",
+            "duplicate_4_1": "Twin.Peaks.S03E17.WEB.H264-STRiFE[eztv].mkv"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "fb1e455d6cf5f23cdbcb24eb4d6c9076e00cf8c3",
+            "duplicate_5_0": "[limetorrents.cc]Twin.Peaks.S03E17.WEBRip.x264-RARBG",
+            "duplicate_5_1": "Twin.Peaks.S03E17.WEBRip.x264-RARBG-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "26ce53b292d6d0deb376da6024c439070f66e417",
+            "duplicate_6_0": "[limetorrents.cc]Twin.Peaks.S03E18.720p.WEB.H264-STRiFE[eztv].mkv",
+            "duplicate_6_1": "Twin.Peaks.S03E18.720p.WEB.H264-STRiFE[eztv].mkv"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "f4bd5b23e49aa00e6c00699071b3be5bb333cc7c",
+            "duplicate_7_0": "[limetorrents.cc]Twin.Peaks.S03E18.The.Return.Part.18.720p.AMZN.WEBRip.DDP5.1.x264",
+            "duplicate_7_1": "Twin.Peaks.S03E18.The.Return.Part.18.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "f58aa46f48b1fb5f3e42d3dc031bb7ed204cabe9",
+            "duplicate_8_0": "[limetorrents.cc]Twin.Peaks.S03E18.WEB.H264-STRiFE[eztv].mkv",
+            "duplicate_8_1": "Twin.Peaks.S03E18.WEB.H264-STRiFE[eztv].mkv"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[limetorrents.cc]Twin.Peaks.-.Season.3.-.Mp4.x264.AC3.720p",
+            "size_total": 18.743962025,
+            "files_total": 19,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.1004192,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E01.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001055,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Read Me.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.991468769,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E02.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 1.069057556,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E03.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 1.034522725,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E04.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 1.058730749,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E05.mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 1.054389085,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E06.mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 1.045660877,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E07.mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 1.058958097,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E08.mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 1.059485772,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E09.mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 0.969586397,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E10.mp4"
+                },
+                {
+                    "number": 12,
+                    "size": 1.039252757,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E11.mp4"
+                },
+                {
+                    "number": 13,
+                    "size": 0.99679334,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E12.mp4"
+                },
+                {
+                    "number": 14,
+                    "size": 1.07728959,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E13.mp4"
+                },
+                {
+                    "number": 15,
+                    "size": 1.021927997,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E14.mp4"
+                },
+                {
+                    "number": 16,
+                    "size": 1.001466333,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E15.mp4"
+                },
+                {
+                    "number": 17,
+                    "size": 1.049368878,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E16.mp4"
+                },
+                {
+                    "number": 18,
+                    "size": 1.078436328,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E17.mp4"
+                },
+                {
+                    "number": 19,
+                    "size": 1.03714652,
+                    "path": "Twin Peaks Season 3 Mp4 720p/Twin Peaks S03E18.mp4"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[limetorrents.cc]Twin.Peaks.2017.HDTV.1080p.S03.E17.[SWESUB]",
+            "size_total": 0.679991768,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.679991768,
+                    "path": "Twin.Peaks.2017.HDTV.1080p.S03.E17.[SWESUB].mp4"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.cc]Twin.Peaks.2017.HDTV.1080p.S03.E18.[SWESUB]",
+            "size_total": 0.679630102,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.679630102,
+                    "path": "Twin.Peaks.2017.HDTV.1080p.S03.E18.[SWESUB].mp4"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.cc]Twin.Peaks.2017.HDTV.x264.EP15.[By.ExYu-Subs.HC]",
+            "size_total": 0.679626624,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.679626624,
+                    "path": "Twin.Peaks.2017.HDTV.x264.EP15.[By ExYu-Subs HC].mp4"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.cc]Twin.Peaks.2017.HDTV.x264.EP16.[By.ExYu-Subs.HC]",
+            "size_total": 0.679312436,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.679312436,
+                    "path": "Twin.Peaks.2017.HDTV.x264.EP16.[By ExYu-Subs HC].mp4"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.cc]Twin.Peaks.2017.HDTV.x264.EP17.[By.ExYu-Subs.HC]",
+            "size_total": 0.679469143,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.679469143,
+                    "path": "Twin.Peaks.2017.HDTV.x264.EP17.[By ExYu-Subs HC].mp4"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.cc]Twin.Peaks.2017.HDTV.x264.EP18.[By.ExYu-Subs.HC]",
+            "size_total": 0.679400753,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.679400753,
+                    "path": "Twin.Peaks.2017.HDTV.x264.EP18.[By ExYu-Subs HC].mp4"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.cc]Twin.Peaks.3x17..720p-WEB-h264-STRiFE.[VTV]",
+            "size_total": 1.262947296,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.262947296,
+                    "path": "Twin.Peaks.S03E17.720p.WEB.H264-STRiFE.[VTV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[limetorrents.cc]Twin.Peaks.3x18..720p.WEB-h264-STRiFE.[VTV]",
+            "size_total": 1.2186567,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.2186567,
+                    "path": "Twin.Peaks.S03E18.720p.WEB.H264-STRiFE.[VTV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.cc]Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN",
+            "size_total": 12.364131717,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.722667734,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E01.The.Return.Part.1.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.663872373,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E02.The.Return.Part.2.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.711437363,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E03.The.Return.Part.3.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.691067284,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E04.The.Return.Part.4.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.695544765,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E05.The.Return.Part.5.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.686961235,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E06.The.Return.Part.6.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.676119437,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E07.The.Return.Part.7.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.71079781,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E08.The.Return.Part.8.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.705148439,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E09.The.Return.Part.9.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.633142188,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E10.The.Return.Part.10.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.684140592,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E11.The.Return.Part.11.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.65743074,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E12.The.Return.Part.12.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.71334923,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E13.The.Return.Part.13.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 0.685434121,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E14.The.Return.Part.14.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                },
+                {
+                    "number": 15,
+                    "size": 0.657643805,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E15.The.Return.Part.15.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                },
+                {
+                    "number": 16,
+                    "size": 0.692414145,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E16.The.Return.Part.16.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                },
+                {
+                    "number": 17,
+                    "size": 0.709688184,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E17.The.Return.Part.17.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                },
+                {
+                    "number": 18,
+                    "size": 0.667272272,
+                    "path": "Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN/Twin.Peaks.S03E18.The.Return.Part.18.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.1080p.WEBRip.6CH.x265.HEVC-PSA",
+            "size_total": 0.654978234,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.654978234,
+                    "path": "Twin.Peaks.S03E17.The.Return.Part.17.1080p.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.2017.HDTV.x264.-.P2P",
+            "size_total": 0.342105948,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.93e-7,
+                    "path": "Twin Peaks S03E17 2017 HDTV x264 - P2P/Codec/Readme.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00322764,
+                    "path": "Twin Peaks S03E17 2017 HDTV x264 - P2P/Codec/XvidCodec.z"
+                },
+                {
+                    "number": 3,
+                    "size": 2.93e-7,
+                    "path": "Twin Peaks S03E17 2017 HDTV x264 - P2P/Readme.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.338877722,
+                    "path": "Twin Peaks S03E17 2017 HDTV x264 - P2P/Twin Peaks S03E17 2017 HDTV x264 - P2P.avi"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.2017.HDTV.x264.-.RARBG",
+            "size_total": 0.342105949,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.93e-7,
+                    "path": "Twin Peaks S03E17 2017 HDTV x264 - RARBG/Codec/Readme.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00322764,
+                    "path": "Twin Peaks S03E17 2017 HDTV x264 - RARBG/Codec/XvidCodec.z"
+                },
+                {
+                    "number": 3,
+                    "size": 2.93e-7,
+                    "path": "Twin Peaks S03E17 2017 HDTV x264 - RARBG/Readme.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.338877723,
+                    "path": "Twin Peaks S03E17 2017 HDTV x264 - RARBG/Twin Peaks S03E17 2017 HDTV x264 - RARBG.avi"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.480p.x264-mSD",
+            "size_total": 0.183092461,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000125514,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000227942,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000044162,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000265294,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.480p.x264-mSD/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.18242829,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.480p.x264-mSD/Twin.Peaks.S03E17.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000001175,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.480p.x264-mSD/Twin.Peaks.S03E17.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta",
+            "size_total": 0.216294518,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001026146,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001209109,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001120297,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001055291,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.211882413,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta/Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000001178,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta/Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[eztv].mkv",
+            "size_total": 1.262947296,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.262947296,
+                    "path": "Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[rarbg]",
+            "size_total": 1.262947376,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.262947296,
+                    "path": "Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[rarbg]/twin.peaks.s03e17.720p.web.h264-strife.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5e-8,
+                    "path": "Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[rarbg]/twin.peaks.s03e17.720p.web.h264-strife.nfo"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.720p.WEBRip.2CH.x265.HEVC-PSA",
+            "size_total": 0.241884849,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.241884849,
+                    "path": "Twin.Peaks.S03E17.The.Return.Part.17.720p.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.The.Return.Part.17.720p.AMZN.WEB-DL.460MB.-.Mkv",
+            "size_total": 0.484016348,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.484016348,
+                    "path": "Twin.Peaks.S03E17.The.Return.Part.17.720p.AMZN.WEB-DL.460MB.MkvCage.mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.The.Return.Part.17.720p.AMZN.WEBRip.DDP5.1.x264",
+            "size_total": 1.262947019,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E17.The.Return.Part.17.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.262946989,
+                    "path": "Twin.Peaks.S03E17.The.Return.Part.17.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Twin.Peaks.S03E17.The.Return.Part.17.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.WEB.H264-STRiFE.[rarbg]",
+            "size_total": 0.264262405,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E17.WEB.H264-STRiFE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.26426233,
+                    "path": "Twin.Peaks.S03E17.WEB.H264-STRiFE[rarbg]/twin.peaks.s03e17.web.h264-strife.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.5e-8,
+                    "path": "Twin.Peaks.S03E17.WEB.H264-STRiFE[rarbg]/twin.peaks.s03e17.web.h264-strife.nfo"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.WEB.H264-STRiFE",
+            "size_total": 0.266157019,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000447874,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.WEB.H264-STRiFE/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000510364,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.WEB.H264-STRiFE/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000484225,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.WEB.H264-STRiFE/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000452098,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.WEB.H264-STRiFE/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.WEB.H264-STRiFE/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.26426233,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.WEB.H264-STRiFE/twin.peaks.s03e17.web.h264-strife.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 4.4e-8,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.WEB.H264-STRiFE/twin.peaks.s03e17.web.h264-strife.nfo"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.WEB.H264-STRiFE[ettv]",
+            "size_total": 0.264262491,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.61e-7,
+                    "path": "Twin.Peaks.S03E17.WEB.H264-STRiFE[ettv]/To keep us going please read.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.26426233,
+                    "path": "Twin.Peaks.S03E17.WEB.H264-STRiFE[ettv]/twin.peaks.s03e17.web.h264-strife[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.WEB.H264-STRiFE[eztv].mkv",
+            "size_total": 0.26426233,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.26426233,
+                    "path": "Twin.Peaks.S03E17.WEB.H264-STRiFE[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.WEBRip.x264-RARBG",
+            "size_total": 0.551502338,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E17.WEBRip.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000041143,
+                    "path": "Twin.Peaks.S03E17.WEBRip.x264-RARBG/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.551461165,
+                    "path": "Twin.Peaks.S03E17.WEBRip.x264-RARBG/Twin.Peaks.S03E17.WEBRip.x264-RARBG.mp4"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.XviD-AFG",
+            "size_total": 0.347309229,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000141668,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000236677,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000036939,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000299553,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.XviD-AFG/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.34659316,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.XviD-AFG/Twin.Peaks.S03E17.XviD-AFG.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000001148,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E17.XviD-AFG/Twin.Peaks.S03E17.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.1080p.WEBRip.6CH.x265.HEVC-PSA",
+            "size_total": 0.661004216,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.661004216,
+                    "path": "Twin.Peaks.S03E18.The.Return.Part.18.1080p.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.2017.HDTV.x264.-.P2P",
+            "size_total": 0.342105949,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.93e-7,
+                    "path": "Twin Peaks S03E18 2017 HDTV x264 - P2P/Codec/Readme.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00322764,
+                    "path": "Twin Peaks S03E18 2017 HDTV x264 - P2P/Codec/XvidCodec.z"
+                },
+                {
+                    "number": 3,
+                    "size": 2.93e-7,
+                    "path": "Twin Peaks S03E18 2017 HDTV x264 - P2P/Readme.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.338877723,
+                    "path": "Twin Peaks S03E18 2017 HDTV x264 - P2P/Twin Peaks S03E18 2017 HDTV x264 - P2P.avi"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.2017.HDTV.x264.-.RARBG",
+            "size_total": 0.342105949,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.93e-7,
+                    "path": "Twin Peaks S03E18 2017 HDTV x264 - RARBG/Codec/Readme.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00322764,
+                    "path": "Twin Peaks S03E18 2017 HDTV x264 - RARBG/Codec/XvidCodec.z"
+                },
+                {
+                    "number": 3,
+                    "size": 2.93e-7,
+                    "path": "Twin Peaks S03E18 2017 HDTV x264 - RARBG/Readme.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.338877723,
+                    "path": "Twin Peaks S03E18 2017 HDTV x264 - RARBG/Twin Peaks S03E18 2017 HDTV x264 - RARBG.avi"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.2017.HDTV.x264.-.SiMPLE",
+            "size_total": 0.342105949,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.93e-7,
+                    "path": "Twin Peaks S03E18 2017 HDTV x264 - SiMPLE/Codec/Readme.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00322764,
+                    "path": "Twin Peaks S03E18 2017 HDTV x264 - SiMPLE/Codec/XvidCodec.z"
+                },
+                {
+                    "number": 3,
+                    "size": 2.93e-7,
+                    "path": "Twin Peaks S03E18 2017 HDTV x264 - SiMPLE/Readme.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.338877723,
+                    "path": "Twin Peaks S03E18 2017 HDTV x264 - SiMPLE/Twin Peaks S03E18 2017 HDTV x264 - SiMPLE.avi"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.2017.HDTV.x264.-.SiNNERS",
+            "size_total": 0.342105949,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.93e-7,
+                    "path": "Twin Peaks S03E18 2017 HDTV x264 - SiNNERS/Codec/Readme.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00322764,
+                    "path": "Twin Peaks S03E18 2017 HDTV x264 - SiNNERS/Codec/XvidCodec.z"
+                },
+                {
+                    "number": 3,
+                    "size": 2.93e-7,
+                    "path": "Twin Peaks S03E18 2017 HDTV x264 - SiNNERS/Readme.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.338877723,
+                    "path": "Twin Peaks S03E18 2017 HDTV x264 - SiNNERS/Twin Peaks S03E18 2017 HDTV x264 - SiNNERS.avi"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.480p.x264-mSD",
+            "size_total": 0.171962932,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000137979,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000033586,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00031794,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000157985,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.480p.x264-mSD/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.171314181,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.480p.x264-mSD/Twin.Peaks.S03E18.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000001177,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.480p.x264-mSD/Twin.Peaks.S03E18.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta",
+            "size_total": 0.220988136,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001025331,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00026868,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000893529,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000239379,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.218559955,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta/Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000001178,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta/Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.720p.WEB.H264-STRiFE[ettv]",
+            "size_total": 1.218656847,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.47e-7,
+                    "path": "Twin.Peaks.S03E18.720p.WEB.H264-STRiFE[ettv]/To keep us going please read.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.2186567,
+                    "path": "Twin.Peaks.S03E18.720p.WEB.H264-STRiFE[ettv]/twin.peaks.s03e18.720p.web.h264-strife[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.720p.WEB.H264-STRiFE[eztv].mkv",
+            "size_total": 1.2186567,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.2186567,
+                    "path": "Twin.Peaks.S03E18.720p.WEB.H264-STRiFE[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.720p.WEBRip.2CH.x265.HEVC-PSA",
+            "size_total": 0.241683027,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.241683027,
+                    "path": "Twin.Peaks.S03E18.The.Return.Part.18.720p.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.HDTV.x264-W4F",
+            "size_total": 0.236618609,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000358413,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.HDTV.x264-W4F/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000136622,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.HDTV.x264-W4F/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000308348,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.HDTV.x264-W4F/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000119061,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.HDTV.x264-W4F/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.HDTV.x264-W4F/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.235690261,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.HDTV.x264-W4F/twin.peaks.s03e18.hdtv.x264-w4f.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.00000582,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.HDTV.x264-W4F/twin.peaks.s03e18.hdtv.x264-w4f.nfo"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.The.Return.Part.18.720p.AMZN.WEB-DL.445MB.-.Mkv",
+            "size_total": 0.467326183,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.467326183,
+                    "path": "Twin.Peaks.S03E18.The.Return.Part.18.720p.AMZN.WEB-DL.445MB.MkvCage.mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.The.Return.Part.18.720p.AMZN.WEBRip.DDP5.1.x264",
+            "size_total": 1.218656822,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E18.The.Return.Part.18.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.218656792,
+                    "path": "Twin.Peaks.S03E18.The.Return.Part.18.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Twin.Peaks.S03E18.The.Return.Part.18.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.WEB.H264-STRiFE",
+            "size_total": 0.24663448600000001,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000441536,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.WEB.H264-STRiFE/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000175506,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.WEB.H264-STRiFE/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000407537,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.WEB.H264-STRiFE/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000159293,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.WEB.H264-STRiFE/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.WEB.H264-STRiFE/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.245450485,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.WEB.H264-STRiFE/twin.peaks.s03e18.web.h264-strife.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 4.5e-8,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.WEB.H264-STRiFE/twin.peaks.s03e18.web.h264-strife.nfo"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.WEB.H264-STRiFE[ettv]",
+            "size_total": 0.245450646,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.61e-7,
+                    "path": "Twin.Peaks.S03E18.WEB.H264-STRiFE[ettv]/To keep us going please read.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.245450485,
+                    "path": "Twin.Peaks.S03E18.WEB.H264-STRiFE[ettv]/twin.peaks.s03e18.web.h264-strife[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.WEB.H264-STRiFE[eztv].mkv",
+            "size_total": 0.245450485,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.245450485,
+                    "path": "Twin.Peaks.S03E18.WEB.H264-STRiFE[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.XviD-AFG",
+            "size_total": 0.368376661,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000141728,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000037541,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000348039,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000162349,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.XviD-AFG/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.367685774,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.XviD-AFG/Twin.Peaks.S03E18.XviD-AFG.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000001146,
+                    "path": "www.Torrenting.com - Twin.Peaks.S03E18.XviD-AFG/Twin.Peaks.S03E18.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "[limetorrents.cc]Twin.Peaks.Season.3.Complete.720p.HDTV.x264.[i_c]",
+            "size_total": 11.767207778,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.079009413,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E01 The Return - Part 1.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.902137417,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E03 The Return - Part 3.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.728977723,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E11 The Return, Part 11.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.706255756,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E06 The Return - Part 6.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.665786514,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E04 The Return - Part 4.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.66423096,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E10 The Return Part 10.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.647840586,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E05 The Return - Part 5.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.647484162,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E09 The Return, Part 9.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.643387214,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E02 The Return - Part 2.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.618155311,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E16 The Return, Part 16.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.612393017,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E13 The Return, Part 13.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.602817692,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E08 The Return, Part 8.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.59810943,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E14 The Return, Part 14.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 0.588640023,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E07 The Return, Part 7.mkv"
+                },
+                {
+                    "number": 15,
+                    "size": 0.555098874,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E15 The Return, Part 15.mkv"
+                },
+                {
+                    "number": 16,
+                    "size": 0.521669807,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E17 The Return, Part 17.mkv"
+                },
+                {
+                    "number": 17,
+                    "size": 0.511910715,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E12 The Return, Part 12.mkv"
+                },
+                {
+                    "number": 18,
+                    "size": 0.473303164,
+                    "path": "Twin Peaks Season 3 Complete 720p HDTV x264 [i_c]/Twin Peaks S03E18 The Return, Part 18.mkv"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "[rutor.is]Tvin_Piks_3_sezon_Am_scarabey.org",
+            "size_total": 13.724143616,
+            "files_total": 16,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.97084416,
+                    "path": "Твин_Пикс_3_сезон_Am_[scarabey.org]/Twin.Peaks.S03E01_[scarabey.org].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.94363648,
+                    "path": "Твин_Пикс_3_сезон_Am_[scarabey.org]/Twin.Peaks.S03E12_[scarabey.org].avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.940937216,
+                    "path": "Твин_Пикс_3_сезон_Am_[scarabey.org]/Twin.Peaks.S03E04_[scarabey.org].avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.915216384,
+                    "path": "Твин_Пикс_3_сезон_Am_[scarabey.org]/Twin.Peaks.S03E13_[scarabey.org].avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.878915584,
+                    "path": "Твин_Пикс_3_сезон_Am_[scarabey.org]/Twin.Peaks.S03E02_[scarabey.org].avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.848115712,
+                    "path": "Твин_Пикс_3_сезон_Am_[scarabey.org]/Twin.Peaks.S03E15_[scarabey.org].avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.839235584,
+                    "path": "Твин_Пикс_3_сезон_Am_[scarabey.org]/Twin.Peaks.S03E03_[scarabey.org].avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.838244352,
+                    "path": "Твин_Пикс_3_сезон_Am_[scarabey.org]/Twin.Peaks.S03E08_[scarabey.org].avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.831500288,
+                    "path": "Твин_Пикс_3_сезон_Am_[scarabey.org]/Twin.Peaks.S03E09_[scarabey.org].avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.831105024,
+                    "path": "Твин_Пикс_3_сезон_Am_[scarabey.org]/Twin.Peaks.S03E07_[scarabey.org].avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.831012864,
+                    "path": "Твин_Пикс_3_сезон_Am_[scarabey.org]/Twin.Peaks.S03E05_[scarabey.org].avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.82840576,
+                    "path": "Твин_Пикс_3_сезон_Am_[scarabey.org]/Twin.Peaks.S03E14_[scarabey.org].avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.82622464,
+                    "path": "Твин_Пикс_3_сезон_Am_[scarabey.org]/Twin.Peaks.S03E06_[scarabey.org].avi"
+                },
+                {
+                    "number": 14,
+                    "size": 0.823867392,
+                    "path": "Твин_Пикс_3_сезон_Am_[scarabey.org]/Twin.Peaks.S03E16_[scarabey.org].avi"
+                },
+                {
+                    "number": 15,
+                    "size": 0.81567744,
+                    "path": "Твин_Пикс_3_сезон_Am_[scarabey.org]/Twin.Peaks.S03E11_[scarabey.org].avi"
+                },
+                {
+                    "number": 16,
+                    "size": 0.761204736,
+                    "path": "Твин_Пикс_3_сезон_Am_[scarabey.org]/Twin.Peaks.S03E10_[scarabey.org].avi"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "[rutor.is]Twin.Peaks.S03.720p.SunshineStudio",
+            "size_total": 17.870439904,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.440426802,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E03.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.222546492,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E09.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.215328739,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E10.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.150706253,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E16.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.134161077,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E13.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.118707568,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E04.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.016579989,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E14.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.003510435,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E15.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.997648399,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E05.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.940234865,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E11.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.93589023,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E06.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.881317099,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E17.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.845547878,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E12.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 0.84236885,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E18.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 15,
+                    "size": 0.828123854,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E08.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 16,
+                    "size": 0.771262303,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E02.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 17,
+                    "size": 0.769793064,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E07.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 18,
+                    "size": 0.756286007,
+                    "path": "Twin.Peaks.S03.720p.SunshineStudio/Twin.Peaks.S03E01.720p.SunshineStudio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "[rutor.is]Twin.Peaks.S03.WEBRip.1080p",
+            "size_total": 94.609591383,
+            "files_total": 52,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000035444,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E01.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00003972,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E01.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000022053,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E02.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000025081,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E02.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000017237,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E03.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000020101,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E03.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000046046,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E04.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.00005113,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E04.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000034526,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E05.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000038982,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E05.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000030163,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E06.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000036456,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E06.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000048709,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E07.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000054916,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E07.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.00001091,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E08.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000012877,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E08.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000041925,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E09.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000046342,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E09.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000040554,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E10.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000044032,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E10.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000042325,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E11.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000046819,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E11.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000045025,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E12.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000050679,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E12.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000049,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E13.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000056328,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E13.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000041448,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E14.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000045922,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E14.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000031156,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E15.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000034525,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E15.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000028764,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E16.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 32,
+                    "size": 0.000031198,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E16.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 33,
+                    "size": 0.000025475,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E17.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 34,
+                    "size": 0.000014509,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Rus subs/Twin.Peaks.S03E18.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 35,
+                    "size": 5.342851233,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E01.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 36,
+                    "size": 4.660171382,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E02.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 37,
+                    "size": 6.050274894,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E03.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 38,
+                    "size": 5.276460508,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E04.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 39,
+                    "size": 6.14029423,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E05.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 40,
+                    "size": 6.782184437,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E06.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 41,
+                    "size": 6.20016987,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E07.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 42,
+                    "size": 3.810978551,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E08.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 43,
+                    "size": 6.870305668,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E09.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 44,
+                    "size": 4.740467647,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E10.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 45,
+                    "size": 6.056147084,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E11.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 46,
+                    "size": 4.191088367,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E12.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 47,
+                    "size": 5.576790413,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E13.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 48,
+                    "size": 4.5290645,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E14.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 49,
+                    "size": 4.581021179,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E15.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 50,
+                    "size": 5.46565826,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E16.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 51,
+                    "size": 4.200292417,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E17.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 52,
+                    "size": 4.134130366,
+                    "path": "Twin.Peaks.S03.WEBRip.1080p/Twin.Peaks.S03E18.WEBRip.1080p.mkv"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "[rutor.is]Twin_Peaks_S03_2017_720p_WEBRip_Gears_Media",
+            "size_total": 31.484572282,
+            "files_total": 16,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.192787955,
+                    "path": "Twin Peaks S03 (2017) 720p WEBRip [Gears Media]/Twin Peaks S03E12 (2017) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.307322801,
+                    "path": "Twin Peaks S03 (2017) 720p WEBRip [Gears Media]/Twin Peaks S03E14 (2017) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.321869172,
+                    "path": "Twin Peaks S03 (2017) 720p WEBRip [Gears Media]/Twin Peaks S03E10 (2017) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.405682679,
+                    "path": "Twin Peaks S03 (2017) 720p WEBRip [Gears Media]/Twin Peaks S03E15 (2017) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.6013527,
+                    "path": "Twin Peaks S03 (2017) 720p WEBRip [Gears Media]/Twin Peaks S03E13 (2017) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.675444001,
+                    "path": "Twin Peaks S03 (2017) 720p WEBRip [Gears Media]/Twin Peaks S03E11 (2017) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.691619298,
+                    "path": "Twin Peaks S03 (2017) 720p WEBRip [Gears Media]/Twin Peaks S03E16 (2017) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.944913877,
+                    "path": "Twin Peaks S03 (2017) 720p WEBRip [Gears Media]/Twin Peaks S03E03 (2017) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.960744628,
+                    "path": "Twin Peaks S03 (2017) 720p WEBRip [Gears Media]/Twin Peaks S03E08 (2017) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 2.07626022,
+                    "path": "Twin Peaks S03 (2017) 720p WEBRip [Gears Media]/Twin Peaks S03E07 (2017) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 2.212206753,
+                    "path": "Twin Peaks S03 (2017) 720p WEBRip [Gears Media]/Twin Peaks S03E02 (2017) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 2.279790473,
+                    "path": "Twin Peaks S03 (2017) 720p WEBRip [Gears Media]/Twin Peaks S03E09 (2017) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 2.435632017,
+                    "path": "Twin Peaks S03 (2017) 720p WEBRip [Gears Media]/Twin Peaks S03E01 (2017) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 2.482661998,
+                    "path": "Twin Peaks S03 (2017) 720p WEBRip [Gears Media]/Twin Peaks S03E04 (2017) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 15,
+                    "size": 2.796180553,
+                    "path": "Twin Peaks S03 (2017) 720p WEBRip [Gears Media]/Twin Peaks S03E05 (2017) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 16,
+                    "size": 3.100103157,
+                    "path": "Twin Peaks S03 (2017) 720p WEBRip [Gears Media]/Twin Peaks S03E06 (2017) 720p WEBRip [Gears Media].mkv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "[rutor.is]Twin_Peaks_S03_2017_WEBRip_Gears_Media",
+            "size_total": 10.437055974,
+            "files_total": 16,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.511907574,
+                    "path": "Twin Peaks S03 (2017) WEBRip [Gears Media]/Twin Peaks S03E12 (2017) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.529514606,
+                    "path": "Twin Peaks S03 (2017) WEBRip [Gears Media]/Twin Peaks S03E08 (2017) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.534114368,
+                    "path": "Twin Peaks S03 (2017) WEBRip [Gears Media]/Twin Peaks S03E15 (2017) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.5620516759999999,
+                    "path": "Twin Peaks S03 (2017) WEBRip [Gears Media]/Twin Peaks S03E14 (2017) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.601200596,
+                    "path": "Twin Peaks S03 (2017) WEBRip [Gears Media]/Twin Peaks S03E10 (2017) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.657868312,
+                    "path": "Twin Peaks S03 (2017) WEBRip [Gears Media]/Twin Peaks S03E09 (2017) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.665553856,
+                    "path": "Twin Peaks S03 (2017) WEBRip [Gears Media]/Twin Peaks S03E13 (2017) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.675664082,
+                    "path": "Twin Peaks S03 (2017) WEBRip [Gears Media]/Twin Peaks S03E02 (2017) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.677590432,
+                    "path": "Twin Peaks S03 (2017) WEBRip [Gears Media]/Twin Peaks S03E07 (2017) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.689527988,
+                    "path": "Twin Peaks S03 (2017) WEBRip [Gears Media]/Twin Peaks S03E16 (2017) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.704952968,
+                    "path": "Twin Peaks S03 (2017) WEBRip [Gears Media]/Twin Peaks S03E04 (2017) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.708621272,
+                    "path": "Twin Peaks S03 (2017) WEBRip [Gears Media]/Twin Peaks S03E11 (2017) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.718868586,
+                    "path": "Twin Peaks S03 (2017) WEBRip [Gears Media]/Twin Peaks S03E06 (2017) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 14,
+                    "size": 0.72154814,
+                    "path": "Twin Peaks S03 (2017) WEBRip [Gears Media]/Twin Peaks S03E05 (2017) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 15,
+                    "size": 0.728387102,
+                    "path": "Twin Peaks S03 (2017) WEBRip [Gears Media]/Twin Peaks S03E03 (2017) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 16,
+                    "size": 0.749684416,
+                    "path": "Twin Peaks S03 (2017) WEBRip [Gears Media]/Twin Peaks S03E01 (2017) WEBRip [Gears Media].avi"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "[rutor.is]Twin_Peaks_Season_03",
+            "size_total": 11.875354624,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.680493056,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E01.XviD.lostfilm.(qqss44).avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.628054016,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E02.XviD.lostfilm.(qqss44).avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.680022016,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E03.XviD.lostfilm.(qqss44).avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.655020032,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E04.XviD.lostfilm.(qqss44).avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.671748096,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E05.XviD.lostfilm.(qqss44).avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.668981248,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E06.XviD.lostfilm.(qqss44).avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.663404544,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E07.XviD.lostfilm.(qqss44).avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.671934464,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E08.XviD.lostfilm.(qqss44).avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.672208896,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E09.XviD.lostfilm.(qqss44).avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.615213056,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E10.XviD.lostfilm.(qqss44).avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.659390464,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E11.XviD.lostfilm.(qqss44).avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.632408064,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E12.XviD.lostfilm.(qqss44).avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.683507712,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E13.XviD.lostfilm.(qqss44).avi"
+                },
+                {
+                    "number": 14,
+                    "size": 0.648275968,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E14.XviD.lostfilm.(qqss44).avi"
+                },
+                {
+                    "number": 15,
+                    "size": 0.635447296,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E15.XviD.lostfilm.(qqss44).avi"
+                },
+                {
+                    "number": 16,
+                    "size": 0.665982976,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E16.XviD.lostfilm.(qqss44).avi"
+                },
+                {
+                    "number": 17,
+                    "size": 0.684535808,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E17.XviD.lostfilm.(qqss44).avi"
+                },
+                {
+                    "number": 18,
+                    "size": 0.658726912,
+                    "path": "Twin Peaks (Season 03)/Twin.Peaks.S03E18.XviD.lostfilm.(qqss44).avi"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Twin.Peaks-S03-2017-rutracker.org",
+            "size_total": 86.411623819,
+            "files_total": 48,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000035444,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E01.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00003972,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E01.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000022053,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E02.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000025081,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E02.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000017237,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E03.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000020101,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E03.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000046046,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E04.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.00005113,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E04.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000034526,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E05.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000038982,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E05.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000030163,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E06.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000036456,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E06.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000048709,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E07.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000054916,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E07.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.00001091,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E08.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000012877,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E08.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000041925,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E09.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000046342,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E09.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000040554,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E10.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000044032,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E10.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000042325,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E11.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000046819,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E11.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000045025,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E12.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000050679,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E12.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000049,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E13.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000056328,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E13.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000041448,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E14.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000045922,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E14.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000031156,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E15.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000034525,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E15.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000028764,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E16.WEBRip.1080p.Amedia.srt"
+                },
+                {
+                    "number": 32,
+                    "size": 0.000031198,
+                    "path": "Twin Peaks (2017)/Rus subs/Twin.Peaks.S03E16.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 33,
+                    "size": 5.342851233,
+                    "path": "Twin Peaks (2017)/Twin.Peaks.S03E01.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 34,
+                    "size": 4.660171382,
+                    "path": "Twin Peaks (2017)/Twin.Peaks.S03E02.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 35,
+                    "size": 6.050274894,
+                    "path": "Twin Peaks (2017)/Twin.Peaks.S03E03.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 36,
+                    "size": 5.276460508,
+                    "path": "Twin Peaks (2017)/Twin.Peaks.S03E04.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 37,
+                    "size": 6.14029423,
+                    "path": "Twin Peaks (2017)/Twin.Peaks.S03E05.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 38,
+                    "size": 6.782184437,
+                    "path": "Twin Peaks (2017)/Twin.Peaks.S03E06.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 39,
+                    "size": 6.20016987,
+                    "path": "Twin Peaks (2017)/Twin.Peaks.S03E07.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 40,
+                    "size": 3.810978551,
+                    "path": "Twin Peaks (2017)/Twin.Peaks.S03E08.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 41,
+                    "size": 6.870305668,
+                    "path": "Twin Peaks (2017)/Twin.Peaks.S03E09.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 42,
+                    "size": 4.740467647,
+                    "path": "Twin Peaks (2017)/Twin.Peaks.S03E10.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 43,
+                    "size": 6.056147084,
+                    "path": "Twin Peaks (2017)/Twin.Peaks.S03E11.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 44,
+                    "size": 4.191088367,
+                    "path": "Twin Peaks (2017)/Twin.Peaks.S03E12.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 45,
+                    "size": 5.713282578,
+                    "path": "Twin Peaks (2017)/Twin.Peaks.S03E13.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 46,
+                    "size": 4.529066212,
+                    "path": "Twin Peaks (2017)/Twin.Peaks.S03E14.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 47,
+                    "size": 4.581021179,
+                    "path": "Twin Peaks (2017)/Twin.Peaks.S03E15.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 48,
+                    "size": 5.465659586,
+                    "path": "Twin Peaks (2017)/Twin.Peaks.S03E16.WEBRip.1080p.mkv"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Twin.Peaks.S03E17.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.714513146,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001379294,
+                    "path": "Twin.Peaks.S03E17.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00199328,
+                    "path": "Twin.Peaks.S03E17.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000565212,
+                    "path": "Twin.Peaks.S03E17.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002597608,
+                    "path": "Twin.Peaks.S03E17.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.707976547,
+                    "path": "Twin.Peaks.S03E17.1080p.HEVC.x265-MeGusta/Twin.Peaks.S03E17.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001205,
+                    "path": "Twin.Peaks.S03E17.1080p.HEVC.x265-MeGusta/Twin.Peaks.S03E17.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Twin.Peaks.S03E17.1080p.WEB.H264-STRiFE[rartv]-[rarbg.to]",
+            "size_total": 4.114663583,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E17.1080p.WEB.H264-STRiFE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 4.114663502,
+                    "path": "Twin.Peaks.S03E17.1080p.WEB.H264-STRiFE[rarbg]/twin.peaks.s03e17.1080p.web.h264-strife.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.1e-8,
+                    "path": "Twin.Peaks.S03E17.1080p.WEB.H264-STRiFE[rarbg]/twin.peaks.s03e17.1080p.web.h264-strife.nfo"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Twin.Peaks.S03E17.480p.x264-mSD [IPT]",
+            "size_total": 0.183092377,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000125514,
+                    "path": "Twin.Peaks.S03E17.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000227942,
+                    "path": "Twin.Peaks.S03E17.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000044162,
+                    "path": "Twin.Peaks.S03E17.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000265294,
+                    "path": "Twin.Peaks.S03E17.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.18242829,
+                    "path": "Twin.Peaks.S03E17.480p.x264-mSD/Twin.Peaks.S03E17.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001175,
+                    "path": "Twin.Peaks.S03E17.480p.x264-mSD/Twin.Peaks.S03E17.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Twin.Peaks.S03E17.720p.HDTV.x264-W4F[eztv].mkv",
+            "size_total": 0.881328794,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.881328794,
+                    "path": "Twin.Peaks.S03E17.720p.HDTV.x264-W4F[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Twin.Peaks.S03E17.720p.HDTV.x264-W4F[rartv]-[rarbg.to]",
+            "size_total": 0.881334646,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E17.720p.HDTV.x264-W4F[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.881328794,
+                    "path": "Twin.Peaks.S03E17.720p.HDTV.x264-W4F[rarbg]/twin.peaks.s03e17.720p.hdtv.x264-w4f.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000005822,
+                    "path": "Twin.Peaks.S03E17.720p.HDTV.x264-W4F[rarbg]/twin.peaks.s03e17.720p.hdtv.x264-w4f.nfo"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.216294434,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001026146,
+                    "path": "Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001209109,
+                    "path": "Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001120297,
+                    "path": "Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001055291,
+                    "path": "Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.211882413,
+                    "path": "Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta/Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001178,
+                    "path": "Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta/Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[eztv].mkv",
+            "size_total": 1.262947296,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.262947296,
+                    "path": "Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[rartv]-[rarbg.to]",
+            "size_total": 1.262947376,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.262947296,
+                    "path": "Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[rarbg]/twin.peaks.s03e17.720p.web.h264-strife.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5e-8,
+                    "path": "Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[rarbg]/twin.peaks.s03e17.720p.web.h264-strife.nfo"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Twin.Peaks.S03E17.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.161996847,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000137463,
+                    "path": "Twin.Peaks.S03E17.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00025272,
+                    "path": "Twin.Peaks.S03E17.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000048806,
+                    "path": "Twin.Peaks.S03E17.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000298393,
+                    "path": "Twin.Peaks.S03E17.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.161258195,
+                    "path": "Twin.Peaks.S03E17.AAC.MP4-Mobile/Twin.Peaks.S03E17.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000127,
+                    "path": "Twin.Peaks.S03E17.AAC.MP4-Mobile/Twin.Peaks.S03E17.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Twin.Peaks.S03E17.HDTV.x264-W4F[eztv].mkv",
+            "size_total": 0.255447457,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.255447457,
+                    "path": "Twin.Peaks.S03E17.HDTV.x264-W4F[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Twin.Peaks.S03E17.HDTV.x264-W4F[rartv]-[rarbg.to]",
+            "size_total": 0.255453307,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E17.HDTV.x264-W4F[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.255447457,
+                    "path": "Twin.Peaks.S03E17.HDTV.x264-W4F[rarbg]/twin.peaks.s03e17.hdtv.x264-w4f.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00000582,
+                    "path": "Twin.Peaks.S03E17.HDTV.x264-W4F[rarbg]/twin.peaks.s03e17.hdtv.x264-w4f.nfo"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Twin.Peaks.S03E17.The.Return.Part.17.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 4.114663225,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E17.The.Return.Part.17.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 4.114663195,
+                    "path": "Twin.Peaks.S03E17.The.Return.Part.17.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Twin.Peaks.S03E17.The.Return.Part.17.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Twin.Peaks.S03E17.The.Return.Part.17.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.262947019,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E17.The.Return.Part.17.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.262946989,
+                    "path": "Twin.Peaks.S03E17.The.Return.Part.17.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Twin.Peaks.S03E17.The.Return.Part.17.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Twin.Peaks.S03E17.The.Return.Part.17.AMZN.WEB-DL.DDP2.0.H.264-BTW [IPT]",
+            "size_total": 0.523985098,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000695936,
+                    "path": "Twin.Peaks.S03E17.The.Return.Part.17.AMZN.WEB-DL.DDP2.0.H.264-BTW/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000755799,
+                    "path": "Twin.Peaks.S03E17.The.Return.Part.17.AMZN.WEB-DL.DDP2.0.H.264-BTW/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000754912,
+                    "path": "Twin.Peaks.S03E17.The.Return.Part.17.AMZN.WEB-DL.DDP2.0.H.264-BTW/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000697594,
+                    "path": "Twin.Peaks.S03E17.The.Return.Part.17.AMZN.WEB-DL.DDP2.0.H.264-BTW/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.521079499,
+                    "path": "Twin.Peaks.S03E17.The.Return.Part.17.AMZN.WEB-DL.DDP2.0.H.264-BTW/Twin.Peaks.S03E17.The.Return.Part.17.AMZN.WEB-DL.DDP2.0.H.264-BTW.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001358,
+                    "path": "Twin.Peaks.S03E17.The.Return.Part.17.AMZN.WEB-DL.DDP2.0.H.264-BTW/Twin.Peaks.S03E17.The.Return.Part.17.AMZN.WEB-DL.DDP2.0.H.264-BTW.nfo"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Twin.Peaks.S03E17.WEB.H264-STRiFE[eztv].mkv",
+            "size_total": 0.26426233,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.26426233,
+                    "path": "Twin.Peaks.S03E17.WEB.H264-STRiFE[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Twin.Peaks.S03E17.WEB.H264-STRiFE[rartv]-[rarbg.to]",
+            "size_total": 0.264262405,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E17.WEB.H264-STRiFE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.26426233,
+                    "path": "Twin.Peaks.S03E17.WEB.H264-STRiFE[rarbg]/twin.peaks.s03e17.web.h264-strife.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.5e-8,
+                    "path": "Twin.Peaks.S03E17.WEB.H264-STRiFE[rarbg]/twin.peaks.s03e17.web.h264-strife.nfo"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Twin.Peaks.S03E17.WEBRip.x264-RARBG-[rarbg.to]",
+            "size_total": 0.551502338,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E17.WEBRip.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000041143,
+                    "path": "Twin.Peaks.S03E17.WEBRip.x264-RARBG/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.551461165,
+                    "path": "Twin.Peaks.S03E17.WEBRip.x264-RARBG/Twin.Peaks.S03E17.WEBRip.x264-RARBG.mp4"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Twin.Peaks.S03E17.XviD-AFG [IPT]",
+            "size_total": 0.347309145,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000141668,
+                    "path": "Twin.Peaks.S03E17.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000236677,
+                    "path": "Twin.Peaks.S03E17.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000036939,
+                    "path": "Twin.Peaks.S03E17.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000299553,
+                    "path": "Twin.Peaks.S03E17.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.34659316,
+                    "path": "Twin.Peaks.S03E17.XviD-AFG/Twin.Peaks.S03E17.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001148,
+                    "path": "Twin.Peaks.S03E17.XviD-AFG/Twin.Peaks.S03E17.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Twin.Peaks.S03E18.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.709422073,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001350813,
+                    "path": "Twin.Peaks.S03E18.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000466082,
+                    "path": "Twin.Peaks.S03E18.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002647631,
+                    "path": "Twin.Peaks.S03E18.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001555143,
+                    "path": "Twin.Peaks.S03E18.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.703401199,
+                    "path": "Twin.Peaks.S03E18.1080p.HEVC.x265-MeGusta/Twin.Peaks.S03E18.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001205,
+                    "path": "Twin.Peaks.S03E18.1080p.HEVC.x265-MeGusta/Twin.Peaks.S03E18.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE [IPT]",
+            "size_total": 4.051736178,
+            "files_total": 84,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.1e-8,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r45"
+                },
+                {
+                    "number": 48,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r46"
+                },
+                {
+                    "number": 49,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r47"
+                },
+                {
+                    "number": 50,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r48"
+                },
+                {
+                    "number": 51,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r49"
+                },
+                {
+                    "number": 52,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r50"
+                },
+                {
+                    "number": 53,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r51"
+                },
+                {
+                    "number": 54,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r52"
+                },
+                {
+                    "number": 55,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r53"
+                },
+                {
+                    "number": 56,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r54"
+                },
+                {
+                    "number": 57,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r55"
+                },
+                {
+                    "number": 58,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r56"
+                },
+                {
+                    "number": 59,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r57"
+                },
+                {
+                    "number": 60,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r58"
+                },
+                {
+                    "number": 61,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r59"
+                },
+                {
+                    "number": 62,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r60"
+                },
+                {
+                    "number": 63,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r61"
+                },
+                {
+                    "number": 64,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r62"
+                },
+                {
+                    "number": 65,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r63"
+                },
+                {
+                    "number": 66,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r64"
+                },
+                {
+                    "number": 67,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r65"
+                },
+                {
+                    "number": 68,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r66"
+                },
+                {
+                    "number": 69,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r67"
+                },
+                {
+                    "number": 70,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r68"
+                },
+                {
+                    "number": 71,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r69"
+                },
+                {
+                    "number": 72,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r70"
+                },
+                {
+                    "number": 73,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r71"
+                },
+                {
+                    "number": 74,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r72"
+                },
+                {
+                    "number": 75,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r73"
+                },
+                {
+                    "number": 76,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r74"
+                },
+                {
+                    "number": 77,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r75"
+                },
+                {
+                    "number": 78,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r76"
+                },
+                {
+                    "number": 79,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r77"
+                },
+                {
+                    "number": 80,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r78"
+                },
+                {
+                    "number": 81,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r79"
+                },
+                {
+                    "number": 82,
+                    "size": 0.001731699,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.r80"
+                },
+                {
+                    "number": 83,
+                    "size": 0.05,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.rar"
+                },
+                {
+                    "number": 84,
+                    "size": 0.000004428,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE/twin.peaks.s03e18.1080p.web.h264-strife.sfv"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE[rartv]-[rarbg.to]",
+            "size_total": 4.051721284,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 4.051721203,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE[rarbg]/twin.peaks.s03e18.1080p.web.h264-strife.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.1e-8,
+                    "path": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE[rarbg]/twin.peaks.s03e18.1080p.web.h264-strife.nfo"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Twin.Peaks.S03E18.480p.x264-mSD [IPT]",
+            "size_total": 0.171962848,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000137979,
+                    "path": "Twin.Peaks.S03E18.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000033586,
+                    "path": "Twin.Peaks.S03E18.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00031794,
+                    "path": "Twin.Peaks.S03E18.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000157985,
+                    "path": "Twin.Peaks.S03E18.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.171314181,
+                    "path": "Twin.Peaks.S03E18.480p.x264-mSD/Twin.Peaks.S03E18.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001177,
+                    "path": "Twin.Peaks.S03E18.480p.x264-mSD/Twin.Peaks.S03E18.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Twin.Peaks.S03E18.720p.HDTV.x264-W4F[eztv].mkv",
+            "size_total": 0.810410497,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.810410497,
+                    "path": "Twin.Peaks.S03E18.720p.HDTV.x264-W4F[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Twin.Peaks.S03E18.720p.HDTV.x264-W4F[rartv]-[rarbg.to]",
+            "size_total": 0.810416349,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E18.720p.HDTV.x264-W4F[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.810410497,
+                    "path": "Twin.Peaks.S03E18.720p.HDTV.x264-W4F[rarbg]/twin.peaks.s03e18.720p.hdtv.x264-w4f.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000005822,
+                    "path": "Twin.Peaks.S03E18.720p.HDTV.x264-W4F[rarbg]/twin.peaks.s03e18.720p.hdtv.x264-w4f.nfo"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.220988052,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001025331,
+                    "path": "Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00026868,
+                    "path": "Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000893529,
+                    "path": "Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000239379,
+                    "path": "Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.218559955,
+                    "path": "Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta/Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001178,
+                    "path": "Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta/Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Twin.Peaks.S03E18.720p.WEB.H264-STRiFE[eztv].mkv",
+            "size_total": 1.2186567,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.2186567,
+                    "path": "Twin.Peaks.S03E18.720p.WEB.H264-STRiFE[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Twin.Peaks.S03E18.720p.WEB.H264-STRiFE[rartv]-[rarbg.to]",
+            "size_total": 1.218656779,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E18.720p.WEB.H264-STRiFE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.2186567,
+                    "path": "Twin.Peaks.S03E18.720p.WEB.H264-STRiFE[rarbg]/twin.peaks.s03e18.720p.web.h264-strife.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.9e-8,
+                    "path": "Twin.Peaks.S03E18.720p.WEB.H264-STRiFE[rarbg]/twin.peaks.s03e18.720p.web.h264-strife.nfo"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Twin.Peaks.S03E18.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.152278854,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000153643,
+                    "path": "Twin.Peaks.S03E18.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000036696,
+                    "path": "Twin.Peaks.S03E18.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000356026,
+                    "path": "Twin.Peaks.S03E18.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000183395,
+                    "path": "Twin.Peaks.S03E18.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.151547824,
+                    "path": "Twin.Peaks.S03E18.AAC.MP4-Mobile/Twin.Peaks.S03E18.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000127,
+                    "path": "Twin.Peaks.S03E18.AAC.MP4-Mobile/Twin.Peaks.S03E18.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Twin.Peaks.S03E18.HDTV.x264-W4F[eztv].mkv",
+            "size_total": 0.235690261,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.235690261,
+                    "path": "Twin.Peaks.S03E18.HDTV.x264-W4F[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "Twin.Peaks.S03E18.HDTV.x264-W4F[rartv]-[rarbg.to]",
+            "size_total": 0.235696111,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E18.HDTV.x264-W4F[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.235690261,
+                    "path": "Twin.Peaks.S03E18.HDTV.x264-W4F[rarbg]/twin.peaks.s03e18.hdtv.x264-w4f.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00000582,
+                    "path": "Twin.Peaks.S03E18.HDTV.x264-W4F[rarbg]/twin.peaks.s03e18.hdtv.x264-w4f.nfo"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "Twin.Peaks.S03E18.The.Return.Part.18.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 4.051721325,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E18.The.Return.Part.18.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 4.051721295,
+                    "path": "Twin.Peaks.S03E18.The.Return.Part.18.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Twin.Peaks.S03E18.The.Return.Part.18.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "name": "Twin.Peaks.S03E18.The.Return.Part.18.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.218656822,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E18.The.Return.Part.18.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.218656792,
+                    "path": "Twin.Peaks.S03E18.The.Return.Part.18.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Twin.Peaks.S03E18.The.Return.Part.18.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "name": "Twin.Peaks.S03E18.The.Return.Part.18.AMZN.WEB-DL.DDP2.0.H.264-BTW [IPT]",
+            "size_total": 0.506152628,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000678331,
+                    "path": "Twin.Peaks.S03E18.The.Return.Part.18.AMZN.WEB-DL.DDP2.0.H.264-BTW/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00032526,
+                    "path": "Twin.Peaks.S03E18.The.Return.Part.18.AMZN.WEB-DL.DDP2.0.H.264-BTW/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000647971,
+                    "path": "Twin.Peaks.S03E18.The.Return.Part.18.AMZN.WEB-DL.DDP2.0.H.264-BTW/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000276011,
+                    "path": "Twin.Peaks.S03E18.The.Return.Part.18.AMZN.WEB-DL.DDP2.0.H.264-BTW/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.504223696,
+                    "path": "Twin.Peaks.S03E18.The.Return.Part.18.AMZN.WEB-DL.DDP2.0.H.264-BTW/Twin.Peaks.S03E18.The.Return.Part.18.AMZN.WEB-DL.DDP2.0.H.264-BTW.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001359,
+                    "path": "Twin.Peaks.S03E18.The.Return.Part.18.AMZN.WEB-DL.DDP2.0.H.264-BTW/Twin.Peaks.S03E18.The.Return.Part.18.AMZN.WEB-DL.DDP2.0.H.264-BTW.nfo"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "name": "Twin.Peaks.S03E18.WEB.H264-STRiFE[eztv].mkv",
+            "size_total": 0.245450485,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.245450485,
+                    "path": "Twin.Peaks.S03E18.WEB.H264-STRiFE[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "name": "Twin.Peaks.S03E18.WEB.H264-STRiFE[rartv]-[rarbg.to]",
+            "size_total": 0.24545056,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E18.WEB.H264-STRiFE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.245450485,
+                    "path": "Twin.Peaks.S03E18.WEB.H264-STRiFE[rarbg]/twin.peaks.s03e18.web.h264-strife.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.5e-8,
+                    "path": "Twin.Peaks.S03E18.WEB.H264-STRiFE[rarbg]/twin.peaks.s03e18.web.h264-strife.nfo"
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "name": "Twin.Peaks.S03E18.WEBRip.x264-RARBG-[rarbg.to]",
+            "size_total": 0.5271669409999999,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Twin.Peaks.S03E18.WEBRip.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000020868,
+                    "path": "Twin.Peaks.S03E18.WEBRip.x264-RARBG/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.527146043,
+                    "path": "Twin.Peaks.S03E18.WEBRip.x264-RARBG/Twin.Peaks.S03E18.WEBRip.x264-RARBG.mp4"
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "name": "Twin.Peaks.S03E18.XviD-AFG [IPT]",
+            "size_total": 0.368376577,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000141728,
+                    "path": "Twin.Peaks.S03E18.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000037541,
+                    "path": "Twin.Peaks.S03E18.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000348039,
+                    "path": "Twin.Peaks.S03E18.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000162349,
+                    "path": "Twin.Peaks.S03E18.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.367685774,
+                    "path": "Twin.Peaks.S03E18.XviD-AFG/Twin.Peaks.S03E18.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001146,
+                    "path": "Twin.Peaks.S03E18.XviD-AFG/Twin.Peaks.S03E18.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "name": "双峰 Twin Peaks S03E17 720p 大家字幕组",
+            "size_total": 0.388544183,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.388544183,
+                    "path": "Twin.Peaks.S03E17.720p.x264.AAC.DJZMZ.mp4"
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "name": "双峰 Twin Peaks S03E18 720p 本季终 大家字幕组",
+            "size_total": 0.534830559,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.534830559,
+                    "path": "Twin.Peaks.S03E18.720p.x264.AAC.DJZMZ.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 41,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.WEB.H264-STRiFE[ettv]",
+            "btih": "165c9eb07c3eb52bbb446b51c010bb58e91eefe6",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.245450646,
+            "creation": "2017-09-04T00:16:07.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 46292,
+            "uuploaders": 21154
+        },
+        {
+            "id": 23,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.WEB.H264-STRiFE[ettv]",
+            "btih": "2ae30d8a6f91251ee69989b50b0d98fabd935461",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.264262491,
+            "creation": "2017-09-04T00:11:14.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37112,
+            "uuploaders": 16135
+        },
+        {
+            "id": 97,
+            "name": "multi-btih-6-2-x-[limetorrents.cc]Twin.Peaks.S03E18.720p.WEB.H264-STRiFE[eztv].mkv",
+            "btih": "26ce53b292d6d0deb376da6024c439070f66e417",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.2186567,
+            "creation": "2017-09-04T00:17:19.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17979,
+            "uuploaders": 11251
+        },
+        {
+            "id": 91,
+            "name": "multi-btih-0-2-x-[limetorrents.cc]Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[eztv].mkv",
+            "btih": "015694df41a23dd9a3d383f8cf58308818c09c93",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.262947296,
+            "creation": "2017-09-04T00:18:19.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17847,
+            "uuploaders": 10891
+        },
+        {
+            "id": 9,
+            "name": "[limetorrents.cc]Twin.Peaks.3x18..720p.WEB-h264-STRiFE.[VTV]",
+            "btih": "391339c6f8598b7e6efebeeb4ed34390758132d0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.2186567,
+            "creation": "2017-09-04T02:40:35.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15625,
+            "uuploaders": 8316
+        },
+        {
+            "id": 27,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.1080p.WEBRip.6CH.x265.HEVC-PSA",
+            "btih": "86cd6d574e12efb32e3f345c3b51e16de41b228b",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.661004216,
+            "creation": "2017-09-04T08:10:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14521,
+            "uuploaders": 7867
+        },
+        {
+            "id": 95,
+            "name": "multi-btih-4-2-x-[limetorrents.cc]Twin.Peaks.S03E17.WEB.H264-STRiFE[eztv].mkv",
+            "btih": "864410c58744b7d2f45c4db878a42069d79dad46",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.26426233,
+            "creation": "2017-09-04T00:13:07.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14311,
+            "uuploaders": 8600
+        },
+        {
+            "id": 99,
+            "name": "multi-btih-8-2-x-[limetorrents.cc]Twin.Peaks.S03E18.WEB.H264-STRiFE[eztv].mkv",
+            "btih": "f58aa46f48b1fb5f3e42d3dc031bb7ed204cabe9",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.245450485,
+            "creation": "2017-09-04T00:19:07.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14235,
+            "uuploaders": 8637
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.cc]Twin.Peaks.3x17..720p-WEB-h264-STRiFE.[VTV]",
+            "btih": "253b286524d3d40f1bccf0268c340f64117f23f7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.262947296,
+            "creation": "2017-09-04T02:08:12.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13458,
+            "uuploaders": 6875
+        },
+        {
+            "id": 63,
+            "name": "Twin.Peaks.S03E17.The.Return.Part.17.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "5767a7841cddac4ba2e027e5740d6c29994ed478",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.114663225,
+            "creation": "2017-09-04T00:21:10.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13191,
+            "uuploaders": 6330
+        },
+        {
+            "id": 82,
+            "name": "Twin.Peaks.S03E18.The.Return.Part.18.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "7960c3e6ee790e9c6635b9503c009eb73a24d0f1",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.051721325,
+            "creation": "2017-09-04T00:24:21.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12917,
+            "uuploaders": 6646
+        },
+        {
+            "id": 92,
+            "name": "multi-btih-1-2-x-[limetorrents.cc]Twin.Peaks.S03E17.720p.WEB.H264-STRiFE[rarbg]",
+            "btih": "17b7b07d796a28e6c693bd5bef23d7979e1afebf",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.262947376,
+            "creation": "2017-09-04T00:12:21.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12653,
+            "uuploaders": 7773
+        },
+        {
+            "id": 96,
+            "name": "multi-btih-5-2-x-[limetorrents.cc]Twin.Peaks.S03E17.WEBRip.x264-RARBG",
+            "btih": "fb1e455d6cf5f23cdbcb24eb4d6c9076e00cf8c3",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.551502338,
+            "creation": "2017-09-04T00:28:08.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11663,
+            "uuploaders": 6662
+        },
+        {
+            "id": 98,
+            "name": "multi-btih-7-2-x-[limetorrents.cc]Twin.Peaks.S03E18.The.Return.Part.18.720p.AMZN.WEBRip.DDP5.1.x264",
+            "btih": "f4bd5b23e49aa00e6c00699071b3be5bb333cc7c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.218656822,
+            "creation": "2017-09-04T00:45:31.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11447,
+            "uuploaders": 7059
+        },
+        {
+            "id": 47,
+            "name": "[rutor.is]Twin.Peaks.S03.WEBRip.1080p",
+            "btih": "8d072abb925af700f788d8a6b7ddb7d62b0a79da",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 94.609591383,
+            "creation": "2017-09-04T10:52:18.000000000Z,uTorrent/1850,http://rutor.is/torrent/568266",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11409,
+            "uuploaders": 6373
+        },
+        {
+            "id": 78,
+            "name": "Twin.Peaks.S03E18.720p.WEB.H264-STRiFE[rartv]-[rarbg.to]",
+            "btih": "54152ec5ac68c097ac16606d8f21ad5c6b2ddd30",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.218656779,
+            "creation": "2017-09-04T00:13:58.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11107,
+            "uuploaders": 5445
+        },
+        {
+            "id": 93,
+            "name": "multi-btih-2-2-x-[limetorrents.cc]Twin.Peaks.S03E17.The.Return.Part.17.720p.AMZN.WEBRip.DDP5.1.x264",
+            "btih": "036ba6541de32f0352cdfffc10ff084a999ea117",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.262947019,
+            "creation": "2017-09-04T00:42:26.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10821,
+            "uuploaders": 6653
+        },
+        {
+            "id": 87,
+            "name": "Twin.Peaks.S03E18.WEBRip.x264-RARBG-[rarbg.to]",
+            "btih": "9b31390b9973f28c645690b6c7c6b5925326e41b",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.5271669409999999,
+            "creation": "2017-09-04T00:28:35.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10546,
+            "uuploaders": 4657
+        },
+        {
+            "id": 34,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.720p.WEB.H264-STRiFE[ettv]",
+            "btih": "253928c33e891eeaca482296e1d705a400eeb7ed",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.218656847,
+            "creation": "2017-09-04T00:16:09.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8555,
+            "uuploaders": 4381
+        },
+        {
+            "id": 94,
+            "name": "multi-btih-3-2-x-[limetorrents.cc]Twin.Peaks.S03E17.WEB.H264-STRiFE.[rarbg]",
+            "btih": "85c93a04a9356273538c80903da0d0b8d11dbbb0",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.264262405,
+            "creation": "2017-09-04T00:10:42.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8123,
+            "uuploaders": 4521
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.1080p.WEBRip.6CH.x265.HEVC-PSA",
+            "btih": "2406adc64092f90121376fed8c91b6e2f87ff1b6",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.654978234,
+            "creation": "2017-09-04T08:16:24.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7053,
+            "uuploaders": 2303
+        },
+        {
+            "id": 86,
+            "name": "Twin.Peaks.S03E18.WEB.H264-STRiFE[rartv]-[rarbg.to]",
+            "btih": "33a985329ebf494bb8519bef25f5fcbb101eefc2",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.24545056,
+            "creation": "2017-09-04T00:14:44.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6344,
+            "uuploaders": 2990
+        },
+        {
+            "id": 80,
+            "name": "Twin.Peaks.S03E18.HDTV.x264-W4F[eztv].mkv",
+            "btih": "78e5206be9baf9b7c3fc0f9374075267b9c96765",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.235690261,
+            "creation": "2017-09-04T16:50:07.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6281,
+            "uuploaders": 3272
+        },
+        {
+            "id": 61,
+            "name": "Twin.Peaks.S03E17.HDTV.x264-W4F[eztv].mkv",
+            "btih": "dca381bb7da9acc6946d8a75b7a8e37c6a2180e5",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.255447457,
+            "creation": "2017-09-04T16:46:07.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5897,
+            "uuploaders": 3107
+        },
+        {
+            "id": 53,
+            "name": "Twin.Peaks.S03E17.1080p.WEB.H264-STRiFE[rartv]-[rarbg.to]",
+            "btih": "4892d1c3ccba0d3722099f309933e8f337eb498d",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.114663583,
+            "creation": "2017-09-04T00:14:36.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5458,
+            "uuploaders": 2762
+        },
+        {
+            "id": 72,
+            "name": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE[rartv]-[rarbg.to]",
+            "btih": "d19bc3662b9b4a2bfacce1fb529a800cfa1d4c82",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.051721284,
+            "creation": "2017-09-04T00:18:40.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4950,
+            "uuploaders": 2570
+        },
+        {
+            "id": 33,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta",
+            "btih": "f4029cef70d1dcd3dc537a9a082d131133a93177",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.220988136,
+            "creation": "2017-09-04T00:50:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4806,
+            "uuploaders": 2387
+        },
+        {
+            "id": 74,
+            "name": "Twin.Peaks.S03E18.720p.HDTV.x264-W4F[eztv].mkv",
+            "btih": "5eb2d5421f912192585af60612556d3a324c2d90",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.810410497,
+            "creation": "2017-09-04T16:52:15.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4738,
+            "uuploaders": 2608
+        },
+        {
+            "id": 26,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.XviD-AFG",
+            "btih": "d84dd6382f42af1ffa26255785697fb5e475e7a5",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.347309229,
+            "creation": "2017-09-04T00:20:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4481,
+            "uuploaders": 2334
+        },
+        {
+            "id": 75,
+            "name": "Twin.Peaks.S03E18.720p.HDTV.x264-W4F[rartv]-[rarbg.to]",
+            "btih": "09d7905310401b55221f7967406f5ef736118850",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.810416349,
+            "creation": "2017-09-04T16:48:45.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4423,
+            "uuploaders": 2286
+        },
+        {
+            "id": 55,
+            "name": "Twin.Peaks.S03E17.720p.HDTV.x264-W4F[eztv].mkv",
+            "btih": "ea486b94183bcb144b1a0f56d23833bdaebc6ef1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.881328794,
+            "creation": "2017-09-04T16:50:16.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4236,
+            "uuploaders": 2270
+        },
+        {
+            "id": 15,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta",
+            "btih": "22701ad28a5f8491f868d89cf7e5018453c49420",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.216294518,
+            "creation": "2017-09-04T00:50:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4188,
+            "uuploaders": 1981
+        },
+        {
+            "id": 51,
+            "name": "Twin.Peaks-S03-2017-rutracker.org",
+            "btih": "5c3e15c740e70477127fe3f7bc5a94cf2bdb07fe",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 86.411623819,
+            "creation": "2017-08-29T03:37:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3825,
+            "uuploaders": 1688
+        },
+        {
+            "id": 56,
+            "name": "Twin.Peaks.S03E17.720p.HDTV.x264-W4F[rartv]-[rarbg.to]",
+            "btih": "dda884cfb30243ea43c9133f878f81a2f1788833",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.881334646,
+            "creation": "2017-09-04T16:45:49.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3697,
+            "uuploaders": 1863
+        },
+        {
+            "id": 44,
+            "name": "[limetorrents.cc]Twin.Peaks.Season.3.Complete.720p.HDTV.x264.[i_c]",
+            "btih": "6c452d6cd746dc932ed0e00133cb59d30dccdf4d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 11.767207778,
+            "creation": "2017-09-05T07:25:06.000000000Z,uTorrent/2210,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3646,
+            "uuploaders": 1944
+        },
+        {
+            "id": 43,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.XviD-AFG",
+            "btih": "b5de8b41aaee84d90ebbe903c3f73f1cd3f36a05",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.368376661,
+            "creation": "2017-09-04T00:26:26.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3423,
+            "uuploaders": 1250
+        },
+        {
+            "id": 46,
+            "name": "[rutor.is]Twin.Peaks.S03.720p.SunshineStudio",
+            "btih": "f05261006a2062c07aea1a162396ae8014ed4c82",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 17.870439904,
+            "creation": "2017-09-04T15:30:40.000000000Z,uTorrent/2210,http://rutor.is/torrent/584942",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3158,
+            "uuploaders": 1468
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.cc]Twin.Peaks.S03.1080p.10bit.AMZN.WEBRip.x265.HEVC.6CH-MRN",
+            "btih": "acecd763048a7fbfd32c2ef0e40cb1aad5b69233",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 12.364131717,
+            "creation": "2017-09-04T22:27:01.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2736,
+            "uuploaders": 1375
+        },
+        {
+            "id": 1,
+            "name": "[limetorrents.cc]Twin.Peaks.-.Season.3.-.Mp4.x264.AC3.720p",
+            "btih": "b48a46fb3e1263f2db4251c0c33d806e9cdec763",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 18.743962025,
+            "creation": "2017-09-04T08:27:58.000000000Z,qBittorrent v3.3.15,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2620,
+            "uuploaders": 1396
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.cc]Twin.Peaks.2017.HDTV.1080p.S03.E18.[SWESUB]",
+            "btih": "0f8fdb8f4eeac6ca138d2c441c6b72dd62f3a462",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.679630102,
+            "creation": "2017-09-05T10:20:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2606,
+            "uuploaders": 1257
+        },
+        {
+            "id": 19,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.The.Return.Part.17.720p.AMZN.WEB-DL.460MB.-.Mkv",
+            "btih": "204eadf67d7fedb26cb20f0478425d4f9ea57411",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.484016348,
+            "creation": "2017-09-04T01:48:31.000000000Z,uTorrent/2210,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2510,
+            "uuploaders": 1162
+        },
+        {
+            "id": 38,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.The.Return.Part.18.720p.AMZN.WEB-DL.445MB.-.Mkv",
+            "btih": "03339e6f6c21eb3d6f182702818e952cde487b81",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.467326183,
+            "creation": "2017-09-04T02:13:20.000000000Z,uTorrent/2210,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2365,
+            "uuploaders": 1201
+        },
+        {
+            "id": 36,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.720p.WEBRip.2CH.x265.HEVC-PSA",
+            "btih": "5b712a1ce3495c37e89e3bfa407be3748c71594c",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.241683027,
+            "creation": "2017-09-04T08:10:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2353,
+            "uuploaders": 1212
+        },
+        {
+            "id": 81,
+            "name": "Twin.Peaks.S03E18.HDTV.x264-W4F[rartv]-[rarbg.to]",
+            "btih": "8c12d05e74adf9242982fe8c41df5bdece1e2f1f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.235696111,
+            "creation": "2017-09-04T16:46:08.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2330,
+            "uuploaders": 1172
+        },
+        {
+            "id": 2,
+            "name": "[limetorrents.cc]Twin.Peaks.2017.HDTV.1080p.S03.E17.[SWESUB]",
+            "btih": "5bebb0759bfbd291a1a52ea385cfa6b06716ca32",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.679991768,
+            "creation": "2017-09-05T10:20:49.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2224,
+            "uuploaders": 762
+        },
+        {
+            "id": 62,
+            "name": "Twin.Peaks.S03E17.HDTV.x264-W4F[rartv]-[rarbg.to]",
+            "btih": "9b2825f14164e0bf09eb1523eef8741e5abf7677",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.255453307,
+            "creation": "2017-09-04T16:43:21.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2093,
+            "uuploaders": 1019
+        },
+        {
+            "id": 90,
+            "name": "双峰 Twin Peaks S03E18 720p 本季终 大家字幕组",
+            "btih": "225c5f07dbd1cd97b7d1b31547f5b1d259a9b706",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.534830559,
+            "creation": "2017-09-04T10:54:21.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1608,
+            "uuploaders": 607
+        },
+        {
+            "id": 18,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.720p.WEBRip.2CH.x265.HEVC-PSA",
+            "btih": "34fc1322677705ffd552f5f66b4e8dae01b77618",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.241884849,
+            "creation": "2017-09-04T08:16:16.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1387,
+            "uuploaders": 455
+        },
+        {
+            "id": 45,
+            "name": "[rutor.is]Tvin_Piks_3_sezon_Am_scarabey.org",
+            "btih": "89421876d1e6fb9671c5fb7cc1e6dcc2da369ed2",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 13.724143616,
+            "creation": "2017-08-31T20:19:17.000000000Z,uTorrent/2210,http://rutor.is/torrent/569010",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1322,
+            "uuploaders": 685
+        },
+        {
+            "id": 37,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.HDTV.x264-W4F",
+            "btih": "9619268dc1acd9ae1207775dab47c0fa55a2beb2",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.236618609,
+            "creation": "2017-09-04T16:50:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1213,
+            "uuploaders": 628
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.cc]Twin.Peaks.2017.HDTV.x264.EP18.[By.ExYu-Subs.HC]",
+            "btih": "977a0be74fe7c380b53e5ef649cf2f5e9fa926ab",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.679400753,
+            "creation": "2017-09-05T11:20:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1131,
+            "uuploaders": 552
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.cc]Twin.Peaks.2017.HDTV.x264.EP17.[By.ExYu-Subs.HC]",
+            "btih": "047a1f1410b3fee6ce267e846a2f04aa7f25f280",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.679469143,
+            "creation": "2017-09-05T11:20:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1055,
+            "uuploaders": 487
+        },
+        {
+            "id": 14,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.480p.x264-mSD",
+            "btih": "0d480e8d878ea8b9f60663e877342952baf819fa",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.183092461,
+            "creation": "2017-09-04T00:26:29.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1010,
+            "uuploaders": 289
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.cc]Twin.Peaks.2017.HDTV.x264.EP16.[By.ExYu-Subs.HC]",
+            "btih": "063ed24add2e7133f961e9213827dbe25f33dceb",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.679312436,
+            "creation": "2017-09-05T11:20:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 961,
+            "uuploaders": 484
+        },
+        {
+            "id": 89,
+            "name": "双峰 Twin Peaks S03E17 720p 大家字幕组",
+            "btih": "430e606b5e2dd3714f7e7e7cede742a0bc6eb48d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.388544183,
+            "creation": "2017-09-04T11:48:09.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 947,
+            "uuploaders": 329
+        },
+        {
+            "id": 71,
+            "name": "Twin.Peaks.S03E18.1080p.WEB.H264-STRiFE [IPT]",
+            "btih": "11ddccb64750ddd386d54bdddc803f4ed490fc02",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.051736178,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 908,
+            "uuploaders": 419
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.cc]Twin.Peaks.2017.HDTV.x264.EP15.[By.ExYu-Subs.HC]",
+            "btih": "a8252476020a3fc80db70ec4cfbb8b0cbeb7629a",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.679626624,
+            "creation": "2017-09-05T11:20:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 853,
+            "uuploaders": 386
+        },
+        {
+            "id": 40,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.WEB.H264-STRiFE",
+            "btih": "4f65d3f75e2c4e7be8a363ed5a6c249b1af1620a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.24663448600000001,
+            "creation": "2017-09-04T00:20:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 841,
+            "uuploaders": 421
+        },
+        {
+            "id": 49,
+            "name": "[rutor.is]Twin_Peaks_S03_2017_WEBRip_Gears_Media",
+            "btih": "efd573659d2c690d339e4db73c8ca60928247a03",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 10.437055974,
+            "creation": "2017-08-30T18:39:33.000000000Z,BitTorrent/7.10,http://rutor.is/torrent/568567",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 815,
+            "uuploaders": 385
+        },
+        {
+            "id": 52,
+            "name": "Twin.Peaks.S03E17.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "4d6433d93c17ef9aa012fcf6326058dafd77c0af",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.714513146,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 675,
+            "uuploaders": 343
+        },
+        {
+            "id": 48,
+            "name": "[rutor.is]Twin_Peaks_S03_2017_720p_WEBRip_Gears_Media",
+            "btih": "ce5094d807b13b89063558c9a5f082ef72b9aeda",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 31.484572282,
+            "creation": "2017-08-30T17:25:14.000000000Z,BitTorrent/7.10,http://rutor.is/torrent/568532",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 654,
+            "uuploaders": 310
+        },
+        {
+            "id": 30,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.2017.HDTV.x264.-.SiMPLE",
+            "btih": "87f4218e255fa7ae6bc788667bf979a170766be0",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.342105949,
+            "creation": "2017-09-04T05:07:14.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 651,
+            "uuploaders": 287
+        },
+        {
+            "id": 32,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.480p.x264-mSD",
+            "btih": "812c1ed2135ba6b3f35dd7723ec48cb77902813b",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.171962932,
+            "creation": "2017-09-04T00:26:17.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 650,
+            "uuploaders": 225
+        },
+        {
+            "id": 57,
+            "name": "Twin.Peaks.S03E17.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "9cdadf87587b584186b2a05bde4f08abc985749b",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.216294434,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 619,
+            "uuploaders": 249
+        },
+        {
+            "id": 76,
+            "name": "Twin.Peaks.S03E18.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "508bcaebc3fdcf36543e97f66c8322ab3520c00f",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.220988052,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 605,
+            "uuploaders": 241
+        },
+        {
+            "id": 28,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.2017.HDTV.x264.-.P2P",
+            "btih": "8f6af7adbe6843a0f5700a862ed710d88a7a597b",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.342105949,
+            "creation": "2017-09-03T22:16:36.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 568,
+            "uuploaders": 156
+        },
+        {
+            "id": 22,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.WEB.H264-STRiFE",
+            "btih": "1b6f28d6ad4b6ff0323c97d2b55eb13c5902ef54",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.266157019,
+            "creation": "2017-09-04T00:16:36.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 566,
+            "uuploaders": 230
+        },
+        {
+            "id": 69,
+            "name": "Twin.Peaks.S03E17.XviD-AFG [IPT]",
+            "btih": "1e165b38cc4a8fc99f5e7b6e70d5c6a3a3434ea3",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.347309145,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 538,
+            "uuploaders": 339
+        },
+        {
+            "id": 70,
+            "name": "Twin.Peaks.S03E18.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "07bc2a4703639a5803ded4424debfebd7327283d",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.709422073,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 529,
+            "uuploaders": 263
+        },
+        {
+            "id": 88,
+            "name": "Twin.Peaks.S03E18.XviD-AFG [IPT]",
+            "btih": "baa255a0f27ad4470dedd533b53487c1b082059c",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.368376577,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 517,
+            "uuploaders": 336
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.2017.HDTV.x264.-.P2P",
+            "btih": "0569410e1b76b14e5269ef9f617e4e9ad614eb56",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.342105948,
+            "creation": "2017-09-03T21:58:38.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 476,
+            "uuploaders": 122
+        },
+        {
+            "id": 13,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E17.2017.HDTV.x264.-.RARBG",
+            "btih": "1708be4c07a228fe207c8c745db8202b56d5a9c1",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.342105949,
+            "creation": "2017-09-04T00:06:24.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 405,
+            "uuploaders": 77
+        },
+        {
+            "id": 29,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.2017.HDTV.x264.-.RARBG",
+            "btih": "6932909a80bdc88cbe2b1496df6f64e6b9f33ec4",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.342105949,
+            "creation": "2017-09-04T00:06:23.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 295,
+            "uuploaders": 54
+        },
+        {
+            "id": 31,
+            "name": "[limetorrents.cc]Twin.Peaks.S03E18.2017.HDTV.x264.-.SiNNERS",
+            "btih": "c62a1b0560be1724c72bf84fae91bb1ac2b8b0e7",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.342105949,
+            "creation": "2017-09-04T06:36:31.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 293,
+            "uuploaders": 50
+        },
+        {
+            "id": 73,
+            "name": "Twin.Peaks.S03E18.480p.x264-mSD [IPT]",
+            "btih": "4d4f66137a04ab937f7ead44446324c40c05f7e2",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.171962848,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 169,
+            "uuploaders": 86
+        },
+        {
+            "id": 54,
+            "name": "Twin.Peaks.S03E17.480p.x264-mSD [IPT]",
+            "btih": "d274203f3661e9839490497d4d36ec290e21cfd7",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.183092377,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 149,
+            "uuploaders": 83
+        },
+        {
+            "id": 60,
+            "name": "Twin.Peaks.S03E17.AAC.MP4-Mobile [IPT]",
+            "btih": "ebfa7a9a44e3c8c00d9aa541b1291154a57bef51",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.161996847,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 106,
+            "uuploaders": 58
+        },
+        {
+            "id": 79,
+            "name": "Twin.Peaks.S03E18.AAC.MP4-Mobile [IPT]",
+            "btih": "659e57fc2cb6f8165e010fff9d57417695f5e203",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.152278854,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 89,
+            "uuploaders": 41
+        },
+        {
+            "id": 65,
+            "name": "Twin.Peaks.S03E17.The.Return.Part.17.AMZN.WEB-DL.DDP2.0.H.264-BTW [IPT]",
+            "btih": "ebe511744e1d28d42ddc6ef07a22c1400f4f5658",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.523985098,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 69,
+            "uuploaders": 43
+        },
+        {
+            "id": 84,
+            "name": "Twin.Peaks.S03E18.The.Return.Part.18.AMZN.WEB-DL.DDP2.0.H.264-BTW [IPT]",
+            "btih": "c37e6ce9a013109f4109cb194b7c78c23713bfa4",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.506152628,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 56,
+            "uuploaders": 36
+        }
+    ]
+}
