@@ -1,0 +1,2224 @@
+{
+    "collection_name": "The Handmaid's Tale",
+    "collection_id": "101, 102, 103",
+    "collection_key": "handmaids-tale-101",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[req] Margaret Atwood - The Handmaid's Tale (epub mobi) [IPT]",
+            "size_total": 0.000721609,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000424994,
+                    "path": "[req] Margaret Atwood - The Handmaid's Tale (epub mobi)/The Handmaid's Tale - Margaret Atwood.mobi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000296615,
+                    "path": "[req] Margaret Atwood - The Handmaid's Tale (epub mobi)/The Handmaid's Tale - Margaret Atwood.epub"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Margaret Atwood - The Handmaid's Tale [IPT]",
+            "size_total": 0.299325199,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.03767969,
+                    "path": "Margaret Atwood - The Handmaid's Tale/Margaret Atwood - The Handmaid's Tale 7 (9).mp3"
+                },
+                {
+                    "number": 2,
+                    "size": 0.034225467,
+                    "path": "Margaret Atwood - The Handmaid's Tale/Margaret Atwood - The Handmaid's Tale 8 (9).mp3"
+                },
+                {
+                    "number": 3,
+                    "size": 0.037222861,
+                    "path": "Margaret Atwood - The Handmaid's Tale/Margaret Atwood - The Handmaid's Tale 9 (9).mp3"
+                },
+                {
+                    "number": 4,
+                    "size": 0.033273983,
+                    "path": "Margaret Atwood - The Handmaid's Tale/Margaret Atwood - The Handmaid's Tale 6 (9).mp3"
+                },
+                {
+                    "number": 5,
+                    "size": 0.027739785,
+                    "path": "Margaret Atwood - The Handmaid's Tale/Margaret Atwood - The Handmaid's Tale 5 (9).mp3"
+                },
+                {
+                    "number": 6,
+                    "size": 0.029816833,
+                    "path": "Margaret Atwood - The Handmaid's Tale/Margaret Atwood - The Handmaid's Tale 2 (9).mp3"
+                },
+                {
+                    "number": 7,
+                    "size": 0.03222992,
+                    "path": "Margaret Atwood - The Handmaid's Tale/Margaret Atwood - The Handmaid's Tale 3 (9).mp3"
+                },
+                {
+                    "number": 8,
+                    "size": 0.033849094,
+                    "path": "Margaret Atwood - The Handmaid's Tale/Margaret Atwood - The Handmaid's Tale 4 (9).mp3"
+                },
+                {
+                    "number": 9,
+                    "size": 0.033287566,
+                    "path": "Margaret Atwood - The Handmaid's Tale/Margaret Atwood - The Handmaid's Tale 1 (9).mp3"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "The Handmaids Tale S01E01 WEBRip x264-RMTeam [IPT]",
+            "size_total": 0.223237595,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000528355,
+                    "path": "The Handmaids Tale S01E01 WEBRip x264-RMTeam/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000409198,
+                    "path": "The Handmaids Tale S01E01 WEBRip x264-RMTeam/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000390293,
+                    "path": "The Handmaids Tale S01E01 WEBRip x264-RMTeam/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000432513,
+                    "path": "The Handmaids Tale S01E01 WEBRip x264-RMTeam/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.221475836,
+                    "path": "The Handmaids Tale S01E01 WEBRip x264-RMTeam/The Handmaids Tale S01E01 WEBRip x264-RMTeam.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.0000014,
+                    "path": "The Handmaids Tale S01E01 WEBRip x264-RMTeam/The Handmaids Tale S01E01 WEBRip x264-RMTeam.nfo"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "The Handmaids Tale S01E01 WEBRip x264-RMTeam",
+            "size_total": 0.221475836,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.221475836,
+                    "path": "The Handmaids Tale S01E01 WEBRip x264-RMTeam.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "The Handmaids Tale S01E01-E03 720p WEBRip HEVC x265-RMTeam",
+            "size_total": 0.61278658,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.23703987,
+                    "path": "The Handmaids Tale S01E01-E03 720p WEBRip HEVC x265-RMTeam/the.handmaids.tale.s01e01.offred.720p.webrip.hevc.x265.rmteam.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.185953026,
+                    "path": "The Handmaids Tale S01E01-E03 720p WEBRip HEVC x265-RMTeam/the.handmaids.tale.s01e02.birth.day.720p.webrip.hevc.x265.rmteam.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.189793684,
+                    "path": "The Handmaids Tale S01E01-E03 720p WEBRip HEVC x265-RMTeam/the.handmaids.tale.s01e03.late.720p.webrip.hevc.x265.rmteam.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "The Handmaids Tale S01E02 WEBRip x264-RMTeam [IPT]",
+            "size_total": 0.176652139,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000083836,
+                    "path": "The Handmaids Tale S01E02 WEBRip x264-RMTeam/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000316585,
+                    "path": "The Handmaids Tale S01E02 WEBRip x264-RMTeam/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000597413,
+                    "path": "The Handmaids Tale S01E02 WEBRip x264-RMTeam/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000756753,
+                    "path": "The Handmaids Tale S01E02 WEBRip x264-RMTeam/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.17489615,
+                    "path": "The Handmaids Tale S01E02 WEBRip x264-RMTeam/The Handmaids Tale S01E02 WEBRip x264-RMTeam.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001402,
+                    "path": "The Handmaids Tale S01E02 WEBRip x264-RMTeam/The Handmaids Tale S01E02 WEBRip x264-RMTeam.nfo"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "The Handmaids Tale S01E02 WEBRip x264-RMTeam",
+            "size_total": 0.17489615,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.17489615,
+                    "path": "The Handmaids Tale S01E02 WEBRip x264-RMTeam.mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "The Handmaids Tale S01E03 WEBRip x264-RMTeam [IPT]",
+            "size_total": 0.180392485,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000189977,
+                    "path": "The Handmaids Tale S01E03 WEBRip x264-RMTeam/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000213742,
+                    "path": "The Handmaids Tale S01E03 WEBRip x264-RMTeam/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000447745,
+                    "path": "The Handmaids Tale S01E03 WEBRip x264-RMTeam/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000477928,
+                    "path": "The Handmaids Tale S01E03 WEBRip x264-RMTeam/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.179061692,
+                    "path": "The Handmaids Tale S01E03 WEBRip x264-RMTeam/The Handmaids Tale S01E03 WEBRip x264-RMTeam.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001401,
+                    "path": "The Handmaids Tale S01E03 WEBRip x264-RMTeam/The Handmaids Tale S01E03 WEBRip x264-RMTeam.nfo"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "The Handmaids Tale S01E03 WEBRip x264-RMTeam",
+            "size_total": 0.179061692,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.179061692,
+                    "path": "The Handmaids Tale S01E03 WEBRip x264-RMTeam.mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "The.Handmaids.Tale.S01E01.1080p.WEBRip.[By ExYu-Subs HC]",
+            "size_total": 0.679783578,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.679783578,
+                    "path": "The.Handmaids.Tale.S01E01.1080p.WEBRip.[By ExYu-Subs HC].mp4"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "The.Handmaids.Tale.S01E01.480p.x264-mSD [IPT]",
+            "size_total": 0.234861009,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000120568,
+                    "path": "The.Handmaids.Tale.S01E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000091804,
+                    "path": "The.Handmaids.Tale.S01E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000110141,
+                    "path": "The.Handmaids.Tale.S01E01.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000165678,
+                    "path": "The.Handmaids.Tale.S01E01.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.234371629,
+                    "path": "The.Handmaids.Tale.S01E01.480p.x264-mSD/The.Handmaids.Tale.S01E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001189,
+                    "path": "The.Handmaids.Tale.S01E01.480p.x264-mSD/The.Handmaids.Tale.S01E01.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "The.Handmaids.Tale.S01E01.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.294357938,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00093278,
+                    "path": "The.Handmaids.Tale.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000783869,
+                    "path": "The.Handmaids.Tale.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000636828,
+                    "path": "The.Handmaids.Tale.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000614519,
+                    "path": "The.Handmaids.Tale.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.29138875,
+                    "path": "The.Handmaids.Tale.S01E01.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S01E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001192,
+                    "path": "The.Handmaids.Tale.S01E01.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S01E01.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE [IPT]",
+            "size_total": 1.033549906,
+            "files_total": 23,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.44e-7,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.033548118,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.rar"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000001344,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e01.720p.webrip.x264-morose.sfv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "size_total": 1.033545967,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.033545493,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE[rarbg]/the.handmaids.tale.s01e01.720p.webrip.x264-morose.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.44e-7,
+                    "path": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE[rarbg]/the.handmaids.tale.s01e01.720p.webrip.x264-morose.nfo"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "The.Handmaids.Tale.S01E01.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.186236027,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000118286,
+                    "path": "The.Handmaids.Tale.S01E01.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000092399,
+                    "path": "The.Handmaids.Tale.S01E01.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000113553,
+                    "path": "The.Handmaids.Tale.S01E01.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000167247,
+                    "path": "The.Handmaids.Tale.S01E01.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.185743255,
+                    "path": "The.Handmaids.Tale.S01E01.AAC.MP4-Mobile/The.Handmaids.Tale.S01E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001287,
+                    "path": "The.Handmaids.Tale.S01E01.AAC.MP4-Mobile/The.Handmaids.Tale.S01E01.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "The.Handmaids.Tale.S01E01.Offred.1080p.HULU.WEBRip.DDP5.1.H264-NTb[rartv]-[rarbg.to]",
+            "size_total": 2.411156971,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S01E01.Offred.1080p.HULU.WEBRip.DDP5.1.H264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.411156941,
+                    "path": "The.Handmaids.Tale.S01E01.Offred.1080p.HULU.WEBRip.DDP5.1.H264-NTb[rarbg]/The.Handmaid's.Tale.S01E01.Offred.1080p.HULU.WEBRip.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "The.Handmaids.Tale.S01E01.Offred.1080p.HULU.WEBRip.DDP5.1.HEVC.x265",
+            "size_total": 1.135902372,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.135902372,
+                    "path": "The.Handmaids.Tale.S01E01.Offred.1080p.HULU.WEBRip.DDP5.1.HEVC.x265.mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "The.Handmaids.Tale.S01E01.Offred.720p.HULU.WEBRip.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 0.913594299,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000973535,
+                    "path": "The.Handmaids.Tale.S01E01.Offred.720p.HULU.WEBRip.DDP5.1.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000690852,
+                    "path": "The.Handmaids.Tale.S01E01.Offred.720p.HULU.WEBRip.DDP5.1.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000782248,
+                    "path": "The.Handmaids.Tale.S01E01.Offred.720p.HULU.WEBRip.DDP5.1.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000799298,
+                    "path": "The.Handmaids.Tale.S01E01.Offred.720p.HULU.WEBRip.DDP5.1.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.910346941,
+                    "path": "The.Handmaids.Tale.S01E01.Offred.720p.HULU.WEBRip.DDP5.1.H.264-NTb/The.Handmaids.Tale.S01E01.Offred.720p.HULU.WEBRip.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001425,
+                    "path": "The.Handmaids.Tale.S01E01.Offred.720p.HULU.WEBRip.DDP5.1.H.264-NTb/The.Handmaids.Tale.S01E01.Offred.720p.HULU.WEBRip.DDP5.1.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "The.Handmaids.Tale.S01E01.Offred.HULU.WEBRip.AAC2.0.H.264-NTb [IPT]",
+            "size_total": 0.238158989,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000353792,
+                    "path": "The.Handmaids.Tale.S01E01.Offred.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000307047,
+                    "path": "The.Handmaids.Tale.S01E01.Offred.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000263508,
+                    "path": "The.Handmaids.Tale.S01E01.Offred.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000282472,
+                    "path": "The.Handmaids.Tale.S01E01.Offred.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.23695061,
+                    "path": "The.Handmaids.Tale.S01E01.Offred.HULU.WEBRip.AAC2.0.H.264-NTb/The.Handmaids.Tale.S01E01.Offred.HULU.WEBRip.AAC2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000156,
+                    "path": "The.Handmaids.Tale.S01E01.Offred.HULU.WEBRip.AAC2.0.H.264-NTb/The.Handmaids.Tale.S01E01.Offred.HULU.WEBRip.AAC2.0.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "The.Handmaids.Tale.S01E01.WEBRip.x264-RARBG-[rarbg.to]",
+            "size_total": 0.520841531,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Handmaids.Tale.S01E01.WEBRip.x264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S01E01.WEBRip.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000044644,
+                    "path": "The.Handmaids.Tale.S01E01.WEBRip.x264-RARBG/Subs/1_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.519775865,
+                    "path": "The.Handmaids.Tale.S01E01.WEBRip.x264-RARBG/The.Handmaids.Tale.S01E01.WEBRip.x264-RARBG.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000004228,
+                    "path": "The.Handmaids.Tale.S01E01.WEBRip.x264-RARBG/The.Handmaids.Tale.S01E01.WEBRip.x264-RARBG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "The.Handmaids.Tale.S01E01.XviD-AFG [IPT]",
+            "size_total": 0.444630192,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000116337,
+                    "path": "The.Handmaids.Tale.S01E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000085029,
+                    "path": "The.Handmaids.Tale.S01E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000110274,
+                    "path": "The.Handmaids.Tale.S01E01.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000146602,
+                    "path": "The.Handmaids.Tale.S01E01.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.444170786,
+                    "path": "The.Handmaids.Tale.S01E01.XviD-AFG/The.Handmaids.Tale.S01E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001164,
+                    "path": "The.Handmaids.Tale.S01E01.XviD-AFG/The.Handmaids.Tale.S01E01.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "The.Handmaids.Tale.S01E02.1080p.WEBRip.[By ExYu-Subs HC]",
+            "size_total": 0.679587448,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.679587448,
+                    "path": "The.Handmaids.Tale.S01E02.1080p.WEBRip.[By ExYu-Subs HC].mp4"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "The.Handmaids.Tale.S01E02.480p.x264-mSD [IPT]",
+            "size_total": 0.18423323,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000379604,
+                    "path": "The.Handmaids.Tale.S01E02.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000163091,
+                    "path": "The.Handmaids.Tale.S01E02.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000164558,
+                    "path": "The.Handmaids.Tale.S01E02.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000099408,
+                    "path": "The.Handmaids.Tale.S01E02.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.18342538,
+                    "path": "The.Handmaids.Tale.S01E02.480p.x264-mSD/The.Handmaids.Tale.S01E02.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001189,
+                    "path": "The.Handmaids.Tale.S01E02.480p.x264-mSD/The.Handmaids.Tale.S01E02.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "The.Handmaids.Tale.S01E02.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.227806952,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000109794,
+                    "path": "The.Handmaids.Tale.S01E02.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000494695,
+                    "path": "The.Handmaids.Tale.S01E02.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001025041,
+                    "path": "The.Handmaids.Tale.S01E02.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001286355,
+                    "path": "The.Handmaids.Tale.S01E02.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.224889879,
+                    "path": "The.Handmaids.Tale.S01E02.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S01E02.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001188,
+                    "path": "The.Handmaids.Tale.S01E02.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S01E02.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE [IPT]",
+            "size_total": 0.870260794,
+            "files_total": 21,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.018689066,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/Sample/sample-the.handmaids.tale.s01e02.720p.webrip.x264-morose.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.44e-7,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.r00"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.r01"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.r02"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.r03"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.r04"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.r05"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.r06"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.r07"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.r08"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.r09"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.r10"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.r11"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.r12"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.r13"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.r14"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.r15"
+                },
+                {
+                    "number": 19,
+                    "size": 0.001570132,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.r16"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.rar"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000001152,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e02.720p.webrip.x264-morose.sfv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "size_total": 0.851568356,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.851567882,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE[rarbg]/the.handmaids.tale.s01e02.720p.webrip.x264-morose.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.44e-7,
+                    "path": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE[rarbg]/the.handmaids.tale.s01e02.720p.webrip.x264-morose.nfo"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "The.Handmaids.Tale.S01E02.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.147908953,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000384744,
+                    "path": "The.Handmaids.Tale.S01E02.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000165357,
+                    "path": "The.Handmaids.Tale.S01E02.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000169951,
+                    "path": "The.Handmaids.Tale.S01E02.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000099924,
+                    "path": "The.Handmaids.Tale.S01E02.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.14708769,
+                    "path": "The.Handmaids.Tale.S01E02.AAC.MP4-Mobile/The.Handmaids.Tale.S01E02.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001287,
+                    "path": "The.Handmaids.Tale.S01E02.AAC.MP4-Mobile/The.Handmaids.Tale.S01E02.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "The.Handmaids.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 1.997969115,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000314733,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001635964,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002451513,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002982156,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.990583353,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.H.264-NTb/The.Handmaids.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001396,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.H.264-NTb/The.Handmaids.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "The.Handmaids.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.H264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.990583383,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.H264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.990583353,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.H264-NTb[rarbg]/The.Handmaid's.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "The.Handmaids.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.HEVC.x265",
+            "size_total": 0.960103961,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.960103961,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.HEVC.x265.mkv"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "The.Handmaids.Tale.S01E02.Birth.Day.720p.HULU.WEBRip.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 0.80964339,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00016257,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.720p.HULU.WEBRip.DDP5.1.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000643568,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.720p.HULU.WEBRip.DDP5.1.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001123596,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.720p.HULU.WEBRip.DDP5.1.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001334141,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.720p.HULU.WEBRip.DDP5.1.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.806377915,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.720p.HULU.WEBRip.DDP5.1.H.264-NTb/The.Handmaids.Tale.S01E02.Birth.Day.720p.HULU.WEBRip.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.0000016,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.720p.HULU.WEBRip.DDP5.1.H.264-NTb/The.Handmaids.Tale.S01E02.Birth.Day.720p.HULU.WEBRip.DDP5.1.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "The.Handmaids.Tale.S01E02.Birth.Day.HULU.WEBRip.AAC2.0.H.264-NTb [IPT]",
+            "size_total": 0.206465176,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00006162,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000201859,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000385569,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000447478,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.205367068,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.HULU.WEBRip.AAC2.0.H.264-NTb/The.Handmaids.Tale.S01E02.Birth.Day.HULU.WEBRip.AAC2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001582,
+                    "path": "The.Handmaids.Tale.S01E02.Birth.Day.HULU.WEBRip.AAC2.0.H.264-NTb/The.Handmaids.Tale.S01E02.Birth.Day.HULU.WEBRip.AAC2.0.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "The.Handmaids.Tale.S01E02.WEBRip.x264-RARBG-[rarbg.to]",
+            "size_total": 0.427663535,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Handmaids.Tale.S01E02.WEBRip.x264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S01E02.WEBRip.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000039007,
+                    "path": "The.Handmaids.Tale.S01E02.WEBRip.x264-RARBG/Subs/0_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.4266037,
+                    "path": "The.Handmaids.Tale.S01E02.WEBRip.x264-RARBG/The.Handmaids.Tale.S01E02.WEBRip.x264-RARBG.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000004034,
+                    "path": "The.Handmaids.Tale.S01E02.WEBRip.x264-RARBG/The.Handmaids.Tale.S01E02.WEBRip.x264-RARBG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "The.Handmaids.Tale.S01E02.XviD-AFG [IPT]",
+            "size_total": 0.366010961,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.0004263,
+                    "path": "The.Handmaids.Tale.S01E02.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000174398,
+                    "path": "The.Handmaids.Tale.S01E02.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00017843,
+                    "path": "The.Handmaids.Tale.S01E02.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000086098,
+                    "path": "The.Handmaids.Tale.S01E02.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.365144572,
+                    "path": "The.Handmaids.Tale.S01E02.XviD-AFG/The.Handmaids.Tale.S01E02.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001163,
+                    "path": "The.Handmaids.Tale.S01E02.XviD-AFG/The.Handmaids.Tale.S01E02.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "The.Handmaids.Tale.S01E03.1080p.WEBRip.[By ExYu-Subs HC]",
+            "size_total": 0.679277831,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.679277831,
+                    "path": "The.Handmaids.Tale.S01E03.1080p.WEBRip.[By ExYu-Subs HC].mp4"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "The.Handmaids.Tale.S01E03.480p.x264-mSD [IPT]",
+            "size_total": 0.188893436,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00024872,
+                    "path": "The.Handmaids.Tale.S01E03.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000156415,
+                    "path": "The.Handmaids.Tale.S01E03.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000141768,
+                    "path": "The.Handmaids.Tale.S01E03.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000123375,
+                    "path": "The.Handmaids.Tale.S01E03.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.188221968,
+                    "path": "The.Handmaids.Tale.S01E03.480p.x264-mSD/The.Handmaids.Tale.S01E03.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000119,
+                    "path": "The.Handmaids.Tale.S01E03.480p.x264-mSD/The.Handmaids.Tale.S01E03.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "The.Handmaids.Tale.S01E03.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.227336276,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000280454,
+                    "path": "The.Handmaids.Tale.S01E03.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000334754,
+                    "path": "The.Handmaids.Tale.S01E03.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000709235,
+                    "path": "The.Handmaids.Tale.S01E03.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000748481,
+                    "path": "The.Handmaids.Tale.S01E03.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.225262161,
+                    "path": "The.Handmaids.Tale.S01E03.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S01E03.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001191,
+                    "path": "The.Handmaids.Tale.S01E03.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S01E03.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE [IPT]",
+            "size_total": 0.922673307,
+            "files_total": 21,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.18e-7,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.022671673,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.rar"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000001216,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE/the.handmaids.tale.s01e03.720p.webrip.x264-morose.sfv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "size_total": 0.922669746,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.922669298,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE[rarbg]/the.handmaids.tale.s01e03.720p.webrip.x264-morose.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.18e-7,
+                    "path": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE[rarbg]/the.handmaids.tale.s01e03.720p.webrip.x264-morose.nfo"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "The.Handmaids.Tale.S01E03.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.152876811,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000254641,
+                    "path": "The.Handmaids.Tale.S01E03.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000162302,
+                    "path": "The.Handmaids.Tale.S01E03.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000141844,
+                    "path": "The.Handmaids.Tale.S01E03.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00012274,
+                    "path": "The.Handmaids.Tale.S01E03.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.152193996,
+                    "path": "The.Handmaids.Tale.S01E03.AAC.MP4-Mobile/The.Handmaids.Tale.S01E03.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001288,
+                    "path": "The.Handmaids.Tale.S01E03.AAC.MP4-Mobile/The.Handmaids.Tale.S01E03.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "The.Handmaids.Tale.S01E03.Late.1080p.HULU.WEBRip.DDP5.1.H264-NTb[rartv]-[rarbg.to]",
+            "size_total": 2.308253723,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S01E03.Late.1080p.HULU.WEBRip.DDP5.1.H264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.308253693,
+                    "path": "The.Handmaids.Tale.S01E03.Late.1080p.HULU.WEBRip.DDP5.1.H264-NTb[rarbg]/The.Handmaid's.Tale.S01E03.Late.1080p.HULU.WEBRip.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "The.Handmaids.Tale.S01E03.Late.1080p.HULU.WEBRip.DDP5.1.HEVC.x265",
+            "size_total": 1.058235883,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.058235883,
+                    "path": "The.Handmaids.Tale.S01E03.Late.1080p.HULU.WEBRip.DDP5.1.HEVC.x265.mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "The.Handmaids.Tale.S01E03.Late.HULU.WEBRip.AAC2.0.H.264-NTb [IPT]",
+            "size_total": 0.206576622,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000132961,
+                    "path": "The.Handmaids.Tale.S01E03.Late.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00014948,
+                    "path": "The.Handmaids.Tale.S01E03.Late.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000290181,
+                    "path": "The.Handmaids.Tale.S01E03.Late.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000308677,
+                    "path": "The.Handmaids.Tale.S01E03.Late.HULU.WEBRip.AAC2.0.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.205693812,
+                    "path": "The.Handmaids.Tale.S01E03.Late.HULU.WEBRip.AAC2.0.H.264-NTb/The.Handmaids.Tale.S01E03.Late.HULU.WEBRip.AAC2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001511,
+                    "path": "The.Handmaids.Tale.S01E03.Late.HULU.WEBRip.AAC2.0.H.264-NTb/The.Handmaids.Tale.S01E03.Late.HULU.WEBRip.AAC2.0.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "The.Handmaids.Tale.S01E03.WEBRip.x264-RARBG-[rarbg.to]",
+            "size_total": 0.481888988,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001016764,
+                    "path": "The.Handmaids.Tale.S01E03.WEBRip.x264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S01E03.WEBRip.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000038207,
+                    "path": "The.Handmaids.Tale.S01E03.WEBRip.x264-RARBG/Subs/1_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.48082976,
+                    "path": "The.Handmaids.Tale.S01E03.WEBRip.x264-RARBG/The.Handmaids.Tale.S01E03.WEBRip.x264-RARBG.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000004227,
+                    "path": "The.Handmaids.Tale.S01E03.WEBRip.x264-RARBG/The.Handmaids.Tale.S01E03.WEBRip.x264-RARBG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "The.Handmaids.Tale.S01E03.XviD-AFG [IPT]",
+            "size_total": 0.364639616,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000292167,
+                    "path": "The.Handmaids.Tale.S01E03.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000144141,
+                    "path": "The.Handmaids.Tale.S01E03.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000159331,
+                    "path": "The.Handmaids.Tale.S01E03.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000116033,
+                    "path": "The.Handmaids.Tale.S01E03.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.363926782,
+                    "path": "The.Handmaids.Tale.S01E03.XviD-AFG/The.Handmaids.Tale.S01E03.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001162,
+                    "path": "The.Handmaids.Tale.S01E03.XviD-AFG/The.Handmaids.Tale.S01E03.XviD-AFG.nfo"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 4,
+            "name": "The Handmaids Tale S01E01 WEBRip x264-RMTeam",
+            "btih": "9d0c6ae328e36682c1929940c142ec5a6182c67e",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.221475836,
+            "creation": "2017-04-26T08:46:33.000000000Z,qBittorrent v3.2.4",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 72646,
+            "uuploaders": 53783
+        },
+        {
+            "id": 9,
+            "name": "The Handmaids Tale S01E03 WEBRip x264-RMTeam",
+            "btih": "83855984e4f8542f670f239d659de98d598db49a",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.179061692,
+            "creation": "2017-04-26T10:15:04.000000000Z,qBittorrent v3.2.4",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 63879,
+            "uuploaders": 45710
+        },
+        {
+            "id": 7,
+            "name": "The Handmaids Tale S01E02 WEBRip x264-RMTeam",
+            "btih": "dccaced1903d0c51da99caab548d9deeb4e950ff",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.17489615,
+            "creation": "2017-04-26T09:04:46.000000000Z,qBittorrent v3.2.4",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 58254,
+            "uuploaders": 40131
+        },
+        {
+            "id": 17,
+            "name": "The.Handmaids.Tale.S01E01.Offred.1080p.HULU.WEBRip.DDP5.1.HEVC.x265",
+            "btih": "64e27844cbc865916504b99c5cef2c2e212555d9",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.135902372,
+            "creation": "2017-04-26T16:12:32.000000000Z,Transmission/2.84 (14307)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 30101,
+            "uuploaders": 17244
+        },
+        {
+            "id": 30,
+            "name": "The.Handmaids.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.HEVC.x265",
+            "btih": "4b98dcc589268478f8abccb0a756a879d707d4af",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.960103961,
+            "creation": "2017-04-26T15:34:55.000000000Z,Transmission/2.84 (14307)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24782,
+            "uuploaders": 14380
+        },
+        {
+            "id": 20,
+            "name": "The.Handmaids.Tale.S01E01.WEBRip.x264-RARBG-[rarbg.to]",
+            "btih": "8d4d8c1e2d1d1e97c4e9ee95bb4db972cb586a65",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.520841531,
+            "creation": "2017-04-26T11:24:19.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24557,
+            "uuploaders": 10344
+        },
+        {
+            "id": 33,
+            "name": "The.Handmaids.Tale.S01E02.WEBRip.x264-RARBG-[rarbg.to]",
+            "btih": "0f415a93147c62f8a7fb9bbd89ed48a1cce440d7",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.427663535,
+            "creation": "2017-04-26T11:29:13.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23184,
+            "uuploaders": 9763
+        },
+        {
+            "id": 14,
+            "name": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "btih": "58e0395eb308ef277e281516d6a29796165f6eb6",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.033545967,
+            "creation": "2017-04-26T07:40:35.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22576,
+            "uuploaders": 9736
+        },
+        {
+            "id": 44,
+            "name": "The.Handmaids.Tale.S01E03.WEBRip.x264-RARBG-[rarbg.to]",
+            "btih": "6e80904829da43f3981adc9360224fc677a26a74",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.481888988,
+            "creation": "2017-04-26T11:28:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21842,
+            "uuploaders": 9272
+        },
+        {
+            "id": 39,
+            "name": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "btih": "1e8ed21eee7edde6cabc88e8b1dac52c1265fd57",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.922669746,
+            "creation": "2017-04-26T08:52:14.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19388,
+            "uuploaders": 8045
+        },
+        {
+            "id": 26,
+            "name": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE[rartv]-[rarbg.to]",
+            "btih": "e7aed19707da7eda138bf4ad9144b676ffc92660",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.851568356,
+            "creation": "2017-04-26T08:02:53.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19059,
+            "uuploaders": 8193
+        },
+        {
+            "id": 5,
+            "name": "The Handmaids Tale S01E01-E03 720p WEBRip HEVC x265-RMTeam",
+            "btih": "4dd8dbba90aacee713b283cc945362b1acb0a599",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.61278658,
+            "creation": "2017-04-26T13:41:32.000000000Z,qBittorrent v3.2.4",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17913,
+            "uuploaders": 9882
+        },
+        {
+            "id": 16,
+            "name": "The.Handmaids.Tale.S01E01.Offred.1080p.HULU.WEBRip.DDP5.1.H264-NTb[rartv]-[rarbg.to]",
+            "btih": "d18f4c466646ac1bed77bda8c2500b54f45c91e0",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.411156971,
+            "creation": "2017-04-26T11:04:10.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13905,
+            "uuploaders": 6146
+        },
+        {
+            "id": 29,
+            "name": "The.Handmaids.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.H264-NTb[rartv]-[rarbg.to]",
+            "btih": "b811eac9af87f295d4a54bc60c3c249c4cde32d5",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.990583383,
+            "creation": "2017-04-26T11:10:59.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13118,
+            "uuploaders": 5956
+        },
+        {
+            "id": 41,
+            "name": "The.Handmaids.Tale.S01E03.Late.1080p.HULU.WEBRip.DDP5.1.H264-NTb[rartv]-[rarbg.to]",
+            "btih": "f10e419d26a19c5161e2b5c28a6ba8e98a94ad88",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.308253723,
+            "creation": "2017-04-26T11:08:48.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12863,
+            "uuploaders": 5798
+        },
+        {
+            "id": 42,
+            "name": "The.Handmaids.Tale.S01E03.Late.1080p.HULU.WEBRip.DDP5.1.HEVC.x265",
+            "btih": "897d007241edaa70150bfa9a01da4c85ac6047cb",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.058235883,
+            "creation": "2017-04-26T15:41:09.000000000Z,Transmission/2.84 (14307)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12439,
+            "uuploaders": 6640
+        },
+        {
+            "id": 35,
+            "name": "The.Handmaids.Tale.S01E03.1080p.WEBRip.[By ExYu-Subs HC]",
+            "btih": "a4c092379a6f947cf29b2ce9e3e098040f911530",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.679277831,
+            "creation": "2017-04-30T08:34:06.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),By www.exyu-subs.tk",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7834,
+            "uuploaders": 4125
+        },
+        {
+            "id": 10,
+            "name": "The.Handmaids.Tale.S01E01.1080p.WEBRip.[By ExYu-Subs HC]",
+            "btih": "b79962b89d0bce483d55216dca58a97e35daef83",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.679783578,
+            "creation": "2017-04-30T08:33:05.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),By www.exyu-subs.tk",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7656,
+            "uuploaders": 4303
+        },
+        {
+            "id": 22,
+            "name": "The.Handmaids.Tale.S01E02.1080p.WEBRip.[By ExYu-Subs HC]",
+            "btih": "5ea6b20a3503d200e2cc9c7ee9965c897094013f",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.679587448,
+            "creation": "2017-04-30T08:33:42.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),By www.exyu-subs.tk",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5893,
+            "uuploaders": 3112
+        },
+        {
+            "id": 13,
+            "name": "The.Handmaids.Tale.S01E01.720p.WEBRip.x264-MOROSE [IPT]",
+            "btih": "a5d8d10f4b7ae45b09cdfd65b82faebf8ed7ffc1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.033549906,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2069,
+            "uuploaders": 825
+        },
+        {
+            "id": 38,
+            "name": "The.Handmaids.Tale.S01E03.720p.WEBRip.x264-MOROSE [IPT]",
+            "btih": "873d991328b088ccd7c30c1e2f37134bf403300f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.922673307,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1981,
+            "uuploaders": 792
+        },
+        {
+            "id": 25,
+            "name": "The.Handmaids.Tale.S01E02.720p.WEBRip.x264-MOROSE [IPT]",
+            "btih": "301dc79bee75f248cdd608704fa284bacaefd9a9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.870260794,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1865,
+            "uuploaders": 766
+        },
+        {
+            "id": 21,
+            "name": "The.Handmaids.Tale.S01E01.XviD-AFG [IPT]",
+            "btih": "ef334d94aee686cfa907bda099f1a7e3ced1d5d2",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.444630192,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1294,
+            "uuploaders": 686
+        },
+        {
+            "id": 34,
+            "name": "The.Handmaids.Tale.S01E02.XviD-AFG [IPT]",
+            "btih": "ad7b713913b0c7e72f7bb28c4eecd2b37eca7730",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.366010961,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1104,
+            "uuploaders": 626
+        },
+        {
+            "id": 45,
+            "name": "The.Handmaids.Tale.S01E03.XviD-AFG [IPT]",
+            "btih": "91f0191a1acb80a06108de4bb28ad4c8acf1e3d7",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.364639616,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1092,
+            "uuploaders": 629
+        },
+        {
+            "id": 12,
+            "name": "The.Handmaids.Tale.S01E01.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "afdfe62e057dc7e3a2ecc33ff61f61ca35456357",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.294357938,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1007,
+            "uuploaders": 542
+        },
+        {
+            "id": 24,
+            "name": "The.Handmaids.Tale.S01E02.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "d22695172f12a9add7ad49447e7c3f12a9c58c4a",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.227806952,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 959,
+            "uuploaders": 516
+        },
+        {
+            "id": 37,
+            "name": "The.Handmaids.Tale.S01E03.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "80ed989980dbbcaa0463e6b158f7ebabb615ad31",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.227336276,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 925,
+            "uuploaders": 493
+        },
+        {
+            "id": 18,
+            "name": "The.Handmaids.Tale.S01E01.Offred.720p.HULU.WEBRip.DDP5.1.H.264-NTb [IPT]",
+            "btih": "8d8cdd9f0e87c317f50f98a9159762d14c6dc6cb",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.913594299,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 624,
+            "uuploaders": 231
+        },
+        {
+            "id": 1,
+            "name": "[req] Margaret Atwood - The Handmaid's Tale (epub mobi) [IPT]",
+            "btih": "9dbdfd45bfecc87a420818347f2d740db11ddafa",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.000721609,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 478,
+            "uuploaders": 226
+        },
+        {
+            "id": 11,
+            "name": "The.Handmaids.Tale.S01E01.480p.x264-mSD [IPT]",
+            "btih": "9a4b6a6b7a89f7bd748da05b05fda0245ee2020f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.234861009,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 382,
+            "uuploaders": 183
+        },
+        {
+            "id": 2,
+            "name": "Margaret Atwood - The Handmaid's Tale [IPT]",
+            "btih": "2f2ed3ddb642df3bb3533d825c2634c2af700bab",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.299325199,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 353,
+            "uuploaders": 115
+        },
+        {
+            "id": 15,
+            "name": "The.Handmaids.Tale.S01E01.AAC.MP4-Mobile [IPT]",
+            "btih": "3ce698cde9c6f084c209728fa8755676e6e3fb88",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.186236027,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 321,
+            "uuploaders": 131
+        },
+        {
+            "id": 23,
+            "name": "The.Handmaids.Tale.S01E02.480p.x264-mSD [IPT]",
+            "btih": "356c5f8dc2d1db58fb0370c833e9e6ee9a9bce4a",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.18423323,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 285,
+            "uuploaders": 141
+        },
+        {
+            "id": 27,
+            "name": "The.Handmaids.Tale.S01E02.AAC.MP4-Mobile [IPT]",
+            "btih": "1f1069c4102d23ac0e1cbea5c94ff1483ca52e9c",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.147908953,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 281,
+            "uuploaders": 109
+        },
+        {
+            "id": 40,
+            "name": "The.Handmaids.Tale.S01E03.AAC.MP4-Mobile [IPT]",
+            "btih": "55d4f7bef900f42569e5cd4631d5d18715e86e1e",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.152876811,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 276,
+            "uuploaders": 100
+        },
+        {
+            "id": 36,
+            "name": "The.Handmaids.Tale.S01E03.480p.x264-mSD [IPT]",
+            "btih": "d5fa88117c2fd57d20ff1480c8878762af387c56",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.188893436,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 267,
+            "uuploaders": 132
+        },
+        {
+            "id": 31,
+            "name": "The.Handmaids.Tale.S01E02.Birth.Day.720p.HULU.WEBRip.DDP5.1.H.264-NTb [IPT]",
+            "btih": "f1f944a3c5a071171873451ea81e0e63ea377417",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.80964339,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 256,
+            "uuploaders": 122
+        },
+        {
+            "id": 43,
+            "name": "The.Handmaids.Tale.S01E03.Late.HULU.WEBRip.AAC2.0.H.264-NTb [IPT]",
+            "btih": "e0a793b55d3ad24a105c189d7e418aeb045863f6",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.206576622,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 159,
+            "uuploaders": 92
+        },
+        {
+            "id": 6,
+            "name": "The Handmaids Tale S01E02 WEBRip x264-RMTeam [IPT]",
+            "btih": "94a149636524be73e08f5c1641847dbde7588219",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.176652139,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 139,
+            "uuploaders": 95
+        },
+        {
+            "id": 3,
+            "name": "The Handmaids Tale S01E01 WEBRip x264-RMTeam [IPT]",
+            "btih": "c5d34ee833afdb02a01e8ea2efcb49cf18520ef9",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.223237595,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 137,
+            "uuploaders": 100
+        },
+        {
+            "id": 19,
+            "name": "The.Handmaids.Tale.S01E01.Offred.HULU.WEBRip.AAC2.0.H.264-NTb [IPT]",
+            "btih": "cfff5e3cf931c45ef540f7d2548f5c1ab8583cbe",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.238158989,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 136,
+            "uuploaders": 69
+        },
+        {
+            "id": 8,
+            "name": "The Handmaids Tale S01E03 WEBRip x264-RMTeam [IPT]",
+            "btih": "d711c06d99ef0a0c5715898c9b2c3e346ccfc945",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.180392485,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 131,
+            "uuploaders": 79
+        },
+        {
+            "id": 32,
+            "name": "The.Handmaids.Tale.S01E02.Birth.Day.HULU.WEBRip.AAC2.0.H.264-NTb [IPT]",
+            "btih": "9ecd7ac02b4f06b4e44cfad78ca9fc3e8089055b",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.206465176,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 122,
+            "uuploaders": 64
+        },
+        {
+            "id": 28,
+            "name": "The.Handmaids.Tale.S01E02.Birth.Day.1080p.HULU.WEBRip.DDP5.1.H.264-NTb [IPT]",
+            "btih": "9a72a8543e7cb781e3db0f5956aef9ff86400154",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.997969115,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 106,
+            "uuploaders": 54
+        }
+    ]
+}
