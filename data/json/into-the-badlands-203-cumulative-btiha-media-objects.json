@@ -1,0 +1,1252 @@
+{
+    "collection_name": "Into The Badlands",
+    "collection_id": "203",
+    "collection_key": "into-the-badlands-203",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "53cbd74424fad72a048f455284ed2c052e941ad3",
+            "duplicate_0_0": "Into.the.Badlands.S02E03.HDTV.XviD-FUM[ettv]-[rarbg.to]",
+            "duplicate_0_1": "Into.the.Badlands.S02E03.HDTV.XviD-FUM[ettv]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "Into.the.Badlands.S02E03.1080p.AMZN.WEBRip.DD5.1.x264-ViSUM[rartv]-[rarbg.to]",
+            "size_total": 3.134797521,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.134761073,
+                    "path": "Into.the.Badlands.S02E03.1080p.AMZN.WEBRip.DD5.1.x264-ViSUM[rarbg]/Into.the.Badlands.S02E03.1080p.AMZN.WEBRip.DDP5.1.x264-ViSUM.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000036418,
+                    "path": "Into.the.Badlands.S02E03.1080p.AMZN.WEBRip.DD5.1.x264-ViSUM[rarbg]/Into.the.Badlands.S02E03.1080p.AMZN.WEBRip.DDP5.1.x264-ViSUM.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 3e-8,
+                    "path": "Into.the.Badlands.S02E03.1080p.AMZN.WEBRip.DD5.1.x264-ViSUM[rarbg]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Into.the.Badlands.S02E03.1080p.AMZN.WEBRip.DDP5.1.x264-ViSUM [IPT]",
+            "size_total": 3.145254153,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.134698959,
+                    "path": "Into.the.Badlands.S02E03.1080p.AMZN.WEBRip.DDP5.1.x264-ViSUM/Into.the.Badlands.S02E03.1080p.AMZN.WEBRip.DDP5.1.x264-ViSUM.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001528,
+                    "path": "Into.the.Badlands.S02E03.1080p.AMZN.WEBRip.DDP5.1.x264-ViSUM/Into.the.Badlands.S02E03.1080p.AMZN.WEBRip.DDP5.1.x264-ViSUM.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001767308,
+                    "path": "Into.the.Badlands.S02E03.1080p.AMZN.WEBRip.DDP5.1.x264-ViSUM/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002080504,
+                    "path": "Into.the.Badlands.S02E03.1080p.AMZN.WEBRip.DDP5.1.x264-ViSUM/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002877982,
+                    "path": "Into.the.Badlands.S02E03.1080p.AMZN.WEBRip.DDP5.1.x264-ViSUM/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.003827872,
+                    "path": "Into.the.Badlands.S02E03.1080p.AMZN.WEBRip.DDP5.1.x264-ViSUM/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+            "size_total": 1.802952708,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.793560205,
+                    "path": "Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS/Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001479,
+                    "path": "Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS/Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001812824,
+                    "path": "Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001682089,
+                    "path": "Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002544103,
+                    "path": "Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.003352008,
+                    "path": "Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "size_total": 1.794755279,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000039022,
+                    "path": "Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG/Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG-SDH.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.793659698,
+                    "path": "Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG/Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000004309,
+                    "path": "Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG/Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG.nfo"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000035455,
+                    "path": "Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG/Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001016764,
+                    "path": "Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 3.1e-8,
+                    "path": "Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Into.the.Badlands.S02E03.480p.x264-mSD [IPT]",
+            "size_total": 0.192785346,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.191808482,
+                    "path": "Into.the.Badlands.S02E03.480p.x264-mSD/Into.the.Badlands.S02E03.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001191,
+                    "path": "Into.the.Badlands.S02E03.480p.x264-mSD/Into.the.Badlands.S02E03.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000399853,
+                    "path": "Into.the.Badlands.S02E03.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000206678,
+                    "path": "Into.the.Badlands.S02E03.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000268016,
+                    "path": "Into.the.Badlands.S02E03.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000101126,
+                    "path": "Into.the.Badlands.S02E03.480p.x264-mSD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Into.the.Badlands.S02E03.720p.AMZN.WEBRip.DD5.1.x264-ViSUM[rartv]-[rarbg.to]",
+            "size_total": 1.50790134,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.507864892,
+                    "path": "Into.the.Badlands.S02E03.720p.AMZN.WEBRip.DD5.1.x264-ViSUM[rarbg]/Into.the.Badlands.S02E03.720p.AMZN.WEBRip.DDP5.1.x264-ViSUM.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000036418,
+                    "path": "Into.the.Badlands.S02E03.720p.AMZN.WEBRip.DD5.1.x264-ViSUM[rarbg]/Into.the.Badlands.S02E03.720p.AMZN.WEBRip.DDP5.1.x264-ViSUM.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 3e-8,
+                    "path": "Into.the.Badlands.S02E03.720p.AMZN.WEBRip.DD5.1.x264-ViSUM[rarbg]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Into.the.Badlands.S02E03.720p.AMZN.WEBRip.DDP5.1.x264-ViSUM [IPT]",
+            "size_total": 1.512606927,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.507802778,
+                    "path": "Into.the.Badlands.S02E03.720p.AMZN.WEBRip.DDP5.1.x264-ViSUM/Into.the.Badlands.S02E03.720p.AMZN.WEBRip.DDP5.1.x264-ViSUM.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001523,
+                    "path": "Into.the.Badlands.S02E03.720p.AMZN.WEBRip.DDP5.1.x264-ViSUM/Into.the.Badlands.S02E03.720p.AMZN.WEBRip.DDP5.1.x264-ViSUM.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00084648,
+                    "path": "Into.the.Badlands.S02E03.720p.AMZN.WEBRip.DDP5.1.x264-ViSUM/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000877256,
+                    "path": "Into.the.Badlands.S02E03.720p.AMZN.WEBRip.DDP5.1.x264-ViSUM/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001330451,
+                    "path": "Into.the.Badlands.S02E03.720p.AMZN.WEBRip.DDP5.1.x264-ViSUM/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001748439,
+                    "path": "Into.the.Badlands.S02E03.720p.AMZN.WEBRip.DDP5.1.x264-ViSUM/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS [IPT]",
+            "size_total": 0.912809122,
+            "files_total": 21,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000010879,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.012797065,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.rar"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000001178,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS/into.the.badlands.s02e03.720p.hdtv.x264-killers.sfv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS[ettv]",
+            "size_total": 0.912794897,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.912794728,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS[ettv]/Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.69e-7,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS[eztv].mkv",
+            "size_total": 0.912794728,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.912794728,
+                    "path": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Into.the.Badlands.S02E03.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.265165862,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.261193706,
+                    "path": "Into.the.Badlands.S02E03.720p.HEVC.x265-MeGusta/Into.the.Badlands.S02E03.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001193,
+                    "path": "Into.the.Badlands.S02E03.720p.HEVC.x265-MeGusta/Into.the.Badlands.S02E03.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000752305,
+                    "path": "Into.the.Badlands.S02E03.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000548158,
+                    "path": "Into.the.Badlands.S02E03.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001425852,
+                    "path": "Into.the.Badlands.S02E03.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.0012446479999999999,
+                    "path": "Into.the.Badlands.S02E03.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+            "size_total": 1.448727677,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.444188935,
+                    "path": "Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS/Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001475,
+                    "path": "Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS/Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000813114,
+                    "path": "Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000825807,
+                    "path": "Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00123484,
+                    "path": "Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001663506,
+                    "path": "Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "size_total": 1.445384008,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000039022,
+                    "path": "Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-RARBG/Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-RARBG-SDH.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.44428843,
+                    "path": "Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-RARBG/Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-RARBG.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000004306,
+                    "path": "Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-RARBG/Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-RARBG.nfo"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000035455,
+                    "path": "Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-RARBG/Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-RARBG.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001016764,
+                    "path": "Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 3.1e-8,
+                    "path": "Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-RARBG/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Into.the.Badlands.S02E03.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.166719177,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.165627962,
+                    "path": "Into.the.Badlands.S02E03.AAC.MP4-Mobile/Into.the.Badlands.S02E03.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001289,
+                    "path": "Into.the.Badlands.S02E03.AAC.MP4-Mobile/Into.the.Badlands.S02E03.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000453205,
+                    "path": "Into.the.Badlands.S02E03.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000225923,
+                    "path": "Into.the.Badlands.S02E03.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000296996,
+                    "path": "Into.the.Badlands.S02E03.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000113802,
+                    "path": "Into.the.Badlands.S02E03.AAC.MP4-Mobile/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS [IPT]",
+            "size_total": 0.271755978,
+            "files_total": 21,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000010863,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.001744032,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.015,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.rar"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000001083,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS/into.the.badlands.s02e03.hdtv.x264-killers.sfv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS[ettv]",
+            "size_total": 0.271741921,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.271741752,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS[ettv]/Into.the.Badlands.S02E03.HDTV.x264-KILLERS[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.69e-7,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS[eztv]",
+            "size_total": 0.271741752,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.271741752,
+                    "path": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Into.the.Badlands.S02E03.HDTV.XviD-FUM [IPT]",
+            "size_total": 0.366177337,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.364941716,
+                    "path": "Into.the.Badlands.S02E03.HDTV.XviD-FUM/Into.the.Badlands.S02E03.HDTV.XviD-FUM.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001469,
+                    "path": "Into.the.Badlands.S02E03.HDTV.XviD-FUM/Into.the.Badlands.S02E03.HDTV.XviD-FUM.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000239504,
+                    "path": "Into.the.Badlands.S02E03.HDTV.XviD-FUM/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000183694,
+                    "path": "Into.the.Badlands.S02E03.HDTV.XviD-FUM/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000421199,
+                    "path": "Into.the.Badlands.S02E03.HDTV.XviD-FUM/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000389755,
+                    "path": "Into.the.Badlands.S02E03.HDTV.XviD-FUM/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Into.the.Badlands.S02E03.HDTV.XviD-FUM[ettv]-[rarbg.to]",
+            "size_total": 0.364942005,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.364941716,
+                    "path": "Into.the.Badlands.S02E03.HDTV.XviD-FUM[ettv]/Into.the.Badlands.S02E03.HDTV.XviD-FUM[ettv].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 2.89e-7,
+                    "path": "Into.the.Badlands.S02E03.HDTV.XviD-FUM[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Into.the.Badlands.S02E03.HDTV.XviD-FUM[ettv]",
+            "size_total": 0.364942005,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.364941716,
+                    "path": "Into.the.Badlands.S02E03.HDTV.XviD-FUM[ettv]/Into.the.Badlands.S02E03.HDTV.XviD-FUM[ettv].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 2.89e-7,
+                    "path": "Into.the.Badlands.S02E03.HDTV.XviD-FUM[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Into.the.Badlands.S02E03.Red.Sun.Silver.Moon.1080p.WEBRip.x264-HEAT[rartv]-[rarbg.to]",
+            "size_total": 1.759292909,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Into.the.Badlands.S02E03.Red.Sun.Silver.Moon.1080p.WEBRip.x264-HEAT[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.759291669,
+                    "path": "Into.the.Badlands.S02E03.Red.Sun.Silver.Moon.1080p.WEBRip.x264-HEAT[rarbg]/into.the.badlands.s02e03.red.sun.silver.moon.1080p.webrip.x264-heat.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00000121,
+                    "path": "Into.the.Badlands.S02E03.Red.Sun.Silver.Moon.1080p.WEBRip.x264-HEAT[rarbg]/into.the.badlands.s02e03.red.sun.silver.moon.1080p.webrip.x264-heat.nfo"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Into.The.Badlands.S02E03.Red.Sun.Silver.Moon.720p.WEB.EN-Sub.x264-[MULVAcoded]",
+            "size_total": 0.293537108,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.293537108,
+                    "path": "Into.The.Badlands.S02E03.Red.Sun.Silver.Moon.720p.WEB.EN-Sub.x264-[MULVAcoded].mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Into.the.Badlands.S02E03.WEB-DL.x264-RARBG-[rarbg.to]",
+            "size_total": 0.286704244,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.285613132,
+                    "path": "Into.the.Badlands.S02E03.WEB-DL.x264-RARBG/Into.the.Badlands.S02E03.WEB-DL.x264-RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000004059,
+                    "path": "Into.the.Badlands.S02E03.WEB-DL.x264-RARBG/Into.the.Badlands.S02E03.WEB-DL.x264-RARBG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001016764,
+                    "path": "Into.the.Badlands.S02E03.WEB-DL.x264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 3e-8,
+                    "path": "Into.the.Badlands.S02E03.WEB-DL.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000033472,
+                    "path": "Into.the.Badlands.S02E03.WEB-DL.x264-RARBG/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000036787,
+                    "path": "Into.the.Badlands.S02E03.WEB-DL.x264-RARBG/Subs/3_Eng.srt"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Into.the.Badlands.S02E03.WEBRip.x264-RARBG-[rarbg.to]",
+            "size_total": 0.39992438,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.39886679,
+                    "path": "Into.the.Badlands.S02E03.WEBRip.x264-RARBG/Into.the.Badlands.S02E03.WEBRip.x264-RARBG.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000004028,
+                    "path": "Into.the.Badlands.S02E03.WEBRip.x264-RARBG/Into.the.Badlands.S02E03.WEBRip.x264-RARBG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001016764,
+                    "path": "Into.the.Badlands.S02E03.WEBRip.x264-RARBG/RARBG.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 3e-8,
+                    "path": "Into.the.Badlands.S02E03.WEBRip.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000036768,
+                    "path": "Into.the.Badlands.S02E03.WEBRip.x264-RARBG/Subs/2_Eng.srt"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Into.the.Badlands.S02E03.XviD-AFG [IPT]",
+            "size_total": 0.370859021,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.369773692,
+                    "path": "Into.the.Badlands.S02E03.XviD-AFG/Into.the.Badlands.S02E03.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001167,
+                    "path": "Into.the.Badlands.S02E03.XviD-AFG/Into.the.Badlands.S02E03.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000447547,
+                    "path": "Into.the.Badlands.S02E03.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000209057,
+                    "path": "Into.the.Badlands.S02E03.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000291585,
+                    "path": "Into.the.Badlands.S02E03.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000135973,
+                    "path": "Into.the.Badlands.S02E03.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 16,
+            "name": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS[ettv]",
+            "btih": "b061a1df0022f5a9c5f2766c5fef04baaf8c3094",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.271741921,
+            "creation": "2017-04-03T03:30:07.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 88539,
+            "uuploaders": 52151
+        },
+        {
+            "id": 26,
+            "name": "multi-btih-0-2-x-Into.the.Badlands.S02E03.HDTV.XviD-FUM[ettv]-[rarbg.to]",
+            "btih": "53cbd74424fad72a048f455284ed2c052e941ad3",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.364942005,
+            "creation": "2017-04-03T04:24:08.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 73374,
+            "uuploaders": 57929
+        },
+        {
+            "id": 9,
+            "name": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS[ettv]",
+            "btih": "38785d987bd0a2ea981e9adbcaaecbcdbe723970",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.912794897,
+            "creation": "2017-04-03T03:28:09.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20400,
+            "uuploaders": 13496
+        },
+        {
+            "id": 10,
+            "name": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS[eztv].mkv",
+            "btih": "083d2cf62cdd73c06aa80e6859542051deaf1aac",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.912794728,
+            "creation": "2017-04-03T03:33:18.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16785,
+            "uuploaders": 11279
+        },
+        {
+            "id": 17,
+            "name": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS[eztv]",
+            "btih": "76ea603ce1c523473ab4e925af09fa5e7ee9987c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.271741752,
+            "creation": "2017-04-03T10:10:11.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15267,
+            "uuploaders": 9254
+        },
+        {
+            "id": 4,
+            "name": "Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "btih": "f2ef952b001484e34b550e4f9b4ea8d29500555d",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.794755279,
+            "creation": "2017-04-03T07:39:00.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7409,
+            "uuploaders": 2879
+        },
+        {
+            "id": 22,
+            "name": "Into.The.Badlands.S02E03.Red.Sun.Silver.Moon.720p.WEB.EN-Sub.x264-[MULVAcoded]",
+            "btih": "a3427babd2c69c4d6816a034c85a2be02255be25",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.293537108,
+            "creation": "2017-04-03T21:24:07.000000000Z,Transmission/2.92 (14714),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7123,
+            "uuploaders": 4492
+        },
+        {
+            "id": 24,
+            "name": "Into.the.Badlands.S02E03.WEBRip.x264-RARBG-[rarbg.to]",
+            "btih": "87d56c39e9fc553af043767ff2e7e8592fb1244d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.39992438,
+            "creation": "2017-04-03T11:59:44.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3528,
+            "uuploaders": 1435
+        },
+        {
+            "id": 1,
+            "name": "Into.the.Badlands.S02E03.1080p.AMZN.WEBRip.DD5.1.x264-ViSUM[rartv]-[rarbg.to]",
+            "btih": "26ebe2f1495453bd36618a7cc013760a5e2a8443",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.134797521,
+            "creation": "2017-04-03T11:47:38.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3302,
+            "uuploaders": 1501
+        },
+        {
+            "id": 23,
+            "name": "Into.the.Badlands.S02E03.WEB-DL.x264-RARBG-[rarbg.to]",
+            "btih": "f219d4232a3cc19201a03b226a6fc8965930461f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.286704244,
+            "creation": "2017-04-03T07:45:24.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3276,
+            "uuploaders": 1308
+        },
+        {
+            "id": 13,
+            "name": "Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-RARBG-[rarbg.to]",
+            "btih": "155111b56f4a869365c8540e7af1076418badd8e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.445384008,
+            "creation": "2017-04-03T07:23:08.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3019,
+            "uuploaders": 1377
+        },
+        {
+            "id": 8,
+            "name": "Into.the.Badlands.S02E03.720p.HDTV.x264-KILLERS [IPT]",
+            "btih": "fe39edc761bf5f149235f7738da4aa3260b4d6df",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.912809122,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2609,
+            "uuploaders": 1409
+        },
+        {
+            "id": 21,
+            "name": "Into.the.Badlands.S02E03.Red.Sun.Silver.Moon.1080p.WEBRip.x264-HEAT[rartv]-[rarbg.to]",
+            "btih": "e2c4449bbd806f4ec56eedfbb72b0d8561dc9f1d",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.759292909,
+            "creation": "2017-04-03T13:50:59.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2067,
+            "uuploaders": 956
+        },
+        {
+            "id": 25,
+            "name": "Into.the.Badlands.S02E03.XviD-AFG [IPT]",
+            "btih": "4a926b5f3349c47680e177cea83da8be8622d82a",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.370859021,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1558,
+            "uuploaders": 786
+        },
+        {
+            "id": 6,
+            "name": "Into.the.Badlands.S02E03.720p.AMZN.WEBRip.DD5.1.x264-ViSUM[rartv]-[rarbg.to]",
+            "btih": "b9b83a680634be4bf3113a86e4a0e7722bfb3053",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.50790134,
+            "creation": "2017-04-03T12:22:35.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1325,
+            "uuploaders": 618
+        },
+        {
+            "id": 11,
+            "name": "Into.the.Badlands.S02E03.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "472bd1185e96c2a192a1ecc6bff7b8a62ffa8087",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.265165862,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 977,
+            "uuploaders": 410
+        },
+        {
+            "id": 15,
+            "name": "Into.the.Badlands.S02E03.HDTV.x264-KILLERS [IPT]",
+            "btih": "36c561bed230a2ea5ef3472467a2a9657585707e",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.271755978,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 746,
+            "uuploaders": 462
+        },
+        {
+            "id": 18,
+            "name": "Into.the.Badlands.S02E03.HDTV.XviD-FUM [IPT]",
+            "btih": "b0f2ab858dc0272117965a248aafbbcc87d57f23",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.366177337,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 607,
+            "uuploaders": 339
+        },
+        {
+            "id": 3,
+            "name": "Into.the.Badlands.S02E03.1080p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+            "btih": "182f4083e4557d9b689155a17fe804a8091e268d",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.802952708,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 574,
+            "uuploaders": 311
+        },
+        {
+            "id": 14,
+            "name": "Into.the.Badlands.S02E03.AAC.MP4-Mobile [IPT]",
+            "btih": "870418845f270d14126788eebbd0d9db32f08b82",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.166719177,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 570,
+            "uuploaders": 153
+        },
+        {
+            "id": 5,
+            "name": "Into.the.Badlands.S02E03.480p.x264-mSD [IPT]",
+            "btih": "bb0197964a3317302b3ea42c26e1229b05f9de08",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.192785346,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 549,
+            "uuploaders": 190
+        },
+        {
+            "id": 2,
+            "name": "Into.the.Badlands.S02E03.1080p.AMZN.WEBRip.DDP5.1.x264-ViSUM [IPT]",
+            "btih": "6bcc6ec3c04d19a7d149bf9b50ce1e07ea85817b",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.145254153,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 339,
+            "uuploaders": 128
+        },
+        {
+            "id": 12,
+            "name": "Into.the.Badlands.S02E03.720p.WEB-DL.DD5.1.H264-LiGaS [IPT]",
+            "btih": "8b4e0f7f76982e972e37229e236dd485f2a75c8f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.448727677,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 210,
+            "uuploaders": 113
+        },
+        {
+            "id": 7,
+            "name": "Into.the.Badlands.S02E03.720p.AMZN.WEBRip.DDP5.1.x264-ViSUM [IPT]",
+            "btih": "4d3db94ca451b79ba357c9b48e234c5298515f6e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.512606927,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 147,
+            "uuploaders": 88
+        }
+    ]
+}
