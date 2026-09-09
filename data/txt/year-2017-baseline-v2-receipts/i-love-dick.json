@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt5478730",
+    "imdb_id": "tt5478730",
+    "revision": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec",
+    "wikidata_id": "Q33132201",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/I_Love_Dick_(TV_series)"
+  },
+  "coverage_sha256": "3887c8038130db6fccc340aca6ec87a8ec0075dfb831b7d3a3e4440677b66102",
+  "generated_at": "2026-09-09T01:53:58.934007+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/i-love-dick.cache/cache.20170603.tar.xz",
+      "sha256": "a933d6aac6b6f5e380fe017fa258da7078b4dde63c638213796b0a83cb889aee",
+      "size": 3615580
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-coverage-evidence/i-love-dick.md",
+      "sha256": "3701a6c64f56716fe4dbbfd4014acf0455a152cdc0b3b52073d56d10fedf1737",
+      "size": 11532
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-cache-stream-receipts/i-love-dick.json",
+      "sha256": "0f419441a897e1d33ccce259841e4df6920387febdbbf1ac3a8824938aa67644",
+      "size": 2137
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-product-receipts/i-love-dick.json",
+      "sha256": "81cf0a522d3976b2155b35db180c33d546339bbb6ad4170cd7a195308dd084ad",
+      "size": 363
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+      "sha256": "a8b61a3da60ab34c0dc9dbbddfdd3267e4c8461177e747c8ad4038d63e39c8f8",
+      "size": 57579
+    }
+  },
+  "media_object": "i-love-dick",
+  "published_files": {
+    "data/csv/bytes/i-love-dick-cumulative-detail.2017-btiha-itemized-by-bytes.csv": "71c25593f2ec52f44d26b8123feab3954cd5539944e5c611131be3f2528bb145",
+    "docs/itemized/figures/i-love-dick-carto-4k.webp": "0a70b0df91dfe11ae8c044b92a667844c64620bec45c4310ccdca72d821c6cc1",
+    "docs/itemized/figures/i-love-dick-carto.png": "2df5d9533c13481c1c45f7ba51a81cb0898ba4f0b02021e4d2d7343d2545d9e3",
+    "docs/itemized/figures/i-love-dick-cumulative-detail-btiha-itemized-by-bytes.svg": "e0ce6564b4dca820636c953c8ec989dc9ae2cf71d7dffa4ad87145b4bec16a76",
+    "docs/itemized/figures/i-love-dick-data-ge-1080p-4k.webp": "a424eebd82d7638a243bdc6df215cd659db353a3ad6888991ab25219a0d8ed16",
+    "docs/itemized/figures/i-love-dick-data-ge-1080p.webp": "613f72c401eba7988c29c3bd29556ffcb22846e701e261bf23503ce32a2c78b6",
+    "docs/itemized/figures/i-love-dick-data-lt-1080p-4k.webp": "b8b30cc1e8f01f4b5f4227e9b3931aeaa4133770c29ece337a339d714cabdda3",
+    "docs/itemized/figures/i-love-dick-data-lt-1080p.webp": "990e5af96fcade49e3da6929a0b08cc9c4f507170cb43204bfd7fc9dba901330",
+    "docs/itemized/figures/i-love-dick-downloads-by-day-day.svg": "1b3b96e43cea61a46858be0e379de9b902bffe52dbd7062290f827d49b7b2aa2",
+    "docs/itemized/figures/i-love-dick-downloads-by-week-i-love-dick-week.svg": "16ccc0372728145f2fb6fdceccf938e78a2bf84e4a6ab6f2b44f0bef31605bbb",
+    "docs/itemized/i-love-dick-sample-cache-audit.md": "edfca00a054d4863e2e15849f4fff417d526dcc0744c4b5191e042fed15feb16",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c4cf3fa8e710f9727ab3f7110f6e55b0b8d74b61",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/i-love-dick/tmp/i-love-dick-cumulative-btiha.geojson",
+        "sha256": "ab8708cd9937ffc0cf2b063af99938446e700707c61c17499fc0abf87279cd2c",
+        "size": 1978779
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/i-love-dick/tmp/i-love-dick-cumulative-btiha-media-objects.json",
+        "sha256": "01d58945c977082dfbfd9b84a4d9c3a6562ed2f49adc1d85967a6301525927c3",
+        "size": 89853
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "i-love-dick",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          76.0,
+          68.0,
+          50.0,
+          48.0,
+          34.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Breda",
+          "Frankfurt am Main",
+          "Roosendaal",
+          "Boardman",
+          "Lelystad",
+          "Toronto",
+          "Seoul",
+          "Chicago",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          79.0,
+          58.0,
+          57.0,
+          48.0,
+          46.0,
+          44.0,
+          38.0,
+          33.0,
+          29.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Breda",
+          "Frankfurt am Main",
+          "Roosendaal",
+          "Seoul",
+          "Lelystad",
+          "Boardman",
+          "Paris",
+          "Sydney",
+          "Boydton"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 22,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 31,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 4,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c4cf3fa8e710f9727ab3f7110f6e55b0b8d74b61",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "9118dcee59582140eaf9b1224b053ff5bea0330d",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2017"
+}
