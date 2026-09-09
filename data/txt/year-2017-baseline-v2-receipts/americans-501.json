@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt2149175",
+    "imdb_id": "tt2149175",
+    "revision": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec",
+    "wikidata_id": "Q498438",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Americans"
+  },
+  "coverage_sha256": "ca38da3a87100e3e6efa86ec2ec21123c2da14858c1e0f33e3068a0c9faa1df8",
+  "generated_at": "2026-09-09T02:13:33.335451+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2017-archives/americans-501.cache/cache.20170312.tar.xz",
+      "sha256": "956bf2e5c836860a9a2874f704fe22fc195543aadbf2787b6c4b625323ef174e",
+      "size": 6430628
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-coverage-evidence/americans-501.md",
+      "sha256": "842766f2f67311413ad7e0350754d12438b2af2a506a5cd08ee421268cb79cb2",
+      "size": 3085
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-cache-stream-receipts/americans-501.json",
+      "sha256": "7cfb311a2c17e66dfb953dd5639d7a9ef28460c034a78f97d7a9d49d92a41ba3",
+      "size": 2011
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2017/data/txt/year-2017-day-product-receipts/americans-501.json",
+      "sha256": "30c2f75646ab6942f3b978a6c50662fc777c91250371095ce9557d931ac793aa",
+      "size": 363
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-control/worker-map.json",
+      "sha256": "545757136e399cdd72c619c9f9ffaa4fe15317554642b14efc0f9c41d4307bca",
+      "size": 59066
+    }
+  },
+  "media_object": "americans-501",
+  "published_files": {
+    "data/csv/bytes/americans-501-cumulative-detail.2017-btiha-itemized-by-bytes.csv": "0647b1d4e1ed909c616e24dfd08858b4ddf70c9e6972cee022ab2963b6a38afa",
+    "docs/itemized/americans-501-sample-cache-audit.md": "da7701d8070af4935d7a78bdf67e6cc4aaa7d18bf2c9063be8c8013c8c512fb6",
+    "docs/itemized/figures/americans-501-carto-4k.webp": "9ae2331cf7d2e46f2141145c0a7d45f1951d62d56373f803aea40ccc152135c0",
+    "docs/itemized/figures/americans-501-carto.png": "d0e9ab05bfccbc2fcc9d7da9dc5d98c6b81fed184025bc1df831c4c57a15207a",
+    "docs/itemized/figures/americans-501-cumulative-detail-btiha-itemized-by-bytes.svg": "85157a3e7c4d56c635d66403ce46929e2a2aa5cf354d710f9cafb9724daa1422",
+    "docs/itemized/figures/americans-501-data-ge-1080p-4k.webp": "c5a41e4788a698ed13a527db49e1efcc75ef11d7b9d4d3fef2779807a8a494f7",
+    "docs/itemized/figures/americans-501-data-ge-1080p.webp": "effe4887334aae589d7628a78cdda44356d80c37e61d1461b8aac7135bd4fce3",
+    "docs/itemized/figures/americans-501-data-lt-1080p-4k.webp": "ee727101606867491bc353381041c396a8678eaf07e74a3b5818787528b53465",
+    "docs/itemized/figures/americans-501-data-lt-1080p.webp": "d38ec363fe66c8f18779b821e4f3de3664a944c9d7936fc3b60037b5682fee12",
+    "docs/itemized/figures/americans-501-downloads-by-day-day.svg": "0051185bad15a0d5b77949ce38dac3166d13241c710e7e8a174ceda6e838381d",
+    "docs/itemized/figures/americans-501-downloads-by-week-americans-501-week.svg": "06391d1e30b9091049c3557ae29a5cae62482eb159a2113cf424c5fcfdfcafbe",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "d17262f5de025dd0b99973b5f8648f02304732f6",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/americans-501/tmp/americans-501-cumulative-btiha.geojson",
+        "sha256": "d905de9a7f2149abfe93fbfb6280ed9460a6313a9beddec9bbbcd8f88273a53d",
+        "size": 2191541
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2017/americans-501/tmp/americans-501-cumulative-btiha-media-objects.json",
+        "sha256": "934c6713c24c5bb40dcb93335297a32b9b548699b72c7a9a7f6747b52943fd03",
+        "size": 41240
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "americans-501",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2017-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "e38ad865d97233607528beb67400c16ff733ade9875011dc51d6cd724911d011",
+      "size": 1208808
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          50.0,
+          43.0,
+          36.0,
+          32.0,
+          32.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Lelystad",
+          "Armonk",
+          "Amsterdam",
+          "Dallas",
+          "New York City",
+          "Seoul",
+          "Paris",
+          "Toronto",
+          "Frankfurt am Main"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          88.0,
+          56.0,
+          47.0,
+          39.0,
+          36.0,
+          30.0,
+          27.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Lelystad",
+          "London",
+          "Amsterdam",
+          "Sydney",
+          "Toronto",
+          "Melbourne",
+          "Seoul",
+          "New York City",
+          "Stockholm",
+          "S\u00e3o Paulo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 6,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 10,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 1,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "d17262f5de025dd0b99973b5f8648f02304732f6",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "9118dcee59582140eaf9b1224b053ff5bea0330d",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "db2da6bf6d821c2a9d4e67f3330dcf488cb0faec"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2017"
+}
