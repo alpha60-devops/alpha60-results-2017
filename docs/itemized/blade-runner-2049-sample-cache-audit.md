@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-08T01:09:42Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/eoy-2017-2018.xz`
@@ -43,11 +43,11 @@ description: "Cache coverage and visualization audit for one media object."
 - missing day: `2018-01-15`
 - missing day: `2018-01-16`
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Blade Runner 2049 collection size histogram](figures/blade-runner-2049-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -70,24 +70,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![blade-runner-2049 downloads by day](figures/blade-runner-2049-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2017/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2017/refs/heads/main/data/geojson.cumulative/blade-runner-2049-cumulative-aggregate.geojson.gz" data-map-title="Blade Runner 2049 — blade-runner-2049" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Blade Runner 2049 (blade-runner-2049) cumulative data map in new window" title="Opens interactive map for Blade Runner 2049 (blade-runner-2049) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 7.47 | 19.64 | 21.88 | 34.57 | 1.83 | 0.83 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Blade Runner 2049 cumulative map](figures/blade-runner-2049-carto.png)](figures/blade-runner-2049-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/blade-runner-2049-data-ge-1080p.webp)](figures/blade-runner-2049-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/blade-runner-2049-data-lt-1080p.webp)](figures/blade-runner-2049-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

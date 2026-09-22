@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-09T01:10:36Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/game-of-thrones-703.xz`
@@ -147,11 +147,11 @@ description: "Cache coverage and visualization audit for one media object."
 - missing day: `2017-08-30`
 - missing day: `2017-08-31`
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Game of Thrones collection size histogram](figures/game-of-thrones-703-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -174,24 +174,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![game-of-thrones-703 downloads by day](figures/game-of-thrones-703-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2017/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2017/refs/heads/main/data/geojson.cumulative/game-of-thrones-703-cumulative-aggregate.geojson.gz" data-map-title="Game of Thrones — game-of-thrones-703" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Game of Thrones (game-of-thrones-703) cumulative data map in new window" title="Opens interactive map for Game of Thrones (game-of-thrones-703) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 6.96 | 18.85 | 26.19 | 32.43 | 3.37 | 0.38 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Game of Thrones cumulative map](figures/game-of-thrones-703-carto.png)](figures/game-of-thrones-703-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/game-of-thrones-703-data-ge-1080p.webp)](figures/game-of-thrones-703-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/game-of-thrones-703-data-lt-1080p.webp)](figures/game-of-thrones-703-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

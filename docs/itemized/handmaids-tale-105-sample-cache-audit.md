@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-09T01:10:36Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/handmaids-tale-105.xz`
@@ -158,11 +158,11 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2017-05-30 12:00`, resumed `2017-05-30 16:00` — missing 3 hour(s)
 - hourly gap: last `2017-05-30 16:00`, resumed `2017-05-30 20:00` — missing 3 hour(s)
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![The Handmaid's Tale collection size histogram](figures/handmaids-tale-105-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -185,24 +185,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![handmaids-tale-105 downloads by day](figures/handmaids-tale-105-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2017/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2017/refs/heads/main/data/geojson.cumulative/handmaids-tale-105-cumulative-aggregate.geojson.gz" data-map-title="The Handmaid&#x27;s Tale — handmaids-tale-105" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open The Handmaid&#x27;s Tale (handmaids-tale-105) cumulative data map in new window" title="Opens interactive map for The Handmaid&#x27;s Tale (handmaids-tale-105) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 3.15 | 20.86 | 13.19 | 28.65 | 3.11 | 1.28 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![The Handmaid's Tale cumulative map](figures/handmaids-tale-105-carto.png)](figures/handmaids-tale-105-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/handmaids-tale-105-data-ge-1080p.webp)](figures/handmaids-tale-105-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/handmaids-tale-105-data-lt-1080p.webp)](figures/handmaids-tale-105-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

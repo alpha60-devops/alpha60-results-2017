@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-09T01:10:35Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/americans-513.xz`
@@ -170,11 +170,11 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2017-06-21 21:00`, resumed `2017-06-22 01:00` — missing 3 hour(s)
 - hourly gap: last `2017-06-22 01:00`, resumed `2017-06-22 05:00` — missing 3 hour(s)
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![The Americans collection size histogram](figures/americans-513-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -197,24 +197,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![americans-513 downloads by day](figures/americans-513-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2017/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2017/refs/heads/main/data/geojson.cumulative/americans-513-cumulative-aggregate.geojson.gz" data-map-title="The Americans — americans-513" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open The Americans (americans-513) cumulative data map in new window" title="Opens interactive map for The Americans (americans-513) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 4.29 | 23.35 | 15.02 | 34.17 | 4.32 | 0.54 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![The Americans cumulative map](figures/americans-513-carto.png)](figures/americans-513-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/americans-513-data-ge-1080p.webp)](figures/americans-513-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/americans-513-data-lt-1080p.webp)](figures/americans-513-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

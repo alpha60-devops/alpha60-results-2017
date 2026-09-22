@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-09T01:10:36Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/star-trek-discovery-109.xz`
@@ -41,11 +41,11 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2017-11-26 16:00`, resumed `2017-11-26 18:00` — missing 1 hour(s)
 - hourly gap: last `2017-11-28 00:00`, resumed `2017-11-28 03:00` — missing 2 hour(s)
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Star Trek Discovery collection size histogram](figures/star-trek-discovery-109-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -68,24 +68,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![star-trek-discovery-109 downloads by day](figures/star-trek-discovery-109-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2017/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2017/refs/heads/main/data/geojson.cumulative/star-trek-discovery-109-cumulative-aggregate.geojson.gz" data-map-title="Star Trek Discovery — star-trek-discovery-109" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Star Trek Discovery (star-trek-discovery-109) cumulative data map in new window" title="Opens interactive map for Star Trek Discovery (star-trek-discovery-109) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 3.25 | 36.46 | 17.74 | 24.79 | 2.15 | 10.10 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Star Trek Discovery cumulative map](figures/star-trek-discovery-109-carto.png)](figures/star-trek-discovery-109-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/star-trek-discovery-109-data-ge-1080p.webp)](figures/star-trek-discovery-109-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/star-trek-discovery-109-data-lt-1080p.webp)](figures/star-trek-discovery-109-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
